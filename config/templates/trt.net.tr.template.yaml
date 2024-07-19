@@ -1,0 +1,54 @@
+version: 1.0
+author: Hristo Genev
+culture: TR-tr
+
+request:
+  url: https://www.trt.net.tr/yayin-akisi
+  debug: false
+
+programs:
+  locator: div.stream-conteiner div:nth-of-type(${column}) div.card-content .livestream-conteiner, div.stream-conteiner div:nth-of-type(${column}) div.card-content .current
+  debug: true
+    
+elements:
+  - name: start
+    locator:  .livestream-time
+    time-format: HH.mm
+    debug: true
+
+  - name: title
+    locator: .livestream-title
+
+channel-parameters:
+  trt1.tr:
+    channelId: trt-1
+    column: 1
+  trt2.tr:
+    channelId: trt-2
+    column: 2
+  trthaber.tr:
+    channelId: trt-haber
+  trtspor.tr:
+    channelId: trt-spor-yildiz
+  trtkurdi.tr:
+    channelId: trt-kurdi
+  trtcocuk.tr:
+    channelId: trt-cocuk
+  trtturk.tr:
+    channelId: trt-turk
+  trtavaz.tr:
+    channelId: trt-avaz
+  trtbelgesel.tr:
+    channelId: trt-belgesel
+  trtmuzik.tr:
+    channelId: trt-muzik
+  trtarabi.tr:
+    channelId: trt-arabi
+  trt4k.tr:
+    channelId: trt-4k
+  trtebailkokul.tr:
+    channelId: trt-eba-ilkokul
+  trtebaortaokul.tr:
+    channelId: trt-eba-ortaokul
+  trtebalise.tr:
+    channelId: trt-eba-lise

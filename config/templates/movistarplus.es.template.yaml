@@ -1,0 +1,42 @@
+---
+version: 1.0
+author: Hristo Genev
+timezone: Europe/Madrid
+locator-strategy: jsonpath
+date-format: yyyy-MM-dd
+
+request:
+  url: https://www.movistarplus.es/programacion-tv/${date}?v=json
+    
+programs:
+  locator: $.data.${channelId}.PROGRAMAS[:]
+
+elements:
+  - name: start
+    locator: HORA_INICIO
+  - name: title  
+    locator: TITULO
+  - name: desc
+    locator: GENERO
+  - name: stop
+    locator: HORA_FIN
+      
+channel-parameters:
+  tve.es:
+    channelId: TVE-CODE
+  movistardeportes2.es:
+    channelId: USOP2-CODE
+  ligadecampeones.mplus.es:
+    channelId: CHAPIO-CODE
+  deportes.mplus.es:
+    channelId: CPDEP-CODE
+  telesur.es:
+    channelId: TLESUR-CODE
+
+#channel-extract-rules:
+#  url: https://www.movistarplus.es/programacion-tv/?v=json  
+#  locator-strategy: jsonpath
+#  channel-name:
+#    locator: $.data.*~
+#  channel-param:
+#    locator: $.data.*.DATOS_CADENA.NOMBRE

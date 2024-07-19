@@ -1,0 +1,10 @@
+*.pyc
+*.ini
+logs/
+temp/
+bin/
+config/
+output.txt
+.DS_Store
+DS_Store
+
