@@ -92,10 +92,15 @@ output-files:
     # 3 - include all available details
     details-level: 3
     
-  - name: epg.xml
+  - name: epg.xml.gz
     days-ahead: 4
     days-behind: 0
     compression: gzip
+
+  - name: epg.xml
+    days-ahead: 4
+    days-behind: 0
+    compression: none
 
   - name: all-4days.full.epg.xml
     days-ahead: 4
