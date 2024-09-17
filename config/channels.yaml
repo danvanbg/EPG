@@ -1586,7 +1586,7 @@
   enabled: true
   names:
   - name: RTL
-    lang: de
+  - name: RTL HD
   sources:
   - tvtoday.de
   
