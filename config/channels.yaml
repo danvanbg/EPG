@@ -123,15 +123,13 @@
 - id: btvlady.bg
   enabled: true
   names:
-  - name: БТВ Лейди
+  - name: БТВ Стори
     lang: bg
-  - name: bTV Lady
-    lang: en
-  - name: bTV Lady HD
-    lang: en
-  - name: bTV Lady LQ
-    lang: en
   - name: bTv Story
+    lang: en
+  - name: bTv Story HD
+    lang: en
+  - name: bTv Story LQ
     lang: en
   groups: ["bg"]
   sources:

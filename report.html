@@ -1,14 +1,41 @@
 <!DOCTYPE html>
 <head>
-    <script src="report.json" type="text/javascript"></script>
+    <script src="report.js" type="text/javascript"></script>
     <script>
-        var table = document.getElementById("channels");
-        
+        window.onload = () => {
+            var table = document.getElementById("channels");
+            channels.forEach(channel => {
+                var row = document.createElement("tr");
+                var channelNameTd = document.createElement("td");
+                channelNameTd.innerText = channel.ChannelId;
+                row.appendChild(channelNameTd);
+
+                var channelIdTd = document.createElement("td");
+                channelIdTd.innerText = channel.ChannelName;
+                row.appendChild(channelIdTd);
+
+                channel.GrabbersList.forEach(grabber => {
+                    grabberTd = document.createElement("td");
+                    grabberTd.innerText = grabber.GrabberId + ": " + grabber.ProgramsCount;
+                    row.appendChild(grabberTd);
+                });
+                table.appendChild(row);
+            });
+            console.log(channels);
+        }
     </script>
 </head>
 <body>
-    <table id="channels">
-
+    <table id="channels" border="1" cellspacing="0" cellpadding="5" style="padding: 5px">
+        <tr>
+            <th>Channel Name</th>
+            <th>Channel Id</th>
+            <th>Round 1</th>
+            <th>Round 2</th>
+            <th>Round 3</th>
+            <th>Round 4</th>
+            <th>Round 5</th>
+        </tr>
     </table>
 </body>
 </html>
