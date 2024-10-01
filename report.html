@@ -7,34 +7,56 @@
             channels.forEach(channel => {
                 var row = document.createElement("tr");
                 var channelNameTd = document.createElement("td");
-                channelNameTd.innerText = channel.ChannelId;
+                channelNameTd.innerText = channel.ChannelName;
                 row.appendChild(channelNameTd);
 
-                var channelIdTd = document.createElement("td");
-                channelIdTd.innerText = channel.ChannelName;
-                row.appendChild(channelIdTd);
+                var totalProgramsTd = document.createElement("td");
+                row.appendChild(totalProgramsTd);
+                // totalProgramsTd.innerText = 
+                // var channelIdTd = document.createElement("td");
+                // channelIdTd.innerText = channel.ChannelName;
+                // row.appendChild(channelIdTd);
 
-                channel.GrabbersList.forEach(grabber => {
-                    grabberTd = document.createElement("td");
-                    grabberTd.innerText = grabber.GrabberId + ": " + grabber.ProgramsCount;
+                var totalDurationTD = document.createElement("td");
+                row.appendChild(totalDurationTD);
+                totalDurationTD.innerText = channel.Duration;
+
+                let totalPrograms = 0;
+                for (i=0; i<5; i++) {
+                    var grabberTd = document.createElement("td");
                     row.appendChild(grabberTd);
-                });
+
+                    if (i < channel.GrabbersList.length) {
+                        var grabber = channel.GrabbersList[i];
+                        totalPrograms += grabber.ProgramsCount;
+                        grabberTd.innerText = grabber.GrabberId + ": " + grabber.ProgramsCount
+                        + ", " + grabber.Duration;
+                    } else {
+                        grabberTd.innerText = 0;
+                    }
+                }
+                totalProgramsTd.innerText = totalPrograms;
                 table.appendChild(row);
             });
-            console.log(channels);
+            // console.log(channels);
         }
     </script>
 </head>
 <body>
     <table id="channels" border="1" cellspacing="0" cellpadding="5" style="padding: 5px">
         <tr>
-            <th>Channel Name</th>
-            <th>Channel Id</th>
-            <th>Round 1</th>
-            <th>Round 2</th>
-            <th>Round 3</th>
-            <th>Round 4</th>
-            <th>Round 5</th>
+            <th rowspan="2">Channel name</th>
+            <!-- <th>Channel Id</th> -->
+            <th rowspan="2">Total programs</th>
+            <th rowspan="2">Overall grabbing duration</th>
+            <th colspan="5">Grabbing rounds</th>
+        </tr>
+        <tr>
+            <th>#1</th>
+            <th>#2</th>
+            <th>#3</th>
+            <th>#4</th>
+            <th>#5</th>
         </tr>
     </table>
 </body>
