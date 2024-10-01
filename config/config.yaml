@@ -73,6 +73,9 @@ program-grabbing-timeout: 60
 # Output folder where the XML files will be saved
 output-folder: output
 
+# Generates report for grabbed programs and grabber usage and timings
+generate-report: true
+
 # List of output XML files
 # Each entry should have the following properties
 output-files:

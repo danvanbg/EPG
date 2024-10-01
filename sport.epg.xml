@@ -380,9 +380,6 @@
     <title>Студио "Лига 1 на Франция"</title>
     <desc>директно</desc>
   </programme>
-  <programme start="20241001013000 +0300" stop="20241001070000 +0300" channel="diemasport.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
   <programme start="20241001070000 +0300" stop="20241001090000 +0300" channel="diemasport.bg">
     <title>Локомотив София - Хебър, 10 кръг, Футбол: efbet Лига 2024/2025, /n/</title>
   </programme>
