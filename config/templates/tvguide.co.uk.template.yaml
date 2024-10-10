@@ -4,31 +4,39 @@ enabled: true
 version: 1.0
 author: Hristo Genev
 timezone: Europe/London
+locator-strategy: csspath
+date-format: yyyy-MM-dd
 
 request:
-  url: https://www.tvguide.co.uk/mobile/channellisting.asp?ch=${channelId}
+  url: https://www.tvguide.co.uk/channel/${channelId}?date=${date}
+  debug: true
 
 programs:
-  locator: div#channel-listings tr
+  locator: div.js-schedule
+  
 
 elements:
   - name: start
-    time-format: H:mm tt
-    locator: .time
+    attribute: data-date
+    time-format: o
 
   - name: title  
-    locator: .title
+    locator: a
+    debug: false
       
   - name: desc
-    locator: .detail
-    enabled: false
+    locator: .md\:block
+    enabled: true
+    debug: false
   
-  - name: rating
-    locator: .rating-num
-    enabled: false
+  - name: icon
+    locator: img
+    attribute: src
+    enabled: true
+    debug: false
 
 channel-parameters:
   euronews.com:
-    channelId: 140
+    channelId: euronews
   bbcworldnews.com:
-    channelId: 894
+    channelId: bbc-news
