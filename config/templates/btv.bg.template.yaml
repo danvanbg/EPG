@@ -41,22 +41,27 @@ program-details:
           hook: before
           arguments: ['Оригинално заглавие: ']
 
-    - name: desc
-      locator: .text-block
-      operations:
-        - name: beautify
-          hook: after
 
-    - name: icon
-      locator: ul.gallery li img
-      attribute: src
-      operations: 
-        - name: prepend
-          hook: after
-          arguments: ['https:']
-          conditions: 
-            - value-not-empty 
-            - value-not-contain(https:)
+      # operations: 
+      #   - name: prepend
+      #     hook: after
+      #     arguments: ['https:']
+      #     conditions: 
+      #       - value-not-empty 
+      #       - value-not-contain(https:)
+
+program-extras:
+  request:
+    url: ${detailsUrl}about
+  elements: 
+  - name: desc
+    locator: .text-block
+    operations:
+      - name: beautify
+        hook: after
+  - name: icon
+    locator: div.has-image > img
+    attribute: src
 
 channel-parameters:
   btv.bg:
@@ -67,8 +72,8 @@ channel-parameters:
     channelId: btv-cinema
   btvcomedy.bg:
     channelId: btv-comedy
-  btvlady.bg:
-    channelId: btv-lady
+  btvstory.bg:
+    channelId: btv-story
   ring.bg:
     channelId: ring
   btvinternational.bg:

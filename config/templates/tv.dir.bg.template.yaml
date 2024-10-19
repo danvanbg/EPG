@@ -73,7 +73,7 @@ channel-parameters:
     channelId: 153
   btvcomedy.bg:
     channelId: 68
-  btvlady.bg:
+  btvstory.bg:
     channelId: 223
   bgonair.bg:
     channelId: 24
@@ -205,19 +205,17 @@ channel-parameters:
     channelId: 185
   disneyjunior.waltdisney.bg:
     channelId: 248
-  docubox.com:
+  docubox.spiintl.com:
     channelId: 279
   extremesportschannel.com:
     channelId: 220
   fashion.tv:
     channelId: 233
-  fightbox.com:
+  fightbox.spiintl.com:
     channelId: 280
-  filmbox.com:
+  filmbox.spiintl.com:
     channelId: 354
-  filmboxstars.com:
-    channelId: 355
-  filmboxextra.com:
+  filmboxextra.spiintl.com:
     channelId: 282
   foodnetwork.bg:
     channelId: 234
