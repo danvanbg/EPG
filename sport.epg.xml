@@ -1795,6 +1795,339 @@
   <programme start="20241022233000 +0300" channel="eurosport2.bg">
     <title>Ветроходство: "Духът на ветроходството", повторение</title>
   </programme>
+  <programme start="20241019023000 +0300" stop="20241019043000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Leicester - Bournemouth</title>
+  </programme>
+  <programme start="20241019043000 +0300" stop="20241019063000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Burnley - Preston</title>
+  </programme>
+  <programme start="20241019063000 +0300" stop="20241019070000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Najava kola</title>
+  </programme>
+  <programme start="20241019070000 +0300" stop="20241019090000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Brighton - Tottenham</title>
+  </programme>
+  <programme start="20241019090000 +0300" stop="20241019110000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Man. City - Fulham</title>
+  </programme>
+  <programme start="20241019110000 +0300" stop="20241019113000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Maratonac, ep. 6</title>
+  </programme>
+  <programme start="20241019113000 +0300" stop="20241019123000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Pregled kola</title>
+  </programme>
+  <programme start="20241019123000 +0300" stop="20241019143000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Leeds - Sheffield</title>
+  </programme>
+  <programme start="20241019143000 +0300" stop="20241019163000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Oxford - WBA</title>
+  </programme>
+  <programme start="20241019163000 +0300" stop="20241019170000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Oni žive za fudbal - ep. 146 OFK OSEČINA</title>
+  </programme>
+  <programme start="20241019170000 +0300" stop="20241019190000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Fulham - Aston Villa</title>
+  </programme>
+  <programme start="20241019190000 +0300" stop="20241019210000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Jedinstvo Ub - Vojvodina</title>
+  </programme>
+  <programme start="20241019210000 +0300" stop="20241019213000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Moja Arena</title>
+  </programme>
+  <programme start="20241019213000 +0300" stop="20241019233000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Košarka: Varese - Trapani</title>
+  </programme>
+  <programme start="20241019233000 +0300" stop="20241020000000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: PL Stories - Emmanuel Adebayor</title>
+  </programme>
+  <programme start="20241020000000 +0300" stop="20241020003000 +0300" channel="arenasport1.sr">
+    <title lang="sr">DIREKT</title>
+  </programme>
+  <programme start="20241020003000 +0300" stop="20241020023000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Newcastle - Brighton</title>
+  </programme>
+  <programme start="20241020023000 +0300" stop="20241020043000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Ipswich - Everton</title>
+  </programme>
+  <programme start="20241020043000 +0300" stop="20241020063000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Southampton - Leicester</title>
+  </programme>
+  <programme start="20241020063000 +0300" stop="20241020070000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Tottenham - West Ham, 2016/17</title>
+  </programme>
+  <programme start="20241020070000 +0300" stop="20241020090000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Fulham - Aston Villa</title>
+  </programme>
+  <programme start="20241020090000 +0300" stop="20241020110000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Tottenham - West Ham</title>
+  </programme>
+  <programme start="20241020110000 +0300" stop="20241020130000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Blackburn - Swansea</title>
+  </programme>
+  <programme start="20241020130000 +0300" stop="20241020140000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Auto moto: Live stage 3</title>
+  </programme>
+  <programme start="20241020140000 +0300" stop="20241020160000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Kilmarnock - Rangers</title>
+  </programme>
+  <programme start="20241020160000 +0300" stop="20241020163000 +0300" channel="arenasport1.sr">
+    <title lang="sr">NFL Game Day</title>
+  </programme>
+  <programme start="20241020163000 +0300" stop="20241020193000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Američki fudbal: Jacksonville Jaguars - New England Patriots</title>
+  </programme>
+  <programme start="20241020193000 +0300" stop="20241020200000 +0300" channel="arenasport1.sr">
+    <title lang="sr">NFL Extra</title>
+  </programme>
+  <programme start="20241020200000 +0300" stop="20241020230000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Američki fudbal: Minnesota Vikings - Detroit Lions</title>
+  </programme>
+  <programme start="20241020230000 +0300" stop="20241021010000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Wolves - Man. City</title>
+  </programme>
+  <programme start="20241021010000 +0300" stop="20241021030000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Hull - Sunderland</title>
+  </programme>
+  <programme start="20241021030000 +0300" stop="20241021050000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Man. United - Brentford</title>
+  </programme>
+  <programme start="20241021050000 +0300" stop="20241021070000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Oxford - WBA</title>
+  </programme>
+  <programme start="20241021070000 +0300" stop="20241021090000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Hull - Sunderland</title>
+  </programme>
+  <programme start="20241021090000 +0300" stop="20241021110000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Tottenham - West Ham</title>
+  </programme>
+  <programme start="20241021110000 +0300" stop="20241021130000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Šah, ep. 1</title>
+  </programme>
+  <programme start="20241021130000 +0300" stop="20241021150000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Kilmarnock - Rangers</title>
+  </programme>
+  <programme start="20241021150000 +0300" stop="20241021170000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Man. United - Brentford</title>
+  </programme>
+  <programme start="20241021170000 +0300" stop="20241021190000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Bournemouth - Arsenal</title>
+  </programme>
+  <programme start="20241021190000 +0300" stop="20241021204500 +0300" channel="arenasport1.sr">
+    <title lang="sr">Rukomet: Obilić - Crvena zvezda</title>
+  </programme>
+  <programme start="20241021204500 +0300" stop="20241021210000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Sportske igre mladih, ep. 12</title>
+  </programme>
+  <programme start="20241021210000 +0300" stop="20241021220000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Neuspjeh prvaka sa Mirzom Džombom - Vanja Udovičić</title>
+  </programme>
+  <programme start="20241021220000 +0300" stop="20241021230000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Košarka: U obruču</title>
+  </programme>
+  <programme start="20241021230000 +0300" stop="20241022010000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Mobil auto</title>
+  </programme>
+  <programme start="20241022010000 +0300" stop="20241022030000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Ipswich - Everton</title>
+  </programme>
+  <programme start="20241022030000 +0300" stop="20241022050000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Southampton - Leicester</title>
+  </programme>
+  <programme start="20241022050000 +0300" stop="20241022070000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Blackburn - Swansea</title>
+  </programme>
+  <programme start="20241022070000 +0300" stop="20241022090000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Leeds - Sheffield</title>
+  </programme>
+  <programme start="20241022090000 +0300" stop="20241022110000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Nottingham Forest - Crystal Palace</title>
+  </programme>
+  <programme start="20241022110000 +0300" stop="20241022113000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Šah, ep. 2</title>
+  </programme>
+  <programme start="20241022113000 +0300" stop="20241022120000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Buduće zvezde Arene</title>
+  </programme>
+  <programme start="20241022120000 +0300" stop="20241022130000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Pregled kola</title>
+  </programme>
+  <programme start="20241022130000 +0300" stop="20241022150000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Oxford - WBA</title>
+  </programme>
+  <programme start="20241022150000 +0300" stop="20241022170000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Newcastle - Brighton</title>
+  </programme>
+  <programme start="20241022170000 +0300" stop="20241022200000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Man. United - Brentford</title>
+  </programme>
+  <programme start="20241022200000 +0300" stop="20241022220000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: Oviedo - Mirandes</title>
+  </programme>
+  <programme start="20241022220000 +0300" channel="arenasport1.sr">
+    <title lang="sr">Fudbal: PSG - PSV</title>
+  </programme>
+  <programme start="20241019021500 +0300" stop="20241019023000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Sportske igre mladih, ep. 11</title>
+  </programme>
+  <programme start="20241019023000 +0300" stop="20241019030000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Najava kola</title>
+  </programme>
+  <programme start="20241019030000 +0300" stop="20241019050000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Atalanta - Genoa</title>
+  </programme>
+  <programme start="20241019050000 +0300" stop="20241019070000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Espanyol - Mallorca</title>
+  </programme>
+  <programme start="20241019070000 +0300" stop="20241019090000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Lazio - Empoli</title>
+  </programme>
+  <programme start="20241019090000 +0300" stop="20241019110000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Real Sociedad - Atletico</title>
+  </programme>
+  <programme start="20241019110000 +0300" stop="20241019113000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Najava kola</title>
+  </programme>
+  <programme start="20241019113000 +0300" stop="20241019133000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Getafe - Osasuna</title>
+  </programme>
+  <programme start="20241019133000 +0300" stop="20241019140000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Najava kola</title>
+  </programme>
+  <programme start="20241019140000 +0300" stop="20241019160000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Nizhny Novgorod - Rostov</title>
+  </programme>
+  <programme start="20241019160000 +0300" stop="20241019170000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Auto moto: Live stage 2</title>
+  </programme>
+  <programme start="20241019170000 +0300" stop="20241019190000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Ipswich - Everton</title>
+  </programme>
+  <programme start="20241019190000 +0300" stop="20241019210000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Dynamo (Ma) - CSKA</title>
+  </programme>
+  <programme start="20241019210000 +0300" stop="20241019214500 +0300" channel="arenasport2.sr">
+    <title lang="sr">Zona zdravog sporta</title>
+  </programme>
+  <programme start="20241019214500 +0300" stop="20241020000000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Union SG - Gent</title>
+  </programme>
+  <programme start="20241020000000 +0300" stop="20241020020000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Genoa - Bologna</title>
+  </programme>
+  <programme start="20241020020000 +0300" stop="20241020040000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Girona - Real Sociedad</title>
+  </programme>
+  <programme start="20241020040000 +0300" stop="20241020060000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Cordoba - Cartagena</title>
+  </programme>
+  <programme start="20241020060000 +0300" stop="20241020070000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Arena basket</title>
+  </programme>
+  <programme start="20241020070000 +0300" stop="20241020090000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Napoli - Como</title>
+  </programme>
+  <programme start="20241020090000 +0300" stop="20241020110000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Alaves - Barcelona</title>
+  </programme>
+  <programme start="20241020110000 +0300" stop="20241020113000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Mobil auto</title>
+  </programme>
+  <programme start="20241020113000 +0300" stop="20241020123000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Auto moto: Live stage 4</title>
+  </programme>
+  <programme start="20241020123000 +0300" stop="20241020130000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Košarkaška pravila - Svetislav Pešić</title>
+  </programme>
+  <programme start="20241020130000 +0300" stop="20241020150000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Košarka: Karsiyaka - Mersin spor</title>
+  </programme>
+  <programme start="20241020150000 +0300" stop="20241020170000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Košarka: Varese - Trapani</title>
+  </programme>
+  <programme start="20241020170000 +0300" stop="20241020190000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Hull - Sunderland</title>
+  </programme>
+  <programme start="20241020190000 +0300" stop="20241020210000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Cagliari - Torino</title>
+  </programme>
+  <programme start="20241020210000 +0300" stop="20241020214500 +0300" channel="arenasport2.sr">
+    <title lang="sr">SPORT BROTHERS LEAGUE - ep. 5</title>
+  </programme>
+  <programme start="20241020214500 +0300" stop="20241021000000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Montpellier - Marseille</title>
+  </programme>
+  <programme start="20241021000000 +0300" stop="20241021020000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Lecce - Fiorentina</title>
+  </programme>
+  <programme start="20241021020000 +0300" stop="20241021040000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Roma - Inter</title>
+  </programme>
+  <programme start="20241021040000 +0300" stop="20241021043000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: La Liga World</title>
+  </programme>
+  <programme start="20241021043000 +0300" stop="20241021063000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Villarreal - Getafe</title>
+  </programme>
+  <programme start="20241021063000 +0300" stop="20241021070000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Buduće zvezde Arene</title>
+  </programme>
+  <programme start="20241021070000 +0300" stop="20241021090000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Genoa - Bologna</title>
+  </programme>
+  <programme start="20241021090000 +0300" stop="20241021110000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Mallorca - Rayo Vallecano</title>
+  </programme>
+  <programme start="20241021110000 +0300" stop="20241021130000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Como - Parma</title>
+  </programme>
+  <programme start="20241021130000 +0300" stop="20241021150000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Villarreal - Getafe</title>
+  </programme>
+  <programme start="20241021150000 +0300" stop="20241021170000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Athletic - Espanyol</title>
+  </programme>
+  <programme start="20241021170000 +0300" stop="20241021200000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Empoli - Napoli</title>
+  </programme>
+  <programme start="20241021200000 +0300" stop="20241021213000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Vaterpolo: Novi Beograd - Jadran HN</title>
+  </programme>
+  <programme start="20241021213000 +0300" stop="20241021233000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Albacete - Burgos</title>
+  </programme>
+  <programme start="20241021233000 +0300" stop="20241022011500 +0300" channel="arenasport2.sr">
+    <title lang="sr">Košarka: Scafati - Armani</title>
+  </programme>
+  <programme start="20241022011500 +0300" stop="20241022030000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Košarka: Virtus - Tortona</title>
+  </programme>
+  <programme start="20241022030000 +0300" stop="20241022050000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Osasuna - Betis</title>
+  </programme>
+  <programme start="20241022050000 +0300" stop="20241022070000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Lecce - Fiorentina</title>
+  </programme>
+  <programme start="20241022070000 +0300" stop="20241022090000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Venezia - Atalanta</title>
+  </programme>
+  <programme start="20241022090000 +0300" stop="20241022110000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Alaves - Valladolid</title>
+  </programme>
+  <programme start="20241022110000 +0300" stop="20241022140000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Cagliari - Torino</title>
+  </programme>
+  <programme start="20241022140000 +0300" stop="20241022170000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Odbojka: Fenerbahce - Besiktas</title>
+  </programme>
+  <programme start="20241022170000 +0300" stop="20241022194500 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Albacete - Burgos</title>
+  </programme>
+  <programme start="20241022194500 +0300" stop="20241022220000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Rukomet: Gummersbach - Toulouse</title>
+  </programme>
+  <programme start="20241022220000 +0300" channel="arenasport2.sr">
+    <title lang="sr">Fudbal: Arsenal - Shakhtar</title>
+  </programme>
   <programme start="20241019080000 +0300" stop="20241019093000 +0300" channel="arenasport1.hr">
     <title>Rukomet: TORRELAVEGA - NEXE, ehf europska liga</title>
   </programme>
