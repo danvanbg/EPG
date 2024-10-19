@@ -8439,4 +8439,160 @@
     <title>El Quinto Cuarto (T24/25): Episodio 4</title>
     <desc>Deportes</desc>
   </programme>
+  <programme start="20241019144500 +0300" stop="20241019160000 +0300" channel="ams.bg">
+    <title>Супербайк: Световен шампионат в Испания, първо състезание, директно</title>
+  </programme>
+  <programme start="20241019160000 +0300" stop="20241019171500 +0300" channel="ams.bg">
+    <title>Суперспорт: Световен шампионат в Испания, първо състезание, директно</title>
+  </programme>
+  <programme start="20241019171500 +0300" stop="20241019180000 +0300" channel="ams.bg">
+    <title>Фрийстайл ски: Световна купа, Хур, биг еър, мъже и жени, повторение</title>
+  </programme>
+  <programme start="20241019180000 +0300" stop="20241019193000 +0300" channel="ams.bg">
+    <title>Трейл: Голдън Трейл световни серии в Локарно, жени, повторение</title>
+  </programme>
+  <programme start="20241019193000 +0300" stop="20241019230000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, четвърти ден, директно</title>
+  </programme>
+  <programme start="20241019230000 +0300" stop="20241019233000 +0300" channel="ams.bg">
+    <title>Колокрос: Екзакт крос в Есен, мъже, повторение</title>
+  </programme>
+  <programme start="20241019233000 +0300" stop="20241020000000 +0300" channel="ams.bg">
+    <title>Ветроходство: "Купа на Америка" в Барселона, обзор</title>
+  </programme>
+  <programme start="20241020000000 +0300" stop="20241020030000 +0300" channel="ams.bg">
+    <title>Голф: PGA тур, Открито първенство на Лас Вегас, трети ден, директно</title>
+  </programme>
+  <programme start="20241020030000 +0300" stop="20241020063000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, четвърти ден, повторение</title>
+  </programme>
+  <programme start="20241020063000 +0300" stop="20241020083000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, четвърти ден, повторение</title>
+  </programme>
+  <programme start="20241020083000 +0300" stop="20241020093000 +0300" channel="ams.bg">
+    <title>Снукър: Открито първенство на Ухан, финал, повторение</title>
+  </programme>
+  <programme start="20241020093000 +0300" stop="20241020110000 +0300" channel="ams.bg">
+    <title>Триатлон: PTO Тур в Лас Вегас, повторение</title>
+  </programme>
+  <programme start="20241020110000 +0300" stop="20241020130000 +0300" channel="ams.bg">
+    <title>Снукър: Открито първенство на Ухан, финал, повторение</title>
+  </programme>
+  <programme start="20241020130000 +0300" stop="20241020133000 +0300" channel="ams.bg">
+    <title>Ветроходство: "Купа на Америка" в Барселона, повторение</title>
+  </programme>
+  <programme start="20241020133000 +0300" stop="20241020143000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, четвърти ден, повторение</title>
+  </programme>
+  <programme start="20241020143000 +0300" stop="20241020180000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, пети ден, директно</title>
+  </programme>
+  <programme start="20241020180000 +0300" stop="20241020190000 +0300" channel="ams.bg">
+    <title>Супербайк: Световен шампионат в Испания, второ състезание, запис</title>
+  </programme>
+  <programme start="20241020190000 +0300" stop="20241020200000 +0300" channel="ams.bg">
+    <title>Суперспорт: Световен шампионат в Испания, второ състезание, запис</title>
+  </programme>
+  <programme start="20241020200000 +0300" stop="20241020213000 +0300" channel="ams.bg">
+    <title>Лека атлетика: Маратон на Амстердам, повторение</title>
+  </programme>
+  <programme start="20241020213000 +0300" stop="20241020233000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, пети ден, повторение</title>
+  </programme>
+  <programme start="20241020233000 +0300" stop="20241021030000 +0300" channel="ams.bg">
+    <title>Ветроходство: "Купа на Америка" в Барселона, обзор</title>
+  </programme>
+  <programme start="20241021030000 +0300" stop="20241021040000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, пети ден, повторение</title>
+  </programme>
+  <programme start="20241021040000 +0300" stop="20241021080000 +0300" channel="ams.bg">
+    <title>Снукър: "Северна Ирландия оупън", първи кръг, повторение</title>
+  </programme>
+  <programme start="20241021080000 +0300" stop="20241021093000 +0300" channel="ams.bg">
+    <title>Снукър: "Северна Ирландия оупън", първи кръг, повторение</title>
+  </programme>
+  <programme start="20241021093000 +0300" stop="20241021103000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, пети ден, повторение</title>
+  </programme>
+  <programme start="20241021103000 +0300" stop="20241021113000 +0300" channel="ams.bg">
+    <title>Фрийстайл ски: Световна купа, Хур, биг еър, мъже и жени, повторение</title>
+  </programme>
+  <programme start="20241021113000 +0300" stop="20241021133000 +0300" channel="ams.bg">
+    <title>Снукър: "Северна Ирландия оупън", първи кръг, повторение</title>
+  </programme>
+  <programme start="20241021133000 +0300" stop="20241021143000 +0300" channel="ams.bg">
+    <title>Фрийстайл ски: Световна купа, Хур, биг еър, мъже и жени, повторение</title>
+  </programme>
+  <programme start="20241021143000 +0300" stop="20241021153000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, първи ден, повторение</title>
+  </programme>
+  <programme start="20241021153000 +0300" stop="20241021163000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, втори ден, повторение</title>
+  </programme>
+  <programme start="20241021163000 +0300" stop="20241021173000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, трети ден, повторение</title>
+  </programme>
+  <programme start="20241021173000 +0300" stop="20241021183000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, четвърти ден, повторение</title>
+  </programme>
+  <programme start="20241021183000 +0300" stop="20241021193000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, пети ден, повторение</title>
+  </programme>
+  <programme start="20241021193000 +0300" stop="20241021203000 +0300" channel="ams.bg">
+    <title>Фрийстайл ски: Световна купа, Хур, биг еър, мъже и жени, повторение</title>
+  </programme>
+  <programme start="20241021203000 +0300" stop="20241021213000 +0300" channel="ams.bg">
+    <title>Триатлон: PTO Тур в Лас Вегас, повторение</title>
+  </programme>
+  <programme start="20241021213000 +0300" stop="20241021223000 +0300" channel="ams.bg">
+    <title>Триатлон: PTO Тур в Лас Вегас, повторение</title>
+  </programme>
+  <programme start="20241021223000 +0300" stop="20241021233000 +0300" channel="ams.bg">
+    <title>Джудо: Джудо шоу</title>
+  </programme>
+  <programme start="20241021233000 +0300" stop="20241022010000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, пети ден, повторение</title>
+  </programme>
+  <programme start="20241022010000 +0300" stop="20241022020000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, пети ден, повторение</title>
+  </programme>
+  <programme start="20241022020000 +0300" stop="20241022040000 +0300" channel="ams.bg">
+    <title>Триатлон: PTO Тур в Лас Вегас, повторение</title>
+  </programme>
+  <programme start="20241022040000 +0300" stop="20241022080000 +0300" channel="ams.bg">
+    <title>Снукър: "Северна Ирландия оупън", първи кръг, повторение</title>
+  </programme>
+  <programme start="20241022080000 +0300" stop="20241022093000 +0300" channel="ams.bg">
+    <title>Снукър: "Северна Ирландия оупън", първи кръг, повторение</title>
+  </programme>
+  <programme start="20241022093000 +0300" stop="20241022113000 +0300" channel="ams.bg">
+    <title>Триатлон: PTO Тур в Лас Вегас, повторение</title>
+  </programme>
+  <programme start="20241022113000 +0300" stop="20241022130000 +0300" channel="ams.bg">
+    <title>Снукър: "Северна Ирландия оупън", първи кръг, повторение</title>
+  </programme>
+  <programme start="20241022130000 +0300" stop="20241022133000 +0300" channel="ams.bg">
+    <title>Ветроходство: "Купа на Америка" в Барселона, повторение</title>
+  </programme>
+  <programme start="20241022133000 +0300" stop="20241022143000 +0300" channel="ams.bg">
+    <title>Триатлон: PTO Тур в Лас Вегас, повторение</title>
+  </programme>
+  <programme start="20241022143000 +0300" stop="20241022153000 +0300" channel="ams.bg">
+    <title>Лека атлетика: Маратон на Амстердам, повторение</title>
+  </programme>
+  <programme start="20241022153000 +0300" stop="20241022170000 +0300" channel="ams.bg">
+    <title>Трейл: Голдън Трейл световни серии в Локарно, жени, повторение</title>
+  </programme>
+  <programme start="20241022170000 +0300" stop="20241022183000 +0300" channel="ams.bg">
+    <title>Трейл: Голдън Трейл световни серии в Локарно, мъже, повторение</title>
+  </programme>
+  <programme start="20241022183000 +0300" stop="20241022203000 +0300" channel="ams.bg">
+    <title>Триатлон: PTO Тур в Лас Вегас, повторение</title>
+  </programme>
+  <programme start="20241022203000 +0300" stop="20241022233000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, първи ден, повторение</title>
+  </programme>
+  <programme start="20241022233000 +0300" channel="ams.bg">
+    <title>Ветроходство: "Духът на ветроходството", повторение</title>
+  </programme>
 </tv>

@@ -17,6 +17,9 @@
                 var tableRowElement = document.createElement("tr");
                 var channelNameTd = document.createElement("td");
                 channelNameTd.innerText = channel.ChannelName;
+                channelNameTd.style.fontWeight = "bold";
+                channelNameTd.style.fontFamily = "Verdana";
+
                 tableRowElement.appendChild(channelNameTd);
 
                 var totalProgramsTd = document.createElement("td");
@@ -45,6 +48,10 @@
                     }
                 }
                 totalProgramsTd.innerText = totalPrograms;
+                if (totalPrograms == 0) {
+                    channelNameTd.style.color = "red";
+                    totalProgramsTd.style.color = "red";
+                }
                 channelsTableElement.appendChild(tableRowElement);
             });
             // console.log(channels);
@@ -98,11 +105,11 @@
 <body>
     <table id="channels" cellspacing="0" cellpadding="5" style="padding: 5px">
         <tr>
-            <th rowspan="2">Channel name</th>
+            <th rowspan="2"><h2>Channel name</h2></th>
             <!-- <th>Channel Id</th> -->
-            <th rowspan="2">Total programs</th>
-            <th rowspan="2">Overall grabbing duration</th>
-            <th colspan="5">Grabbing rounds</th>
+            <th rowspan="2"><h2>Total programs</h2></th>
+            <th rowspan="2"><h2>Overall grabbing duration</h2></th>
+            <th colspan="5"><h2>Grabbing rounds</h2></th>
         </tr>
         <tr>
             <th>#1</th>

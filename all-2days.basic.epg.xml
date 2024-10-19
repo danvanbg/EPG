@@ -1802,6 +1802,99 @@
   <programme start="20241020220000 +0300" stop="20241021000000 +0300" channel="btvaction.bg">
     <title>Смъртоносна надпревара: Адска жега</title>
   </programme>
+  <programme start="20241019000000 +0300" stop="20241019010000 +0300" channel="btvstory.bg">
+    <title>Тайната градина</title>
+  </programme>
+  <programme start="20241019010000 +0300" stop="20241019020000 +0300" channel="btvstory.bg">
+    <title>Крайбрежни мистерии</title>
+  </programme>
+  <programme start="20241019020000 +0300" stop="20241019030000 +0300" channel="btvstory.bg">
+    <title>Опасно изкушение</title>
+  </programme>
+  <programme start="20241019030000 +0300" stop="20241019033000 +0300" channel="btvstory.bg">
+    <title>Без багаж</title>
+  </programme>
+  <programme start="20241019033000 +0300" stop="20241019040000 +0300" channel="btvstory.bg">
+    <title>Дизайнерски кътчета</title>
+  </programme>
+  <programme start="20241019040000 +0300" stop="20241019050000 +0300" channel="btvstory.bg">
+    <title>Тайната градина</title>
+  </programme>
+  <programme start="20241019050000 +0300" stop="20241019060000 +0300" channel="btvstory.bg">
+    <title>Богатите също плачат</title>
+  </programme>
+  <programme start="20241019060000 +0300" stop="20241019080000 +0300" channel="btvstory.bg">
+    <title>Малко твой</title>
+  </programme>
+  <programme start="20241019080000 +0300" stop="20241019093000 +0300" channel="btvstory.bg">
+    <title>Почукай на вратата ми</title>
+  </programme>
+  <programme start="20241019093000 +0300" stop="20241019113000 +0300" channel="btvstory.bg">
+    <title>Хари Уайлд</title>
+  </programme>
+  <programme start="20241019113000 +0300" stop="20241019133000 +0300" channel="btvstory.bg">
+    <title>Мистър Грешен</title>
+  </programme>
+  <programme start="20241019133000 +0300" stop="20241019140000 +0300" channel="btvstory.bg">
+    <title>Без багаж</title>
+  </programme>
+  <programme start="20241019140000 +0300" stop="20241019160000 +0300" channel="btvstory.bg">
+    <title>Мелодия на сърцето</title>
+  </programme>
+  <programme start="20241019160000 +0300" stop="20241019180000 +0300" channel="btvstory.bg">
+    <title>Любов от пръв поглед</title>
+  </programme>
+  <programme start="20241019180000 +0300" stop="20241019200000 +0300" channel="btvstory.bg">
+    <title>Ключът към любовта</title>
+  </programme>
+  <programme start="20241019200000 +0300" stop="20241019220000 +0300" channel="btvstory.bg">
+    <title>Мистър Грешен</title>
+  </programme>
+  <programme start="20241019220000 +0300" stop="20241020000000 +0300" channel="btvstory.bg">
+    <title>Вера</title>
+  </programme>
+  <programme start="20241020000000 +0300" stop="20241020020000 +0300" channel="btvstory.bg">
+    <title>Любов от пръв поглед</title>
+  </programme>
+  <programme start="20241020020000 +0300" stop="20241020040000 +0300" channel="btvstory.bg">
+    <title>Вера</title>
+  </programme>
+  <programme start="20241020040000 +0300" stop="20241020042000 +0300" channel="btvstory.bg">
+    <title>Без багаж</title>
+  </programme>
+  <programme start="20241020042000 +0300" stop="20241020060000 +0300" channel="btvstory.bg">
+    <title>Малко твой</title>
+  </programme>
+  <programme start="20241020060000 +0300" stop="20241020080000 +0300" channel="btvstory.bg">
+    <title>Малко твой</title>
+  </programme>
+  <programme start="20241020080000 +0300" stop="20241020093000 +0300" channel="btvstory.bg">
+    <title>Почукай на вратата ми</title>
+  </programme>
+  <programme start="20241020093000 +0300" stop="20241020113000 +0300" channel="btvstory.bg">
+    <title>Вера</title>
+  </programme>
+  <programme start="20241020113000 +0300" stop="20241020133000 +0300" channel="btvstory.bg">
+    <title>Мистър Грешен</title>
+  </programme>
+  <programme start="20241020133000 +0300" stop="20241020140000 +0300" channel="btvstory.bg">
+    <title>Без багаж</title>
+  </programme>
+  <programme start="20241020140000 +0300" stop="20241020160000 +0300" channel="btvstory.bg">
+    <title>Ключът към любовта</title>
+  </programme>
+  <programme start="20241020160000 +0300" stop="20241020180000 +0300" channel="btvstory.bg">
+    <title>Търси се принцеса</title>
+  </programme>
+  <programme start="20241020180000 +0300" stop="20241020200000 +0300" channel="btvstory.bg">
+    <title>Фарът на Морая</title>
+  </programme>
+  <programme start="20241020200000 +0300" stop="20241020220000 +0300" channel="btvstory.bg">
+    <title>Мистър Грешен</title>
+  </programme>
+  <programme start="20241020220000 +0300" stop="20241021000000 +0300" channel="btvstory.bg">
+    <title>Хари Уайлд</title>
+  </programme>
   <programme start="20241019063000 +0300" stop="20241019073000 +0300" channel="nova.bg">
     <title>Кобра 11: Обади се! – сериал, сезон 24</title>
   </programme>
@@ -2468,7 +2561,7 @@
   <programme start="20241020225000 +0300" stop="20241020234000 +0300" channel="codehealth.bg">
     <title>Направено в Рая – 7 епизод (повторение)</title>
   </programme>
-  <programme start="20241020234000 +0300" channel="codehealth.bg">
+  <programme start="20241020234000 +0300" stop="20241021144000 +0300" channel="codehealth.bg">
     <title>Здравни рубрики</title>
   </programme>
   <programme start="20241019063000 +0300" stop="20241019073000 +0300" channel="skat.bg">
@@ -3605,7 +3698,7 @@
   <programme start="20241020213000 +0300" stop="20241020230000 +0300" channel="bstv.bg">
     <title>Премиера: "Казвам се Фара" - сериал, еп.21</title>
   </programme>
-  <programme start="20241020230000 +0300" channel="bstv.bg">
+  <programme start="20241020230000 +0300" stop="20241021144000 +0300" channel="bstv.bg">
     <title>"Чуй ме" - сериал, еп.21</title>
   </programme>
   <programme start="20241019063000 +0300" stop="20241019064500 +0300" channel="tv1.bg">
@@ -9256,6 +9349,69 @@
   </programme>
   <programme start="20241020223000 +0300" stop="20241020232500 +0300" channel="deportes.mplus.es">
     <title>Transworld Sport (T2024): Episodio 1955</title>
+  </programme>
+  <programme start="20241019144500 +0300" stop="20241019160000 +0300" channel="ams.bg">
+    <title>Супербайк: Световен шампионат в Испания, първо състезание, директно</title>
+  </programme>
+  <programme start="20241019160000 +0300" stop="20241019171500 +0300" channel="ams.bg">
+    <title>Суперспорт: Световен шампионат в Испания, първо състезание, директно</title>
+  </programme>
+  <programme start="20241019171500 +0300" stop="20241019180000 +0300" channel="ams.bg">
+    <title>Фрийстайл ски: Световна купа, Хур, биг еър, мъже и жени, повторение</title>
+  </programme>
+  <programme start="20241019180000 +0300" stop="20241019193000 +0300" channel="ams.bg">
+    <title>Трейл: Голдън Трейл световни серии в Локарно, жени, повторение</title>
+  </programme>
+  <programme start="20241019193000 +0300" stop="20241019230000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, четвърти ден, директно</title>
+  </programme>
+  <programme start="20241019230000 +0300" stop="20241019233000 +0300" channel="ams.bg">
+    <title>Колокрос: Екзакт крос в Есен, мъже, повторение</title>
+  </programme>
+  <programme start="20241019233000 +0300" stop="20241020000000 +0300" channel="ams.bg">
+    <title>Ветроходство: "Купа на Америка" в Барселона, обзор</title>
+  </programme>
+  <programme start="20241020000000 +0300" stop="20241020030000 +0300" channel="ams.bg">
+    <title>Голф: PGA тур, Открито първенство на Лас Вегас, трети ден, директно</title>
+  </programme>
+  <programme start="20241020030000 +0300" stop="20241020063000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, четвърти ден, повторение</title>
+  </programme>
+  <programme start="20241020063000 +0300" stop="20241020083000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, четвърти ден, повторение</title>
+  </programme>
+  <programme start="20241020083000 +0300" stop="20241020093000 +0300" channel="ams.bg">
+    <title>Снукър: Открито първенство на Ухан, финал, повторение</title>
+  </programme>
+  <programme start="20241020093000 +0300" stop="20241020110000 +0300" channel="ams.bg">
+    <title>Триатлон: PTO Тур в Лас Вегас, повторение</title>
+  </programme>
+  <programme start="20241020110000 +0300" stop="20241020130000 +0300" channel="ams.bg">
+    <title>Снукър: Открито първенство на Ухан, финал, повторение</title>
+  </programme>
+  <programme start="20241020130000 +0300" stop="20241020133000 +0300" channel="ams.bg">
+    <title>Ветроходство: "Купа на Америка" в Барселона, повторение</title>
+  </programme>
+  <programme start="20241020133000 +0300" stop="20241020143000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, четвърти ден, повторение</title>
+  </programme>
+  <programme start="20241020143000 +0300" stop="20241020180000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, пети ден, директно</title>
+  </programme>
+  <programme start="20241020180000 +0300" stop="20241020190000 +0300" channel="ams.bg">
+    <title>Супербайк: Световен шампионат в Испания, второ състезание, запис</title>
+  </programme>
+  <programme start="20241020190000 +0300" stop="20241020200000 +0300" channel="ams.bg">
+    <title>Суперспорт: Световен шампионат в Испания, второ състезание, запис</title>
+  </programme>
+  <programme start="20241020200000 +0300" stop="20241020213000 +0300" channel="ams.bg">
+    <title>Лека атлетика: Маратон на Амстердам, повторение</title>
+  </programme>
+  <programme start="20241020213000 +0300" stop="20241020233000 +0300" channel="ams.bg">
+    <title>Колоездене на писта: Световен шампионат в Балеруп, пети ден, повторение</title>
+  </programme>
+  <programme start="20241020233000 +0300" stop="20241021030000 +0300" channel="ams.bg">
+    <title>Ветроходство: "Купа на Америка" в Барселона, обзор</title>
   </programme>
   <programme start="20241019073900 +0300" stop="20241019080200 +0300" channel="iconcerts.stingray.com">
     <title>Passenger - Live at Baeble HQ</title>
@@ -22264,6 +22420,198 @@
   </programme>
   <programme start="20241020230000 +0300" stop="20241021060000 +0300" channel="travelchannel.bg">
     <title>Mysteries At The Museum (Series 22): Borrego Sandman And More (Episode 7)</title>
+  </programme>
+  <programme start="20241019150000 +0300" stop="20241019153000 +0300" channel="traveltv.bg">
+    <title lang="bg">Импресии - Водопад</title>
+  </programme>
+  <programme start="20241019153000 +0300" stop="20241019160000 +0300" channel="traveltv.bg">
+    <title lang="bg">Магията на Китай - Човекът и чайките</title>
+  </programme>
+  <programme start="20241019160000 +0300" stop="20241019163000 +0300" channel="traveltv.bg">
+    <title lang="bg">Регионите на България - Ново село: Великден</title>
+  </programme>
+  <programme start="20241019163000 +0300" stop="20241019170000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Български занаяти</title>
+  </programme>
+  <programme start="20241019170000 +0300" stop="20241019173000 +0300" channel="traveltv.bg">
+    <title lang="bg">Произведено в Япония - Онсен, изворите с горещи сърца Бепу и Юфуин</title>
+  </programme>
+  <programme start="20241019173000 +0300" stop="20241019180000 +0300" channel="traveltv.bg">
+    <title lang="bg">Искам да съм там - Витоша: Зимна приказка</title>
+  </programme>
+  <programme start="20241019180000 +0300" stop="20241019183000 +0300" channel="traveltv.bg">
+    <title lang="bg">Импресии - Водопад</title>
+  </programme>
+  <programme start="20241019183000 +0300" stop="20241019190000 +0300" channel="traveltv.bg">
+    <title lang="bg">Професия турист - Дубай, филм 1, еп. 2</title>
+  </programme>
+  <programme start="20241019190000 +0300" stop="20241019193000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика - Тунис, част 2</title>
+  </programme>
+  <programme start="20241019193000 +0300" stop="20241019200000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика - Тунис, част 3</title>
+  </programme>
+  <programme start="20241019200000 +0300" stop="20241019203000 +0300" channel="traveltv.bg">
+    <title lang="bg">Българската история - 5 интересни факта за Велико Търново</title>
+  </programme>
+  <programme start="20241019203000 +0300" stop="20241019210000 +0300" channel="traveltv.bg">
+    <title lang="bg">Бъди там в музика и картини!</title>
+  </programme>
+  <programme start="20241019210000 +0300" stop="20241019213000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Банско</title>
+  </programme>
+  <programme start="20241019213000 +0300" stop="20241019220000 +0300" channel="traveltv.bg">
+    <title lang="bg">Произведено в Япония - Изкусно опаковане на подаръци</title>
+  </programme>
+  <programme start="20241019220000 +0300" stop="20241019223000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Град Несебър</title>
+  </programme>
+  <programme start="20241019223000 +0300" stop="20241019230000 +0300" channel="traveltv.bg">
+    <title lang="bg">Регионите на България - Ново село: На плаж в Община Ново село</title>
+  </programme>
+  <programme start="20241019230000 +0300" stop="20241019233000 +0300" channel="traveltv.bg">
+    <title lang="bg">Легендите оживяват - Кадин мост, еп.1</title>
+  </programme>
+  <programme start="20241019233000 +0300" stop="20241020000000 +0300" channel="traveltv.bg">
+    <title lang="bg">Музикално пътешествие по случай Китайската нова година</title>
+  </programme>
+  <programme start="20241020000000 +0300" stop="20241020003000 +0300" channel="traveltv.bg">
+    <title lang="bg">Българската история - 10 интересни факта за град Варна</title>
+  </programme>
+  <programme start="20241020003000 +0300" stop="20241020010000 +0300" channel="traveltv.bg">
+    <title lang="bg">Час за култура - Музей на железницата</title>
+  </programme>
+  <programme start="20241020010000 +0300" stop="20241020013000 +0300" channel="traveltv.bg">
+    <title lang="bg">Легендите оживяват - Етрополе, с.3 еп.8</title>
+  </programme>
+  <programme start="20241020013000 +0300" stop="20241020020000 +0300" channel="traveltv.bg">
+    <title lang="bg">Виж България - Берковица</title>
+  </programme>
+  <programme start="20241020020000 +0300" stop="20241020023000 +0300" channel="traveltv.bg">
+    <title lang="bg">Спорт и приключения - Лавинни серии на БАССЕС 3 еп.</title>
+  </programme>
+  <programme start="20241020023000 +0300" stop="20241020030000 +0300" channel="traveltv.bg">
+    <title lang="bg">Зелен свят - Българско дружество за защита на птиците, програма "Живот"</title>
+  </programme>
+  <programme start="20241020030000 +0300" stop="20241020040000 +0300" channel="traveltv.bg">
+    <title lang="bg">Зелен свят - Бяла водна лилия</title>
+  </programme>
+  <programme start="20241020040000 +0300" stop="20241020043000 +0300" channel="traveltv.bg">
+    <title lang="bg">Произведено в Япония</title>
+  </programme>
+  <programme start="20241020043000 +0300" stop="20241020050000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътешествия из райската земя - Бързи, ледени води</title>
+  </programme>
+  <programme start="20241020050000 +0300" stop="20241020053000 +0300" channel="traveltv.bg">
+    <title lang="bg">Професия турист - Дубай, филм 2</title>
+  </programme>
+  <programme start="20241020053000 +0300" stop="20241020060000 +0300" channel="traveltv.bg">
+    <title lang="bg">Магията на Китай - Старият град Лижианг</title>
+  </programme>
+  <programme start="20241020060000 +0300" stop="20241020070000 +0300" channel="traveltv.bg">
+    <title lang="bg">Импресии - Версилия</title>
+  </programme>
+  <programme start="20241020070000 +0300" stop="20241020073000 +0300" channel="traveltv.bg">
+    <title lang="bg">Виж България - Велинград, спа столицата на Балканите</title>
+  </programme>
+  <programme start="20241020073000 +0300" stop="20241020080000 +0300" channel="traveltv.bg">
+    <title lang="bg">Импресии - Версилия</title>
+  </programme>
+  <programme start="20241020080000 +0300" stop="20241020083000 +0300" channel="traveltv.bg">
+    <title lang="bg">Виж България - Дупница, градът на фармацията</title>
+  </programme>
+  <programme start="20241020083000 +0300" stop="20241020090000 +0300" channel="traveltv.bg">
+    <title lang="bg">Бъди там в музика и картини!</title>
+  </programme>
+  <programme start="20241020090000 +0300" stop="20241020093000 +0300" channel="traveltv.bg">
+    <title lang="bg">Българската история - 10 интересни факта от българската история, част 2</title>
+  </programme>
+  <programme start="20241020093000 +0300" stop="20241020100000 +0300" channel="traveltv.bg">
+    <title lang="bg">Бъди там в музика и картини!</title>
+  </programme>
+  <programme start="20241020100000 +0300" stop="20241020103000 +0300" channel="traveltv.bg">
+    <title lang="bg">Фолклорна трапеза</title>
+  </programme>
+  <programme start="20241020103000 +0300" stop="20241020110000 +0300" channel="traveltv.bg">
+    <title lang="bg">Бъди там в музика и картини!</title>
+  </programme>
+  <programme start="20241020110000 +0300" stop="20241020113000 +0300" channel="traveltv.bg">
+    <title lang="bg">Балкан фолк</title>
+  </programme>
+  <programme start="20241020113000 +0300" stop="20241020120000 +0300" channel="traveltv.bg">
+    <title lang="bg">Балкан фолк</title>
+  </programme>
+  <programme start="20241020120000 +0300" stop="20241020123000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътешествия из райската земя - По следите на старата българска къща, част 3</title>
+  </programme>
+  <programme start="20241020123000 +0300" stop="20241020130000 +0300" channel="traveltv.bg">
+    <title lang="bg">Изкуство и култура - Светлин Стоев, художникът - войвода</title>
+  </programme>
+  <programme start="20241020130000 +0300" stop="20241020133000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Банско</title>
+  </programme>
+  <programme start="20241020133000 +0300" stop="20241020140000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика - Пустинята на Тунис</title>
+  </programme>
+  <programme start="20241020140000 +0300" stop="20241020143000 +0300" channel="traveltv.bg">
+    <title lang="bg">Българската история - Какво знаете за селищата в България?</title>
+  </programme>
+  <programme start="20241020143000 +0300" stop="20241020150000 +0300" channel="traveltv.bg">
+    <title lang="bg">Зелен свят - Образование и опазване на природата</title>
+  </programme>
+  <programme start="20241020150000 +0300" stop="20241020153000 +0300" channel="traveltv.bg">
+    <title lang="bg">Импресии - Вода в Рила</title>
+  </programme>
+  <programme start="20241020153000 +0300" stop="20241020160000 +0300" channel="traveltv.bg">
+    <title lang="bg">Магията на Китай - Пещерните храмове в Дазу</title>
+  </programme>
+  <programme start="20241020160000 +0300" stop="20241020163000 +0300" channel="traveltv.bg">
+    <title lang="bg">Регионите на България - Ново село: Празник на Дунава, село Ясен</title>
+  </programme>
+  <programme start="20241020163000 +0300" stop="20241020170000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Културни събития (Фестивали и събори) в България</title>
+  </programme>
+  <programme start="20241020170000 +0300" stop="20241020173000 +0300" channel="traveltv.bg">
+    <title lang="bg">Произведено в Япония - Чарът на модерното хартиено изкуство</title>
+  </programme>
+  <programme start="20241020173000 +0300" stop="20241020180000 +0300" channel="traveltv.bg">
+    <title lang="bg">Искам да съм там: Димитровград - Осъществената мечта</title>
+  </programme>
+  <programme start="20241020180000 +0300" stop="20241020183000 +0300" channel="traveltv.bg">
+    <title lang="bg">Импресии - Шипка</title>
+  </programme>
+  <programme start="20241020183000 +0300" stop="20241020190000 +0300" channel="traveltv.bg">
+    <title lang="bg">Професия турист - Дубай, филм 2</title>
+  </programme>
+  <programme start="20241020190000 +0300" stop="20241020193000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика - Пътешествие в Тунис</title>
+  </programme>
+  <programme start="20241020193000 +0300" stop="20241020200000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика - Тунис, Фригуа</title>
+  </programme>
+  <programme start="20241020200000 +0300" stop="20241020203000 +0300" channel="traveltv.bg">
+    <title lang="bg">Българската история - 10 силни жени в българската история</title>
+  </programme>
+  <programme start="20241020203000 +0300" stop="20241020210000 +0300" channel="traveltv.bg">
+    <title lang="bg">Бъди там в музика и картини!</title>
+  </programme>
+  <programme start="20241020210000 +0300" stop="20241020213000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Бургас</title>
+  </programme>
+  <programme start="20241020213000 +0300" stop="20241020220000 +0300" channel="traveltv.bg">
+    <title lang="bg">Произведено в Япония - Железопътна страна</title>
+  </programme>
+  <programme start="20241020220000 +0300" stop="20241020223000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Варна</title>
+  </programme>
+  <programme start="20241020223000 +0300" stop="20241020230000 +0300" channel="traveltv.bg">
+    <title lang="bg">Регионите на България: Дестинация Рила - Дупница</title>
+  </programme>
+  <programme start="20241020230000 +0300" stop="20241020233000 +0300" channel="traveltv.bg">
+    <title lang="bg">Легендите оживяват - град Русе</title>
+  </programme>
+  <programme start="20241020233000 +0300" stop="20241021150000 +0300" channel="traveltv.bg">
+    <title lang="bg">Магията на Китай - Кайпинг Диаолоу</title>
   </programme>
   <programme start="20241019003000 +0300" stop="20241019005500 +0300" channel="docubox.spiintl.com">
     <title lang="bg">Новата граница - Нашата природа на мореплаватели се е пренесла добре в космическата ера, където се опитваме да отплаваме в неизвестното, в...</title>

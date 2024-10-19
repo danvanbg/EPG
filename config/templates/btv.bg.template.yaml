@@ -30,7 +30,7 @@ elements:
          
 program-details:
   request:
-    url: ${detailsUrl}
+    url: ${detailsUrl}/about
 
   elements:
     - name: sub-title
@@ -39,8 +39,15 @@ program-details:
       operations:
         - name: remove
           hook: before
-          arguments: ['Оригинално заглавие: ']
-
+          arguments: ['Оригинално заглавие: ']   
+    - name: desc
+      locator: .text-block
+      operations:
+        - name: beautify
+          hook: after
+    - name: icon
+      locator: div.has-image > img
+      attribute: src
 
       # operations: 
       #   - name: prepend
@@ -50,18 +57,6 @@ program-details:
       #       - value-not-empty 
       #       - value-not-contain(https:)
 
-program-extras:
-  request:
-    url: ${detailsUrl}about
-  elements: 
-  - name: desc
-    locator: .text-block
-    operations:
-      - name: beautify
-        hook: after
-  - name: icon
-    locator: div.has-image > img
-    attribute: src
 
 channel-parameters:
   btv.bg:
