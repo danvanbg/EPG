@@ -814,8 +814,8 @@
   sources:
   - b1b.tv
   
-- id: edgesport.bg
-  enabled: true
+- id: edgesport.com
+  enabled: false
   names:
   - name: EDGE Sport
   - name: Edge Sport HD
@@ -1027,9 +1027,9 @@
 - id: matchpremier.ru
   enabled: true
   names:
-  - name: Матч! Пермиер
+  - name: Матч! Премьер
     lang: ru
-  - name: Матч! Пермиер HD
+  - name: Матч! Премьер HD
     lang: ru
   - name: Match! Premier
     lang: en
@@ -1256,6 +1256,87 @@
   groups: ["sport"]
   sources:
   - tvtoday.de
+  
+- id: sportklub1.rs
+  enabled: true
+  names:
+  - name: SR: Sport Klub 1
+    lang: sr
+  groups: ["sport"]
+  sources:
+  - united.cloud
+  
+- id: sportklub2.rs
+  enabled: true
+  names:
+  - name: SR: Sport Klub 2
+    lang: sr
+  groups: ["sport"]
+  sources:
+  - united.cloud
+  
+- id: sportklub3.rs
+  enabled: true
+  names:
+  - name: SR: Sport Klub 3
+    lang: sr
+  groups: ["sport"]
+  sources:
+  - united.cloud
+  
+- id: sportklub1.hr
+  enabled: true
+  names:
+  - name: HR: Sport Klub 1
+    lang: hr
+  groups: ["sport"]
+  sources:
+  - united.cloud
+  
+- id: sportklub2.hr
+  enabled: true
+  names:
+  - name: HR: Sport Klub 2
+    lang: hr
+  groups: ["sport"]
+  sources:
+  - united.cloud
+  
+- id: sportklub3.hr
+  enabled: true
+  names:
+  - name: HR: Sport Klub 3
+    lang: hr
+  groups: ["sport"]
+  sources:
+  - united.cloud
+  
+- id: sportklub4.hr
+  enabled: true
+  names:
+  - name: HR: Sport Klub 4
+    lang: hr
+  groups: ["sport"]
+  sources:
+  - united.cloud
+  
+- id: sportklub5.hr
+  enabled: true
+  names:
+  - name: HR: Sport Klub 5
+    lang: hr
+  groups: ["sport"]
+  sources:
+  - united.cloud
+  
+- id: sportklub6.hr
+  enabled: true
+  names:
+  - name: HR: Sport Klub 6
+    lang: hr
+  groups: ["sport"]
+  sources:
+  - united.cloud
   
 - id: ligadecampeones.mplus.es
   enabled: true
