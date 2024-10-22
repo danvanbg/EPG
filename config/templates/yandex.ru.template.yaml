@@ -3,52 +3,30 @@ author: Hristo Genev
 culture: Ru-ru
 date-format: yyyy-MM-dd
 
-init-page:
-  request:
-    url: https://tv.yandex.ru/
-    headers: 
-      Cookie: yandexuid=4870124631652887990;
-    #debug: true
-  elements:
-    - name: key
-      locator-strategy: regex
-      locator: '"key":"(.*?)"'
-    - name: yandexuId
-      locator-strategy: regex
-      locator: '"yandexuid":"(.*?)"'
 
 request:
-  url: https://tv.yandex.ru/api/10379/channel/${channelId}/schedule?selectedDay=${date}
-  headers:
-    Referer: https://tv.yandex.ru/
-    X-Requested-With: XMLHttpRequest
-    Cookie: yandexuid=${yandexuId};
-    X-TV-SK: ${key}
+  url: https://tv.yandex.ru/channel/${channelId}?date=${date}
     
 programs:
-  locator-strategy: jsonpath
-  locator: $.schedule.events[:]
+  locator-strategy: csspath
+  locator: .channel-schedule__event
   #debug: true
 
 elements: 
   - name: title
     language: ru
-    locator: title
+    locator: .channel-schedule__text
   - name: start
-    locator: start
-    time-format: o
-    debug: true
-  - name: stop
-    locator: finish
-    time-format: o
-    debug: true
+    locator: .channel-schedule__time
+    debug: false
   - name: desc
+    enabled: false
     locator: program.description
 
 
 channel-parameters:
   ohotarybalka.ru:
-    channelId: ohota-i-rybalka-621
+    channelId: ohotnik-i-rybolov-69
   jivayapriroda.ru:
     channelId: jivaya-priroda-1090
   russiatoday.com:

@@ -20,9 +20,16 @@
             var channelsTableElement = document.getElementById("channels");
             var programsWithEpg = 0;
             var programsWithoutEpg = 0;
+            var n = 0;
 
             channels.forEach(channel => {
+                n++;
                 var tableRowElement = document.createElement("tr");
+
+                var rowNumberTdElement =  document.createElement("td");
+                rowNumberTdElement.innerText = n;
+                tableRowElement.appendChild(rowNumberTdElement);
+
                 var channelNameTd = document.createElement("td");
                 channelNameTd.innerText = channel.ChannelName;
                 channelNameTd.style.fontWeight = "bold";
@@ -124,6 +131,7 @@
 
     <table id="channels" cellspacing="0" cellpadding="5" style="padding: 5px">
         <tr>
+            <th rowspan="2"><h2>#</h2></th>
             <th rowspan="2"><h2>Channel name</h2></th>
             <!-- <th>Channel Id</th> -->
             <th rowspan="2"><h2>Total programs</h2></th>
