@@ -62,10 +62,6 @@
     <display-name>B1B Action HD</display-name>
     <display-name>B1B TV</display-name>
   </channel>
-  <channel id="edgesport.bg">
-    <display-name>EDGE Sport</display-name>
-    <display-name>Edge Sport HD</display-name>
-  </channel>
   <channel id="eurosport1.bg">
     <display-name>Eurosport</display-name>
     <display-name>Eurosport HD</display-name>
@@ -116,8 +112,8 @@
     <display-name lang="en">Match! Arena</display-name>
   </channel>
   <channel id="matchpremier.ru">
-    <display-name lang="ru">Матч! Пермиер</display-name>
-    <display-name lang="ru">Матч! Пермиер HD</display-name>
+    <display-name lang="ru">Матч! Премьер</display-name>
+    <display-name lang="ru">Матч! Премьер HD</display-name>
     <display-name lang="en">Match! Premier</display-name>
   </channel>
   <channel id="matchtv.ru">
@@ -193,6 +189,33 @@
   <channel id="skysportbundesliga.de">
     <display-name lang="de">Sky Sport Bundesliga</display-name>
     <display-name lang="de">Sky Sport Bundesliga HD</display-name>
+  </channel>
+  <channel id="sportklub1.rs">
+    <display-name lang="sr">SR: Sport Klub 1</display-name>
+  </channel>
+  <channel id="sportklub2.rs">
+    <display-name lang="sr">SR: Sport Klub 2</display-name>
+  </channel>
+  <channel id="sportklub3.rs">
+    <display-name lang="sr">SR: Sport Klub 3</display-name>
+  </channel>
+  <channel id="sportklub1.hr">
+    <display-name lang="hr">HR: Sport Klub 1</display-name>
+  </channel>
+  <channel id="sportklub2.hr">
+    <display-name lang="hr">HR: Sport Klub 2</display-name>
+  </channel>
+  <channel id="sportklub3.hr">
+    <display-name lang="hr">HR: Sport Klub 3</display-name>
+  </channel>
+  <channel id="sportklub4.hr">
+    <display-name lang="hr">HR: Sport Klub 4</display-name>
+  </channel>
+  <channel id="sportklub5.hr">
+    <display-name lang="hr">HR: Sport Klub 5</display-name>
+  </channel>
+  <channel id="sportklub6.hr">
+    <display-name lang="hr">HR: Sport Klub 6</display-name>
   </channel>
   <channel id="ligadecampeones.mplus.es">
     <display-name lang="es">M+ Liga de Campeones</display-name>
@@ -8797,6 +8820,736 @@
   </programme>
   <programme start="20241025233000 +0300" channel="skysportbundesliga.de">
     <title>Fußball: 2. Bundesliga</title>
+  </programme>
+  <programme start="20241022040000 +0300" stop="20241022050500 +0300" channel="sportklub1.rs">
+    <title>ATP 500 Vienna: Zverev - Schwaerzler</title>
+    <desc>Pratite Vienna Open, teniski turnir koji se igra na tvrdoj podlozi na unutrašnjim terenima bečke sportske dvorane Wiener Stadthalle.</desc>
+  </programme>
+  <programme start="20241022050500 +0300" stop="20241022061000 +0300" channel="sportklub1.rs">
+    <title>ATP 500 Basel: Rublev - Borges</title>
+    <desc>ATP Basel iz serije 500 igra se na tvrdoj podlozi. Prvi put je održan 1970. godine a rekorder po broju osvojenih titula je Rodžer Federer.</desc>
+  </programme>
+  <programme start="20241022061000 +0300" stop="20241022071500 +0300" channel="sportklub1.rs">
+    <title>ATP 500 Vienna: Popyrin - Mensik</title>
+    <desc>Pratite Vienna Open, teniski turnir koji se igra na tvrdoj podlozi na unutrašnjim terenima bečke sportske dvorane Wiener Stadthalle.</desc>
+  </programme>
+  <programme start="20241022071500 +0300" stop="20241022090000 +0300" channel="sportklub1.rs">
+    <title>Fudbal - Norveška liga: Rosenborg - Brann</title>
+    <desc>Prva liga Norveške je najviše fudbalsko ligaško takmičenje u Norveškoj.</desc>
+  </programme>
+  <programme start="20241022090000 +0300" stop="20241022093000 +0300" channel="sportklub1.rs">
+    <title>Soccer Bet SK VESTI</title>
+    <desc>Sve najvažnije sportske vesti, zanimljivi prilozi i najave predstojećih događaja. Svakodnevni, polučasovni pregled događaja iz sveta sporta samo uz SK Vesti.</desc>
+  </programme>
+  <programme start="20241022093000 +0300" stop="20241022100000 +0300" channel="sportklub1.rs">
+    <title>Bundesliga Specijal: Trenerski masterklas - Alonso, Kompani, Sahin</title>
+    <desc>Svakog meseca, Bundesliga šalje specijalnu emisiju o najboljim igračima, tehnologijama koje se koriste za prenose i trenerima koji donose razliku...</desc>
+  </programme>
+  <programme start="20241022100000 +0300" stop="20241022120000 +0300" channel="sportklub1.rs">
+    <title>JutroSK</title>
+    <desc>Još jedna novost na našim kanalima! Pored večernjih vesti, sada smo i ujutru sa vama. Rezime onoga što se događalo i najava svega što nas očekuje u sportskom danu.</desc>
+  </programme>
+  <programme start="20241022120000 +0300" stop="20241022130000 +0300" channel="sportklub1.rs">
+    <title>Pregled holandske lige</title>
+    <desc>Očekuje se trka Ajaksa i PSV-a za titulu. Može li Fejenord da im se priključi ili će AZ Alkmar napasti iz senke?</desc>
+  </programme>
+  <programme start="20241022130000 +0300" stop="20241022150000 +0300" channel="sportklub1.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Gwangju - Johor</title>
+    <desc>40 najboljih klubova Azije se obračunava za prestižni pehar. Da li će pobediti neko iz zemalja izlazećeg sunca ili neko od bogatih arapskih klubova?</desc>
+  </programme>
+  <programme start="20241022150000 +0300" stop="20241022170500 +0300" channel="sportklub1.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Shandong - Yokohama Marinos</title>
+    <desc>40 najboljih klubova Azije se obračunava za prestižni pehar. Da li će pobediti neko iz zemalja izlazećeg sunca ili neko od bogatih arapskih klubova?</desc>
+  </programme>
+  <programme start="20241022170500 +0300" stop="20241022181500 +0300" channel="sportklub1.rs">
+    <title>Podkast EL - Večiti</title>
+    <desc>Sportska emisija u formi podkasta u kojoj razgovaramo o najnovijim i najzanimljivijim dešavanjima iz sveta sporta.</desc>
+  </programme>
+  <programme start="20241022181500 +0300" stop="20241022190000 +0300" channel="sportklub1.rs">
+    <title>Pregled Evrokupa</title>
+    <desc>Drugo po težini takmičenje u evropskoj klubskoj košarci sigurno zavređuje pažnju ljubitelja košarke. Iako je pomalo u senci Evrolige, Evrokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20241022190000 +0300" stop="20241022210500 +0300" channel="sportklub1.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Esteghlal - Nassr</title>
+    <desc>40 najboljih klubova Azije se obračunava za prestižni pehar. Da li će pobediti neko iz zemalja izlazećeg sunca ili neko od bogatih arapskih klubova?</desc>
+  </programme>
+  <programme start="20241022210500 +0300" stop="20241022212000 +0300" channel="sportklub1.rs">
+    <title>Pregled španske košarke</title>
+    <desc>Donosimo pregled mečeva i klipove najboljih trenutaka iz Endese, najjače košarkaške lige Španije.</desc>
+  </programme>
+  <programme start="20241022212000 +0300" stop="20241022214500 +0300" channel="sportklub1.rs">
+    <title>Pregled Evrolige: 3. KOLO</title>
+    <desc>18 najboljih timova Evrope ponovo se bore za titulu najboljeg na kontinentu. EFES je zasluženo uzeo titulu prošle sezone, a čini se da će imati nikada teži zadatak da je odbrane. Mogu li Zvezda i...</desc>
+  </programme>
+  <programme start="20241022214500 +0300" stop="20241022220000 +0300" channel="sportklub1.rs">
+    <title>Pregled Evrolige: 4. KOLO</title>
+    <desc>18 najboljih timova Evrope ponovo se bore za titulu najboljeg na kontinentu. EFES je zasluženo uzeo titulu prošle sezone, a čini se da će imati nikada teži zadatak da je odbrane. Mogu li Zvezda i...</desc>
+  </programme>
+  <programme start="20241022220000 +0300" stop="20241023000000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Eurocup: Gran Canaria - Ulm</title>
+    <desc>Drugo po težini takmičenje u evropskoj klubskoj košarci sigurno zavređuje pažnju ljubitelja košarke. Iako je pomalo u senci Evrolige, Evrokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20241023000000 +0300" stop="20241023003000 +0300" channel="sportklub1.rs">
+    <title>Soccer Bet SK VESTI</title>
+    <desc>Sve najvažnije sportske vesti, zanimljivi prilozi i najave predstojećih događaja. Svakodnevni, polučasovni pregled događaja iz sveta sporta samo uz SK Vesti.</desc>
+  </programme>
+  <programme start="20241023003000 +0300" stop="20241023020000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Eurocup: Besiktas - Joventut</title>
+    <desc>Drugo po težini takmičenje u evropskoj klubskoj košarci sigurno zavređuje pažnju ljubitelja košarke. Iako je pomalo u senci Evrolige, Evrokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20241023020000 +0300" stop="20241023023000 +0300" channel="sportklub1.rs">
+    <title>Život fudbalera</title>
+    <desc>Priče o najpoznatijim fudbalerima, ali van terena. Koliko zaista zarađuju, gde i kako žive. Posle ove emisije, gledaćete na njih sasvim drugačije.</desc>
+  </programme>
+  <programme start="20241023023000 +0300" stop="20241023053500 +0300" channel="sportklub1.rs">
+    <title>Američki koledž fudbal: Florida International - Sam Houston</title>
+    <desc>Koledž fudbal je američki fudbal koji igraju timovi sportista-studenata u okviru američkih koledža, univerziteta i vojnih akademija. Univerzitetski fudbal je jedna stepenica niže u odnosu na...</desc>
+  </programme>
+  <programme start="20241023053500 +0300" stop="20241023072500 +0300" channel="sportklub1.rs">
+    <title>Fudbal - Turska liga: Antalya - Galatasaray</title>
+    <desc>Turska Superliga je najviša profesionalna liga Turske u fudbalu. Ova liga osnovana je 1957. godine.</desc>
+  </programme>
+  <programme start="20241023072500 +0300" stop="20241023074000 +0300" channel="sportklub1.rs">
+    <title>Pregled španske košarke</title>
+    <desc>Donosimo pregled mečeva i klipove najboljih trenutaka iz Endese, najjače košarkaške lige Španije.</desc>
+  </programme>
+  <programme start="20241023074000 +0300" stop="20241023090500 +0300" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Lietkabelis - Bourg</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241023090500 +0300" stop="20241023093000 +0300" channel="sportklub1.rs">
+    <title>Soccer Bet SK VESTI</title>
+    <desc>Sve najvažnije sportske vesti, zanimljivi prilozi i najave predstojećih događaja. Svakodnevni, polučasovni pregled događaja iz sveta sporta samo uz SK Vesti.</desc>
+  </programme>
+  <programme start="20241023093000 +0300" stop="20241023100000 +0300" channel="sportklub1.rs">
+    <title>Tribalion _Tara</title>
+    <desc>Sport Klub i Tribalion vam predstavljaju serijal posvećen prvoj trci izdržljivosti održanoj na Tari, pod nazivom ,,Savage Roar". Ko je pobedio prepreke i sebe i stigao do cilja?</desc>
+  </programme>
+  <programme start="20241023100000 +0300" stop="20241023120000 +0300" channel="sportklub1.rs">
+    <title>JutroSK</title>
+    <desc>Još jedna novost na našim kanalima! Pored večernjih vesti, sada smo i ujutru sa vama. Rezime onoga što se događalo i najava svega što nas očekuje u sportskom danu.</desc>
+  </programme>
+  <programme start="20241023120000 +0300" stop="20241023130000 +0300" channel="sportklub1.rs">
+    <title>Pregled turske lige</title>
+    <desc>Bešiktaš može da se hvali šampionskom titulom, ali Trabzon, Galatasaraj i Fenerbahče su se ozbiljno pojačali i svi misle da mogu do trofeja. Čini se da će biti napeto do poslednjeg kola.</desc>
+  </programme>
+  <programme start="20241023130000 +0300" stop="20241023150000 +0300" channel="sportklub1.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Ulsan - Kobe</title>
+    <desc>40 najboljih klubova Azije se obračunava za prestižni pehar. Da li će pobediti neko iz zemalja izlazećeg sunca ili neko od bogatih arapskih klubova?</desc>
+  </programme>
+  <programme start="20241023150000 +0300" stop="20241023170500 +0300" channel="sportklub1.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Shanghai Shenhua - Kawasaki</title>
+    <desc>40 najboljih klubova Azije se obračunava za prestižni pehar. Da li će pobediti neko iz zemalja izlazećeg sunca ili neko od bogatih arapskih klubova?</desc>
+  </programme>
+  <programme start="20241023170500 +0300" stop="20241023184000 +0300" channel="sportklub1.rs">
+    <title>Sport kakav pamtimo: Dragan Vujić Vujke</title>
+    <desc>Česta fraza koju sada čujemo je "U moje vreme je sve bilo bolje..." Pogledajte kakav je nekada bio sport i ovo je idealna šansa za mlade da vide da li je nekada zaista bilo bolje...</desc>
+  </programme>
+  <programme start="20241023184000 +0300" stop="20241023193000 +0300" channel="sportklub1.rs">
+    <title>Magazin saudijske lige</title>
+    <desc>Donosimo pregled mečeva saudijske fudbalske lige, najbolji golovi, potezi i analize.</desc>
+  </programme>
+  <programme start="20241023193000 +0300" stop="20241023194500 +0300" channel="sportklub1.rs">
+    <title>Pregled španske košarke</title>
+    <desc>Donosimo pregled mečeva i klipove najboljih trenutaka iz Endese, najjače košarkaške lige Španije.</desc>
+  </programme>
+  <programme start="20241023194500 +0300" stop="20241023213000 +0300" channel="sportklub1.rs">
+    <title>Evroliga Studio</title>
+    <desc>Ove sezone, Evroliga će biti neizvesnija i uzbudljivija nego ikad, a igraju i Zvezda i Partizan. Analiziramo svaki detalj svakog meča sa našim stručnjacima u studiju.</desc>
+  </programme>
+  <programme start="20241023213000 +0300" stop="20241023232000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Partizan - Virtus</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241023232000 +0300" stop="20241023233500 +0300" channel="sportklub1.rs">
+    <title>Evroliga Studio</title>
+    <desc>Ove sezone, Evroliga će biti neizvesnija i uzbudljivija nego ikad, a igraju i Zvezda i Partizan. Analiziramo svaki detalj svakog meča sa našim stručnjacima u studiju.</desc>
+  </programme>
+  <programme start="20241023233500 +0300" stop="20241023234500 +0300" channel="sportklub1.rs">
+    <title>Evroliga - Konferencija za medije</title>
+    <desc>Sveži utisci igrača i trenera nakon završenog meča. Zašto se desio poraz ili pobeda, da li je sve bilo očekivano ili neočekivano?</desc>
+  </programme>
+  <programme start="20241023234500 +0300" stop="20241024000000 +0300" channel="sportklub1.rs">
+    <title>Evroliga Studio</title>
+    <desc>Ove sezone, Evroliga će biti neizvesnija i uzbudljivija nego ikad, a igraju i Zvezda i Partizan. Analiziramo svaki detalj svakog meča sa našim stručnjacima u studiju.</desc>
+  </programme>
+  <programme start="20241024000000 +0300" stop="20241024003000 +0300" channel="sportklub1.rs">
+    <title>Soccer Bet SK VESTI</title>
+    <desc>Sve najvažnije sportske vesti, zanimljivi prilozi i najave predstojećih događaja. Svakodnevni, polučasovni pregled događaja iz sveta sporta samo uz SK Vesti.</desc>
+  </programme>
+  <programme start="20241024003000 +0300" stop="20241024020000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Eurocup: Budućnost - Bahcesehir</title>
+    <desc>Drugo po težini takmičenje u evropskoj klubskoj košarci sigurno zavređuje pažnju ljubitelja košarke. Iako je pomalo u senci Evrolige, Evrokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20241024020000 +0300" stop="20241024023000 +0300" channel="sportklub1.rs">
+    <title>Euroleague serijal: Overseas</title>
+    <desc>Američke zvezde Evrolige pričaju o tome kako je živeti i igrati "preko bare". Kako su se navikli i da li planiraju i posle karijere da ostanu "preko bare"?</desc>
+  </programme>
+  <programme start="20241024023000 +0300" stop="20241024054000 +0300" channel="sportklub1.rs">
+    <title>Američki koledž fudbal: Jacksonville State - Middle Tennessee</title>
+    <desc>Koledž fudbal je američki fudbal koji igraju timovi sportista-studenata u okviru američkih koledža, univerziteta i vojnih akademija. Univerzitetski fudbal je jedna stepenica niže u odnosu na...</desc>
+  </programme>
+  <programme start="20241024054000 +0300" stop="20241024071500 +0300" channel="sportklub1.rs">
+    <title>Košarka - Eurocup: Turk Telekom - Valencia</title>
+    <desc>Drugo po težini takmičenje u evropskoj klubskoj košarci sigurno zavređuje pažnju ljubitelja košarke. Iako je pomalo u senci Evrolige, Evrokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20241024071500 +0300" stop="20241024090000 +0300" channel="sportklub1.rs">
+    <title>Chelsea TV: Liverpool - Chelsea (PL)</title>
+    <desc>Čelzi TV vas vodi kroz sve zanimljivosti sa Stamford Bridža, uživajte u svim utakmicama ovog engleskog velikana bogate prošlosti.</desc>
+  </programme>
+  <programme start="20241024090000 +0300" stop="20241024093000 +0300" channel="sportklub1.rs">
+    <title>Soccer Bet SK VESTI</title>
+    <desc>Sve najvažnije sportske vesti, zanimljivi prilozi i najave predstojećih događaja. Svakodnevni, polučasovni pregled događaja iz sveta sporta samo uz SK Vesti.</desc>
+  </programme>
+  <programme start="20241024093000 +0300" stop="20241024113000 +0300" channel="sportklub1.rs">
+    <title>JutroSK</title>
+    <desc>Još jedna novost na našim kanalima! Pored večernjih vesti, sada smo i ujutru sa vama. Rezime onoga što se događalo i najava svega što nas očekuje u sportskom danu.</desc>
+  </programme>
+  <programme start="20241024113000 +0300" stop="20241024132000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Australijska liga: Illawarra - Melbourne</title>
+    <desc>Nema boljeg načina da se počne dan nego uz australijsku košarku. Uzeli su medalju na Olimpijskim igrama, hale su pune i napreduju iz godine u godinu.</desc>
+  </programme>
+  <programme start="20241024132000 +0300" stop="20241024150000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Eurocup: Trento - Hapoel Tel Aviv</title>
+    <desc>Drugo po težini takmičenje u evropskoj klubskoj košarci sigurno zavređuje pažnju ljubitelja košarke. Iako je pomalo u senci Evrolige, Evrokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20241024150000 +0300" stop="20241024163000 +0300" channel="sportklub1.rs">
+    <title>SK Tribina: Budućnost fudbalera na Balkanu</title>
+  </programme>
+  <programme start="20241024163000 +0300" stop="20241024180000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Eurocup: Aris - Cedevita Olimpija</title>
+    <desc>Drugo po težini takmičenje u evropskoj klubskoj košarci sigurno zavređuje pažnju ljubitelja košarke. Iako je pomalo u senci Evrolige, Evrokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20241024180000 +0300" stop="20241024200000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Partizan - Virtus</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241024200000 +0300" stop="20241024214500 +0300" channel="sportklub1.rs">
+    <title>Evroliga Studio</title>
+    <desc>Ove sezone, Evroliga će biti neizvesnija i uzbudljivija nego ikad, a igraju i Zvezda i Partizan. Analiziramo svaki detalj svakog meča sa našim stručnjacima u studiju.</desc>
+  </programme>
+  <programme start="20241024214500 +0300" stop="20241024234000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Real Madrid - Crvena zvezda</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241024234000 +0300" stop="20241025000000 +0300" channel="sportklub1.rs">
+    <title>Evroliga Studio</title>
+    <desc>Ove sezone, Evroliga će biti neizvesnija i uzbudljivija nego ikad, a igraju i Zvezda i Partizan. Analiziramo svaki detalj svakog meča sa našim stručnjacima u studiju.</desc>
+  </programme>
+  <programme start="20241025000000 +0300" stop="20241025003000 +0300" channel="sportklub1.rs">
+    <title>Soccer Bet SK VESTI</title>
+    <desc>Sve najvažnije sportske vesti, zanimljivi prilozi i najave predstojećih događaja. Svakodnevni, polučasovni pregled događaja iz sveta sporta samo uz SK Vesti.</desc>
+  </programme>
+  <programme start="20241025003000 +0300" stop="20241025021000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Zalgiris - Maccabi</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241025021000 +0300" stop="20241025034500 +0300" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Monaco - Paris</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241025034500 +0300" stop="20241025040000 +0300" channel="sportklub1.rs">
+    <title>Sportske igre mladih Srbija</title>
+    <desc>Oni su ukras sveta i naša budućnost. Možda neće svi postati profesionalni sportisti, ali svakako će ovo biti divno iskustvo za njih.</desc>
+  </programme>
+  <programme start="20241025040000 +0300" stop="20241025075500 +0300" channel="sportklub1.rs">
+    <title>ATP 500 Basel &amp; ATP 500 Vienna</title>
+    <desc>ATP Basel iz serije 500 igra se na tvrdoj podlozi. Prvi put je održan 1970. godine a rekorder po broju osvojenih titula je Rodžer Federer.</desc>
+  </programme>
+  <programme start="20241025075500 +0300" stop="20241025082500 +0300" channel="sportklub1.rs">
+    <title>Idealna putanja</title>
+    <desc>Ceo život, vozači Formule 1 traže tu "idealnu putanju". Kako doći do nje i kako napraviti savršeni set-ap bolida i koliko vremena oduzima sve to, saznaćete u ovoj emisiji.</desc>
+  </programme>
+  <programme start="20241025082500 +0300" stop="20241025084000 +0300" channel="sportklub1.rs">
+    <title>Na današnji dan</title>
+    <desc>Podsećanje na godišnjice uspeha sportista, klubova i reprezentacije koji su se dogodili na današnji dan.</desc>
+  </programme>
+  <programme start="20241025084000 +0300" stop="20241025093000 +0300" channel="sportklub1.rs">
+    <title>Trans World Sport</title>
+    <desc>Interesantne priče i neobični sportovi iz svih delova sveta. Uvek ćete biti u toku uz ovu emisiju.</desc>
+  </programme>
+  <programme start="20241025093000 +0300" stop="20241025100000 +0300" channel="sportklub1.rs">
+    <title>Soccer Bet SK VESTI</title>
+    <desc>Sve najvažnije sportske vesti, zanimljivi prilozi i najave predstojećih događaja. Svakodnevni, polučasovni pregled događaja iz sveta sporta samo uz SK Vesti.</desc>
+  </programme>
+  <programme start="20241025100000 +0300" stop="20241025120000 +0300" channel="sportklub1.rs">
+    <title>JutroSK</title>
+    <desc>Još jedna novost na našim kanalima! Pored večernjih vesti, sada smo i ujutru sa vama. Rezime onoga što se događalo i najava svega što nas očekuje u sportskom danu.</desc>
+  </programme>
+  <programme start="20241025120000 +0300" stop="20241025133000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Baskonia - Alba</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241025133000 +0300" stop="20241025142500 +0300" channel="sportklub1.rs">
+    <title>MUTV: George Best</title>
+    <desc>Donosimo vam najnovije vesti i reportaže iz "Mančester junajteda", kluba velike tradicije i reputacije. Klub je osnovan 1878. godine i tokom decenija je iznedrio velike fudbalske zvezde.</desc>
+  </programme>
+  <programme start="20241025142500 +0300" stop="20241025160000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Armani - Efes</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241025160000 +0300" stop="20241025180500 +0300" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Real Madrid - Crvena zvezda</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241025180500 +0300" stop="20241025201000 +0300" channel="sportklub1.rs">
+    <title>Fudbal - Saudijska liga: Kholood - Nassr</title>
+    <desc>Pratite Saudijsku profesionalnu ligu, najvišu fudbalsku ligu u ligaškom sistemu Saudijske Arabije. Osnovana je 1976. godine kao prva profesionalna fudbalska liga Kraljevine Saudijske Arabije.</desc>
+  </programme>
+  <programme start="20241025201000 +0300" stop="20241025204500 +0300" channel="sportklub1.rs">
+    <title>SK STUDIO</title>
+    <desc>Pre i posle svih važnih događaja koje prenosi Sport Klub, naši stručnjaci će vam dati sve neophodne informacije. Nećete ostati uskraćeni ni za jedan zanimljiv detalj o najvažnijim sportskim događajima...</desc>
+  </programme>
+  <programme start="20241025204500 +0300" stop="20241025224000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Fenerbahce - Panathinaikos</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241025224000 +0300" stop="20241025225500 +0300" channel="sportklub1.rs">
+    <title>Euroleague Special: The Belgrade Derby</title>
+    <desc>Specijalna emisija posvećena košarkaškoj Evroligi ("Euroleague").</desc>
+  </programme>
+  <programme start="20241025225500 +0300" stop="20241025233000 +0300" channel="sportklub1.rs">
+    <title>SK dokumentarni serijal: Istorija YU Kupa</title>
+    <desc>Od osnivanja 1923. pa do danas, najmasovnije fudbalsko takmičenje u zemlji pamti bezbroj epskih utakmica i nekoliko iznenađujućih osvajača. Ovo su priče o nekima od njih.</desc>
+  </programme>
+  <programme start="20241025233000 +0300" stop="20241026000000 +0300" channel="sportklub1.rs">
+    <title>Idealna putanja</title>
+    <desc>Ceo život, vozači Formule 1 traže tu "idealnu putanju". Kako doći do nje i kako napraviti savršeni set-ap bolida i koliko vremena oduzima sve to, saznaćete u ovoj emisiji.</desc>
+  </programme>
+  <programme start="20241026000000 +0300" channel="sportklub1.rs">
+    <title>Soccer Bet SK VESTI</title>
+    <desc>Sve najvažnije sportske vesti, zanimljivi prilozi i najave predstojećih događaja. Svakodnevni, polučasovni pregled događaja iz sveta sporta samo uz SK Vesti.</desc>
+  </programme>
+  <programme start="20241022032500 +0300" stop="20241022050000 +0300" channel="sportklub2.rs">
+    <title>Košarka - Grčka liga: Panathinaikos - AEK</title>
+    <desc>Pratite prenose Grčke lige, prestižnog takmičenja čije je prvo izdanje održano u sezoni 1927/1928. Takmičenje svake sezone okuplja 12 klubova, a ubedljivo najuspešnija ekipa od osnivanja lige je...</desc>
+  </programme>
+  <programme start="20241022050000 +0300" stop="20241022060000 +0300" channel="sportklub2.rs">
+    <title>WTA 500 Tokyo</title>
+    <desc>Ovog puta ponajbolje svetske teniserke imaće priliku da se takmiče na tvrdoj podlozi VTA 500 turnira u Tokiju.</desc>
+  </programme>
+  <programme start="20241022060000 +0300" stop="20241022074500 +0300" channel="sportklub2.rs">
+    <title>WTA 250 Guangzhou: Bektas - Parry</title>
+    <desc>WTA 250 Guangzhou teniski turnir za dame u kategoriji 250 održava se od 12. do 23. septembra 2023. u svom 17. izdanju.</desc>
+  </programme>
+  <programme start="20241022074500 +0300" stop="20241022094500 +0300" channel="sportklub2.rs">
+    <title>WTA 250 Guangzhou: Bouzas-Maneiro - Fett</title>
+    <desc>WTA 250 Guangzhou teniski turnir za dame u kategoriji 250 održava se od 12. do 23. septembra 2023. u svom 17. izdanju.</desc>
+  </programme>
+  <programme start="20241022094500 +0300" stop="20241022113000 +0300" channel="sportklub2.rs">
+    <title>WTA 250 Guangzhou: Siniakova - Martić</title>
+    <desc>WTA 250 Guangzhou teniski turnir za dame u kategoriji 250 održava se od 12. do 23. septembra 2023. u svom 17. izdanju.</desc>
+  </programme>
+  <programme start="20241022113000 +0300" stop="20241022130000 +0300" channel="sportklub2.rs">
+    <title>WTA 250 Guangzhou: Yuan - Minnen</title>
+    <desc>WTA 250 Guangzhou teniski turnir za dame u kategoriji 250 održava se od 12. do 23. septembra 2023. u svom 17. izdanju.</desc>
+  </programme>
+  <programme start="20241022130000 +0300" stop="20241022144500 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Vienna: Kecmanović - Navone</title>
+    <desc>Pratite Vienna Open, teniski turnir koji se igra na tvrdoj podlozi na unutrašnjim terenima bečke sportske dvorane Wiener Stadthalle.</desc>
+  </programme>
+  <programme start="20241022144500 +0300" stop="20241022164500 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Basel: Shapovalov - Shang</title>
+    <desc>ATP Basel iz serije 500 igra se na tvrdoj podlozi. Prvi put je održan 1970. godine a rekorder po broju osvojenih titula je Rodžer Federer.</desc>
+  </programme>
+  <programme start="20241022164500 +0300" stop="20241022183000 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Basel: Van de Zandschulp - Bublik</title>
+    <desc>ATP Basel iz serije 500 igra se na tvrdoj podlozi. Prvi put je održan 1970. godine a rekorder po broju osvojenih titula je Rodžer Federer.</desc>
+  </programme>
+  <programme start="20241022183000 +0300" stop="20241022203000 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Basel: Čilić - Tabilo</title>
+    <desc>ATP Basel iz serije 500 igra se na tvrdoj podlozi. Prvi put je održan 1970. godine a rekorder po broju osvojenih titula je Rodžer Federer.</desc>
+  </programme>
+  <programme start="20241022203000 +0300" stop="20241022210000 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Basel: Jarry - Rune (UKLJUČENJE)</title>
+    <desc>ATP Basel iz serije 500 igra se na tvrdoj podlozi. Prvi put je održan 1970. godine a rekorder po broju osvojenih titula je Rodžer Federer.</desc>
+  </programme>
+  <programme start="20241022210000 +0300" stop="20241022231500 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Basel: Tsitsipas - F. Cerundolo</title>
+    <desc>ATP Basel iz serije 500 igra se na tvrdoj podlozi. Prvi put je održan 1970. godine a rekorder po broju osvojenih titula je Rodžer Federer.</desc>
+  </programme>
+  <programme start="20241022231500 +0300" stop="20241023010000 +0300" channel="sportklub2.rs">
+    <title>Chelsea TV: Liverpool - Chelsea (PL)</title>
+    <desc>Čelzi TV vas vodi kroz sve zanimljivosti sa Stamford Bridža, uživajte u svim utakmicama ovog engleskog velikana bogate prošlosti.</desc>
+  </programme>
+  <programme start="20241023010000 +0300" stop="20241023020000 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Vienna: Halys - Monfils</title>
+    <desc>Pratite Vienna Open, teniski turnir koji se igra na tvrdoj podlozi na unutrašnjim terenima bečke sportske dvorane Wiener Stadthalle.</desc>
+  </programme>
+  <programme start="20241023020000 +0300" stop="20241023030000 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Basel: Jarry - Rune</title>
+    <desc>ATP Basel iz serije 500 igra se na tvrdoj podlozi. Prvi put je održan 1970. godine a rekorder po broju osvojenih titula je Rodžer Federer.</desc>
+  </programme>
+  <programme start="20241023030000 +0300" stop="20241023040500 +0300" channel="sportklub2.rs">
+    <title>Pregled turske lige</title>
+    <desc>Bešiktaš može da se hvali šampionskom titulom, ali Trabzon, Galatasaraj i Fenerbahče su se ozbiljno pojačali i svi misle da mogu do trofeja. Čini se da će biti napeto do poslednjeg kola.</desc>
+  </programme>
+  <programme start="20241023040500 +0300" stop="20241023050000 +0300" channel="sportklub2.rs">
+    <title>Pregled Bundeslige</title>
+    <desc>Uz sve ono što nam je Nemačka podarila kroz istoriju ponosno stoji i Bundesliga. Najviši rang fudbalskog takmičenja osnovanog 1963. godine broji 18 ekipa koje svakog avgusta kreću u trku za popularnim...</desc>
+  </programme>
+  <programme start="20241023050000 +0300" stop="20241023070000 +0300" channel="sportklub2.rs">
+    <title>WTA 500 Tokyo</title>
+    <desc>Ovog puta ponajbolje svetske teniserke imaće priliku da se takmiče na tvrdoj podlozi VTA 500 turnira u Tokiju.</desc>
+  </programme>
+  <programme start="20241023070000 +0300" stop="20241023080000 +0300" channel="sportklub2.rs">
+    <title>WTA 500 Tokyo</title>
+    <desc>Ovog puta ponajbolje svetske teniserke imaće priliku da se takmiče na tvrdoj podlozi VTA 500 turnira u Tokiju.</desc>
+  </programme>
+  <programme start="20241023080000 +0300" stop="20241023130000 +0300" channel="sportklub2.rs">
+    <title>WTA 500 Tokyo &amp; WTA 250 Guangzou</title>
+    <desc>Ovog puta ponajbolje svetske teniserke imaće priliku da se takmiče na tvrdoj podlozi VTA 500 turnira u Tokiju.</desc>
+  </programme>
+  <programme start="20241023130000 +0300" stop="20241023140000 +0300" channel="sportklub2.rs">
+    <title>Tenis: ATP 500 Basel &amp; WTA 250 Guangzhou &amp; WTA 500 Tokyo</title>
+    <desc>Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa!</desc>
+  </programme>
+  <programme start="20241023140000 +0300" stop="20241023231500 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Vienna &amp; ATP 500 Basel</title>
+    <desc>Pratite Vienna Open, teniski turnir koji se igra na tvrdoj podlozi na unutrašnjim terenima bečke sportske dvorane Wiener Stadthalle.</desc>
+  </programme>
+  <programme start="20241023231500 +0300" stop="20241023234500 +0300" channel="sportklub2.rs">
+    <title>ATP Uncovered</title>
+    <desc>Teniseri su gotovo celu godinu na putovanjima. Saznajte nešto više o tome kako izgleda njihov život na terenu i van njega i kako organizatori ATP turnira rešavaju slatke i gorke muke koje imaju.</desc>
+  </programme>
+  <programme start="20241023234500 +0300" stop="20241024004000 +0300" channel="sportklub2.rs">
+    <title>Pregled holandske lige</title>
+    <desc>Očekuje se trka Ajaksa i PSV-a za titulu. Može li Fejenord da im se priključi ili će AZ Alkmar napasti iz senke?</desc>
+  </programme>
+  <programme start="20241024004000 +0300" stop="20241024024500 +0300" channel="sportklub2.rs">
+    <title>Košarka - Euroleague: Partizan - Virtus</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241024024500 +0300" stop="20241024050000 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Vienna &amp; ATP 500 Basel</title>
+    <desc>Pratite Vienna Open, teniski turnir koji se igra na tvrdoj podlozi na unutrašnjim terenima bečke sportske dvorane Wiener Stadthalle.</desc>
+  </programme>
+  <programme start="20241024050000 +0300" stop="20241024070000 +0300" channel="sportklub2.rs">
+    <title>WTA 500 Tokyo</title>
+    <desc>Ovog puta ponajbolje svetske teniserke imaće priliku da se takmiče na tvrdoj podlozi VTA 500 turnira u Tokiju.</desc>
+  </programme>
+  <programme start="20241024070000 +0300" stop="20241024080000 +0300" channel="sportklub2.rs">
+    <title>WTA 500 Tokyo</title>
+    <desc>Ovog puta ponajbolje svetske teniserke imaće priliku da se takmiče na tvrdoj podlozi VTA 500 turnira u Tokiju.</desc>
+  </programme>
+  <programme start="20241024080000 +0300" stop="20241024130000 +0300" channel="sportklub2.rs">
+    <title>WTA 500 Tokyo &amp; WTA 250 Guangzhou</title>
+    <desc>Ovog puta ponajbolje svetske teniserke imaće priliku da se takmiče na tvrdoj podlozi VTA 500 turnira u Tokiju.</desc>
+  </programme>
+  <programme start="20241024130000 +0300" stop="20241024213000 +0300" channel="sportklub2.rs">
+    <title>Tenis: ATP 500 Vienna &amp; ATP 500 Basel &amp; WTA 250 Guangzhou &amp; WTA 500 Tokyo</title>
+    <desc>Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa!</desc>
+  </programme>
+  <programme start="20241024213000 +0300" stop="20241024233000 +0300" channel="sportklub2.rs">
+    <title>Košarka - Euroleague: Armani - Efes</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241024233000 +0300" stop="20241025000000 +0300" channel="sportklub2.rs">
+    <title>Magazin Bundeslige</title>
+    <desc>Pratite sportski magazin posvećen Bundesligi te saznajte sve o utakmicama, rezultatima i novim pojačanjima u najboljim nemačkim fudbalskim klubovima.</desc>
+  </programme>
+  <programme start="20241025000000 +0300" stop="20241025002500 +0300" channel="sportklub2.rs">
+    <title>Fast Zone</title>
+    <desc>U ovoj emisiji, videćemo šta se dešava na serijama koje ne prenosi Sport Klub. I ovde ima kvalitetnih i ambicioznih vozača koji žele da se probiju u sam vrh.</desc>
+  </programme>
+  <programme start="20241025002500 +0300" stop="20241025023000 +0300" channel="sportklub2.rs">
+    <title>Košarka - Euroleague: Real Madrid - Crvena zvezda</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241025023000 +0300" stop="20241025053500 +0300" channel="sportklub2.rs">
+    <title>Američki koledž fudbal: Pittsburgh - Syracuse</title>
+    <desc>Koledž fudbal je američki fudbal koji igraju timovi sportista-studenata u okviru američkih koledža, univerziteta i vojnih akademija. Univerzitetski fudbal je jedna stepenica niže u odnosu na...</desc>
+  </programme>
+  <programme start="20241025053500 +0300" stop="20241025060000 +0300" channel="sportklub2.rs">
+    <title>Ekstremni svet sporta</title>
+    <desc>Sve o ekstremnim sportovima, takmičenjima u izdržljivosti i istinskim takmičarskim maratonima. Ovi ljudi svaki dan pomeraju granice onoga što je moguće.</desc>
+  </programme>
+  <programme start="20241025060000 +0300" stop="20241025070000 +0300" channel="sportklub2.rs">
+    <title>WTA 500 Tokyo: 1/4 Finale</title>
+    <desc>Ovog puta ponajbolje svetske teniserke imaće priliku da se takmiče na tvrdoj podlozi VTA 500 turnira u Tokiju.</desc>
+  </programme>
+  <programme start="20241025070000 +0300" stop="20241025080000 +0300" channel="sportklub2.rs">
+    <title>WTA 500 Tokyo: 1/4 Finale</title>
+    <desc>Ovog puta ponajbolje svetske teniserke imaće priliku da se takmiče na tvrdoj podlozi VTA 500 turnira u Tokiju.</desc>
+  </programme>
+  <programme start="20241025080000 +0300" stop="20241025150000 +0300" channel="sportklub2.rs">
+    <title>WTA 500 Tokyo &amp; WTA 250 Guangzhou: 1/4 Finala</title>
+    <desc>Ovog puta ponajbolje svetske teniserke imaće priliku da se takmiče na tvrdoj podlozi VTA 500 turnira u Tokiju.</desc>
+  </programme>
+  <programme start="20241025150000 +0300" stop="20241025214500 +0300" channel="sportklub2.rs">
+    <title>Tenis: ATP 500 Vienna &amp; ATP 500 Basel &amp; WTA 250 Guangzhou - 1/4 Finala</title>
+    <desc>Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa!</desc>
+  </programme>
+  <programme start="20241025214500 +0300" stop="20241025234500 +0300" channel="sportklub2.rs">
+    <title>Košarka - Euroleague: Bayern - Olympiacos</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241025234500 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Vienna &amp; ATP 500 Basel: 1/4 Finala</title>
+    <desc>Pratite Vienna Open, teniski turnir koji se igra na tvrdoj podlozi na unutrašnjim terenima bečke sportske dvorane Wiener Stadthalle.</desc>
+  </programme>
+  <programme start="20241022034500 +0300" stop="20241022070000 +0300" channel="sportklub3.rs">
+    <title>NASCAR: Playoffs: Las Vegas</title>
+    <desc>National Association for Stock Car Auto Racing ili skraćeno NASCAR je najpoznatija automobilska organizacija pod čijom ingerencijom i strogim pravilima se organiziraju auto utrke za tzv. "stock car".</desc>
+  </programme>
+  <programme start="20241022070000 +0300" stop="20241022091500 +0300" channel="sportklub3.rs">
+    <title>Američki koledž fudbal: Tennessee - Alabama</title>
+    <desc>Koledž fudbal je američki fudbal koji igraju timovi sportista-studenata u okviru američkih koledža, univerziteta i vojnih akademija. Univerzitetski fudbal je jedna stepenica niže u odnosu na...</desc>
+  </programme>
+  <programme start="20241022091500 +0300" stop="20241022104500 +0300" channel="sportklub3.rs">
+    <title>Košarka - Grčka liga: Karditsa - Olympiacos</title>
+    <desc>Pratite prenose Grčke lige, prestižnog takmičenja čije je prvo izdanje održano u sezoni 1927/1928. Takmičenje svake sezone okuplja 12 klubova, a ubedljivo najuspešnija ekipa od osnivanja lige je...</desc>
+  </programme>
+  <programme start="20241022104500 +0300" stop="20241022110000 +0300" channel="sportklub3.rs">
+    <title>Na današnji dan</title>
+    <desc>Podsećanje na godišnjice uspeha sportista, klubova i reprezentacije koji su se dogodili na današnji dan.</desc>
+  </programme>
+  <programme start="20241022110000 +0300" stop="20241022123500 +0300" channel="sportklub3.rs">
+    <title>Košarka - Grčka liga: Panathinaikos - AEK</title>
+    <desc>Pratite prenose Grčke lige, prestižnog takmičenja čije je prvo izdanje održano u sezoni 1927/1928. Takmičenje svake sezone okuplja 12 klubova, a ubedljivo najuspešnija ekipa od osnivanja lige je...</desc>
+  </programme>
+  <programme start="20241022123500 +0300" stop="20241022130000 +0300" channel="sportklub3.rs">
+    <title>Euroleague Special: Andrea Trinkijeri - 5 igrača</title>
+    <desc>Specijalna emisija posvećena košarkaškoj Evroligi ("Euroleague").</desc>
+  </programme>
+  <programme start="20241022130000 +0300" stop="20241022150000 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Shanghai Port - Central Coast Mariners</title>
+    <desc>40 najboljih klubova Azije se obračunava za prestižni pehar. Da li će pobediti neko iz zemalja izlazećeg sunca ili neko od bogatih arapskih klubova?</desc>
+  </programme>
+  <programme start="20241022150000 +0300" stop="20241022170000 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Buriram - Pohang Steelers</title>
+    <desc>40 najboljih klubova Azije se obračunava za prestižni pehar. Da li će pobediti neko iz zemalja izlazećeg sunca ili neko od bogatih arapskih klubova?</desc>
+  </programme>
+  <programme start="20241022170000 +0300" stop="20241022190000 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Sharjah - Sepahan</title>
+    <desc>40 najboljih klubova Azije se obračunava za prestižni pehar. Da li će pobediti neko iz zemalja izlazećeg sunca ili neko od bogatih arapskih klubova?</desc>
+  </programme>
+  <programme start="20241022190000 +0300" stop="20241022200000 +0300" channel="sportklub3.rs">
+    <title>Pregled Biciklizam: Tour of Croatia</title>
+    <desc>CRO Race (Tour of Croatia) je najveći biciklistički događaj koji se održava u Hrvatskoj i u kojemu su kroz više dana održavaju etape koje povezuju skoro sve delove Hrvatske.</desc>
+  </programme>
+  <programme start="20241022200000 +0300" stop="20241022220000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Eurocup: Besiktas - Joventut</title>
+    <desc>Drugo po težini takmičenje u evropskoj klubskoj košarci sigurno zavređuje pažnju ljubitelja košarke. Iako je pomalo u senci Evrolige, Evrokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20241022220000 +0300" stop="20241022231000 +0300" channel="sportklub3.rs">
+    <title>Pregled turske lige</title>
+    <desc>Bešiktaš može da se hvali šampionskom titulom, ali Trabzon, Galatasaraj i Fenerbahče su se ozbiljno pojačali i svi misle da mogu do trofeja. Čini se da će biti napeto do poslednjeg kola.</desc>
+  </programme>
+  <programme start="20241022231000 +0300" stop="20241023010000 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Gwangju - Johor</title>
+    <desc>40 najboljih klubova Azije se obračunava za prestižni pehar. Da li će pobediti neko iz zemalja izlazećeg sunca ili neko od bogatih arapskih klubova?</desc>
+  </programme>
+  <programme start="20241023010000 +0300" stop="20241023011500 +0300" channel="sportklub3.rs">
+    <title>Pregled španske košarke</title>
+    <desc>Donosimo pregled mečeva i klipove najboljih trenutaka iz Endese, najjače košarkaške lige Španije.</desc>
+  </programme>
+  <programme start="20241023011500 +0300" stop="20241023030000 +0300" channel="sportklub3.rs">
+    <title>MUTV: Manchester United - Brentford (PL)</title>
+    <desc>Donosimo vam najnovije vesti i reportaže iz "Mančester junajteda", kluba velike tradicije i reputacije. Klub je osnovan 1878. godine i tokom decenija je iznedrio velike fudbalske zvezde.</desc>
+  </programme>
+  <programme start="20241023030000 +0300" stop="20241023045500 +0300" channel="sportklub3.rs">
+    <title>E-Sports: League of Legends - Worlds</title>
+    <desc>Najbolji gejmeri na jednom mestu. Sve što su vežbali godinama, treba da pokažu i primene u praksi sada.</desc>
+  </programme>
+  <programme start="20241023045500 +0300" stop="20241023063000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Eurocup: Lietkabelis - Bourg</title>
+    <desc>Drugo po težini takmičenje u evropskoj klubskoj košarci sigurno zavređuje pažnju ljubitelja košarke. Iako je pomalo u senci Evrolige, Evrokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20241023063000 +0300" stop="20241023072500 +0300" channel="sportklub3.rs">
+    <title>Pregled holandske lige</title>
+    <desc>Očekuje se trka Ajaksa i PSV-a za titulu. Može li Fejenord da im se priključi ili će AZ Alkmar napasti iz senke?</desc>
+  </programme>
+  <programme start="20241023072500 +0300" stop="20241023091500 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Shandong - Yokohama Marinos</title>
+    <desc>40 najboljih klubova Azije se obračunava za prestižni pehar. Da li će pobediti neko iz zemalja izlazećeg sunca ili neko od bogatih arapskih klubova?</desc>
+  </programme>
+  <programme start="20241023091500 +0300" stop="20241023105000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Eurocup: Gran Canaria - Ulm</title>
+    <desc>Drugo po težini takmičenje u evropskoj klubskoj košarci sigurno zavređuje pažnju ljubitelja košarke. Iako je pomalo u senci Evrolige, Evrokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20241023105000 +0300" stop="20241023110500 +0300" channel="sportklub3.rs">
+    <title>Na današnji dan</title>
+    <desc>Podsećanje na godišnjice uspeha sportista, klubova i reprezentacije koji su se dogodili na današnji dan.</desc>
+  </programme>
+  <programme start="20241023110500 +0300" stop="20241023130000 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Esteghlal - Nassr</title>
+    <desc>40 najboljih klubova Azije se obračunava za prestižni pehar. Da li će pobediti neko iz zemalja izlazećeg sunca ili neko od bogatih arapskih klubova?</desc>
+  </programme>
+  <programme start="20241023130000 +0300" stop="20241023150000 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - TWO: Hiroshima - Sydney</title>
+    <desc>Što je Liga Evrope nama, to je AFC Champions League Two na najvećem kontinentu. Ima ovde mnogo kvalitetnih igrača i mnogo onih za koje ste se pitali "gde su i šta rade"...</desc>
+  </programme>
+  <programme start="20241023150000 +0300" stop="20241023170500 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Selangor - Jeonbuk</title>
+    <desc>40 najboljih klubova Azije se obračunava za prestižni pehar. Da li će pobediti neko iz zemalja izlazećeg sunca ili neko od bogatih arapskih klubova?</desc>
+  </programme>
+  <programme start="20241023170500 +0300" stop="20241023173000 +0300" channel="sportklub3.rs">
+    <title>Zlatni golovi YU sporta</title>
+    <desc>Mnogo je velikih momenata u istoriji jugoslovenskog fudbala, a mi smo izdvojili samo najbolje od najboljeg. Uvek je lepo setiti se tih lepih trenutaka.</desc>
+  </programme>
+  <programme start="20241023173000 +0300" stop="20241023192500 +0300" channel="sportklub3.rs">
+    <title>Fudbal - Bugarska liga: Spartak Varna - Lokomotiv Plovdiv</title>
+    <desc>Od 1948. godine bugarski klubovi bore se za titulu najboljeg u zemlji. Trenutno u ligi nastupa 14 klubova, koji se bore za prvo mesto i nastup u kvalifikacijama Lige šampiona.</desc>
+  </programme>
+  <programme start="20241023192500 +0300" stop="20241023203000 +0300" channel="sportklub3.rs">
+    <title>Moto GP Australija: Trka</title>
+    <desc>Pratite motociklističko takmičenje u klasi Moto GP, koje se održava na stazi Phillip Island u blizini Ventnora (Philip Island, Australija).</desc>
+  </programme>
+  <programme start="20241023203000 +0300" stop="20241023223000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Eurocup: Budućnost - Bahcesehir</title>
+    <desc>Drugo po težini takmičenje u evropskoj klubskoj košarci sigurno zavređuje pažnju ljubitelja košarke. Iako je pomalo u senci Evrolige, Evrokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20241023223000 +0300" stop="20241023232000 +0300" channel="sportklub3.rs">
+    <title>Trans World Sport</title>
+    <desc>Interesantne priče i neobični sportovi iz svih delova sveta. Uvek ćete biti u toku uz ovu emisiju.</desc>
+  </programme>
+  <programme start="20241023232000 +0300" stop="20241024013500 +0300" channel="sportklub3.rs">
+    <title>Američki koledž fudbal: Florida International - Sam Houston</title>
+    <desc>Koledž fudbal je američki fudbal koji igraju timovi sportista-studenata u okviru američkih koledža, univerziteta i vojnih akademija. Univerzitetski fudbal je jedna stepenica niže u odnosu na...</desc>
+  </programme>
+  <programme start="20241024013500 +0300" stop="20241024024000 +0300" channel="sportklub3.rs">
+    <title>Socca - Aegean Cup (Krit): BJM Krakow - Victory Vrsar</title>
+    <desc>Pogledajte utakmice Egean Socca kupa na kojem se četiri reprezentacije takmiče za titulu.</desc>
+  </programme>
+  <programme start="20241024024000 +0300" stop="20241024041000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Eurocup: Hapoel Jerusalem - Cluj</title>
+    <desc>Drugo po težini takmičenje u evropskoj klubskoj košarci sigurno zavređuje pažnju ljubitelja košarke. Iako je pomalo u senci Evrolige, Evrokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20241024041000 +0300" stop="20241024054500 +0300" channel="sportklub3.rs">
+    <title>Košarka - Eurocup: Trento - Hapoel Tel Aviv</title>
+    <desc>Drugo po težini takmičenje u evropskoj klubskoj košarci sigurno zavređuje pažnju ljubitelja košarke. Iako je pomalo u senci Evrolige, Evrokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20241024054500 +0300" stop="20241024073500 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Shanghai Shenhua - Kawasaki</title>
+    <desc>40 najboljih klubova Azije se obračunava za prestižni pehar. Da li će pobediti neko iz zemalja izlazećeg sunca ili neko od bogatih arapskih klubova?</desc>
+  </programme>
+  <programme start="20241024073500 +0300" stop="20241024091000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Eurocup: Aris - Cedevita Olimpija</title>
+    <desc>Drugo po težini takmičenje u evropskoj klubskoj košarci sigurno zavređuje pažnju ljubitelja košarke. Iako je pomalo u senci Evrolige, Evrokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20241024091000 +0300" stop="20241024105500 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Ulsan - Kobe</title>
+    <desc>40 najboljih klubova Azije se obračunava za prestižni pehar. Da li će pobediti neko iz zemalja izlazećeg sunca ili neko od bogatih arapskih klubova?</desc>
+  </programme>
+  <programme start="20241024105500 +0300" stop="20241024130000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Euroleague: Partizan - Virtus</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241024130000 +0300" stop="20241024150000 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - TWO: Lee Man - Bangkok United</title>
+    <desc>Što je Liga Evrope nama, to je AFC Champions League Two na najvećem kontinentu. Ima ovde mnogo kvalitetnih igrača i mnogo onih za koje ste se pitali "gde su i šta rade"...</desc>
+  </programme>
+  <programme start="20241024150000 +0300" stop="20241024170000 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - TWO: Kaya Iloilo - Eastern</title>
+    <desc>Što je Liga Evrope nama, to je AFC Champions League Two na najvećem kontinentu. Ima ovde mnogo kvalitetnih igrača i mnogo onih za koje ste se pitali "gde su i šta rade"...</desc>
+  </programme>
+  <programme start="20241024170000 +0300" stop="20241024173000 +0300" channel="sportklub3.rs">
+    <title>Pregled Spartan World Championship: Hvar</title>
+  </programme>
+  <programme start="20241024173000 +0300" stop="20241024192500 +0300" channel="sportklub3.rs">
+    <title>Fudbal - Bugarska liga: CSKA - Botev Vratsa</title>
+    <desc>Od 1948. godine bugarski klubovi bore se za titulu najboljeg u zemlji. Trenutno u ligi nastupa 14 klubova, koji se bore za prvo mesto i nastup u kvalifikacijama Lige šampiona.</desc>
+  </programme>
+  <programme start="20241024192500 +0300" stop="20241024194000 +0300" channel="sportklub3.rs">
+    <title>Pregled španske košarke</title>
+    <desc>Donosimo pregled mečeva i klipove najboljih trenutaka iz Endese, najjače košarkaške lige Španije.</desc>
+  </programme>
+  <programme start="20241024194000 +0300" stop="20241024200000 +0300" channel="sportklub3.rs">
+    <title>Legende Evrolige: Arvidas Sabonis</title>
+    <desc>Predstavljamo vam legende najjačeg i najvažnijeg klupskog profesionalnog košarkaškog takmičenja u Evropi.</desc>
+  </programme>
+  <programme start="20241024200000 +0300" stop="20241024220000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Euroleague: Zalgiris - Maccabi</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241024220000 +0300" stop="20241025001000 +0300" channel="sportklub3.rs">
+    <title>Američki koledž fudbal: Jacksonville State - Middle Tennessee</title>
+    <desc>Koledž fudbal je američki fudbal koji igraju timovi sportista-studenata u okviru američkih koledža, univerziteta i vojnih akademija. Univerzitetski fudbal je jedna stepenica niže u odnosu na...</desc>
+  </programme>
+  <programme start="20241025001000 +0300" stop="20241025010500 +0300" channel="sportklub3.rs">
+    <title>Magazin saudijske lige</title>
+    <desc>Donosimo pregled mečeva saudijske fudbalske lige, najbolji golovi, potezi i analize.</desc>
+  </programme>
+  <programme start="20241025010500 +0300" stop="20241025024000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Euroleague: Baskonia - Alba</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241025024000 +0300" stop="20241025040500 +0300" channel="sportklub3.rs">
+    <title>Rukomet - Nemačka liga: Hamburg - Hannover</title>
+    <desc>Rukometna Bundesliga je najviši rang takmičenja u Nemačkoj. Kvalitetom igre smatra se jednim od najkvalitetnijih rukometnih liga na svetu.</desc>
+  </programme>
+  <programme start="20241025040500 +0300" stop="20241025050000 +0300" channel="sportklub3.rs">
+    <title>Pit Box: Moto GP Special</title>
+    <desc>Specijalna emisija o Moto GP-u u produkciji Sportklub televizije. Kroz emisiju vas vode naši komentatori Darin Janković i Tomislav Bešenić.</desc>
+  </programme>
+  <programme start="20241025050000 +0300" stop="20241025054500 +0300" channel="sportklub3.rs">
+    <title>Moto 3 Thailand: Trening 1</title>
+    <desc>Pratite motociklističko takmičenje u klasi Moto 3, koje se održava od 30. septembra do 2. oktobra 2022. godine na međunarodnom trkalištu u Buriramu na Tajlandu.</desc>
+  </programme>
+  <programme start="20241025054500 +0300" stop="20241025064000 +0300" channel="sportklub3.rs">
+    <title>Moto 2 Thailand: Trening 1</title>
+    <desc>Pratite motociklističko takmičenje u klasi Moto 2 koje se održava od 30. septembra do 2. oktobra 2022. godine na međunarodnom trkalištu u Buriramu na Tajlandu.</desc>
+  </programme>
+  <programme start="20241025064000 +0300" stop="20241025074000 +0300" channel="sportklub3.rs">
+    <title>Moto GP Thailand: Trening 1</title>
+    <desc>Pratite Veliku nagradu Tajlanda, motociklističko takmičenje koje se održava od 30. septembra do 2. oktobra 2022. godine na međunarodnom trkalištu u Buriramu.</desc>
+  </programme>
+  <programme start="20241025074000 +0300" stop="20241025091500 +0300" channel="sportklub3.rs">
+    <title>Košarka - Eurocup: Turk Telekom - Valencia</title>
+    <desc>Drugo po težini takmičenje u evropskoj klubskoj košarci sigurno zavređuje pažnju ljubitelja košarke. Iako je pomalo u senci Evrolige, Evrokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20241025091500 +0300" stop="20241025100000 +0300" channel="sportklub3.rs">
+    <title>Moto 3 Thailand: Trening 2</title>
+    <desc>Pratite motociklističko takmičenje u klasi Moto 3, koje se održava od 30. septembra do 2. oktobra 2022. godine na međunarodnom trkalištu u Buriramu na Tajlandu.</desc>
+  </programme>
+  <programme start="20241025100000 +0300" stop="20241025105500 +0300" channel="sportklub3.rs">
+    <title>Moto 2 Thailand: Trening 2</title>
+    <desc>Pratite motociklističko takmičenje u klasi Moto 2 koje se održava od 30. septembra do 2. oktobra 2022. godine na međunarodnom trkalištu u Buriramu na Tajlandu.</desc>
+  </programme>
+  <programme start="20241025105500 +0300" stop="20241025121000 +0300" channel="sportklub3.rs">
+    <title>Moto GP Thailand: Trening 2</title>
+    <desc>Pratite Veliku nagradu Tajlanda, motociklističko takmičenje koje se održava od 30. septembra do 2. oktobra 2022. godine na međunarodnom trkalištu u Buriramu.</desc>
+  </programme>
+  <programme start="20241025121000 +0300" stop="20241025123500 +0300" channel="sportklub3.rs">
+    <title>Fast Zone</title>
+    <desc>U ovoj emisiji, videćemo šta se dešava na serijama koje ne prenosi Sport Klub. I ovde ima kvalitetnih i ambicioznih vozača koji žele da se probiju u sam vrh.</desc>
+  </programme>
+  <programme start="20241025123500 +0300" stop="20241025130000 +0300" channel="sportklub3.rs">
+    <title>Magazin Bundeslige</title>
+    <desc>Pratite sportski magazin posvećen Bundesligi te saznajte sve o utakmicama, rezultatima i novim pojačanjima u najboljim nemačkim fudbalskim klubovima.</desc>
+  </programme>
+  <programme start="20241025130000 +0300" stop="20241025133000 +0300" channel="sportklub3.rs">
+    <title>Ekstremni svet sporta</title>
+    <desc>Sve o ekstremnim sportovima, takmičenjima u izdržljivosti i istinskim takmičarskim maratonima. Ovi ljudi svaki dan pomeraju granice onoga što je moguće.</desc>
+  </programme>
+  <programme start="20241025133000 +0300" stop="20241025152500 +0300" channel="sportklub3.rs">
+    <title>Košarka - Australijska liga: Perth - Sydney</title>
+    <desc>Nema boljeg načina da se počne dan nego uz australijsku košarku. Uzeli su medalju na Olimpijskim igrama, hale su pune i napreduju iz godine u godinu.</desc>
+  </programme>
+  <programme start="20241025152500 +0300" stop="20241025170000 +0300" channel="sportklub3.rs">
+    <title>Odbojka - Poljska liga: Lublin - Zaksa</title>
+    <desc>Pratimo mečeve najvišeg ranga odbojkaškog takmičenja u Poljskoj! Ova liga je svrstana među najbolje odbojkaške lige u Evropi, a u njoj se za svoje mesto bore najbolji klubovi te zemlje.</desc>
+  </programme>
+  <programme start="20241025170000 +0300" stop="20241025190000 +0300" channel="sportklub3.rs">
+    <title>Fudbal - Slovenačka 2. liga: Aluminij - Beltinci</title>
+    <desc>Borba za ulazak u slovenačku elitu. Razlika je minimalna, svi se sa pravom nadaju uspehu, ali biće veoma teško ispuniti zacrtane ciljeve.</desc>
+  </programme>
+  <programme start="20241025190000 +0300" stop="20241025211000 +0300" channel="sportklub3.rs">
+    <title>Američki koledž fudbal: Pittsburgh - Syracuse</title>
+    <desc>Koledž fudbal je američki fudbal koji igraju timovi sportista-studenata u okviru američkih koledža, univerziteta i vojnih akademija. Univerzitetski fudbal je jedna stepenica niže u odnosu na...</desc>
+  </programme>
+  <programme start="20241025211000 +0300" stop="20241025213000 +0300" channel="sportklub3.rs">
+    <title>Legende Evrolige: San Epifanio</title>
+    <desc>Predstavljamo vam legende najjačeg i najvažnijeg klupskog profesionalnog košarkaškog takmičenja u Evropi.</desc>
+  </programme>
+  <programme start="20241025213000 +0300" stop="20241025233000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Euroleague: Barcelona - Asvel</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20241025233000 +0300" channel="sportklub3.rs">
+    <title>Rukomet - Nemačka liga: Erlangen - Kiel</title>
+    <desc>Rukometna Bundesliga je najviši rang takmičenja u Nemačkoj. Kvalitetom igre smatra se jednim od najkvalitetnijih rukometnih liga na svetu.</desc>
   </programme>
   <programme start="20241022070000 +0300" stop="20241022073000 +0300" channel="ligadecampeones.mplus.es">
     <title>Magazine Champions League (T24/25): Episodio 6</title>

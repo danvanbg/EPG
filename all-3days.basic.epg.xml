@@ -290,10 +290,6 @@
     <display-name>B1B Action HD</display-name>
     <display-name>B1B TV</display-name>
   </channel>
-  <channel id="edgesport.bg">
-    <display-name>EDGE Sport</display-name>
-    <display-name>Edge Sport HD</display-name>
-  </channel>
   <channel id="eurosport1.bg">
     <display-name>Eurosport</display-name>
     <display-name>Eurosport HD</display-name>
@@ -344,8 +340,8 @@
     <display-name lang="en">Match! Arena</display-name>
   </channel>
   <channel id="matchpremier.ru">
-    <display-name lang="ru">Матч! Пермиер</display-name>
-    <display-name lang="ru">Матч! Пермиер HD</display-name>
+    <display-name lang="ru">Матч! Премьер</display-name>
+    <display-name lang="ru">Матч! Премьер HD</display-name>
     <display-name lang="en">Match! Premier</display-name>
   </channel>
   <channel id="matchtv.ru">
@@ -421,6 +417,33 @@
   <channel id="skysportbundesliga.de">
     <display-name lang="de">Sky Sport Bundesliga</display-name>
     <display-name lang="de">Sky Sport Bundesliga HD</display-name>
+  </channel>
+  <channel id="sportklub1.rs">
+    <display-name lang="sr">SR: Sport Klub 1</display-name>
+  </channel>
+  <channel id="sportklub2.rs">
+    <display-name lang="sr">SR: Sport Klub 2</display-name>
+  </channel>
+  <channel id="sportklub3.rs">
+    <display-name lang="sr">SR: Sport Klub 3</display-name>
+  </channel>
+  <channel id="sportklub1.hr">
+    <display-name lang="hr">HR: Sport Klub 1</display-name>
+  </channel>
+  <channel id="sportklub2.hr">
+    <display-name lang="hr">HR: Sport Klub 2</display-name>
+  </channel>
+  <channel id="sportklub3.hr">
+    <display-name lang="hr">HR: Sport Klub 3</display-name>
+  </channel>
+  <channel id="sportklub4.hr">
+    <display-name lang="hr">HR: Sport Klub 4</display-name>
+  </channel>
+  <channel id="sportklub5.hr">
+    <display-name lang="hr">HR: Sport Klub 5</display-name>
+  </channel>
+  <channel id="sportklub6.hr">
+    <display-name lang="hr">HR: Sport Klub 6</display-name>
   </channel>
   <channel id="ligadecampeones.mplus.es">
     <display-name lang="es">M+ Liga de Campeones</display-name>
@@ -13864,6 +13887,399 @@
   </programme>
   <programme start="20241024230000 +0300" stop="20241025050000 +0300" channel="skysportbundesliga.de">
     <title>Fußball: Bundesliga</title>
+  </programme>
+  <programme start="20241022040000 +0300" stop="20241022050500 +0300" channel="sportklub1.rs">
+    <title>ATP 500 Vienna: Zverev - Schwaerzler</title>
+  </programme>
+  <programme start="20241022050500 +0300" stop="20241022061000 +0300" channel="sportklub1.rs">
+    <title>ATP 500 Basel: Rublev - Borges</title>
+  </programme>
+  <programme start="20241022061000 +0300" stop="20241022071500 +0300" channel="sportklub1.rs">
+    <title>ATP 500 Vienna: Popyrin - Mensik</title>
+  </programme>
+  <programme start="20241022071500 +0300" stop="20241022090000 +0300" channel="sportklub1.rs">
+    <title>Fudbal - Norveška liga: Rosenborg - Brann</title>
+  </programme>
+  <programme start="20241022090000 +0300" stop="20241022093000 +0300" channel="sportklub1.rs">
+    <title>Soccer Bet SK VESTI</title>
+  </programme>
+  <programme start="20241022093000 +0300" stop="20241022100000 +0300" channel="sportklub1.rs">
+    <title>Bundesliga Specijal: Trenerski masterklas - Alonso, Kompani, Sahin</title>
+  </programme>
+  <programme start="20241022100000 +0300" stop="20241022120000 +0300" channel="sportklub1.rs">
+    <title>JutroSK</title>
+  </programme>
+  <programme start="20241022120000 +0300" stop="20241022130000 +0300" channel="sportklub1.rs">
+    <title>Pregled holandske lige</title>
+  </programme>
+  <programme start="20241022130000 +0300" stop="20241022150000 +0300" channel="sportklub1.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Gwangju - Johor</title>
+  </programme>
+  <programme start="20241022150000 +0300" stop="20241022170500 +0300" channel="sportklub1.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Shandong - Yokohama Marinos</title>
+  </programme>
+  <programme start="20241022170500 +0300" stop="20241022181500 +0300" channel="sportklub1.rs">
+    <title>Podkast EL - Večiti</title>
+  </programme>
+  <programme start="20241022181500 +0300" stop="20241022190000 +0300" channel="sportklub1.rs">
+    <title>Pregled Evrokupa</title>
+  </programme>
+  <programme start="20241022190000 +0300" stop="20241022210500 +0300" channel="sportklub1.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Esteghlal - Nassr</title>
+  </programme>
+  <programme start="20241022210500 +0300" stop="20241022212000 +0300" channel="sportklub1.rs">
+    <title>Pregled španske košarke</title>
+  </programme>
+  <programme start="20241022212000 +0300" stop="20241022214500 +0300" channel="sportklub1.rs">
+    <title>Pregled Evrolige: 3. KOLO</title>
+  </programme>
+  <programme start="20241022214500 +0300" stop="20241022220000 +0300" channel="sportklub1.rs">
+    <title>Pregled Evrolige: 4. KOLO</title>
+  </programme>
+  <programme start="20241022220000 +0300" stop="20241023000000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Eurocup: Gran Canaria - Ulm</title>
+  </programme>
+  <programme start="20241023000000 +0300" stop="20241023003000 +0300" channel="sportklub1.rs">
+    <title>Soccer Bet SK VESTI</title>
+  </programme>
+  <programme start="20241023003000 +0300" stop="20241023020000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Eurocup: Besiktas - Joventut</title>
+  </programme>
+  <programme start="20241023020000 +0300" stop="20241023023000 +0300" channel="sportklub1.rs">
+    <title>Život fudbalera</title>
+  </programme>
+  <programme start="20241023023000 +0300" stop="20241023053500 +0300" channel="sportklub1.rs">
+    <title>Američki koledž fudbal: Florida International - Sam Houston</title>
+  </programme>
+  <programme start="20241023053500 +0300" stop="20241023072500 +0300" channel="sportklub1.rs">
+    <title>Fudbal - Turska liga: Antalya - Galatasaray</title>
+  </programme>
+  <programme start="20241023072500 +0300" stop="20241023074000 +0300" channel="sportklub1.rs">
+    <title>Pregled španske košarke</title>
+  </programme>
+  <programme start="20241023074000 +0300" stop="20241023090500 +0300" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Lietkabelis - Bourg</title>
+  </programme>
+  <programme start="20241023090500 +0300" stop="20241023093000 +0300" channel="sportklub1.rs">
+    <title>Soccer Bet SK VESTI</title>
+  </programme>
+  <programme start="20241023093000 +0300" stop="20241023100000 +0300" channel="sportklub1.rs">
+    <title>Tribalion _Tara</title>
+  </programme>
+  <programme start="20241023100000 +0300" stop="20241023120000 +0300" channel="sportklub1.rs">
+    <title>JutroSK</title>
+  </programme>
+  <programme start="20241023120000 +0300" stop="20241023130000 +0300" channel="sportklub1.rs">
+    <title>Pregled turske lige</title>
+  </programme>
+  <programme start="20241023130000 +0300" stop="20241023150000 +0300" channel="sportklub1.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Ulsan - Kobe</title>
+  </programme>
+  <programme start="20241023150000 +0300" stop="20241023170500 +0300" channel="sportklub1.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Shanghai Shenhua - Kawasaki</title>
+  </programme>
+  <programme start="20241023170500 +0300" stop="20241023184000 +0300" channel="sportklub1.rs">
+    <title>Sport kakav pamtimo: Dragan Vujić Vujke</title>
+  </programme>
+  <programme start="20241023184000 +0300" stop="20241023193000 +0300" channel="sportklub1.rs">
+    <title>Magazin saudijske lige</title>
+  </programme>
+  <programme start="20241023193000 +0300" stop="20241023194500 +0300" channel="sportklub1.rs">
+    <title>Pregled španske košarke</title>
+  </programme>
+  <programme start="20241023194500 +0300" stop="20241023213000 +0300" channel="sportklub1.rs">
+    <title>Evroliga Studio</title>
+  </programme>
+  <programme start="20241023213000 +0300" stop="20241023232000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Partizan - Virtus</title>
+  </programme>
+  <programme start="20241023232000 +0300" stop="20241023233500 +0300" channel="sportklub1.rs">
+    <title>Evroliga Studio</title>
+  </programme>
+  <programme start="20241023233500 +0300" stop="20241023234500 +0300" channel="sportklub1.rs">
+    <title>Evroliga - Konferencija za medije</title>
+  </programme>
+  <programme start="20241023234500 +0300" stop="20241024000000 +0300" channel="sportklub1.rs">
+    <title>Evroliga Studio</title>
+  </programme>
+  <programme start="20241024000000 +0300" stop="20241024003000 +0300" channel="sportklub1.rs">
+    <title>Soccer Bet SK VESTI</title>
+  </programme>
+  <programme start="20241024003000 +0300" stop="20241024020000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Eurocup: Budućnost - Bahcesehir</title>
+  </programme>
+  <programme start="20241024020000 +0300" stop="20241024023000 +0300" channel="sportklub1.rs">
+    <title>Euroleague serijal: Overseas</title>
+  </programme>
+  <programme start="20241024023000 +0300" stop="20241024054000 +0300" channel="sportklub1.rs">
+    <title>Američki koledž fudbal: Jacksonville State - Middle Tennessee</title>
+  </programme>
+  <programme start="20241024054000 +0300" stop="20241024071500 +0300" channel="sportklub1.rs">
+    <title>Košarka - Eurocup: Turk Telekom - Valencia</title>
+  </programme>
+  <programme start="20241024071500 +0300" stop="20241024090000 +0300" channel="sportklub1.rs">
+    <title>Chelsea TV: Liverpool - Chelsea (PL)</title>
+  </programme>
+  <programme start="20241024090000 +0300" stop="20241024093000 +0300" channel="sportklub1.rs">
+    <title>Soccer Bet SK VESTI</title>
+  </programme>
+  <programme start="20241024093000 +0300" stop="20241024113000 +0300" channel="sportklub1.rs">
+    <title>JutroSK</title>
+  </programme>
+  <programme start="20241024113000 +0300" stop="20241024132000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Australijska liga: Illawarra - Melbourne</title>
+  </programme>
+  <programme start="20241024132000 +0300" stop="20241024150000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Eurocup: Trento - Hapoel Tel Aviv</title>
+  </programme>
+  <programme start="20241024150000 +0300" stop="20241024163000 +0300" channel="sportklub1.rs">
+    <title>SK Tribina: Budućnost fudbalera na Balkanu</title>
+  </programme>
+  <programme start="20241024163000 +0300" stop="20241024180000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Eurocup: Aris - Cedevita Olimpija</title>
+  </programme>
+  <programme start="20241024180000 +0300" stop="20241024200000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Partizan - Virtus</title>
+  </programme>
+  <programme start="20241024200000 +0300" stop="20241024214500 +0300" channel="sportklub1.rs">
+    <title>Evroliga Studio</title>
+  </programme>
+  <programme start="20241024214500 +0300" stop="20241024234000 +0300" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Real Madrid - Crvena zvezda</title>
+  </programme>
+  <programme start="20241024234000 +0300" stop="20241025000000 +0300" channel="sportklub1.rs">
+    <title>Evroliga Studio</title>
+  </programme>
+  <programme start="20241022032500 +0300" stop="20241022050000 +0300" channel="sportklub2.rs">
+    <title>Košarka - Grčka liga: Panathinaikos - AEK</title>
+  </programme>
+  <programme start="20241022050000 +0300" stop="20241022060000 +0300" channel="sportklub2.rs">
+    <title>WTA 500 Tokyo</title>
+  </programme>
+  <programme start="20241022060000 +0300" stop="20241022074500 +0300" channel="sportklub2.rs">
+    <title>WTA 250 Guangzhou: Bektas - Parry</title>
+  </programme>
+  <programme start="20241022074500 +0300" stop="20241022094500 +0300" channel="sportklub2.rs">
+    <title>WTA 250 Guangzhou: Bouzas-Maneiro - Fett</title>
+  </programme>
+  <programme start="20241022094500 +0300" stop="20241022113000 +0300" channel="sportklub2.rs">
+    <title>WTA 250 Guangzhou: Siniakova - Martić</title>
+  </programme>
+  <programme start="20241022113000 +0300" stop="20241022130000 +0300" channel="sportklub2.rs">
+    <title>WTA 250 Guangzhou: Yuan - Minnen</title>
+  </programme>
+  <programme start="20241022130000 +0300" stop="20241022144500 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Vienna: Kecmanović - Navone</title>
+  </programme>
+  <programme start="20241022144500 +0300" stop="20241022164500 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Basel: Shapovalov - Shang</title>
+  </programme>
+  <programme start="20241022164500 +0300" stop="20241022183000 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Basel: Van de Zandschulp - Bublik</title>
+  </programme>
+  <programme start="20241022183000 +0300" stop="20241022203000 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Basel: Čilić - Tabilo</title>
+  </programme>
+  <programme start="20241022203000 +0300" stop="20241022210000 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Basel: Jarry - Rune (UKLJUČENJE)</title>
+  </programme>
+  <programme start="20241022210000 +0300" stop="20241022231500 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Basel: Tsitsipas - F. Cerundolo</title>
+  </programme>
+  <programme start="20241022231500 +0300" stop="20241023010000 +0300" channel="sportklub2.rs">
+    <title>Chelsea TV: Liverpool - Chelsea (PL)</title>
+  </programme>
+  <programme start="20241023010000 +0300" stop="20241023020000 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Vienna: Halys - Monfils</title>
+  </programme>
+  <programme start="20241023020000 +0300" stop="20241023030000 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Basel: Jarry - Rune</title>
+  </programme>
+  <programme start="20241023030000 +0300" stop="20241023040500 +0300" channel="sportklub2.rs">
+    <title>Pregled turske lige</title>
+  </programme>
+  <programme start="20241023040500 +0300" stop="20241023050000 +0300" channel="sportklub2.rs">
+    <title>Pregled Bundeslige</title>
+  </programme>
+  <programme start="20241023050000 +0300" stop="20241023070000 +0300" channel="sportklub2.rs">
+    <title>WTA 500 Tokyo</title>
+  </programme>
+  <programme start="20241023070000 +0300" stop="20241023080000 +0300" channel="sportklub2.rs">
+    <title>WTA 500 Tokyo</title>
+  </programme>
+  <programme start="20241023080000 +0300" stop="20241023130000 +0300" channel="sportklub2.rs">
+    <title>WTA 500 Tokyo &amp; WTA 250 Guangzou</title>
+  </programme>
+  <programme start="20241023130000 +0300" stop="20241023140000 +0300" channel="sportklub2.rs">
+    <title>Tenis: ATP 500 Basel &amp; WTA 250 Guangzhou &amp; WTA 500 Tokyo</title>
+  </programme>
+  <programme start="20241023140000 +0300" stop="20241023231500 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Vienna &amp; ATP 500 Basel</title>
+  </programme>
+  <programme start="20241023231500 +0300" stop="20241023234500 +0300" channel="sportklub2.rs">
+    <title>ATP Uncovered</title>
+  </programme>
+  <programme start="20241023234500 +0300" stop="20241024004000 +0300" channel="sportklub2.rs">
+    <title>Pregled holandske lige</title>
+  </programme>
+  <programme start="20241024004000 +0300" stop="20241024024500 +0300" channel="sportklub2.rs">
+    <title>Košarka - Euroleague: Partizan - Virtus</title>
+  </programme>
+  <programme start="20241024024500 +0300" stop="20241024050000 +0300" channel="sportklub2.rs">
+    <title>ATP 500 Vienna &amp; ATP 500 Basel</title>
+  </programme>
+  <programme start="20241024050000 +0300" stop="20241024070000 +0300" channel="sportklub2.rs">
+    <title>WTA 500 Tokyo</title>
+  </programme>
+  <programme start="20241024070000 +0300" stop="20241024080000 +0300" channel="sportklub2.rs">
+    <title>WTA 500 Tokyo</title>
+  </programme>
+  <programme start="20241024080000 +0300" stop="20241024130000 +0300" channel="sportklub2.rs">
+    <title>WTA 500 Tokyo &amp; WTA 250 Guangzhou</title>
+  </programme>
+  <programme start="20241024130000 +0300" stop="20241024213000 +0300" channel="sportklub2.rs">
+    <title>Tenis: ATP 500 Vienna &amp; ATP 500 Basel &amp; WTA 250 Guangzhou &amp; WTA 500 Tokyo</title>
+  </programme>
+  <programme start="20241024213000 +0300" stop="20241024233000 +0300" channel="sportklub2.rs">
+    <title>Košarka - Euroleague: Armani - Efes</title>
+  </programme>
+  <programme start="20241024233000 +0300" stop="20241025000000 +0300" channel="sportklub2.rs">
+    <title>Magazin Bundeslige</title>
+  </programme>
+  <programme start="20241022034500 +0300" stop="20241022070000 +0300" channel="sportklub3.rs">
+    <title>NASCAR: Playoffs: Las Vegas</title>
+  </programme>
+  <programme start="20241022070000 +0300" stop="20241022091500 +0300" channel="sportklub3.rs">
+    <title>Američki koledž fudbal: Tennessee - Alabama</title>
+  </programme>
+  <programme start="20241022091500 +0300" stop="20241022104500 +0300" channel="sportklub3.rs">
+    <title>Košarka - Grčka liga: Karditsa - Olympiacos</title>
+  </programme>
+  <programme start="20241022104500 +0300" stop="20241022110000 +0300" channel="sportklub3.rs">
+    <title>Na današnji dan</title>
+  </programme>
+  <programme start="20241022110000 +0300" stop="20241022123500 +0300" channel="sportklub3.rs">
+    <title>Košarka - Grčka liga: Panathinaikos - AEK</title>
+  </programme>
+  <programme start="20241022123500 +0300" stop="20241022130000 +0300" channel="sportklub3.rs">
+    <title>Euroleague Special: Andrea Trinkijeri - 5 igrača</title>
+  </programme>
+  <programme start="20241022130000 +0300" stop="20241022150000 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Shanghai Port - Central Coast Mariners</title>
+  </programme>
+  <programme start="20241022150000 +0300" stop="20241022170000 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Buriram - Pohang Steelers</title>
+  </programme>
+  <programme start="20241022170000 +0300" stop="20241022190000 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Sharjah - Sepahan</title>
+  </programme>
+  <programme start="20241022190000 +0300" stop="20241022200000 +0300" channel="sportklub3.rs">
+    <title>Pregled Biciklizam: Tour of Croatia</title>
+  </programme>
+  <programme start="20241022200000 +0300" stop="20241022220000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Eurocup: Besiktas - Joventut</title>
+  </programme>
+  <programme start="20241022220000 +0300" stop="20241022231000 +0300" channel="sportklub3.rs">
+    <title>Pregled turske lige</title>
+  </programme>
+  <programme start="20241022231000 +0300" stop="20241023010000 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Gwangju - Johor</title>
+  </programme>
+  <programme start="20241023010000 +0300" stop="20241023011500 +0300" channel="sportklub3.rs">
+    <title>Pregled španske košarke</title>
+  </programme>
+  <programme start="20241023011500 +0300" stop="20241023030000 +0300" channel="sportklub3.rs">
+    <title>MUTV: Manchester United - Brentford (PL)</title>
+  </programme>
+  <programme start="20241023030000 +0300" stop="20241023045500 +0300" channel="sportklub3.rs">
+    <title>E-Sports: League of Legends - Worlds</title>
+  </programme>
+  <programme start="20241023045500 +0300" stop="20241023063000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Eurocup: Lietkabelis - Bourg</title>
+  </programme>
+  <programme start="20241023063000 +0300" stop="20241023072500 +0300" channel="sportklub3.rs">
+    <title>Pregled holandske lige</title>
+  </programme>
+  <programme start="20241023072500 +0300" stop="20241023091500 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Shandong - Yokohama Marinos</title>
+  </programme>
+  <programme start="20241023091500 +0300" stop="20241023105000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Eurocup: Gran Canaria - Ulm</title>
+  </programme>
+  <programme start="20241023105000 +0300" stop="20241023110500 +0300" channel="sportklub3.rs">
+    <title>Na današnji dan</title>
+  </programme>
+  <programme start="20241023110500 +0300" stop="20241023130000 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Esteghlal - Nassr</title>
+  </programme>
+  <programme start="20241023130000 +0300" stop="20241023150000 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - TWO: Hiroshima - Sydney</title>
+  </programme>
+  <programme start="20241023150000 +0300" stop="20241023170500 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Selangor - Jeonbuk</title>
+  </programme>
+  <programme start="20241023170500 +0300" stop="20241023173000 +0300" channel="sportklub3.rs">
+    <title>Zlatni golovi YU sporta</title>
+  </programme>
+  <programme start="20241023173000 +0300" stop="20241023192500 +0300" channel="sportklub3.rs">
+    <title>Fudbal - Bugarska liga: Spartak Varna - Lokomotiv Plovdiv</title>
+  </programme>
+  <programme start="20241023192500 +0300" stop="20241023203000 +0300" channel="sportklub3.rs">
+    <title>Moto GP Australija: Trka</title>
+  </programme>
+  <programme start="20241023203000 +0300" stop="20241023223000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Eurocup: Budućnost - Bahcesehir</title>
+  </programme>
+  <programme start="20241023223000 +0300" stop="20241023232000 +0300" channel="sportklub3.rs">
+    <title>Trans World Sport</title>
+  </programme>
+  <programme start="20241023232000 +0300" stop="20241024013500 +0300" channel="sportklub3.rs">
+    <title>Američki koledž fudbal: Florida International - Sam Houston</title>
+  </programme>
+  <programme start="20241024013500 +0300" stop="20241024024000 +0300" channel="sportklub3.rs">
+    <title>Socca - Aegean Cup (Krit): BJM Krakow - Victory Vrsar</title>
+  </programme>
+  <programme start="20241024024000 +0300" stop="20241024041000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Eurocup: Hapoel Jerusalem - Cluj</title>
+  </programme>
+  <programme start="20241024041000 +0300" stop="20241024054500 +0300" channel="sportklub3.rs">
+    <title>Košarka - Eurocup: Trento - Hapoel Tel Aviv</title>
+  </programme>
+  <programme start="20241024054500 +0300" stop="20241024073500 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Shanghai Shenhua - Kawasaki</title>
+  </programme>
+  <programme start="20241024073500 +0300" stop="20241024091000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Eurocup: Aris - Cedevita Olimpija</title>
+  </programme>
+  <programme start="20241024091000 +0300" stop="20241024105500 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - ELITE: Ulsan - Kobe</title>
+  </programme>
+  <programme start="20241024105500 +0300" stop="20241024130000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Euroleague: Partizan - Virtus</title>
+  </programme>
+  <programme start="20241024130000 +0300" stop="20241024150000 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - TWO: Lee Man - Bangkok United</title>
+  </programme>
+  <programme start="20241024150000 +0300" stop="20241024170000 +0300" channel="sportklub3.rs">
+    <title>Fudbal: LŠ Azije - TWO: Kaya Iloilo - Eastern</title>
+  </programme>
+  <programme start="20241024170000 +0300" stop="20241024173000 +0300" channel="sportklub3.rs">
+    <title>Pregled Spartan World Championship: Hvar</title>
+  </programme>
+  <programme start="20241024173000 +0300" stop="20241024192500 +0300" channel="sportklub3.rs">
+    <title>Fudbal - Bugarska liga: CSKA - Botev Vratsa</title>
+  </programme>
+  <programme start="20241024192500 +0300" stop="20241024194000 +0300" channel="sportklub3.rs">
+    <title>Pregled španske košarke</title>
+  </programme>
+  <programme start="20241024194000 +0300" stop="20241024200000 +0300" channel="sportklub3.rs">
+    <title>Legende Evrolige: Arvidas Sabonis</title>
+  </programme>
+  <programme start="20241024200000 +0300" stop="20241024220000 +0300" channel="sportklub3.rs">
+    <title>Košarka - Euroleague: Zalgiris - Maccabi</title>
+  </programme>
+  <programme start="20241024220000 +0300" stop="20241025001000 +0300" channel="sportklub3.rs">
+    <title>Američki koledž fudbal: Jacksonville State - Middle Tennessee</title>
   </programme>
   <programme start="20241022070000 +0300" stop="20241022073000 +0300" channel="ligadecampeones.mplus.es">
     <title>Magazine Champions League (T24/25): Episodio 6</title>
@@ -50281,6 +50697,123 @@
   </programme>
   <programme start="20241024223900 +0300" stop="20241025040700 +0300" channel="dorcelxxx.com">
     <title>Tushy Raw Vol.59</title>
+  </programme>
+  <programme start="20241022043000 +0300" stop="20241022060000 +0300" channel="hustlerhd.com">
+    <title>First-Timers' Legal Flings On Cam!</title>
+  </programme>
+  <programme start="20241022060000 +0300" stop="20241022073000 +0300" channel="hustlerhd.com">
+    <title>Unfaithful Wives Need Creampies</title>
+  </programme>
+  <programme start="20241022073000 +0300" stop="20241022090000 +0300" channel="hustlerhd.com">
+    <title>Young MILFs' Boobacious 3Ways</title>
+  </programme>
+  <programme start="20241022090000 +0300" stop="20241022103000 +0300" channel="hustlerhd.com">
+    <title>Fiery 18YO Redheads Ride</title>
+  </programme>
+  <programme start="20241022103000 +0300" stop="20241022120000 +0300" channel="hustlerhd.com">
+    <title>10'' Bones Pump Oiled, Natural Babes</title>
+  </programme>
+  <programme start="20241022120000 +0300" stop="20241022133000 +0300" channel="hustlerhd.com">
+    <title>Mother-Daughter Exchange Club, odc. 64</title>
+  </programme>
+  <programme start="20241022133000 +0300" stop="20241022150000 +0300" channel="hustlerhd.com">
+    <title>10'' Meat Taps 18YO Pinks!</title>
+  </programme>
+  <programme start="20241022150000 +0300" stop="20241022163000 +0300" channel="hustlerhd.com">
+    <title>Sexy Petites Take It Hard</title>
+  </programme>
+  <programme start="20241022163000 +0300" stop="20241022180000 +0300" channel="hustlerhd.com">
+    <title>Grannys Pump Just-Legal Studs</title>
+  </programme>
+  <programme start="20241022180000 +0300" stop="20241022193000 +0300" channel="hustlerhd.com">
+    <title>Group Sex: 3Ways Or More!</title>
+  </programme>
+  <programme start="20241022193000 +0300" stop="20241022210000 +0300" channel="hustlerhd.com">
+    <title>Juicy-Jugged Wives Lick Shaft Clean</title>
+  </programme>
+  <programme start="20241022210000 +0300" stop="20241022223000 +0300" channel="hustlerhd.com">
+    <title>I Seduced My Hung Professor!</title>
+  </programme>
+  <programme start="20241022223000 +0300" stop="20241023043000 +0300" channel="hustlerhd.com">
+    <title>Hotwife Sex Romps</title>
+  </programme>
+  <programme start="20241023043000 +0300" stop="20241023060000 +0300" channel="hustlerhd.com">
+    <title>Petite Euro Babes Grind</title>
+  </programme>
+  <programme start="20241023060000 +0300" stop="20241023073000 +0300" channel="hustlerhd.com">
+    <title>Under 25 &amp; Creampied, odc. 2</title>
+  </programme>
+  <programme start="20241023073000 +0300" stop="20241023090000 +0300" channel="hustlerhd.com">
+    <title>Chesty Cheaters Get Crammed</title>
+  </programme>
+  <programme start="20241023090000 +0300" stop="20241023103000 +0300" channel="hustlerhd.com">
+    <title>4Way Swinger Pinks!</title>
+  </programme>
+  <programme start="20241023103000 +0300" stop="20241023120000 +0300" channel="hustlerhd.com">
+    <title>19YO Rod For Busty StepMILF</title>
+  </programme>
+  <programme start="20241023120000 +0300" stop="20241023133000 +0300" channel="hustlerhd.com">
+    <title>French Orgy Club</title>
+  </programme>
+  <programme start="20241023133000 +0300" stop="20241023150000 +0300" channel="hustlerhd.com">
+    <title>Tight Teens Filled</title>
+  </programme>
+  <programme start="20241023150000 +0300" stop="20241023163000 +0300" channel="hustlerhd.com">
+    <title>Stacked Young Wives Fulfilled</title>
+  </programme>
+  <programme start="20241023163000 +0300" stop="20241023180000 +0300" channel="hustlerhd.com">
+    <title>Swingers, Fantasies &amp; More!</title>
+  </programme>
+  <programme start="20241023180000 +0300" stop="20241023193000 +0300" channel="hustlerhd.com">
+    <title>25CM For Sweet Petites</title>
+  </programme>
+  <programme start="20241023193000 +0300" stop="20241023210000 +0300" channel="hustlerhd.com">
+    <title>0 Fakes: All-Natural Nannys</title>
+  </programme>
+  <programme start="20241023210000 +0300" stop="20241023223000 +0300" channel="hustlerhd.com">
+    <title>2024: Today's Hottest MILFs</title>
+  </programme>
+  <programme start="20241023223000 +0300" stop="20241024043000 +0300" channel="hustlerhd.com">
+    <title>20YO Studs Screw Stacked StepMILFs</title>
+  </programme>
+  <programme start="20241024043000 +0300" stop="20241024060000 +0300" channel="hustlerhd.com">
+    <title>18YO Stepsis Pink Pumping Paradise</title>
+  </programme>
+  <programme start="20241024060000 +0300" stop="20241024073000 +0300" channel="hustlerhd.com">
+    <title>18YO Stepsisters Spread For Rod</title>
+  </programme>
+  <programme start="20241024073000 +0300" stop="20241024090000 +0300" channel="hustlerhd.com">
+    <title>4 Hot Secretaries Stuffed</title>
+  </programme>
+  <programme start="20241024090000 +0300" stop="20241024103000 +0300" channel="hustlerhd.com">
+    <title>MILFs Spread For Stiff Shaft!</title>
+  </programme>
+  <programme start="20241024103000 +0300" stop="20241024120000 +0300" channel="hustlerhd.com">
+    <title>Shameless 19YOs Cuck For Huge Shafts</title>
+  </programme>
+  <programme start="20241024120000 +0300" stop="20241024133000 +0300" channel="hustlerhd.com">
+    <title>19YO Petite Pinks Pumped</title>
+  </programme>
+  <programme start="20241024133000 +0300" stop="20241024150000 +0300" channel="hustlerhd.com">
+    <title>Young Lesbian Lovers</title>
+  </programme>
+  <programme start="20241024150000 +0300" stop="20241024163000 +0300" channel="hustlerhd.com">
+    <title>Petites In Thigh-Highs Spread Wide</title>
+  </programme>
+  <programme start="20241024163000 +0300" stop="20241024180000 +0300" channel="hustlerhd.com">
+    <title>34DD Wives Ride Rod In Front Of Hubby</title>
+  </programme>
+  <programme start="20241024180000 +0300" stop="20241024193000 +0300" channel="hustlerhd.com">
+    <title>Rod Squad: Swappin' Orgy Gals</title>
+  </programme>
+  <programme start="20241024193000 +0300" stop="20241024210000 +0300" channel="hustlerhd.com">
+    <title>First-Timers' Legal Flings On Cam!</title>
+  </programme>
+  <programme start="20241024210000 +0300" stop="20241024223000 +0300" channel="hustlerhd.com">
+    <title>Unfaithful Wives Need Creampies</title>
+  </programme>
+  <programme start="20241024223000 +0300" stop="20241025043000 +0300" channel="hustlerhd.com">
+    <title>This Ain't Conan The Barbarian</title>
   </programme>
   <programme start="20241022043000 +0300" stop="20241022060000 +0300" channel="hustlertv.com">
     <title>18, Adorable &amp; Crammin' Fat Hogs!</title>
