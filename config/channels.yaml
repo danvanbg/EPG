@@ -2348,6 +2348,16 @@
   - start.bg
   - dnes.bg
   - tv.dir.bg
+
+- id: glasamiturista.ru
+  enabled: true
+  names:
+  - name: Глазами туриста
+    lang: ru
+  - name: Глазами туриста HD
+    lang: ru
+  sources:
+  - yandex.ru
   
 - id: docubox.spiintl.com
   enabled: true
@@ -2449,6 +2459,7 @@
 - id: chasseetpeche.fr
   enabled: true
   names:
+  - name: Chasse et Peche
   - name: Chasse & Peche
   sources:
   - ouest-france.fr
