@@ -300,12 +300,6 @@
     <display-name>Eurosport 2</display-name>
     <display-name>Eurosport 2 LQ</display-name>
   </channel>
-  <channel id="arenasport1.sr">
-    <display-name lang="en">Arena Sport 1 (SRB)</display-name>
-  </channel>
-  <channel id="arenasport2.sr">
-    <display-name lang="en">Arena Sport 2 (SRB)</display-name>
-  </channel>
   <channel id="arenasport1.hr">
     <display-name lang="en">Arena Sport 1 (HR)</display-name>
     <display-name lang="en">Arena Sport 1 HD (HR)</display-name>
@@ -313,6 +307,19 @@
   <channel id="arenasport2.hr">
     <display-name lang="en">Arena Sport 2 (HR)</display-name>
     <display-name lang="en">Arena Sport 2 HD (HR)</display-name>
+  </channel>
+  <channel id="arenasport3.hr">
+    <display-name lang="en">Arena Sport 3 (HR)</display-name>
+    <display-name lang="en">Arena Sport 3 HD (HR)</display-name>
+  </channel>
+  <channel id="arenasport4.hr">
+    <display-name lang="en">Arena Sport 4 (HR)</display-name>
+    <display-name lang="en">Arena Sport 4 HD (HR)</display-name>
+  </channel>
+  <channel id="arenasport6.hr">
+    <display-name lang="en">Arena Sport 6 (HR)</display-name>
+    <display-name>Arena Sport 6 HD</display-name>
+    <display-name lang="en">Arena Sport 6 HD (HR)</display-name>
   </channel>
   <channel id="matchfutbol1.ru">
     <display-name lang="ru">Матч! Футбол 1</display-name>
@@ -683,6 +690,7 @@
     <display-name lang="en">Deutsche Welle</display-name>
   </channel>
   <channel id="bbcworldnews.com">
+    <display-name>BBC World HD</display-name>
     <display-name lang="en">BBC World News</display-name>
     <display-name lang="en">BBC Worldnews</display-name>
   </channel>
@@ -694,6 +702,7 @@
     <display-name lang="en">CNBC</display-name>
   </channel>
   <channel id="nhkworld.com">
+    <display-name>NHK World HD</display-name>
     <display-name lang="en">NHK World</display-name>
   </channel>
   <channel id="skynews.uk">
@@ -800,6 +809,7 @@
   </channel>
   <channel id="glasamiturista.ru">
     <display-name lang="ru">Глазами туриста</display-name>
+    <display-name>Глазами туриста 4K</display-name>
     <display-name lang="ru">Глазами туриста HD</display-name>
   </channel>
   <channel id="docubox.spiintl.com">
@@ -809,13 +819,6 @@
     <display-name lang="en">History Channel</display-name>
     <display-name lang="en">History HD</display-name>
     <display-name lang="en">History Channel HD</display-name>
-  </channel>
-  <channel id="historychannel2.com">
-    <display-name lang="en">History Channel 2</display-name>
-    <display-name lang="en">History 2 HD</display-name>
-    <display-name lang="en">History Channel 2 HD</display-name>
-    <display-name lang="en">History 2</display-name>
-    <display-name lang="en">H2</display-name>
   </channel>
   <channel id="tv.lovenature.com">
     <display-name lang="en">Love Nature</display-name>
@@ -908,7 +911,8 @@
     <display-name lang="ru">Дом кино</display-name>
   </channel>
   <channel id="ruskoekino.tv1000.ru">
-    <display-name lang="ru">TV 1000 Руское кино</display-name>
+    <display-name>TV 1000 Руское кино</display-name>
+    <display-name lang="ru">TV1000 Русское кино</display-name>
   </channel>
   <channel id="vremya.ru">
     <display-name lang="ru">Время</display-name>
@@ -1032,6 +1036,9 @@
   <channel id="m6.fr">
     <display-name>M6</display-name>
   </channel>
+  <channel id="tv5monde.fr">
+    <display-name>TV5 Monde HD</display-name>
+  </channel>
   <channel id="arte.fr">
     <display-name>Arte</display-name>
     <display-name>ARTE Francais HD</display-name>
@@ -1044,9 +1051,6 @@
   <channel id="w9.fr">
     <display-name>W9 HD</display-name>
     <display-name>W9</display-name>
-  </channel>
-  <channel id="france24fr.fr">
-    <display-name>France 24 FR</display-name>
   </channel>
   <channel id="rai1.it">
     <display-name>Rai 1</display-name>
@@ -8013,138 +8017,6 @@
   <programme start="20241024230000 +0300" stop="20241025100000 +0300" channel="eurosport2.bg">
     <title>Колоездене: Париж - Рубе, жени, повторение</title>
   </programme>
-  <programme start="20241023030000 +0300" stop="20241023050000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Fulham - Aston Villa</title>
-  </programme>
-  <programme start="20241023050000 +0300" stop="20241023070000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Ipswich - Everton</title>
-  </programme>
-  <programme start="20241023070000 +0300" stop="20241023090000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Wolves - Man. City</title>
-  </programme>
-  <programme start="20241023090000 +0300" stop="20241023110000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Liverpool - Chelsea</title>
-  </programme>
-  <programme start="20241023110000 +0300" stop="20241023130000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Šah, ep. 3</title>
-  </programme>
-  <programme start="20241023130000 +0300" stop="20241023150000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Tottenham - West Ham</title>
-  </programme>
-  <programme start="20241023150000 +0300" stop="20241023173000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Kilmarnock - Rangers</title>
-  </programme>
-  <programme start="20241023173000 +0300" stop="20241023193000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Braga - Bodo Glimt</title>
-  </programme>
-  <programme start="20241023193000 +0300" stop="20241023213000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Slask - Stal</title>
-  </programme>
-  <programme start="20241023213000 +0300" stop="20241023220000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Pregled kola</title>
-  </programme>
-  <programme start="20241023220000 +0300" stop="20241024030000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Atletico - Lille</title>
-  </programme>
-  <programme start="20241024030000 +0300" stop="20241024050000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Man. United - Brentford</title>
-  </programme>
-  <programme start="20241024050000 +0300" stop="20241024070000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Bournemouth - Arsenal</title>
-  </programme>
-  <programme start="20241024070000 +0300" stop="20241024090000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Fulham - Aston Villa</title>
-  </programme>
-  <programme start="20241024090000 +0300" stop="20241024110000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Ipswich - Everton</title>
-  </programme>
-  <programme start="20241024110000 +0300" stop="20241024130000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Šah, ep. 4</title>
-  </programme>
-  <programme start="20241024130000 +0300" stop="20241024150000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Liverpool - Chelsea</title>
-  </programme>
-  <programme start="20241024150000 +0300" stop="20241024170000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Middlesbrough - Sheffield United</title>
-  </programme>
-  <programme start="20241024170000 +0300" stop="20241024190000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Newcastle - Brighton</title>
-  </programme>
-  <programme start="20241024190000 +0300" stop="20241024194500 +0300" channel="arenasport1.sr">
-    <title lang="sr">Bejzbol: Pregled nedelje</title>
-  </programme>
-  <programme start="20241024194500 +0300" stop="20241024220000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: PAOK - Viktoria</title>
-  </programme>
-  <programme start="20241024220000 +0300" stop="20241025023000 +0300" channel="arenasport1.sr">
-    <title lang="sr">Fudbal: Malmo - Olympiacos</title>
-  </programme>
-  <programme start="20241023030000 +0300" stop="20241023050000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Valencia - Las Palmas</title>
-  </programme>
-  <programme start="20241023050000 +0300" stop="20241023070000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Como - Parma</title>
-  </programme>
-  <programme start="20241023070000 +0300" stop="20241023090000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Empoli - Napoli</title>
-  </programme>
-  <programme start="20241023090000 +0300" stop="20241023110000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Atletico - Leganes</title>
-  </programme>
-  <programme start="20241023110000 +0300" stop="20241023130000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Milan - Udinese</title>
-  </programme>
-  <programme start="20241023130000 +0300" stop="20241023150000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Roma - Inter</title>
-  </programme>
-  <programme start="20241023150000 +0300" stop="20241023170000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Arsenal - Sutjeska</title>
-  </programme>
-  <programme start="20241023170000 +0300" stop="20241023190000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Celta - Real Madrid</title>
-  </programme>
-  <programme start="20241023190000 +0300" stop="20241023200000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Buduće zvezde Arene</title>
-  </programme>
-  <programme start="20241023200000 +0300" stop="20241023220000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Eldense - Zaragoza</title>
-  </programme>
-  <programme start="20241023220000 +0300" stop="20241024030000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Young Boys - Inter</title>
-  </programme>
-  <programme start="20241024030000 +0300" stop="20241024050000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Villarreal - Getafe</title>
-  </programme>
-  <programme start="20241024050000 +0300" stop="20241024070000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Athletic - Espanyol</title>
-  </programme>
-  <programme start="20241024070000 +0300" stop="20241024090000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Cagliari - Torino</title>
-  </programme>
-  <programme start="20241024090000 +0300" stop="20241024110000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Barcelona - Sevilla</title>
-  </programme>
-  <programme start="20241024110000 +0300" stop="20241024130000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Empoli - Napoli</title>
-  </programme>
-  <programme start="20241024130000 +0300" stop="20241024150000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Lecce - Fiorentina</title>
-  </programme>
-  <programme start="20241024150000 +0300" stop="20241024170000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Celta - Real Madrid</title>
-  </programme>
-  <programme start="20241024170000 +0300" stop="20241024190000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Košarka: Varese - Trapani</title>
-  </programme>
-  <programme start="20241024190000 +0300" stop="20241024194500 +0300" channel="arenasport2.sr">
-    <title lang="sr">SPORT BROTHERS LEAGUE - ep. 6</title>
-  </programme>
-  <programme start="20241024194500 +0300" stop="20241024220000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Qarabag - Ajax</title>
-  </programme>
-  <programme start="20241024220000 +0300" stop="20241025020000 +0300" channel="arenasport2.sr">
-    <title lang="sr">Fudbal: Twente - Lazio</title>
-  </programme>
   <programme start="20241023080000 +0300" stop="20241023093000 +0300" channel="arenasport1.hr">
     <title>Rukomet: NEXE - KIEL, ehf europska liga</title>
   </programme>
@@ -8243,6 +8115,159 @@
   </programme>
   <programme start="20241024220000 +0300" stop="20241025080000 +0300" channel="arenasport2.hr">
     <title>Nogomet: TOTTENHAM - AZ, europaliga (UŽIVO)</title>
+  </programme>
+  <programme start="20241023080000 +0300" stop="20241023100000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: ROMA - INTER, talijanska liga</title>
+  </programme>
+  <programme start="20241023100000 +0300" stop="20241023103000 +0300" channel="arenasport3.hr">
+    <title>Emisija: SHORTLIST EP. 9, emisija</title>
+  </programme>
+  <programme start="20241023103000 +0300" stop="20241023110000 +0300" channel="arenasport3.hr">
+    <title>Emisija: SHORTLIST EP. 10, emisija</title>
+  </programme>
+  <programme start="20241023110000 +0300" stop="20241023130000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: NIZHNY - ROSTOV, ruska premijer liga</title>
+  </programme>
+  <programme start="20241023130000 +0300" stop="20241023150000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: VALENCIA - LAS PALMAS, španjolska liga</title>
+  </programme>
+  <programme start="20241023150000 +0300" stop="20241023160000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: SAŽETAK 22. 10., liga prvaka</title>
+  </programme>
+  <programme start="20241023160000 +0300" stop="20241023180000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: BOURNEMOUTH - ARSENAL, premier league</title>
+  </programme>
+  <programme start="20241023180000 +0300" stop="20241023194500 +0300" channel="arenasport3.hr">
+    <title>Nogomet: NANTES - NICE, francuska liga</title>
+  </programme>
+  <programme start="20241023194500 +0300" stop="20241023220000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: BREST - LEVERKUSEN, liga prvaka (UŽIVO)</title>
+  </programme>
+  <programme start="20241023220000 +0300" stop="20241024000000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: LEIPZIG - LIVERPOOL, liga prvaka (UŽIVO)</title>
+  </programme>
+  <programme start="20241024000000 +0300" stop="20241024010000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: PREGLED FRANCUSKE LIGE, francuska liga</title>
+  </programme>
+  <programme start="20241024010000 +0300" stop="20241024030000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: OSASUNA - BETIS, španjolska liga</title>
+  </programme>
+  <programme start="20241024030000 +0300" stop="20241024040000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: PREGLED KOLA, premier league</title>
+  </programme>
+  <programme start="20241024040000 +0300" stop="20241024060000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: NANTES - NICE, francuska liga</title>
+  </programme>
+  <programme start="20241024060000 +0300" stop="20241024080000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: BOURNEMOUTH - ARSENAL, premier league</title>
+  </programme>
+  <programme start="20241024080000 +0300" stop="20241024083000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: GREATEST TEAMS - ARSENAL, emisija</title>
+  </programme>
+  <programme start="20241024083000 +0300" stop="20241024100000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: GENOA - BOLOGNA, talijanska liga</title>
+  </programme>
+  <programme start="20241024100000 +0300" stop="20241024103000 +0300" channel="arenasport3.hr">
+    <title>Emisija: SHORTLIST 83, emisija</title>
+  </programme>
+  <programme start="20241024103000 +0300" stop="20241024110000 +0300" channel="arenasport3.hr">
+    <title>Emisija: SHORTLIST 84, emisija</title>
+  </programme>
+  <programme start="20241024110000 +0300" stop="20241024130000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: RUBIN - DINAMO MOSKVA, ruska premijer liga</title>
+  </programme>
+  <programme start="20241024130000 +0300" stop="20241024150000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: CELTA - REAL M., španjolska liga</title>
+  </programme>
+  <programme start="20241024150000 +0300" stop="20241024160000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: SAŽETAK 23. 10., liga prvaka</title>
+  </programme>
+  <programme start="20241024160000 +0300" stop="20241024180000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: MANCESTER UNITED - BRENTFORD, premier league</title>
+  </programme>
+  <programme start="20241024180000 +0300" stop="20241024194500 +0300" channel="arenasport3.hr">
+    <title>Nogomet: MONACO - LILLE, francuska liga</title>
+  </programme>
+  <programme start="20241024194500 +0300" stop="20241024220000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: FERENCVAROS - NICE, europaliga (UŽIVO)</title>
+  </programme>
+  <programme start="20241024220000 +0300" stop="20241025000000 +0300" channel="arenasport3.hr">
+    <title>Nogomet: TWENTE - LAZIO, europaliga (UŽIVO)</title>
+  </programme>
+  <programme start="20241023070000 +0300" stop="20241023080000 +0300" channel="arenasport4.hr">
+    <title>Dokumentarni film: THE SON OF KONGO</title>
+  </programme>
+  <programme start="20241023080000 +0300" stop="20241023093000 +0300" channel="arenasport4.hr">
+    <title>Dokumentarni film: MNR: ARG/BRA</title>
+  </programme>
+  <programme start="20241023093000 +0300" stop="20241023113000 +0300" channel="arenasport4.hr">
+    <title>Košarka: MILWAUKEE - INDIANA G2, nba liga</title>
+  </programme>
+  <programme start="20241023113000 +0300" stop="20241023130000 +0300" channel="arenasport4.hr">
+    <title>Nogomet: WOLVES - MANCHESTER CITY, premier league</title>
+  </programme>
+  <programme start="20241023130000 +0300" stop="20241023160000 +0300" channel="arenasport4.hr">
+    <title>Automobilizam: MILWAUKEE RACE 1, indycar</title>
+  </programme>
+  <programme start="20241023160000 +0300" stop="20241023170000 +0300" channel="arenasport4.hr">
+    <title>Košarka: IGOKEA - CEDEVITA, aba liga</title>
+  </programme>
+  <programme start="20241023170000 +0300" stop="20241023190000 +0300" channel="arenasport4.hr">
+    <title>Nogomet: REGENSBURG - BOCHUM, njemački kup</title>
+  </programme>
+  <programme start="20241023190000 +0300" stop="20241023194500 +0300" channel="arenasport4.hr">
+    <title>Emisija: MI ŽIVIMO ZA KOŠARKU EP. 5 KK HERMES ANALITICA, emisija</title>
+  </programme>
+  <programme start="20241023194500 +0300" stop="20241023214500 +0300" channel="arenasport4.hr">
+    <title>Rukomet: DINAMO B. - SPORTING, ehf liga prvaka (UŽIVO)</title>
+  </programme>
+  <programme start="20241023214500 +0300" stop="20241023233000 +0300" channel="arenasport4.hr">
+    <title>Rukomet: NANTES - ZAGREB, ehf liga prvaka (UŽIVO)</title>
+  </programme>
+  <programme start="20241023233000 +0300" stop="20241024010000 +0300" channel="arenasport4.hr">
+    <title>Vaterpolo: JADRAN HN - BARCELONA, len liga prvaka</title>
+  </programme>
+  <programme start="20241024010000 +0300" stop="20241024030000 +0300" channel="arenasport4.hr">
+    <title>Košarka: MORNAR - BORAC, aba liga</title>
+  </programme>
+  <programme start="20241024030000 +0300" stop="20241024050000 +0300" channel="arenasport4.hr">
+    <title>Nogomet: JENA - LEVERKUSEN, njemački kup</title>
+  </programme>
+  <programme start="20241024050000 +0300" stop="20241024070000 +0300" channel="arenasport4.hr">
+    <title>Nogomet: KATOWICE - SLASK, poljska liga</title>
+  </programme>
+  <programme start="20241024070000 +0300" stop="20241024080000 +0300" channel="arenasport4.hr">
+    <title>Dokumentarni film: LET THEM WEAR TOWELLS</title>
+  </programme>
+  <programme start="20241024080000 +0300" stop="20241024093000 +0300" channel="arenasport4.hr">
+    <title>Dokumentarni film: MNR: ITA - EXYU</title>
+  </programme>
+  <programme start="20241024093000 +0300" stop="20241024113000 +0300" channel="arenasport4.hr">
+    <title>Košarka: MIAMI - DALLAS, nba liga</title>
+  </programme>
+  <programme start="20241024113000 +0300" stop="20241024130000 +0300" channel="arenasport4.hr">
+    <title>Nogomet: FULHAM - ASTON VILLA, premier league</title>
+  </programme>
+  <programme start="20241024130000 +0300" stop="20241024160000 +0300" channel="arenasport4.hr">
+    <title>Automobilizam: MILWAUKEE RACE 2, indycar</title>
+  </programme>
+  <programme start="20241024160000 +0300" stop="20241024170000 +0300" channel="arenasport4.hr">
+    <title>Košarka: IGOKEA - CEDEVITA, aba liga</title>
+  </programme>
+  <programme start="20241024170000 +0300" stop="20241024190000 +0300" channel="arenasport4.hr">
+    <title>Nogomet: MUNSTER - STUTTGART, njemački kup</title>
+  </programme>
+  <programme start="20241024190000 +0300" stop="20241024194500 +0300" channel="arenasport4.hr">
+    <title>Emisija: ARENA SPECIJAL EP. 31 HAOK MLADOST MUŠKI, emisija</title>
+  </programme>
+  <programme start="20241024194500 +0300" stop="20241024214500 +0300" channel="arenasport4.hr">
+    <title>Rukomet: FUCHSE - PSG, ehf liga prvaka (UŽIVO)</title>
+  </programme>
+  <programme start="20241024214500 +0300" stop="20241024233000 +0300" channel="arenasport4.hr">
+    <title>Rukomet: EUROFARM - VESZPREM, ehf liga prvaka (UŽIVO)</title>
+  </programme>
+  <programme start="20241024233000 +0300" stop="20241025010000 +0300" channel="arenasport4.hr">
+    <title>Rukomet: NANTES - ZAGREB, ehf liga prvaka</title>
   </programme>
   <programme start="20241023060000 +0300" stop="20241023060500 +0300" channel="matchfutbol1.ru">
     <title lang="ru">Новости футбола (0+)</title>
@@ -43400,6 +43425,285 @@
   </programme>
   <programme start="20241024231000 +0300" stop="20241025002500 +0300" channel="m6.fr">
     <title lang="fr">Le meilleur pâtissier</title>
+  </programme>
+  <programme start="20241023033500 +0300" stop="20241023043200 +0300" channel="tv5monde.fr">
+    <title lang="fr">Le temps des nababs</title>
+  </programme>
+  <programme start="20241023043200 +0300" stop="20241023043800 +0300" channel="tv5monde.fr">
+    <title lang="fr">Nature = Futur !</title>
+  </programme>
+  <programme start="20241023043800 +0300" stop="20241023050000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Un si grand soleil</title>
+  </programme>
+  <programme start="20241023050000 +0300" stop="20241023053000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Une brique dans le ventre</title>
+  </programme>
+  <programme start="20241023053000 +0300" stop="20241023061500 +0300" channel="tv5monde.fr">
+    <title lang="fr">Refuges de montagne</title>
+  </programme>
+  <programme start="20241023061500 +0300" stop="20241023063000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Immersion</title>
+  </programme>
+  <programme start="20241023063000 +0300" stop="20241023065800 +0300" channel="tv5monde.fr">
+    <title lang="fr">TV5MONDE, le journal Afrique</title>
+  </programme>
+  <programme start="20241023065800 +0300" stop="20241023070100 +0300" channel="tv5monde.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241023070100 +0300" stop="20241023073000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Les secrets de l'amour</title>
+  </programme>
+  <programme start="20241023073000 +0300" stop="20241023075600 +0300" channel="tv5monde.fr">
+    <title lang="fr">Le 6h info</title>
+  </programme>
+  <programme start="20241023075600 +0300" stop="20241023080000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241023080000 +0300" stop="20241023083000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Journal Radio Canada</title>
+  </programme>
+  <programme start="20241023083000 +0300" stop="20241023085000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20241023085000 +0300" stop="20241023093200 +0300" channel="tv5monde.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20241023093200 +0300" stop="20241023094400 +0300" channel="tv5monde.fr">
+    <title lang="fr">TV5MONDE, le journal</title>
+  </programme>
+  <programme start="20241023094400 +0300" stop="20241023094800 +0300" channel="tv5monde.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241023094800 +0300" stop="20241023100400 +0300" channel="tv5monde.fr">
+    <title lang="fr">La peinture française autour du monde</title>
+  </programme>
+  <programme start="20241023100400 +0300" stop="20241023103300 +0300" channel="tv5monde.fr">
+    <title lang="fr">Grandeur Nature</title>
+  </programme>
+  <programme start="20241023103300 +0300" stop="20241023112300 +0300" channel="tv5monde.fr">
+    <title lang="fr">Refuges de montagne</title>
+  </programme>
+  <programme start="20241023112300 +0300" stop="20241023120000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Questions pour un champion</title>
+  </programme>
+  <programme start="20241023120000 +0300" stop="20241023121400 +0300" channel="tv5monde.fr">
+    <title lang="fr">TV5MONDE, le journal</title>
+  </programme>
+  <programme start="20241023121400 +0300" stop="20241023121900 +0300" channel="tv5monde.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241023121900 +0300" stop="20241023125200 +0300" channel="tv5monde.fr">
+    <title lang="fr">Slam</title>
+  </programme>
+  <programme start="20241023125200 +0300" stop="20241023131800 +0300" channel="tv5monde.fr">
+    <title lang="fr">Mamma en chef</title>
+  </programme>
+  <programme start="20241023131800 +0300" stop="20241023134600 +0300" channel="tv5monde.fr">
+    <title lang="fr">Château !</title>
+  </programme>
+  <programme start="20241023134600 +0300" stop="20241023135700 +0300" channel="tv5monde.fr">
+    <title lang="fr">Outremer.l'info</title>
+  </programme>
+  <programme start="20241023135700 +0300" stop="20241023140100 +0300" channel="tv5monde.fr">
+    <title lang="fr">Merci Professeur</title>
+  </programme>
+  <programme start="20241023140100 +0300" stop="20241023142400 +0300" channel="tv5monde.fr">
+    <title lang="fr">Un si grand soleil</title>
+  </programme>
+  <programme start="20241023142400 +0300" stop="20241023143000 +0300" channel="tv5monde.fr">
+    <title lang="fr">#VF</title>
+  </programme>
+  <programme start="20241023143000 +0300" stop="20241023150300 +0300" channel="tv5monde.fr">
+    <title lang="fr">JT 13h (La Une)</title>
+  </programme>
+  <programme start="20241023150300 +0300" stop="20241023155500 +0300" channel="tv5monde.fr">
+    <title lang="fr">OPJ</title>
+  </programme>
+  <programme start="20241023155500 +0300" stop="20241023165200 +0300" channel="tv5monde.fr">
+    <title lang="fr">OPJ</title>
+  </programme>
+  <programme start="20241023165200 +0300" stop="20241023165300 +0300" channel="tv5monde.fr">
+    <title lang="fr">No Blabla - Version Dérivée</title>
+  </programme>
+  <programme start="20241023165300 +0300" stop="20241023165700 +0300" channel="tv5monde.fr">
+    <title lang="fr">No Blabla - Version Dérivée</title>
+  </programme>
+  <programme start="20241023165700 +0300" stop="20241023174700 +0300" channel="tv5monde.fr">
+    <title lang="fr">Refuges de montagne</title>
+  </programme>
+  <programme start="20241023174700 +0300" stop="20241023184500 +0300" channel="tv5monde.fr">
+    <title lang="fr">Le point</title>
+  </programme>
+  <programme start="20241023184500 +0300" stop="20241023190000 +0300" channel="tv5monde.fr">
+    <title lang="fr">C'est pas le bout du monde !</title>
+  </programme>
+  <programme start="20241023190000 +0300" stop="20241023192200 +0300" channel="tv5monde.fr">
+    <title lang="fr">64' le monde en français</title>
+  </programme>
+  <programme start="20241023192200 +0300" stop="20241023192500 +0300" channel="tv5monde.fr">
+    <title lang="fr">Le journal de l'économie</title>
+  </programme>
+  <programme start="20241023192500 +0300" stop="20241023193000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241023193000 +0300" stop="20241023195000 +0300" channel="tv5monde.fr">
+    <title lang="fr">64' le monde en français</title>
+  </programme>
+  <programme start="20241023195000 +0300" stop="20241023200000 +0300" channel="tv5monde.fr">
+    <title lang="fr">L'invité</title>
+  </programme>
+  <programme start="20241023200000 +0300" stop="20241023200900 +0300" channel="tv5monde.fr">
+    <title lang="fr">64' l'essentiel</title>
+  </programme>
+  <programme start="20241023200900 +0300" stop="20241023210000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20241023210000 +0300" stop="20241023213000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Le 19h30</title>
+  </programme>
+  <programme start="20241023213000 +0300" stop="20241023220100 +0300" channel="tv5monde.fr">
+    <title lang="fr">Journal France 2</title>
+  </programme>
+  <programme start="20241023220100 +0300" stop="20241023233800 +0300" channel="tv5monde.fr">
+    <title lang="fr">Echappées belles</title>
+  </programme>
+  <programme start="20241023233800 +0300" stop="20241024001400 +0300" channel="tv5monde.fr">
+    <title lang="fr">L'actu news</title>
+  </programme>
+  <programme start="20241024001400 +0300" stop="20241024020400 +0300" channel="tv5monde.fr">
+    <title lang="fr">Un dimanche à la campagne</title>
+  </programme>
+  <programme start="20241024020400 +0300" stop="20241024023500 +0300" channel="tv5monde.fr">
+    <title lang="fr">TV5MONDE, le journal Afrique</title>
+  </programme>
+  <programme start="20241024023500 +0300" stop="20241024023700 +0300" channel="tv5monde.fr">
+    <title lang="fr">No Blabla - Version Dérivée</title>
+  </programme>
+  <programme start="20241024023700 +0300" stop="20241024023900 +0300" channel="tv5monde.fr">
+    <title lang="fr">No Blabla - Version Dérivée</title>
+  </programme>
+  <programme start="20241024023900 +0300" stop="20241024040700 +0300" channel="tv5monde.fr">
+    <title lang="fr">J'ai 10 ans</title>
+  </programme>
+  <programme start="20241024040700 +0300" stop="20241024043600 +0300" channel="tv5monde.fr">
+    <title lang="fr">Tendance XXI</title>
+  </programme>
+  <programme start="20241024043600 +0300" stop="20241024044000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Dis-moi pas!? La petite histoire des ...</title>
+  </programme>
+  <programme start="20241024044000 +0300" stop="20241024050000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Un si grand soleil</title>
+  </programme>
+  <programme start="20241024050000 +0300" stop="20241024053000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Citoyen 2.0</title>
+  </programme>
+  <programme start="20241024053000 +0300" stop="20241024080000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Femmes des bois</title>
+  </programme>
+  <programme start="20241024080000 +0300" stop="20241024083000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Journal Radio Canada</title>
+  </programme>
+  <programme start="20241024083000 +0300" stop="20241024085000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20241024085000 +0300" stop="20241024093000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20241024093000 +0300" stop="20241024094200 +0300" channel="tv5monde.fr">
+    <title lang="fr">TV5MONDE, le journal</title>
+  </programme>
+  <programme start="20241024094200 +0300" stop="20241024094500 +0300" channel="tv5monde.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241024094500 +0300" stop="20241024100000 +0300" channel="tv5monde.fr">
+    <title lang="fr">La peinture française autour du monde</title>
+  </programme>
+  <programme start="20241024100000 +0300" stop="20241024103000 +0300" channel="tv5monde.fr">
+    <title lang="fr">A bon entendeur</title>
+  </programme>
+  <programme start="20241024103000 +0300" stop="20241024111300 +0300" channel="tv5monde.fr">
+    <title lang="fr">Face aux territoires</title>
+  </programme>
+  <programme start="20241024111300 +0300" stop="20241024112700 +0300" channel="tv5monde.fr">
+    <title lang="fr">Le dessous des cartes</title>
+  </programme>
+  <programme start="20241024112700 +0300" stop="20241024120000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Questions pour un champion</title>
+  </programme>
+  <programme start="20241024120000 +0300" stop="20241024121400 +0300" channel="tv5monde.fr">
+    <title lang="fr">TV5MONDE, le journal</title>
+  </programme>
+  <programme start="20241024121400 +0300" stop="20241024121700 +0300" channel="tv5monde.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241024121700 +0300" stop="20241024125000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Slam</title>
+  </programme>
+  <programme start="20241024125000 +0300" stop="20241024131800 +0300" channel="tv5monde.fr">
+    <title lang="fr">Outremer.gourmand</title>
+  </programme>
+  <programme start="20241024131800 +0300" stop="20241024134800 +0300" channel="tv5monde.fr">
+    <title lang="fr">Littoral</title>
+  </programme>
+  <programme start="20241024134800 +0300" stop="20241024140000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Outremer.l'info</title>
+  </programme>
+  <programme start="20241024140000 +0300" stop="20241024143000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Un si grand soleil</title>
+  </programme>
+  <programme start="20241024143000 +0300" stop="20241024150600 +0300" channel="tv5monde.fr">
+    <title lang="fr">JT 13h (La Une)</title>
+  </programme>
+  <programme start="20241024150600 +0300" stop="20241024163900 +0300" channel="tv5monde.fr">
+    <title lang="fr">Une mort sans importance</title>
+  </programme>
+  <programme start="20241024163900 +0300" stop="20241024164100 +0300" channel="tv5monde.fr">
+    <title lang="fr">No blabla</title>
+  </programme>
+  <programme start="20241024164100 +0300" stop="20241024165000 +0300" channel="tv5monde.fr">
+    <title lang="fr">No blabla</title>
+  </programme>
+  <programme start="20241024165000 +0300" stop="20241024174400 +0300" channel="tv5monde.fr">
+    <title lang="fr">L'esclavage au cinéma, la fin d'un ta...</title>
+  </programme>
+  <programme start="20241024174400 +0300" stop="20241024183900 +0300" channel="tv5monde.fr">
+    <title lang="fr">Mise au point</title>
+  </programme>
+  <programme start="20241024183900 +0300" stop="20241024190000 +0300" channel="tv5monde.fr">
+    <title lang="fr">La peinture française autour du monde</title>
+  </programme>
+  <programme start="20241024190000 +0300" stop="20241024192200 +0300" channel="tv5monde.fr">
+    <title lang="fr">64' le monde en français</title>
+  </programme>
+  <programme start="20241024192200 +0300" stop="20241024192600 +0300" channel="tv5monde.fr">
+    <title lang="fr">Le journal de l'économie</title>
+  </programme>
+  <programme start="20241024192600 +0300" stop="20241024193000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241024193000 +0300" stop="20241024195100 +0300" channel="tv5monde.fr">
+    <title lang="fr">64' le monde en français</title>
+  </programme>
+  <programme start="20241024195100 +0300" stop="20241024200000 +0300" channel="tv5monde.fr">
+    <title lang="fr">L'invité</title>
+  </programme>
+  <programme start="20241024200000 +0300" stop="20241024200500 +0300" channel="tv5monde.fr">
+    <title lang="fr">64' l'essentiel</title>
+  </programme>
+  <programme start="20241024200500 +0300" stop="20241024210000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20241024210000 +0300" stop="20241024213000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Le 19h30</title>
+  </programme>
+  <programme start="20241024213000 +0300" stop="20241024220000 +0300" channel="tv5monde.fr">
+    <title lang="fr">Journal France 2</title>
+  </programme>
+  <programme start="20241024220000 +0300" stop="20241024233400 +0300" channel="tv5monde.fr">
+    <title lang="fr">Objectif Monde</title>
+  </programme>
+  <programme start="20241024233400 +0300" stop="20241025000700 +0300" channel="tv5monde.fr">
+    <title lang="fr">L'actu news</title>
   </programme>
   <programme start="20241023035500 +0300" stop="20241023050900 +0300" channel="arte.fr">
     <title lang="fr">La révolution selon François : Change...</title>

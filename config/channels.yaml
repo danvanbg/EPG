@@ -846,7 +846,7 @@
   - tv.dir.bg
 
 - id: arenasport1.sr
-  enabled: true
+  enabled: false
   names:
   - name: Arena Sport 1 (SRB)
     lang: en
@@ -855,7 +855,7 @@
   - tvarenasport.com
   
 - id: arenasport2.sr
-  enabled: true
+  enabled: false
   names:
   - name: Arena Sport 2 (SRB)
     lang: en
@@ -924,7 +924,7 @@
     - tvarenasport.com
   
 - id: arenasport3.hr
-  enabled: false
+  enabled: true
   names:
   - name: Arena Sport 3 (HR)
     lang: en
@@ -936,7 +936,7 @@
   - tvarenasport.com
   
 - id: arenasport4.hr
-  enabled: false
+  enabled: true
   names:
   - name: Arena Sport 4 (HR)
     lang: en
@@ -953,6 +953,20 @@
   - name: Arena Sport 5 (HR)
     lang: en
   - name: Arena Sport 5 HD (HR)
+    lang: en
+  groups: ["sport"]
+  sources:
+  - mojtv.hr
+  - tvarenasport.com
+  
+  
+- id: arenasport6.hr
+  enabled: true
+  names:
+  - name: Arena Sport 6 (HR)
+    lang: en
+  - name: Arena Sport 6 HD
+  - name: Arena Sport 6 HD (HR)
     lang: en
   groups: ["sport"]
   sources:
@@ -1174,6 +1188,7 @@
   - name: Sport 1
     lang: de
   - name: Sport 1 DE
+  - name: Sport 1 DE HD
     lang: de
   groups: ["sport"]
   sources:
@@ -1478,6 +1493,13 @@
   enabled: false
   names:
   - name: Magic TV
+    lang: en
+  sources:
+  
+- id: magictv.uk
+  enabled: false
+  names:
+  - name: Magic UK
     lang: en
   sources:
   
@@ -1984,6 +2006,7 @@
 - id: bbcworldnews.com
   enabled: true
   names:
+  - name: BBC World HD
   - name: BBC World News
     lang: en
   - name: BBC Worldnews
@@ -2014,9 +2037,11 @@
 - id: france24.com
   enabled: false
   names:
+  - name: France 24 HD
   - name: France 24
     lang: en
   sources:
+  - uksky.com
   
 - id: russiatoday.com
   enabled: false
@@ -2042,6 +2067,7 @@
 - id: nhkworld.com
   enabled: true
   names:
+  - name: NHK World HD
   - name: NHK World
     lang: en
   sources:
@@ -2354,6 +2380,7 @@
   names:
   - name: Глазами туриста
     lang: ru
+  - name: Глазами туриста 4K
   - name: Глазами туриста HD
     lang: ru
   sources:
@@ -2383,7 +2410,7 @@
   - tv.dir.bg
   
 - id: historychannel2.com
-  enabled: true
+  enabled: false
   names:
   - name: History Channel 2
     lang: en
@@ -2397,6 +2424,7 @@
     lang: en
   sources:
   - dnes.bg
+  - uksky.com
   
 - id: tvt.bg
   enabled: false
@@ -2745,6 +2773,7 @@
   enabled: true
   names:
   - name: TV 1000 Руское кино
+  - name: TV1000 Русское кино
     lang: ru
   groups: [ "ru" ]
   sources:
@@ -3163,6 +3192,14 @@
   - ouest-france.fr
   - telestar.fr
   
+- id: tv5monde.fr
+  enabled: true
+  names:
+  - name: TV5 Monde HD
+  groups: [ "fr" ]
+  sources:
+  - ouest-france.fr
+  
 - id: arte.fr
   enabled: true
   names:
@@ -3193,14 +3230,7 @@
   sources:
   - ouest-france.fr
   - telestar.fr
-  
-- id: france24fr.fr
-  enabled: true
-  names:
-  - name: France 24 FR
-  groups: [ "fr" ]
-  sources:
-  - telestar.fr
+
   
 ###############
 ### ITALIAN ###
