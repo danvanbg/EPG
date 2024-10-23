@@ -300,6 +300,9 @@
     <display-name>Eurosport 2</display-name>
     <display-name>Eurosport 2 LQ</display-name>
   </channel>
+  <channel id="arenasport5.sr">
+    <display-name lang="en">Arena Sport 5 (SRB)</display-name>
+  </channel>
   <channel id="arenasport1.hr">
     <display-name lang="en">Arena Sport 1 (HR)</display-name>
     <display-name lang="en">Arena Sport 1 HD (HR)</display-name>
@@ -398,7 +401,8 @@
   </channel>
   <channel id="sport1.de">
     <display-name lang="de">Sport 1</display-name>
-    <display-name lang="de">Sport 1 DE</display-name>
+    <display-name>Sport 1 DE</display-name>
+    <display-name lang="de">Sport 1 DE HD</display-name>
   </channel>
   <channel id="sport1plus.de">
     <display-name>Sport +</display-name>
@@ -687,7 +691,16 @@
     <display-name lang="en">Al Jazeera Eng</display-name>
   </channel>
   <channel id="deutschewelle.de">
+    <display-name>Deutsche Welle HD</display-name>
     <display-name lang="en">Deutsche Welle</display-name>
+  </channel>
+  <channel id="bloomberg.com">
+    <display-name>Bloomberg</display-name>
+    <display-name lang="en">Bloomberg HD</display-name>
+  </channel>
+  <channel id="euronews.com">
+    <display-name lang="en">Euronews</display-name>
+    <display-name lang="en">Euronews HD</display-name>
   </channel>
   <channel id="bbcworldnews.com">
     <display-name>BBC World HD</display-name>
@@ -706,6 +719,7 @@
     <display-name lang="en">NHK World</display-name>
   </channel>
   <channel id="skynews.uk">
+    <display-name>Sky News HD</display-name>
     <display-name lang="en">Sky News</display-name>
   </channel>
   <channel id="cgtn.cn">
@@ -10069,6 +10083,111 @@
   </programme>
   <programme start="20241025233000 +0300" stop="20241026100000 +0300" channel="eurosport2.bg">
     <title>Ски алпийски дисциплини: Световна купа в Заалбах Хинтерглем, втори манш, гигантски слалом, мъже, повторение</title>
+  </programme>
+  <programme start="20241023020000 +0300" stop="20241023023000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Auto moto: Xross Hard Enduro Rally Serbia, pregled</title>
+  </programme>
+  <programme start="20241023023000 +0300" stop="20241023070000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Basket 3x3: Arilje</title>
+  </programme>
+  <programme start="20241023070000 +0300" stop="20241023090000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Ragbi: Italija - Engleska, 3.2.</title>
+  </programme>
+  <programme start="20241023090000 +0300" stop="20241023133000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Basket 3x3: Četvrtfinala, polufinale i finale</title>
+  </programme>
+  <programme start="20241023133000 +0300" stop="20241023160000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Umetničko klizanje: Skate America, parovi</title>
+  </programme>
+  <programme start="20241023160000 +0300" stop="20241023170000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Auto moto: Live stage 4</title>
+  </programme>
+  <programme start="20241023170000 +0300" stop="20241023190000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Basket 3x3: Polufinala i finale</title>
+  </programme>
+  <programme start="20241023190000 +0300" stop="20241023210000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Košarka: Rabotnički - Bosna</title>
+  </programme>
+  <programme start="20241023210000 +0300" stop="20241023213000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Auto moto: Xross Hard Enduro Rally Tennessee, pregled</title>
+  </programme>
+  <programme start="20241023213000 +0300" stop="20241023220000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Buduće zvezde Arene</title>
+  </programme>
+  <programme start="20241023220000 +0300" stop="20241024000000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Futsal: Tigers Roermond - KMF FON Banjica</title>
+  </programme>
+  <programme start="20241024000000 +0300" stop="20241024020000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Pikado: Finale</title>
+  </programme>
+  <programme start="20241024020000 +0300" stop="20241024040000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Basket 3x3: Četvrtfinala, polufinale i finale</title>
+  </programme>
+  <programme start="20241024040000 +0300" stop="20241024060000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Atletika: Paavo Nurmi</title>
+  </programme>
+  <programme start="20241024060000 +0300" stop="20241024070000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Auto moto: Race 3</title>
+  </programme>
+  <programme start="20241024070000 +0300" stop="20241024090000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Ragbi: Škotska - Francuska, 10.2.</title>
+  </programme>
+  <programme start="20241024090000 +0300" stop="20241024150000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Basket 3x3: Arilje</title>
+  </programme>
+  <programme start="20241024150000 +0300" stop="20241024181500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Konjički sport: Hollo Cup</title>
+  </programme>
+  <programme start="20241024181500 +0300" stop="20241024190000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Skokovi u vodu: Montreal</title>
+  </programme>
+  <programme start="20241024190000 +0300" stop="20241024193000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Auto moto: Sea to Sky, Turkey, pregled</title>
+  </programme>
+  <programme start="20241024193000 +0300" stop="20241024194500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Sportske igre mladih, ep. 12</title>
+  </programme>
+  <programme start="20241024194500 +0300" stop="20241024213000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Rukomet: Fuchse - PSG</title>
+  </programme>
+  <programme start="20241024213000 +0300" stop="20241024213500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Rukomet: Fuchse - PSG</title>
+  </programme>
+  <programme start="20241024213500 +0300" stop="20241024214000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Rukomet: Fuchse - PSG</title>
+  </programme>
+  <programme start="20241024214000 +0300" stop="20241024214500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Rukomet: Fuchse - PSG</title>
+  </programme>
+  <programme start="20241024214500 +0300" stop="20241024233000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Rukomet: Pelister - Veszprem</title>
+  </programme>
+  <programme start="20241024233000 +0300" stop="20241025040000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Basket 3x3: Četvrtfinala, polufinale i finale</title>
+  </programme>
+  <programme start="20241025040000 +0300" stop="20241025063000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Atletika: Irena Szewinska</title>
+  </programme>
+  <programme start="20241025063000 +0300" stop="20241025070000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Auto moto: Sea to Sky, Turkey, pregled</title>
+  </programme>
+  <programme start="20241025070000 +0300" stop="20241025090000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Ragbi: Engleska - Irska, 9.3.</title>
+  </programme>
+  <programme start="20241025090000 +0300" stop="20241025113000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Triatlon: WTCS Womans race</title>
+  </programme>
+  <programme start="20241025113000 +0300" stop="20241025140000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Triatlon: WTCS Mens race</title>
+  </programme>
+  <programme start="20241025140000 +0300" stop="20241025150000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Auto moto: Race 3</title>
+  </programme>
+  <programme start="20241025150000 +0300" stop="20241025214500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Paintball: Beograd</title>
+  </programme>
+  <programme start="20241025214500 +0300" stop="20241026034500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Basket 3x3: Arilje</title>
   </programme>
   <programme start="20241023080000 +0300" stop="20241023093000 +0300" channel="arenasport1.hr">
     <title>Rukomet: NEXE - KIEL, ehf europska liga</title>
@@ -30295,6 +30414,1092 @@
   </programme>
   <programme start="20241025233000 +0300" stop="20241026040000 +0300" channel="deutschewelle.de">
     <title>The Day</title>
+  </programme>
+  <programme start="20241023040000 +0300" stop="20241023041500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023041500 +0300" stop="20241023050000 +0300" channel="bloomberg.com">
+    <title>The Death Marches of the Second World War: Part 2</title>
+  </programme>
+  <programme start="20241023050000 +0300" stop="20241023050200 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023050200 +0300" stop="20241023053000 +0300" channel="bloomberg.com">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241023053000 +0300" stop="20241023060000 +0300" channel="bloomberg.com">
+    <title>Global Us: What connects us all</title>
+  </programme>
+  <programme start="20241023060000 +0300" stop="20241023061500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023061500 +0300" stop="20241023063000 +0300" channel="bloomberg.com">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241023063000 +0300" stop="20241023070000 +0300" channel="bloomberg.com">
+    <title>Eco Africa</title>
+  </programme>
+  <programme start="20241023070000 +0300" stop="20241023071500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023071500 +0300" stop="20241023080000 +0300" channel="bloomberg.com">
+    <title>The Death Marches of the Second World War: Part 2</title>
+  </programme>
+  <programme start="20241023080000 +0300" stop="20241023080200 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023080200 +0300" stop="20241023083000 +0300" channel="bloomberg.com">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241023083000 +0300" stop="20241023090000 +0300" channel="bloomberg.com">
+    <title>Made in Germany: Europe adjusts to high energy costs</title>
+  </programme>
+  <programme start="20241023090000 +0300" stop="20241023091500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023091500 +0300" stop="20241023093000 +0300" channel="bloomberg.com">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241023093000 +0300" stop="20241023100000 +0300" channel="bloomberg.com">
+    <title>In Good Shape: The Health Show</title>
+  </programme>
+  <programme start="20241023100000 +0300" stop="20241023103000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023103000 +0300" stop="20241023110000 +0300" channel="bloomberg.com">
+    <title>Close up</title>
+  </programme>
+  <programme start="20241023110000 +0300" stop="20241023113000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023113000 +0300" stop="20241023120000 +0300" channel="bloomberg.com">
+    <title>Eco India: Waste - what to do with it?</title>
+  </programme>
+  <programme start="20241023120000 +0300" stop="20241023121500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023121500 +0300" stop="20241023130000 +0300" channel="bloomberg.com">
+    <title>Maduro: The Indestructible</title>
+  </programme>
+  <programme start="20241023130000 +0300" stop="20241023133000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023133000 +0300" stop="20241023140000 +0300" channel="bloomberg.com">
+    <title>Close up</title>
+  </programme>
+  <programme start="20241023140000 +0300" stop="20241023143000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023143000 +0300" stop="20241023150000 +0300" channel="bloomberg.com">
+    <title>Made in Germany: Europe adjusts to high energy costs</title>
+  </programme>
+  <programme start="20241023150000 +0300" stop="20241023151500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023151500 +0300" stop="20241023160000 +0300" channel="bloomberg.com">
+    <title>Hong Kong: Censorship, Protest, Art</title>
+  </programme>
+  <programme start="20241023160000 +0300" stop="20241023161500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023161500 +0300" stop="20241023163000 +0300" channel="bloomberg.com">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241023163000 +0300" stop="20241023170000 +0300" channel="bloomberg.com">
+    <title>Eco Africa</title>
+  </programme>
+  <programme start="20241023170000 +0300" stop="20241023173000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023173000 +0300" stop="20241023180000 +0300" channel="bloomberg.com">
+    <title>Made in Germany: Europe adjusts to high energy costs</title>
+  </programme>
+  <programme start="20241023180000 +0300" stop="20241023183000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023183000 +0300" stop="20241023190000 +0300" channel="bloomberg.com">
+    <title>Eco India: Waste - what to do with it?</title>
+  </programme>
+  <programme start="20241023190000 +0300" stop="20241023191500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023191500 +0300" stop="20241023200000 +0300" channel="bloomberg.com">
+    <title>Maduro: The Indestructible</title>
+  </programme>
+  <programme start="20241023200000 +0300" stop="20241023201500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023201500 +0300" stop="20241023203000 +0300" channel="bloomberg.com">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241023203000 +0300" stop="20241023210000 +0300" channel="bloomberg.com">
+    <title>Close up</title>
+  </programme>
+  <programme start="20241023210000 +0300" stop="20241023213000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023213000 +0300" stop="20241023220000 +0300" channel="bloomberg.com">
+    <title>A Dangerous Assignment: Journalists Report From Ukraine</title>
+  </programme>
+  <programme start="20241023220000 +0300" stop="20241023220200 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023220200 +0300" stop="20241023223000 +0300" channel="bloomberg.com">
+    <title>In Good Shape: The Health Show</title>
+  </programme>
+  <programme start="20241023223000 +0300" stop="20241023230000 +0300" channel="bloomberg.com">
+    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
+  </programme>
+  <programme start="20241023230000 +0300" stop="20241023233000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241023233000 +0300" stop="20241024000000 +0300" channel="bloomberg.com">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241024000000 +0300" stop="20241024000200 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024000200 +0300" stop="20241024001500 +0300" channel="bloomberg.com">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241024001500 +0300" stop="20241024010200 +0300" channel="bloomberg.com">
+    <title>Maduro: The Indestructible</title>
+  </programme>
+  <programme start="20241024010200 +0300" stop="20241024013000 +0300" channel="bloomberg.com">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241024013000 +0300" stop="20241024020000 +0300" channel="bloomberg.com">
+    <title>Made in Germany: Europe adjusts to high energy costs</title>
+  </programme>
+  <programme start="20241024020000 +0300" stop="20241024021500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024021500 +0300" stop="20241024023000 +0300" channel="bloomberg.com">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241024023000 +0300" stop="20241024030000 +0300" channel="bloomberg.com">
+    <title>Focus on Europe</title>
+  </programme>
+  <programme start="20241024030000 +0300" stop="20241024030200 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024030200 +0300" stop="20241024033000 +0300" channel="bloomberg.com">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241024033000 +0300" stop="20241024040000 +0300" channel="bloomberg.com">
+    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
+  </programme>
+  <programme start="20241024040000 +0300" stop="20241024041500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024041500 +0300" stop="20241024050000 +0300" channel="bloomberg.com">
+    <title>PFAS: Poisoned for Eternity?</title>
+  </programme>
+  <programme start="20241024050000 +0300" stop="20241024050200 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024050200 +0300" stop="20241024053000 +0300" channel="bloomberg.com">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241024053000 +0300" stop="20241024060000 +0300" channel="bloomberg.com">
+    <title>Made in Germany: Europe adjusts to high energy costs</title>
+  </programme>
+  <programme start="20241024060000 +0300" stop="20241024061500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024061500 +0300" stop="20241024063000 +0300" channel="bloomberg.com">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241024063000 +0300" stop="20241024070000 +0300" channel="bloomberg.com">
+    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
+  </programme>
+  <programme start="20241024070000 +0300" stop="20241024071500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024071500 +0300" stop="20241024080000 +0300" channel="bloomberg.com">
+    <title>PFAS: Poisoned for Eternity?</title>
+  </programme>
+  <programme start="20241024080000 +0300" stop="20241024080200 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024080200 +0300" stop="20241024083000 +0300" channel="bloomberg.com">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241024083000 +0300" stop="20241024090000 +0300" channel="bloomberg.com">
+    <title>Focus on Europe</title>
+  </programme>
+  <programme start="20241024090000 +0300" stop="20241024091500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024091500 +0300" stop="20241024093000 +0300" channel="bloomberg.com">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241024093000 +0300" stop="20241024100000 +0300" channel="bloomberg.com">
+    <title>Made in Germany: Europe adjusts to high energy costs</title>
+  </programme>
+  <programme start="20241024100000 +0300" stop="20241024103000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024103000 +0300" stop="20241024110000 +0300" channel="bloomberg.com">
+    <title>Focus on Europe</title>
+  </programme>
+  <programme start="20241024110000 +0300" stop="20241024113000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024113000 +0300" stop="20241024120000 +0300" channel="bloomberg.com">
+    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
+  </programme>
+  <programme start="20241024120000 +0300" stop="20241024121500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024121500 +0300" stop="20241024130000 +0300" channel="bloomberg.com">
+    <title>The Death Marches of the Second World War: Part 2</title>
+  </programme>
+  <programme start="20241024130000 +0300" stop="20241024133000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024133000 +0300" stop="20241024140000 +0300" channel="bloomberg.com">
+    <title>Eco India: Waste - what to do with it?</title>
+  </programme>
+  <programme start="20241024140000 +0300" stop="20241024143000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024143000 +0300" stop="20241024150000 +0300" channel="bloomberg.com">
+    <title>Focus on Europe</title>
+  </programme>
+  <programme start="20241024150000 +0300" stop="20241024151500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024151500 +0300" stop="20241024160000 +0300" channel="bloomberg.com">
+    <title>Maduro: The Indestructible</title>
+  </programme>
+  <programme start="20241024160000 +0300" stop="20241024161500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024161500 +0300" stop="20241024163000 +0300" channel="bloomberg.com">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241024163000 +0300" stop="20241024170000 +0300" channel="bloomberg.com">
+    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
+  </programme>
+  <programme start="20241024170000 +0300" stop="20241024173000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024173000 +0300" stop="20241024180000 +0300" channel="bloomberg.com">
+    <title>Focus on Europe</title>
+  </programme>
+  <programme start="20241024180000 +0300" stop="20241024183000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024183000 +0300" stop="20241024190000 +0300" channel="bloomberg.com">
+    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
+  </programme>
+  <programme start="20241024190000 +0300" stop="20241024191500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024191500 +0300" stop="20241024200000 +0300" channel="bloomberg.com">
+    <title>The Death Marches of the Second World War: Part 2</title>
+  </programme>
+  <programme start="20241024200000 +0300" stop="20241024201500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024201500 +0300" stop="20241024203000 +0300" channel="bloomberg.com">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241024203000 +0300" stop="20241024210000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024210000 +0300" stop="20241024213000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024213000 +0300" stop="20241024220000 +0300" channel="bloomberg.com">
+    <title>Global Us: What connects us all</title>
+  </programme>
+  <programme start="20241024220000 +0300" stop="20241024220200 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024220200 +0300" stop="20241024223000 +0300" channel="bloomberg.com">
+    <title>Made in Germany: Europe adjusts to high energy costs</title>
+  </programme>
+  <programme start="20241024223000 +0300" stop="20241024230000 +0300" channel="bloomberg.com">
+    <title>Gangster Hunt: Police Battle the Mafia</title>
+  </programme>
+  <programme start="20241024230000 +0300" stop="20241024233000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024233000 +0300" stop="20241025000000 +0300" channel="bloomberg.com">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241025000000 +0300" stop="20241025000200 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025000200 +0300" stop="20241025001500 +0300" channel="bloomberg.com">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241025001500 +0300" stop="20241025010200 +0300" channel="bloomberg.com">
+    <title>The Death Marches of the Second World War: Part 2</title>
+  </programme>
+  <programme start="20241025010200 +0300" stop="20241025013000 +0300" channel="bloomberg.com">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241025013000 +0300" stop="20241025020000 +0300" channel="bloomberg.com">
+    <title>Gangster Hunt: Police Battle the Mafia</title>
+  </programme>
+  <programme start="20241025020000 +0300" stop="20241025021500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025021500 +0300" stop="20241025023000 +0300" channel="bloomberg.com">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241025023000 +0300" stop="20241025030000 +0300" channel="bloomberg.com">
+    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
+  </programme>
+  <programme start="20241025030000 +0300" stop="20241025030200 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025030200 +0300" stop="20241025033000 +0300" channel="bloomberg.com">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241025033000 +0300" stop="20241025040000 +0300" channel="bloomberg.com">
+    <title>Gangster Hunt: Police Battle the Mafia</title>
+  </programme>
+  <programme start="20241025040000 +0300" stop="20241025041500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025041500 +0300" stop="20241025050000 +0300" channel="bloomberg.com">
+    <title>Kenya: The Elephant Nannies</title>
+  </programme>
+  <programme start="20241025050000 +0300" stop="20241025050200 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025050200 +0300" stop="20241025053000 +0300" channel="bloomberg.com">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241025053000 +0300" stop="20241025060000 +0300" channel="bloomberg.com">
+    <title>Focus on Europe</title>
+  </programme>
+  <programme start="20241025060000 +0300" stop="20241025061500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025061500 +0300" stop="20241025063000 +0300" channel="bloomberg.com">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241025063000 +0300" stop="20241025070000 +0300" channel="bloomberg.com">
+    <title>Made in Germany: Europe adjusts to high energy costs</title>
+  </programme>
+  <programme start="20241025070000 +0300" stop="20241025071500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025071500 +0300" stop="20241025080000 +0300" channel="bloomberg.com">
+    <title>Kenya: The Elephant Nannies</title>
+  </programme>
+  <programme start="20241025080000 +0300" stop="20241025080200 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025080200 +0300" stop="20241025083000 +0300" channel="bloomberg.com">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241025083000 +0300" stop="20241025090000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025090000 +0300" stop="20241025091500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025091500 +0300" stop="20241025093000 +0300" channel="bloomberg.com">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241025093000 +0300" stop="20241025100000 +0300" channel="bloomberg.com">
+    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
+  </programme>
+  <programme start="20241025100000 +0300" stop="20241025103000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025103000 +0300" stop="20241025110000 +0300" channel="bloomberg.com">
+    <title>Gangster Hunt: Police Battle the Mafia</title>
+  </programme>
+  <programme start="20241025110000 +0300" stop="20241025113000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025113000 +0300" stop="20241025120000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025120000 +0300" stop="20241025121500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025121500 +0300" stop="20241025130000 +0300" channel="bloomberg.com">
+    <title>PFAS: Poisoned for Eternity?</title>
+  </programme>
+  <programme start="20241025130000 +0300" stop="20241025133000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025133000 +0300" stop="20241025140000 +0300" channel="bloomberg.com">
+    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
+  </programme>
+  <programme start="20241025140000 +0300" stop="20241025143000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025143000 +0300" stop="20241025150000 +0300" channel="bloomberg.com">
+    <title>Gangster Hunt: Police Battle the Mafia</title>
+  </programme>
+  <programme start="20241025150000 +0300" stop="20241025151500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025151500 +0300" stop="20241025160000 +0300" channel="bloomberg.com">
+    <title>The Death Marches of the Second World War: Part 2</title>
+  </programme>
+  <programme start="20241025160000 +0300" stop="20241025161500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025161500 +0300" stop="20241025163000 +0300" channel="bloomberg.com">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241025163000 +0300" stop="20241025170000 +0300" channel="bloomberg.com">
+    <title>In Good Shape: The Health Show</title>
+  </programme>
+  <programme start="20241025170000 +0300" stop="20241025173000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025173000 +0300" stop="20241025180000 +0300" channel="bloomberg.com">
+    <title>Eco India: Waste - what to do with it?</title>
+  </programme>
+  <programme start="20241025180000 +0300" stop="20241025183000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025183000 +0300" stop="20241025190000 +0300" channel="bloomberg.com">
+    <title>Gangster Hunt: Police Battle the Mafia</title>
+  </programme>
+  <programme start="20241025190000 +0300" stop="20241025191500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025191500 +0300" stop="20241025200000 +0300" channel="bloomberg.com">
+    <title>PFAS: Poisoned for Eternity?</title>
+  </programme>
+  <programme start="20241025200000 +0300" stop="20241025201500 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025201500 +0300" stop="20241025203000 +0300" channel="bloomberg.com">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241025203000 +0300" stop="20241025210000 +0300" channel="bloomberg.com">
+    <title>Afrimaxx: Modern African Lifestyle</title>
+  </programme>
+  <programme start="20241025210000 +0300" stop="20241025213000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025213000 +0300" stop="20241025220000 +0300" channel="bloomberg.com">
+    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
+  </programme>
+  <programme start="20241025220000 +0300" stop="20241025220200 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025220200 +0300" stop="20241025223000 +0300" channel="bloomberg.com">
+    <title>Focus on Europe</title>
+  </programme>
+  <programme start="20241025223000 +0300" stop="20241025230000 +0300" channel="bloomberg.com">
+    <title>Eco Africa</title>
+  </programme>
+  <programme start="20241025230000 +0300" stop="20241025233000 +0300" channel="bloomberg.com">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025233000 +0300" stop="20241026000000 +0300" channel="bloomberg.com">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241023080000 +0300" stop="20241023081500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241023081500 +0300" stop="20241023083000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241023083000 +0300" stop="20241023090000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241023090000 +0300" stop="20241023091500 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241023091500 +0300" stop="20241023093000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241023093000 +0300" stop="20241023100000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241023100000 +0300" stop="20241023101500 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241023101500 +0300" stop="20241023103000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241023103000 +0300" stop="20241023110000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241023110000 +0300" stop="20241023111500 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241023111500 +0300" stop="20241023113000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241023113000 +0300" stop="20241023114500 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241023114500 +0300" stop="20241023120000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241023120000 +0300" stop="20241023121500 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241023121500 +0300" stop="20241023123000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241023123000 +0300" stop="20241023130000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241023130000 +0300" stop="20241023131500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023131500 +0300" stop="20241023133000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023133000 +0300" stop="20241023134500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023134500 +0300" stop="20241023140000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023140000 +0300" stop="20241023141500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023141500 +0300" stop="20241023143000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023143000 +0300" stop="20241023150000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023150000 +0300" stop="20241023151500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023151500 +0300" stop="20241023153000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023153000 +0300" stop="20241023160000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023160000 +0300" stop="20241023161500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023161500 +0300" stop="20241023163000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023163000 +0300" stop="20241023170000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023170000 +0300" stop="20241023171500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023171500 +0300" stop="20241023173000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023173000 +0300" stop="20241023180000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023180000 +0300" stop="20241023181500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023181500 +0300" stop="20241023183000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023183000 +0300" stop="20241023190000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241023190000 +0300" stop="20241023191500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241023191500 +0300" stop="20241023193000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241023193000 +0300" stop="20241023200000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241023200000 +0300" stop="20241023201500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241023201500 +0300" stop="20241023203000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241023203000 +0300" stop="20241023210000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241023210000 +0300" stop="20241023211500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241023211500 +0300" stop="20241023213000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241023213000 +0300" stop="20241023220000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241023220000 +0300" stop="20241023221500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241023221500 +0300" stop="20241023223000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241023223000 +0300" stop="20241023230000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241023230000 +0300" stop="20241023231500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241023231500 +0300" stop="20241023233000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241023233000 +0300" stop="20241024000000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024000000 +0300" stop="20241024001500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024001500 +0300" stop="20241024003000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024003000 +0300" stop="20241024010000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024010000 +0300" stop="20241024011500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024011500 +0300" stop="20241024013000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024013000 +0300" stop="20241024020000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024020000 +0300" stop="20241024021500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024021500 +0300" stop="20241024023000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024023000 +0300" stop="20241024030000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024030000 +0300" stop="20241024031500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024031500 +0300" stop="20241024033000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024033000 +0300" stop="20241024040000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024040000 +0300" stop="20241024041500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024041500 +0300" stop="20241024043000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024043000 +0300" stop="20241024050000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024050000 +0300" stop="20241024051500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024051500 +0300" stop="20241024053000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024053000 +0300" stop="20241024060000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024060000 +0300" stop="20241024061500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024061500 +0300" stop="20241024063000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024063000 +0300" stop="20241024070000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024070000 +0300" stop="20241024071500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024071500 +0300" stop="20241024073000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024073000 +0300" stop="20241024080000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024080000 +0300" stop="20241024081500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024081500 +0300" stop="20241024083000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024083000 +0300" stop="20241024090000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024090000 +0300" stop="20241024091500 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241024091500 +0300" stop="20241024093000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241024093000 +0300" stop="20241024100000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241024100000 +0300" stop="20241024101500 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241024101500 +0300" stop="20241024103000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241024103000 +0300" stop="20241024110000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241024110000 +0300" stop="20241024111500 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241024111500 +0300" stop="20241024113000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241024113000 +0300" stop="20241024114500 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241024114500 +0300" stop="20241024120000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241024120000 +0300" stop="20241024121500 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241024121500 +0300" stop="20241024123000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241024123000 +0300" stop="20241024130000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241024130000 +0300" stop="20241024131500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024131500 +0300" stop="20241024133000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024133000 +0300" stop="20241024134500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024134500 +0300" stop="20241024140000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024140000 +0300" stop="20241024141500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024141500 +0300" stop="20241024143000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024143000 +0300" stop="20241024150000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024150000 +0300" stop="20241024151500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024151500 +0300" stop="20241024153000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024153000 +0300" stop="20241024160000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024160000 +0300" stop="20241024161500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024161500 +0300" stop="20241024163000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024163000 +0300" stop="20241024170000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024170000 +0300" stop="20241024171500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024171500 +0300" stop="20241024173000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024173000 +0300" stop="20241024180000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024180000 +0300" stop="20241024181500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024181500 +0300" stop="20241024183000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024183000 +0300" stop="20241024190000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241024190000 +0300" stop="20241024191500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024191500 +0300" stop="20241024193000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024193000 +0300" stop="20241024200000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024200000 +0300" stop="20241024201500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024201500 +0300" stop="20241024203000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024203000 +0300" stop="20241024210000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024210000 +0300" stop="20241024211500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024211500 +0300" stop="20241024213000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024213000 +0300" stop="20241024220000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024220000 +0300" stop="20241024221500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024221500 +0300" stop="20241024223000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024223000 +0300" stop="20241024230000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024230000 +0300" stop="20241024231500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024231500 +0300" stop="20241024233000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241024233000 +0300" stop="20241025000000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025000000 +0300" stop="20241025001500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025001500 +0300" stop="20241025003000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025003000 +0300" stop="20241025010000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025010000 +0300" stop="20241025011500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025011500 +0300" stop="20241025013000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025013000 +0300" stop="20241025020000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025020000 +0300" stop="20241025021500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025021500 +0300" stop="20241025023000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025023000 +0300" stop="20241025030000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025030000 +0300" stop="20241025031500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025031500 +0300" stop="20241025033000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025033000 +0300" stop="20241025040000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025040000 +0300" stop="20241025041500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025041500 +0300" stop="20241025043000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025043000 +0300" stop="20241025050000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025050000 +0300" stop="20241025051500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025051500 +0300" stop="20241025053000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025053000 +0300" stop="20241025060000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025060000 +0300" stop="20241025061500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025061500 +0300" stop="20241025063000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025063000 +0300" stop="20241025070000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025070000 +0300" stop="20241025071500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025071500 +0300" stop="20241025073000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025073000 +0300" stop="20241025080000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025080000 +0300" stop="20241025081500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025081500 +0300" stop="20241025083000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025083000 +0300" stop="20241025090000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025090000 +0300" stop="20241025091500 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241025091500 +0300" stop="20241025093000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241025093000 +0300" stop="20241025100000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241025100000 +0300" stop="20241025101500 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241025101500 +0300" stop="20241025103000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241025103000 +0300" stop="20241025110000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241025110000 +0300" stop="20241025111500 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241025111500 +0300" stop="20241025113000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241025113000 +0300" stop="20241025114500 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241025114500 +0300" stop="20241025120000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241025120000 +0300" stop="20241025121500 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241025121500 +0300" stop="20241025123000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241025123000 +0300" stop="20241025130000 +0300" channel="euronews.com">
+    <title>Wake Up Europe</title>
+  </programme>
+  <programme start="20241025130000 +0300" stop="20241025131500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025131500 +0300" stop="20241025133000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025133000 +0300" stop="20241025134500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025134500 +0300" stop="20241025140000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025140000 +0300" stop="20241025141500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025141500 +0300" stop="20241025143000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025143000 +0300" stop="20241025150000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025150000 +0300" stop="20241025151500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025151500 +0300" stop="20241025153000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025153000 +0300" stop="20241025160000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025160000 +0300" stop="20241025161500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025161500 +0300" stop="20241025163000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025163000 +0300" stop="20241025170000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025170000 +0300" stop="20241025171500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025171500 +0300" stop="20241025173000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025173000 +0300" stop="20241025180000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025180000 +0300" stop="20241025181500 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025181500 +0300" stop="20241025183000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025183000 +0300" stop="20241025190000 +0300" channel="euronews.com">
+    <title>Euronews Now</title>
+  </programme>
+  <programme start="20241025190000 +0300" stop="20241025191500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025191500 +0300" stop="20241025193000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025193000 +0300" stop="20241025200000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025200000 +0300" stop="20241025201500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025201500 +0300" stop="20241025203000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025203000 +0300" stop="20241025210000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025210000 +0300" stop="20241025211500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025211500 +0300" stop="20241025213000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025213000 +0300" stop="20241025220000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025220000 +0300" stop="20241025221500 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025221500 +0300" stop="20241025223000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025223000 +0300" stop="20241025230000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025230000 +0300" stop="20241025231400 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025231400 +0300" stop="20241025233000 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025233000 +0300" stop="20241025234600 +0300" channel="euronews.com">
+    <title>The European Debrief</title>
+  </programme>
+  <programme start="20241025234600 +0300" stop="20241026000000 +0300" channel="euronews.com">
+    <title>Witness</title>
   </programme>
   <programme start="20241023000000 +0300" stop="20241023003000 +0300" channel="bbcworldnews.com">
     <title>BBC World News America</title>

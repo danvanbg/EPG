@@ -882,7 +882,7 @@
   - tvarenasport.com
   
 - id: arenasport5.sr
-  enabled: false
+  enabled: true
   names:
   - name: Arena Sport 5 (SRB)
     lang: en
@@ -1940,6 +1940,7 @@
   - name: Евронюз БГ
     lang: bg
   - name: Euronews BG
+  - name: Euronews BG HD
   - name: Euronews Bulgaria
   - name: Euronews BG M
     lang: en
@@ -1988,13 +1989,24 @@
 - id: deutschewelle.de
   enabled: true
   names:
+  - name: Deutsche Welle HD
   - name: Deutsche Welle
     lang: en
   sources:
   - programtv.onet.pl
   
-- id: euronews.de
-  enabled: false
+  
+- id: bloomberg.com
+  enabled: true
+  names:
+  - name: Bloomberg
+  - name: Bloomberg HD
+    lang: en
+  sources:
+  - programtv.onet.pl
+  
+- id: euronews.com
+  enabled: true
   names:
   - name: Euronews
     lang: en
@@ -2002,6 +2014,7 @@
     lang: en
   sources:
   - tvguide.co.uk
+  - programtv.onet.pl
   
 - id: bbcworldnews.com
   enabled: true
@@ -2077,9 +2090,11 @@
 - id: skynews.uk
   enabled: true
   names:
+  - name: Sky News HD
   - name: Sky News
     lang: en
   sources:
+  - uksky.com
   - programtv.onet.pl
   
 - id: cgtn.cn

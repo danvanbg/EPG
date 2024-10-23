@@ -72,6 +72,9 @@
     <display-name>Eurosport 2</display-name>
     <display-name>Eurosport 2 LQ</display-name>
   </channel>
+  <channel id="arenasport5.sr">
+    <display-name lang="en">Arena Sport 5 (SRB)</display-name>
+  </channel>
   <channel id="arenasport1.hr">
     <display-name lang="en">Arena Sport 1 (HR)</display-name>
     <display-name lang="en">Arena Sport 1 HD (HR)</display-name>
@@ -170,7 +173,8 @@
   </channel>
   <channel id="sport1.de">
     <display-name lang="de">Sport 1</display-name>
-    <display-name lang="de">Sport 1 DE</display-name>
+    <display-name>Sport 1 DE</display-name>
+    <display-name lang="de">Sport 1 DE HD</display-name>
   </channel>
   <channel id="sport1plus.de">
     <display-name>Sport +</display-name>
@@ -1961,6 +1965,150 @@
   </programme>
   <programme start="20241026233500 +0300" channel="eurosport2.bg">
     <title>Фигурно пързаляне: Гран При в Канада, волна програма, спортни двойки, директно</title>
+  </programme>
+  <programme start="20241023020000 +0300" stop="20241023023000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Auto moto: Xross Hard Enduro Rally Serbia, pregled</title>
+  </programme>
+  <programme start="20241023023000 +0300" stop="20241023070000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Basket 3x3: Arilje</title>
+  </programme>
+  <programme start="20241023070000 +0300" stop="20241023090000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Ragbi: Italija - Engleska, 3.2.</title>
+  </programme>
+  <programme start="20241023090000 +0300" stop="20241023133000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Basket 3x3: Četvrtfinala, polufinale i finale</title>
+  </programme>
+  <programme start="20241023133000 +0300" stop="20241023160000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Umetničko klizanje: Skate America, parovi</title>
+  </programme>
+  <programme start="20241023160000 +0300" stop="20241023170000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Auto moto: Live stage 4</title>
+  </programme>
+  <programme start="20241023170000 +0300" stop="20241023190000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Basket 3x3: Polufinala i finale</title>
+  </programme>
+  <programme start="20241023190000 +0300" stop="20241023210000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Košarka: Rabotnički - Bosna</title>
+  </programme>
+  <programme start="20241023210000 +0300" stop="20241023213000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Auto moto: Xross Hard Enduro Rally Tennessee, pregled</title>
+  </programme>
+  <programme start="20241023213000 +0300" stop="20241023220000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Buduće zvezde Arene</title>
+  </programme>
+  <programme start="20241023220000 +0300" stop="20241024000000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Futsal: Tigers Roermond - KMF FON Banjica</title>
+  </programme>
+  <programme start="20241024000000 +0300" stop="20241024020000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Pikado: Finale</title>
+  </programme>
+  <programme start="20241024020000 +0300" stop="20241024040000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Basket 3x3: Četvrtfinala, polufinale i finale</title>
+  </programme>
+  <programme start="20241024040000 +0300" stop="20241024060000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Atletika: Paavo Nurmi</title>
+  </programme>
+  <programme start="20241024060000 +0300" stop="20241024070000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Auto moto: Race 3</title>
+  </programme>
+  <programme start="20241024070000 +0300" stop="20241024090000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Ragbi: Škotska - Francuska, 10.2.</title>
+  </programme>
+  <programme start="20241024090000 +0300" stop="20241024150000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Basket 3x3: Arilje</title>
+  </programme>
+  <programme start="20241024150000 +0300" stop="20241024181500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Konjički sport: Hollo Cup</title>
+  </programme>
+  <programme start="20241024181500 +0300" stop="20241024190000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Skokovi u vodu: Montreal</title>
+  </programme>
+  <programme start="20241024190000 +0300" stop="20241024193000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Auto moto: Sea to Sky, Turkey, pregled</title>
+  </programme>
+  <programme start="20241024193000 +0300" stop="20241024194500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Sportske igre mladih, ep. 12</title>
+  </programme>
+  <programme start="20241024194500 +0300" stop="20241024213000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Rukomet: Fuchse - PSG</title>
+  </programme>
+  <programme start="20241024213000 +0300" stop="20241024213500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Rukomet: Fuchse - PSG</title>
+  </programme>
+  <programme start="20241024213500 +0300" stop="20241024214000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Rukomet: Fuchse - PSG</title>
+  </programme>
+  <programme start="20241024214000 +0300" stop="20241024214500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Rukomet: Fuchse - PSG</title>
+  </programme>
+  <programme start="20241024214500 +0300" stop="20241024233000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Rukomet: Pelister - Veszprem</title>
+  </programme>
+  <programme start="20241024233000 +0300" stop="20241025040000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Basket 3x3: Četvrtfinala, polufinale i finale</title>
+  </programme>
+  <programme start="20241025040000 +0300" stop="20241025063000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Atletika: Irena Szewinska</title>
+  </programme>
+  <programme start="20241025063000 +0300" stop="20241025070000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Auto moto: Sea to Sky, Turkey, pregled</title>
+  </programme>
+  <programme start="20241025070000 +0300" stop="20241025090000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Ragbi: Engleska - Irska, 9.3.</title>
+  </programme>
+  <programme start="20241025090000 +0300" stop="20241025113000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Triatlon: WTCS Womans race</title>
+  </programme>
+  <programme start="20241025113000 +0300" stop="20241025140000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Triatlon: WTCS Mens race</title>
+  </programme>
+  <programme start="20241025140000 +0300" stop="20241025150000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Auto moto: Race 3</title>
+  </programme>
+  <programme start="20241025150000 +0300" stop="20241025214500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Paintball: Beograd</title>
+  </programme>
+  <programme start="20241025214500 +0300" stop="20241026034500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Basket 3x3: Arilje</title>
+  </programme>
+  <programme start="20241026034500 +0300" stop="20241026040000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Sportske igre mladih, ep. 11</title>
+  </programme>
+  <programme start="20241026040000 +0300" stop="20241026070000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Basket 3x3: Četvrtfinala, polufinale i finale</title>
+  </programme>
+  <programme start="20241026070000 +0300" stop="20241026090000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Ragbi: Vels - Škotska, 3.2.</title>
+  </programme>
+  <programme start="20241026090000 +0300" stop="20241026101500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Umetničko klizanje: Parovi, kratki program</title>
+  </programme>
+  <programme start="20241026101500 +0300" stop="20241026111500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Moto Sport: MONZA Race 1</title>
+  </programme>
+  <programme start="20241026111500 +0300" stop="20241026131500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Umetničko klizanje: Skate America, plesni parovi</title>
+  </programme>
+  <programme start="20241026131500 +0300" stop="20241026152500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Basket 3x3: Polufinala i finale</title>
+  </programme>
+  <programme start="20241026152500 +0300" stop="20241026162500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Moto Sport: MONZA Race 2</title>
+  </programme>
+  <programme start="20241026162500 +0300" stop="20241026171500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Skokovi u vodu: Montreal</title>
+  </programme>
+  <programme start="20241026171500 +0300" stop="20241026191500 +0300" channel="arenasport5.sr">
+    <title lang="sr">Fudbal: Rayo Vallecano - Alaves</title>
+  </programme>
+  <programme start="20241026191500 +0300" stop="20241026200000 +0300" channel="arenasport5.sr">
+    <title lang="sr">SPORT BROTHERS LEAGUE - ep. 6</title>
+  </programme>
+  <programme start="20241026200000 +0300" stop="20241026220000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Košarka: Cremona - Virtus</title>
+  </programme>
+  <programme start="20241026220000 +0300" channel="arenasport5.sr">
+    <title lang="sr">Futsal: Riga FC - KMF FON Banjica</title>
   </programme>
   <programme start="20241023080000 +0300" stop="20241023093000 +0300" channel="arenasport1.hr">
     <title>Rukomet: NEXE - KIEL, ehf europska liga</title>
