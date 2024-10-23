@@ -3113,6 +3113,15 @@
 ### FRENCH ###
 ##############
 
+- id: tf1.fr
+  enabled: true
+  names:
+  - name: TF1
+  - name: TF1 HD
+  groups: [ "fr" ]
+  sources:
+  - ouest-france.fr
+  
 - id: france2.fr
   enabled: true
   names:
@@ -3166,6 +3175,7 @@
 - id: w9.fr
   enabled: true
   names:
+  - name: W9 HD 
   - name: W9 
   groups: [ "fr" ]
   sources:

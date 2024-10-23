@@ -1012,6 +1012,10 @@
   <channel id="o2.rs">
     <display-name lang="sr">O2</display-name>
   </channel>
+  <channel id="tf1.fr">
+    <display-name>TF1</display-name>
+    <display-name>TF1 HD</display-name>
+  </channel>
   <channel id="france2.fr">
     <display-name>France 2</display-name>
     <display-name>France 2 HD</display-name>
@@ -1029,6 +1033,12 @@
   </channel>
   <channel id="bfmbusiness.fr">
     <display-name>BFM Business</display-name>
+    <display-name>BFM HD</display-name>
+    <display-name>BFM</display-name>
+  </channel>
+  <channel id="w9.fr">
+    <display-name>W9 HD</display-name>
+    <display-name>W9</display-name>
   </channel>
   <channel id="france24fr.fr">
     <display-name>France 24 FR</display-name>
@@ -54417,6 +54427,1542 @@
   </programme>
   <programme start="20241025230000 +0300" stop="20241026020000 +0300" channel="o2.rs">
     <title>Pokajnik</title>
+  </programme>
+  <programme start="20241023021500 +0300" stop="20241023070000 +0300" channel="tf1.fr">
+    <title lang="fr">Programmes de la nuit</title>
+  </programme>
+  <programme start="20241023070000 +0300" stop="20241023075500 +0300" channel="tf1.fr">
+    <title lang="fr">TFou</title>
+  </programme>
+  <programme start="20241023075500 +0300" stop="20241023103500 +0300" channel="tf1.fr">
+    <title lang="fr">Bonjour ! La Matinale TF1</title>
+  </programme>
+  <programme start="20241023103500 +0300" stop="20241023113000 +0300" channel="tf1.fr">
+    <title lang="fr">Téléshopping</title>
+  </programme>
+  <programme start="20241023113000 +0300" stop="20241023120000 +0300" channel="tf1.fr">
+    <title lang="fr">Amour, gloire et beauté</title>
+  </programme>
+  <programme start="20241023120000 +0300" stop="20241023124500 +0300" channel="tf1.fr">
+    <title lang="fr">Les Feux de l'amour</title>
+  </programme>
+  <programme start="20241023124500 +0300" stop="20241023125000 +0300" channel="tf1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20241023125000 +0300" stop="20241023135500 +0300" channel="tf1.fr">
+    <title lang="fr">Les douze coups de midi</title>
+  </programme>
+  <programme start="20241023135500 +0300" stop="20241023140000 +0300" channel="tf1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20241023140000 +0300" stop="20241023144000 +0300" channel="tf1.fr">
+    <title lang="fr">JT 13h</title>
+  </programme>
+  <programme start="20241023144000 +0300" stop="20241023144500 +0300" channel="tf1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20241023144500 +0300" stop="20241023145000 +0300" channel="tf1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241023145000 +0300" stop="20241023152000 +0300" channel="tf1.fr">
+    <title lang="fr">Plus belle la vie, encore plus belle</title>
+  </programme>
+  <programme start="20241023152000 +0300" stop="20241023170000 +0300" channel="tf1.fr">
+    <title lang="fr">Les biscuits magiques de Noël</title>
+  </programme>
+  <programme start="20241023170000 +0300" stop="20241023183000 +0300" channel="tf1.fr">
+    <title lang="fr">La recette secrète des cookies de Noë...</title>
+  </programme>
+  <programme start="20241023183000 +0300" stop="20241023193000 +0300" channel="tf1.fr">
+    <title lang="fr">Star Academy, la quotidienne</title>
+  </programme>
+  <programme start="20241023193000 +0300" stop="20241023201000 +0300" channel="tf1.fr">
+    <title lang="fr">Ici tout commence</title>
+  </programme>
+  <programme start="20241023201000 +0300" stop="20241023205500 +0300" channel="tf1.fr">
+    <title lang="fr">Demain nous appartient</title>
+  </programme>
+  <programme start="20241023205500 +0300" stop="20241023210000 +0300" channel="tf1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241023210000 +0300" stop="20241023214500 +0300" channel="tf1.fr">
+    <title lang="fr">JT 20h</title>
+  </programme>
+  <programme start="20241023214500 +0300" stop="20241023215000 +0300" channel="tf1.fr">
+    <title lang="fr">Tirage du Loto</title>
+  </programme>
+  <programme start="20241023215000 +0300" stop="20241023220000 +0300" channel="tf1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241023220000 +0300" stop="20241023221000 +0300" channel="tf1.fr">
+    <title lang="fr">C'est Canteloup</title>
+  </programme>
+  <programme start="20241023221000 +0300" stop="20241023230500 +0300" channel="tf1.fr">
+    <title lang="fr">Nightsleeper</title>
+  </programme>
+  <programme start="20241023230500 +0300" stop="20241024000000 +0300" channel="tf1.fr">
+    <title lang="fr">Nightsleeper</title>
+  </programme>
+  <programme start="20241024000000 +0300" stop="20241024004500 +0300" channel="tf1.fr">
+    <title lang="fr">Esprits criminels</title>
+  </programme>
+  <programme start="20241024004500 +0300" stop="20241024014000 +0300" channel="tf1.fr">
+    <title lang="fr">Esprits criminels</title>
+  </programme>
+  <programme start="20241024014000 +0300" stop="20241024022500 +0300" channel="tf1.fr">
+    <title lang="fr">Esprits criminels</title>
+  </programme>
+  <programme start="20241024022500 +0300" stop="20241024032500 +0300" channel="tf1.fr">
+    <title lang="fr">Esprits criminels</title>
+  </programme>
+  <programme start="20241024032500 +0300" stop="20241024070000 +0300" channel="tf1.fr">
+    <title lang="fr">Programmes de la nuit</title>
+  </programme>
+  <programme start="20241024070000 +0300" stop="20241024075500 +0300" channel="tf1.fr">
+    <title lang="fr">TFou</title>
+  </programme>
+  <programme start="20241024075500 +0300" stop="20241024103500 +0300" channel="tf1.fr">
+    <title lang="fr">Bonjour ! La Matinale TF1</title>
+  </programme>
+  <programme start="20241024103500 +0300" stop="20241024113000 +0300" channel="tf1.fr">
+    <title lang="fr">Téléshopping</title>
+  </programme>
+  <programme start="20241024113000 +0300" stop="20241024120000 +0300" channel="tf1.fr">
+    <title lang="fr">Amour, gloire et beauté</title>
+  </programme>
+  <programme start="20241024120000 +0300" stop="20241024124500 +0300" channel="tf1.fr">
+    <title lang="fr">Les Feux de l'amour</title>
+  </programme>
+  <programme start="20241024124500 +0300" stop="20241024125000 +0300" channel="tf1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20241024125000 +0300" stop="20241024135500 +0300" channel="tf1.fr">
+    <title lang="fr">Les douze coups de midi</title>
+  </programme>
+  <programme start="20241024135500 +0300" stop="20241024140000 +0300" channel="tf1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20241024140000 +0300" stop="20241024144000 +0300" channel="tf1.fr">
+    <title lang="fr">JT 13h</title>
+  </programme>
+  <programme start="20241024144000 +0300" stop="20241024144500 +0300" channel="tf1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20241024144500 +0300" stop="20241024145000 +0300" channel="tf1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241024145000 +0300" stop="20241024152000 +0300" channel="tf1.fr">
+    <title lang="fr">Plus belle la vie, encore plus belle</title>
+  </programme>
+  <programme start="20241024152000 +0300" stop="20241024170000 +0300" channel="tf1.fr">
+    <title lang="fr">L'île merveilleuse de Noël</title>
+  </programme>
+  <programme start="20241024170000 +0300" stop="20241024183000 +0300" channel="tf1.fr">
+    <title lang="fr">Noël à Maple Valley</title>
+  </programme>
+  <programme start="20241024183000 +0300" stop="20241024193000 +0300" channel="tf1.fr">
+    <title lang="fr">Star Academy, la quotidienne</title>
+  </programme>
+  <programme start="20241024193000 +0300" stop="20241024201000 +0300" channel="tf1.fr">
+    <title lang="fr">Ici tout commence</title>
+  </programme>
+  <programme start="20241024201000 +0300" stop="20241024205500 +0300" channel="tf1.fr">
+    <title lang="fr">Demain nous appartient</title>
+  </programme>
+  <programme start="20241024205500 +0300" stop="20241024210000 +0300" channel="tf1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241024210000 +0300" stop="20241024214500 +0300" channel="tf1.fr">
+    <title lang="fr">JT 20h</title>
+  </programme>
+  <programme start="20241024214500 +0300" stop="20241024220000 +0300" channel="tf1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241024220000 +0300" stop="20241024221000 +0300" channel="tf1.fr">
+    <title lang="fr">C'est Canteloup</title>
+  </programme>
+  <programme start="20241024221000 +0300" stop="20241024231500 +0300" channel="tf1.fr">
+    <title lang="fr">Master Crimes</title>
+  </programme>
+  <programme start="20241024231500 +0300" stop="20241025001000 +0300" channel="tf1.fr">
+    <title lang="fr">Master Crimes</title>
+  </programme>
+  <programme start="20241025001000 +0300" stop="20241025001500 +0300" channel="tf1.fr">
+    <title lang="fr">Eurodreams</title>
+  </programme>
+  <programme start="20241025001500 +0300" stop="20241025011500 +0300" channel="tf1.fr">
+    <title lang="fr">Master Crimes</title>
+  </programme>
+  <programme start="20241025011500 +0300" stop="20241025021500 +0300" channel="tf1.fr">
+    <title lang="fr">Master Crimes</title>
+  </programme>
+  <programme start="20241025021500 +0300" stop="20241025031500 +0300" channel="tf1.fr">
+    <title lang="fr">Master Crimes</title>
+  </programme>
+  <programme start="20241025031500 +0300" stop="20241025070000 +0300" channel="tf1.fr">
+    <title lang="fr">Programmes de la nuit</title>
+  </programme>
+  <programme start="20241025070000 +0300" stop="20241025075500 +0300" channel="tf1.fr">
+    <title lang="fr">TFou</title>
+  </programme>
+  <programme start="20241025075500 +0300" stop="20241025103500 +0300" channel="tf1.fr">
+    <title lang="fr">Bonjour ! La Matinale TF1</title>
+  </programme>
+  <programme start="20241025103500 +0300" stop="20241025113000 +0300" channel="tf1.fr">
+    <title lang="fr">Téléshopping</title>
+  </programme>
+  <programme start="20241025113000 +0300" stop="20241025120000 +0300" channel="tf1.fr">
+    <title lang="fr">Amour, gloire et beauté</title>
+  </programme>
+  <programme start="20241025120000 +0300" stop="20241025124500 +0300" channel="tf1.fr">
+    <title lang="fr">Les Feux de l'amour</title>
+  </programme>
+  <programme start="20241025124500 +0300" stop="20241025125000 +0300" channel="tf1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20241025125000 +0300" stop="20241025135500 +0300" channel="tf1.fr">
+    <title lang="fr">Les douze coups de midi</title>
+  </programme>
+  <programme start="20241025135500 +0300" stop="20241025140000 +0300" channel="tf1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20241025140000 +0300" stop="20241025144000 +0300" channel="tf1.fr">
+    <title lang="fr">JT 13h</title>
+  </programme>
+  <programme start="20241025144000 +0300" stop="20241025144500 +0300" channel="tf1.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+  </programme>
+  <programme start="20241025144500 +0300" stop="20241025145000 +0300" channel="tf1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241025145000 +0300" stop="20241025152000 +0300" channel="tf1.fr">
+    <title lang="fr">Plus belle la vie, encore plus belle</title>
+  </programme>
+  <programme start="20241025152000 +0300" stop="20241025170000 +0300" channel="tf1.fr">
+    <title lang="fr">Lettres magiques au père Noël</title>
+  </programme>
+  <programme start="20241025170000 +0300" stop="20241025183000 +0300" channel="tf1.fr">
+    <title lang="fr">Max, le chien de Noël</title>
+  </programme>
+  <programme start="20241025183000 +0300" stop="20241025193000 +0300" channel="tf1.fr">
+    <title lang="fr">Star Academy, la quotidienne</title>
+  </programme>
+  <programme start="20241025193000 +0300" stop="20241025201000 +0300" channel="tf1.fr">
+    <title lang="fr">Ici tout commence</title>
+  </programme>
+  <programme start="20241025201000 +0300" stop="20241025205500 +0300" channel="tf1.fr">
+    <title lang="fr">Demain nous appartient</title>
+  </programme>
+  <programme start="20241025205500 +0300" stop="20241025210000 +0300" channel="tf1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241025210000 +0300" stop="20241025214500 +0300" channel="tf1.fr">
+    <title lang="fr">JT 20h</title>
+  </programme>
+  <programme start="20241025214500 +0300" stop="20241025215000 +0300" channel="tf1.fr">
+    <title lang="fr">My Million</title>
+  </programme>
+  <programme start="20241025215000 +0300" stop="20241025220000 +0300" channel="tf1.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241025220000 +0300" stop="20241025221000 +0300" channel="tf1.fr">
+    <title lang="fr">C'est Canteloup</title>
+  </programme>
+  <programme start="20241025221000 +0300" stop="20241026004000 +0300" channel="tf1.fr">
+    <title lang="fr">Le maître du jeu</title>
+  </programme>
+  <programme start="20241023031500 +0300" stop="20241023040500 +0300" channel="france2.fr">
+    <title lang="fr">Notre Histoire de France</title>
+  </programme>
+  <programme start="20241023040500 +0300" stop="20241023040700 +0300" channel="france2.fr">
+    <title lang="fr">Météo Outre-mer</title>
+  </programme>
+  <programme start="20241023040700 +0300" stop="20241023050000 +0300" channel="france2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+  </programme>
+  <programme start="20241023050000 +0300" stop="20241023054500 +0300" channel="france2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quel...</title>
+  </programme>
+  <programme start="20241023054500 +0300" stop="20241023060000 +0300" channel="france2.fr">
+    <title lang="fr">La civilisation des arbres</title>
+  </programme>
+  <programme start="20241023060000 +0300" stop="20241023060500 +0300" channel="france2.fr">
+    <title lang="fr">Pays et marchés du monde</title>
+  </programme>
+  <programme start="20241023060500 +0300" stop="20241023070000 +0300" channel="france2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20241023070000 +0300" stop="20241023073000 +0300" channel="france2.fr">
+    <title lang="fr">Le 6h info</title>
+  </programme>
+  <programme start="20241023073000 +0300" stop="20241023090000 +0300" channel="france2.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20241023090000 +0300" stop="20241023093000 +0300" channel="france2.fr">
+    <title lang="fr">Journal 08h00</title>
+  </programme>
+  <programme start="20241023093000 +0300" stop="20241023103000 +0300" channel="france2.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20241023103000 +0300" stop="20241023105500 +0300" channel="france2.fr">
+    <title lang="fr">La maison des Maternelles</title>
+  </programme>
+  <programme start="20241023105500 +0300" stop="20241023113500 +0300" channel="france2.fr">
+    <title lang="fr">La maison des Maternelles à votre ser...</title>
+  </programme>
+  <programme start="20241023113500 +0300" stop="20241023114000 +0300" channel="france2.fr">
+    <title lang="fr">Consomag</title>
+  </programme>
+  <programme start="20241023114000 +0300" stop="20241023114500 +0300" channel="france2.fr">
+    <title lang="fr">Météo Outre-mer</title>
+  </programme>
+  <programme start="20241023114500 +0300" stop="20241023121500 +0300" channel="france2.fr">
+    <title lang="fr">Chacun son tour</title>
+  </programme>
+  <programme start="20241023121500 +0300" stop="20241023125500 +0300" channel="france2.fr">
+    <title lang="fr">Chacun son tour</title>
+  </programme>
+  <programme start="20241023125500 +0300" stop="20241023135500 +0300" channel="france2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20241023135500 +0300" stop="20241023140000 +0300" channel="france2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20241023140000 +0300" stop="20241023144000 +0300" channel="france2.fr">
+    <title lang="fr">Journal 13h00</title>
+  </programme>
+  <programme start="20241023144000 +0300" stop="20241023144500 +0300" channel="france2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20241023144500 +0300" stop="20241023145000 +0300" channel="france2.fr">
+    <title lang="fr">La p'tite librairie</title>
+  </programme>
+  <programme start="20241023145000 +0300" stop="20241023160500 +0300" channel="france2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+  </programme>
+  <programme start="20241023160500 +0300" stop="20241023171500 +0300" channel="france2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+  </programme>
+  <programme start="20241023171500 +0300" stop="20241023180500 +0300" channel="france2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quel...</title>
+  </programme>
+  <programme start="20241023180500 +0300" stop="20241023185000 +0300" channel="france2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quel...</title>
+  </programme>
+  <programme start="20241023185000 +0300" stop="20241023190000 +0300" channel="france2.fr">
+    <title lang="fr">Affaire conclue : la vie des objets</title>
+  </programme>
+  <programme start="20241023190000 +0300" stop="20241023193500 +0300" channel="france2.fr">
+    <title lang="fr">Tout le monde a son mot à dire</title>
+  </programme>
+  <programme start="20241023193500 +0300" stop="20241023201000 +0300" channel="france2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+  </programme>
+  <programme start="20241023201000 +0300" stop="20241023205500 +0300" channel="france2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+  </programme>
+  <programme start="20241023205500 +0300" stop="20241023210000 +0300" channel="france2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20241023210000 +0300" stop="20241023215000 +0300" channel="france2.fr">
+    <title lang="fr">Journal 20h00</title>
+  </programme>
+  <programme start="20241023215000 +0300" stop="20241023215500 +0300" channel="france2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20241023215500 +0300" stop="20241023220200 +0300" channel="france2.fr">
+    <title lang="fr">Les Etoiles du sport</title>
+  </programme>
+  <programme start="20241023220200 +0300" stop="20241023220500 +0300" channel="france2.fr">
+    <title lang="fr">Basique, l'essentiel de la musique</title>
+  </programme>
+  <programme start="20241023220500 +0300" stop="20241023225000 +0300" channel="france2.fr">
+    <title lang="fr">Un soupçon</title>
+  </programme>
+  <programme start="20241023225000 +0300" stop="20241023234000 +0300" channel="france2.fr">
+    <title lang="fr">Un soupçon</title>
+  </programme>
+  <programme start="20241023234000 +0300" stop="20241024004500 +0300" channel="france2.fr">
+    <title lang="fr">Justice en France</title>
+  </programme>
+  <programme start="20241024004500 +0300" stop="20241024013000 +0300" channel="france2.fr">
+    <title lang="fr">Justice en France</title>
+  </programme>
+  <programme start="20241024013000 +0300" stop="20241024022000 +0300" channel="france2.fr">
+    <title lang="fr">Au bout de l'enquête, la fin du crime...</title>
+  </programme>
+  <programme start="20241024022000 +0300" stop="20241024031000 +0300" channel="france2.fr">
+    <title lang="fr">Au bout de l'enquête, la fin du crime...</title>
+  </programme>
+  <programme start="20241024031000 +0300" stop="20241024035800 +0300" channel="france2.fr">
+    <title lang="fr">Au bout de l'enquête, la fin du crime...</title>
+  </programme>
+  <programme start="20241024035800 +0300" stop="20241024040000 +0300" channel="france2.fr">
+    <title lang="fr">Météo Outre-mer</title>
+  </programme>
+  <programme start="20241024040000 +0300" stop="20241024044500 +0300" channel="france2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quel...</title>
+  </programme>
+  <programme start="20241024044500 +0300" stop="20241024054000 +0300" channel="france2.fr">
+    <title lang="fr">Emissions religieuses</title>
+  </programme>
+  <programme start="20241024054000 +0300" stop="20241024055500 +0300" channel="france2.fr">
+    <title lang="fr">Courant d'art</title>
+  </programme>
+  <programme start="20241024055500 +0300" stop="20241024060000 +0300" channel="france2.fr">
+    <title lang="fr">Pays et marchés du monde</title>
+  </programme>
+  <programme start="20241024060000 +0300" stop="20241024060500 +0300" channel="france2.fr">
+    <title lang="fr">Pays et marchés du monde</title>
+  </programme>
+  <programme start="20241024060500 +0300" stop="20241024070000 +0300" channel="france2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20241024070000 +0300" stop="20241024073000 +0300" channel="france2.fr">
+    <title lang="fr">Le 6h info</title>
+  </programme>
+  <programme start="20241024073000 +0300" stop="20241024090000 +0300" channel="france2.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20241024090000 +0300" stop="20241024093000 +0300" channel="france2.fr">
+    <title lang="fr">Journal 08h00</title>
+  </programme>
+  <programme start="20241024093000 +0300" stop="20241024103000 +0300" channel="france2.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20241024103000 +0300" stop="20241024105500 +0300" channel="france2.fr">
+    <title lang="fr">La maison des Maternelles</title>
+  </programme>
+  <programme start="20241024105500 +0300" stop="20241024113500 +0300" channel="france2.fr">
+    <title lang="fr">La maison des Maternelles à votre ser...</title>
+  </programme>
+  <programme start="20241024113500 +0300" stop="20241024114000 +0300" channel="france2.fr">
+    <title lang="fr">Consomag</title>
+  </programme>
+  <programme start="20241024114000 +0300" stop="20241024114500 +0300" channel="france2.fr">
+    <title lang="fr">Météo Outre-mer</title>
+  </programme>
+  <programme start="20241024114500 +0300" stop="20241024121500 +0300" channel="france2.fr">
+    <title lang="fr">Chacun son tour</title>
+  </programme>
+  <programme start="20241024121500 +0300" stop="20241024125500 +0300" channel="france2.fr">
+    <title lang="fr">Chacun son tour</title>
+  </programme>
+  <programme start="20241024125500 +0300" stop="20241024135500 +0300" channel="france2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20241024135500 +0300" stop="20241024140000 +0300" channel="france2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20241024140000 +0300" stop="20241024144000 +0300" channel="france2.fr">
+    <title lang="fr">Journal 13h00</title>
+  </programme>
+  <programme start="20241024144000 +0300" stop="20241024144500 +0300" channel="france2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20241024144500 +0300" stop="20241024145000 +0300" channel="france2.fr">
+    <title lang="fr">La p'tite librairie</title>
+  </programme>
+  <programme start="20241024145000 +0300" stop="20241024160500 +0300" channel="france2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+  </programme>
+  <programme start="20241024160500 +0300" stop="20241024171500 +0300" channel="france2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+  </programme>
+  <programme start="20241024171500 +0300" stop="20241024180500 +0300" channel="france2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quel...</title>
+  </programme>
+  <programme start="20241024180500 +0300" stop="20241024185000 +0300" channel="france2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quel...</title>
+  </programme>
+  <programme start="20241024185000 +0300" stop="20241024190000 +0300" channel="france2.fr">
+    <title lang="fr">Affaire conclue : la vie des objets</title>
+  </programme>
+  <programme start="20241024190000 +0300" stop="20241024193500 +0300" channel="france2.fr">
+    <title lang="fr">Tout le monde a son mot à dire</title>
+  </programme>
+  <programme start="20241024193500 +0300" stop="20241024201000 +0300" channel="france2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+  </programme>
+  <programme start="20241024201000 +0300" stop="20241024205500 +0300" channel="france2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+  </programme>
+  <programme start="20241024205500 +0300" stop="20241024210000 +0300" channel="france2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20241024210000 +0300" stop="20241024215000 +0300" channel="france2.fr">
+    <title lang="fr">Journal 20h00</title>
+  </programme>
+  <programme start="20241024215000 +0300" stop="20241024215200 +0300" channel="france2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20241024215200 +0300" stop="20241024215500 +0300" channel="france2.fr">
+    <title lang="fr">France : terre d'expériences</title>
+  </programme>
+  <programme start="20241024215500 +0300" stop="20241024220000 +0300" channel="france2.fr">
+    <title lang="fr">Basique, l'essentiel de la musique</title>
+  </programme>
+  <programme start="20241024220000 +0300" stop="20241024235000 +0300" channel="france2.fr">
+    <title lang="fr">Envoyé spécial</title>
+  </programme>
+  <programme start="20241024235000 +0300" stop="20241025005500 +0300" channel="france2.fr">
+    <title lang="fr">Complément d'enquête</title>
+  </programme>
+  <programme start="20241025005500 +0300" stop="20241025012500 +0300" channel="france2.fr">
+    <title lang="fr">Nous, les Européens</title>
+  </programme>
+  <programme start="20241025012500 +0300" stop="20241025013000 +0300" channel="france2.fr">
+    <title lang="fr">Expression directe</title>
+  </programme>
+  <programme start="20241025013000 +0300" stop="20241025020000 +0300" channel="france2.fr">
+    <title lang="fr">Votre télé et vous</title>
+  </programme>
+  <programme start="20241025020000 +0300" stop="20241025024500 +0300" channel="france2.fr">
+    <title lang="fr">13h15, le dimanche...</title>
+  </programme>
+  <programme start="20241025024500 +0300" stop="20241025033000 +0300" channel="france2.fr">
+    <title lang="fr">13h15, le dimanche...</title>
+  </programme>
+  <programme start="20241025033000 +0300" stop="20241025040500 +0300" channel="france2.fr">
+    <title lang="fr">13h15, le samedi...</title>
+  </programme>
+  <programme start="20241025040500 +0300" stop="20241025040700 +0300" channel="france2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20241025040700 +0300" stop="20241025050500 +0300" channel="france2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+  </programme>
+  <programme start="20241025050500 +0300" stop="20241025055000 +0300" channel="france2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quel...</title>
+  </programme>
+  <programme start="20241025055000 +0300" stop="20241025055500 +0300" channel="france2.fr">
+    <title lang="fr">Courant d'art</title>
+  </programme>
+  <programme start="20241025055500 +0300" stop="20241025060000 +0300" channel="france2.fr">
+    <title lang="fr">Pays et marchés du monde</title>
+  </programme>
+  <programme start="20241025060000 +0300" stop="20241025060500 +0300" channel="france2.fr">
+    <title lang="fr">Pays et marchés du monde</title>
+  </programme>
+  <programme start="20241025060500 +0300" stop="20241025070000 +0300" channel="france2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20241025070000 +0300" stop="20241025073000 +0300" channel="france2.fr">
+    <title lang="fr">Le 6h info</title>
+  </programme>
+  <programme start="20241025073000 +0300" stop="20241025090000 +0300" channel="france2.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20241025090000 +0300" stop="20241025093000 +0300" channel="france2.fr">
+    <title lang="fr">Journal 08h00</title>
+  </programme>
+  <programme start="20241025093000 +0300" stop="20241025103000 +0300" channel="france2.fr">
+    <title lang="fr">Télématin</title>
+  </programme>
+  <programme start="20241025103000 +0300" stop="20241025105500 +0300" channel="france2.fr">
+    <title lang="fr">La maison des Maternelles</title>
+  </programme>
+  <programme start="20241025105500 +0300" stop="20241025113500 +0300" channel="france2.fr">
+    <title lang="fr">La maison des Maternelles à votre ser...</title>
+  </programme>
+  <programme start="20241025113500 +0300" stop="20241025114000 +0300" channel="france2.fr">
+    <title lang="fr">Consomag</title>
+  </programme>
+  <programme start="20241025114000 +0300" stop="20241025114500 +0300" channel="france2.fr">
+    <title lang="fr">Météo Outre-mer</title>
+  </programme>
+  <programme start="20241025114500 +0300" stop="20241025121500 +0300" channel="france2.fr">
+    <title lang="fr">Chacun son tour</title>
+  </programme>
+  <programme start="20241025121500 +0300" stop="20241025125500 +0300" channel="france2.fr">
+    <title lang="fr">Chacun son tour</title>
+  </programme>
+  <programme start="20241025125500 +0300" stop="20241025135500 +0300" channel="france2.fr">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20241025135500 +0300" stop="20241025140000 +0300" channel="france2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20241025140000 +0300" stop="20241025144000 +0300" channel="france2.fr">
+    <title lang="fr">Journal 13h00</title>
+  </programme>
+  <programme start="20241025144000 +0300" stop="20241025144500 +0300" channel="france2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20241025144500 +0300" stop="20241025144600 +0300" channel="france2.fr">
+    <title lang="fr">La p'tite librairie</title>
+  </programme>
+  <programme start="20241025144600 +0300" stop="20241025145000 +0300" channel="france2.fr">
+    <title lang="fr">Expression directe</title>
+  </programme>
+  <programme start="20241025145000 +0300" stop="20241025160500 +0300" channel="france2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+  </programme>
+  <programme start="20241025160500 +0300" stop="20241025172000 +0300" channel="france2.fr">
+    <title lang="fr">Ça commence aujourd'hui</title>
+  </programme>
+  <programme start="20241025172000 +0300" stop="20241025181000 +0300" channel="france2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quel...</title>
+  </programme>
+  <programme start="20241025181000 +0300" stop="20241025185000 +0300" channel="france2.fr">
+    <title lang="fr">Affaire conclue, tout le monde a quel...</title>
+  </programme>
+  <programme start="20241025185000 +0300" stop="20241025190000 +0300" channel="france2.fr">
+    <title lang="fr">Affaire conclue : la vie des objets</title>
+  </programme>
+  <programme start="20241025190000 +0300" stop="20241025193500 +0300" channel="france2.fr">
+    <title lang="fr">Tout le monde a son mot à dire</title>
+  </programme>
+  <programme start="20241025193500 +0300" stop="20241025201000 +0300" channel="france2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+  </programme>
+  <programme start="20241025201000 +0300" stop="20241025205500 +0300" channel="france2.fr">
+    <title lang="fr">N'oubliez pas les paroles</title>
+  </programme>
+  <programme start="20241025205500 +0300" stop="20241025210000 +0300" channel="france2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20241025210000 +0300" stop="20241025214500 +0300" channel="france2.fr">
+    <title lang="fr">Journal 20h00</title>
+  </programme>
+  <programme start="20241025214500 +0300" stop="20241025215500 +0300" channel="france2.fr">
+    <title lang="fr">20h30 le vendredi</title>
+  </programme>
+  <programme start="20241025215500 +0300" stop="20241025220000 +0300" channel="france2.fr">
+    <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20241025220000 +0300" stop="20241025220100 +0300" channel="france2.fr">
+    <title lang="fr">France : terre d'expériences</title>
+  </programme>
+  <programme start="20241025220100 +0300" stop="20241025220500 +0300" channel="france2.fr">
+    <title lang="fr">Basique, l'essentiel de la musique</title>
+  </programme>
+  <programme start="20241025220500 +0300" stop="20241026012000 +0300" channel="france2.fr">
+    <title lang="fr">Taratata fête les 40 ans de Bercy</title>
+  </programme>
+  <programme start="20241023021500 +0300" stop="20241023042000 +0300" channel="m6.fr">
+    <title lang="fr">Rocky II, la revanche</title>
+  </programme>
+  <programme start="20241023042000 +0300" stop="20241023064000 +0300" channel="m6.fr">
+    <title lang="fr">Programmes de la nuit</title>
+  </programme>
+  <programme start="20241023064000 +0300" stop="20241023073000 +0300" channel="m6.fr">
+    <title lang="fr">Incroyables transformations</title>
+  </programme>
+  <programme start="20241023073000 +0300" stop="20241023083000 +0300" channel="m6.fr">
+    <title lang="fr">Incroyables transformations</title>
+  </programme>
+  <programme start="20241023083000 +0300" stop="20241023093500 +0300" channel="m6.fr">
+    <title lang="fr">Incroyables transformations</title>
+  </programme>
+  <programme start="20241023093500 +0300" stop="20241023104500 +0300" channel="m6.fr">
+    <title lang="fr">Ça peut vous arriver</title>
+  </programme>
+  <programme start="20241023104500 +0300" stop="20241023123000 +0300" channel="m6.fr">
+    <title lang="fr">Ça peut vous arriver</title>
+  </programme>
+  <programme start="20241023123000 +0300" stop="20241023134000 +0300" channel="m6.fr">
+    <title lang="fr">Ça peut vous arriver chez vous</title>
+  </programme>
+  <programme start="20241023134000 +0300" stop="20241023134500 +0300" channel="m6.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241023134500 +0300" stop="20241023144000 +0300" channel="m6.fr">
+    <title lang="fr">Le 12.45</title>
+  </programme>
+  <programme start="20241023144000 +0300" stop="20241023155000 +0300" channel="m6.fr">
+    <title lang="fr">Un jour, un doc</title>
+  </programme>
+  <programme start="20241023155000 +0300" stop="20241023165000 +0300" channel="m6.fr">
+    <title lang="fr">Un jour, un doc</title>
+  </programme>
+  <programme start="20241023165000 +0300" stop="20241023175000 +0300" channel="m6.fr">
+    <title lang="fr">Un jour, un doc</title>
+  </programme>
+  <programme start="20241023175000 +0300" stop="20241023183000 +0300" channel="m6.fr">
+    <title lang="fr">Un jour, un doc</title>
+  </programme>
+  <programme start="20241023183000 +0300" stop="20241023193500 +0300" channel="m6.fr">
+    <title lang="fr">La meilleure cuisine régionale, c'est...</title>
+  </programme>
+  <programme start="20241023193500 +0300" stop="20241023204000 +0300" channel="m6.fr">
+    <title lang="fr">Le juste prix</title>
+  </programme>
+  <programme start="20241023204000 +0300" stop="20241023204500 +0300" channel="m6.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241023204500 +0300" stop="20241023213500 +0300" channel="m6.fr">
+    <title lang="fr">Le 19.45</title>
+  </programme>
+  <programme start="20241023213500 +0300" stop="20241023221000 +0300" channel="m6.fr">
+    <title lang="fr">Scènes de ménages</title>
+  </programme>
+  <programme start="20241023221000 +0300" stop="20241023232500 +0300" channel="m6.fr">
+    <title lang="fr">La France a un incroyable talent</title>
+  </programme>
+  <programme start="20241023232500 +0300" stop="20241024001000 +0300" channel="m6.fr">
+    <title lang="fr">La France a un incroyable talent</title>
+  </programme>
+  <programme start="20241024001000 +0300" stop="20241024012000 +0300" channel="m6.fr">
+    <title lang="fr">La France a un incroyable talent, ça ...</title>
+  </programme>
+  <programme start="20241024012000 +0300" stop="20241024015500 +0300" channel="m6.fr">
+    <title lang="fr">Les incroyables talents sont éternels</title>
+  </programme>
+  <programme start="20241024015500 +0300" stop="20241024023500 +0300" channel="m6.fr">
+    <title lang="fr">Les incroyables talents de la musique</title>
+  </programme>
+  <programme start="20241024023500 +0300" stop="20241024031500 +0300" channel="m6.fr">
+    <title lang="fr">Les incroyables talents de la musique</title>
+  </programme>
+  <programme start="20241024031500 +0300" stop="20241024034500 +0300" channel="m6.fr">
+    <title lang="fr">Les incroyables talents de la musique</title>
+  </programme>
+  <programme start="20241024034500 +0300" stop="20241024064000 +0300" channel="m6.fr">
+    <title lang="fr">Programmes de la nuit</title>
+  </programme>
+  <programme start="20241024064000 +0300" stop="20241024073000 +0300" channel="m6.fr">
+    <title lang="fr">Incroyables transformations</title>
+  </programme>
+  <programme start="20241024073000 +0300" stop="20241024083000 +0300" channel="m6.fr">
+    <title lang="fr">Incroyables transformations</title>
+  </programme>
+  <programme start="20241024083000 +0300" stop="20241024093500 +0300" channel="m6.fr">
+    <title lang="fr">Incroyables transformations</title>
+  </programme>
+  <programme start="20241024093500 +0300" stop="20241024104500 +0300" channel="m6.fr">
+    <title lang="fr">M6 Boutique</title>
+  </programme>
+  <programme start="20241024104500 +0300" stop="20241024123000 +0300" channel="m6.fr">
+    <title lang="fr">Ça peut vous arriver</title>
+  </programme>
+  <programme start="20241024123000 +0300" stop="20241024134000 +0300" channel="m6.fr">
+    <title lang="fr">Ça peut vous arriver chez vous</title>
+  </programme>
+  <programme start="20241024134000 +0300" stop="20241024134500 +0300" channel="m6.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241024134500 +0300" stop="20241024144000 +0300" channel="m6.fr">
+    <title lang="fr">Le 12.45</title>
+  </programme>
+  <programme start="20241024144000 +0300" stop="20241024155000 +0300" channel="m6.fr">
+    <title lang="fr">Un jour, un doc</title>
+  </programme>
+  <programme start="20241024155000 +0300" stop="20241024165000 +0300" channel="m6.fr">
+    <title lang="fr">Un jour, un doc</title>
+  </programme>
+  <programme start="20241024165000 +0300" stop="20241024175000 +0300" channel="m6.fr">
+    <title lang="fr">Un jour, un doc</title>
+  </programme>
+  <programme start="20241024175000 +0300" stop="20241024183000 +0300" channel="m6.fr">
+    <title lang="fr">Un jour, un doc</title>
+  </programme>
+  <programme start="20241024183000 +0300" stop="20241024193500 +0300" channel="m6.fr">
+    <title lang="fr">La meilleure cuisine régionale, c'est...</title>
+  </programme>
+  <programme start="20241024193500 +0300" stop="20241024204000 +0300" channel="m6.fr">
+    <title lang="fr">Le juste prix</title>
+  </programme>
+  <programme start="20241024204000 +0300" stop="20241024204500 +0300" channel="m6.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241024204500 +0300" stop="20241024213500 +0300" channel="m6.fr">
+    <title lang="fr">Le 19.45</title>
+  </programme>
+  <programme start="20241024213500 +0300" stop="20241024221000 +0300" channel="m6.fr">
+    <title lang="fr">Scènes de ménages</title>
+  </programme>
+  <programme start="20241024221000 +0300" stop="20241024231000 +0300" channel="m6.fr">
+    <title lang="fr">Le meilleur pâtissier</title>
+  </programme>
+  <programme start="20241024231000 +0300" stop="20241025002500 +0300" channel="m6.fr">
+    <title lang="fr">Le meilleur pâtissier</title>
+  </programme>
+  <programme start="20241025002500 +0300" stop="20241025013000 +0300" channel="m6.fr">
+    <title lang="fr">Le meilleur pâtissier : qui réintégre...</title>
+  </programme>
+  <programme start="20241025013000 +0300" stop="20241025024000 +0300" channel="m6.fr">
+    <title lang="fr">Le meilleur pâtissier célébrités</title>
+  </programme>
+  <programme start="20241025024000 +0300" stop="20241025034500 +0300" channel="m6.fr">
+    <title lang="fr">Le meilleur pâtissier célébrités</title>
+  </programme>
+  <programme start="20241025034500 +0300" stop="20241025064000 +0300" channel="m6.fr">
+    <title lang="fr">Programmes de la nuit</title>
+  </programme>
+  <programme start="20241025064000 +0300" stop="20241025073000 +0300" channel="m6.fr">
+    <title lang="fr">Incroyables transformations</title>
+  </programme>
+  <programme start="20241025073000 +0300" stop="20241025083000 +0300" channel="m6.fr">
+    <title lang="fr">Incroyables transformations</title>
+  </programme>
+  <programme start="20241025083000 +0300" stop="20241025093500 +0300" channel="m6.fr">
+    <title lang="fr">Incroyables transformations</title>
+  </programme>
+  <programme start="20241025093500 +0300" stop="20241025104500 +0300" channel="m6.fr">
+    <title lang="fr">M6 Boutique</title>
+  </programme>
+  <programme start="20241025104500 +0300" stop="20241025123000 +0300" channel="m6.fr">
+    <title lang="fr">Ça peut vous arriver</title>
+  </programme>
+  <programme start="20241025123000 +0300" stop="20241025134000 +0300" channel="m6.fr">
+    <title lang="fr">Ça peut vous arriver chez vous</title>
+  </programme>
+  <programme start="20241025134000 +0300" stop="20241025134500 +0300" channel="m6.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241025134500 +0300" stop="20241025144000 +0300" channel="m6.fr">
+    <title lang="fr">Le 12.45</title>
+  </programme>
+  <programme start="20241025144000 +0300" stop="20241025155000 +0300" channel="m6.fr">
+    <title lang="fr">Un jour, un doc</title>
+  </programme>
+  <programme start="20241025155000 +0300" stop="20241025165000 +0300" channel="m6.fr">
+    <title lang="fr">Un jour, un doc</title>
+  </programme>
+  <programme start="20241025165000 +0300" stop="20241025175000 +0300" channel="m6.fr">
+    <title lang="fr">Un jour, un doc</title>
+  </programme>
+  <programme start="20241025175000 +0300" stop="20241025183000 +0300" channel="m6.fr">
+    <title lang="fr">Un jour, un doc</title>
+  </programme>
+  <programme start="20241025183000 +0300" stop="20241025193500 +0300" channel="m6.fr">
+    <title lang="fr">La meilleure cuisine régionale, c'est...</title>
+  </programme>
+  <programme start="20241025193500 +0300" stop="20241025204000 +0300" channel="m6.fr">
+    <title lang="fr">Le juste prix</title>
+  </programme>
+  <programme start="20241025204000 +0300" stop="20241025204500 +0300" channel="m6.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241025204500 +0300" stop="20241025213500 +0300" channel="m6.fr">
+    <title lang="fr">Le 19.45</title>
+  </programme>
+  <programme start="20241025213500 +0300" stop="20241025221000 +0300" channel="m6.fr">
+    <title lang="fr">Scènes de ménages</title>
+  </programme>
+  <programme start="20241025221000 +0300" stop="20241025231500 +0300" channel="m6.fr">
+    <title lang="fr">Tout changer ou déménager</title>
+  </programme>
+  <programme start="20241025231500 +0300" stop="20241026000500 +0300" channel="m6.fr">
+    <title lang="fr">Tout changer ou déménager</title>
+  </programme>
+  <programme start="20241023035500 +0300" stop="20241023050900 +0300" channel="arte.fr">
+    <title lang="fr">La révolution selon François : Change...</title>
+  </programme>
+  <programme start="20241023050900 +0300" stop="20241023060500 +0300" channel="arte.fr">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20241023060500 +0300" stop="20241023063500 +0300" channel="arte.fr">
+    <title lang="fr">Chypre : base arrière de la guerre à ...</title>
+  </programme>
+  <programme start="20241023063500 +0300" stop="20241023064000 +0300" channel="arte.fr">
+    <title lang="fr">Le dessous des cartes : l'essentiel</title>
+  </programme>
+  <programme start="20241023064000 +0300" stop="20241023065500 +0300" channel="arte.fr">
+    <title lang="fr">Le dessous des images</title>
+  </programme>
+  <programme start="20241023065500 +0300" stop="20241023075000 +0300" channel="arte.fr">
+    <title lang="fr">Food Markets</title>
+  </programme>
+  <programme start="20241023075000 +0300" stop="20241023075500 +0300" channel="arte.fr">
+    <title lang="fr">ARTE Journal Junior</title>
+  </programme>
+  <programme start="20241023075500 +0300" stop="20241023085000 +0300" channel="arte.fr">
+    <title lang="fr">Les hippopotames de Pablo Escobar</title>
+  </programme>
+  <programme start="20241023085000 +0300" stop="20241023093500 +0300" channel="arte.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241023093500 +0300" stop="20241023102500 +0300" channel="arte.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241023102500 +0300" stop="20241023115500 +0300" channel="arte.fr">
+    <title lang="fr">Sauver Venise</title>
+  </programme>
+  <programme start="20241023115500 +0300" stop="20241023123500 +0300" channel="arte.fr">
+    <title lang="fr">Le volcan de La Palma : la vie après ...</title>
+  </programme>
+  <programme start="20241023123500 +0300" stop="20241023132500 +0300" channel="arte.fr">
+    <title lang="fr">Canaries, les îles-volcans</title>
+  </programme>
+  <programme start="20241023132500 +0300" stop="20241023143500 +0300" channel="arte.fr">
+    <title lang="fr">La France côté Nord : La baie de Somm...</title>
+  </programme>
+  <programme start="20241023143500 +0300" stop="20241023164500 +0300" channel="arte.fr">
+    <title lang="fr">L'aventure, c'est l'aventure</title>
+  </programme>
+  <programme start="20241023164500 +0300" stop="20241023173000 +0300" channel="arte.fr">
+    <title lang="fr">L'odyssée des animaux</title>
+  </programme>
+  <programme start="20241023173000 +0300" stop="20241023182000 +0300" channel="arte.fr">
+    <title lang="fr">Terre de légendes</title>
+  </programme>
+  <programme start="20241023182000 +0300" stop="20241023190500 +0300" channel="arte.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241023190500 +0300" stop="20241023195500 +0300" channel="arte.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241023195500 +0300" stop="20241023203000 +0300" channel="arte.fr">
+    <title lang="fr">Allemagne : les buvettes trinquent</title>
+  </programme>
+  <programme start="20241023203000 +0300" stop="20241023204500 +0300" channel="arte.fr">
+    <title lang="fr">Le dessous des images</title>
+  </programme>
+  <programme start="20241023204500 +0300" stop="20241023210500 +0300" channel="arte.fr">
+    <title lang="fr">Arte journal</title>
+  </programme>
+  <programme start="20241023210500 +0300" stop="20241023215000 +0300" channel="arte.fr">
+    <title lang="fr">28 minutes</title>
+  </programme>
+  <programme start="20241023215000 +0300" stop="20241023215500 +0300" channel="arte.fr">
+    <title lang="fr">Le dessous des cartes : l'essentiel</title>
+  </programme>
+  <programme start="20241023215500 +0300" stop="20241023233000 +0300" channel="arte.fr">
+    <title lang="fr">L'innocent</title>
+  </programme>
+  <programme start="20241023233000 +0300" stop="20241024002500 +0300" channel="arte.fr">
+    <title lang="fr">"Emmanuelle" : la plus longue caresse...</title>
+  </programme>
+  <programme start="20241024002500 +0300" stop="20241024012000 +0300" channel="arte.fr">
+    <title lang="fr">Italo Svevo : l'écrivain génial de Tr...</title>
+  </programme>
+  <programme start="20241024012000 +0300" stop="20241024030000 +0300" channel="arte.fr">
+    <title lang="fr">Le traducteur</title>
+  </programme>
+  <programme start="20241024030000 +0300" stop="20241024044500 +0300" channel="arte.fr">
+    <title lang="fr">Habemus Papam</title>
+  </programme>
+  <programme start="20241024044500 +0300" stop="20241024051100 +0300" channel="arte.fr">
+    <title lang="fr">Les maîtres des abeilles</title>
+  </programme>
+  <programme start="20241024051100 +0300" stop="20241024060500 +0300" channel="arte.fr">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20241024060500 +0300" stop="20241024064000 +0300" channel="arte.fr">
+    <title lang="fr">Allemagne : les buvettes trinquent</title>
+  </programme>
+  <programme start="20241024064000 +0300" stop="20241024064500 +0300" channel="arte.fr">
+    <title lang="fr">Le dessous des cartes : l'essentiel</title>
+  </programme>
+  <programme start="20241024064500 +0300" stop="20241024065500 +0300" channel="arte.fr">
+    <title lang="fr">Le dessous des images</title>
+  </programme>
+  <programme start="20241024065500 +0300" stop="20241024075000 +0300" channel="arte.fr">
+    <title lang="fr">Les parcs naturels... en Minuscule</title>
+  </programme>
+  <programme start="20241024075000 +0300" stop="20241024075500 +0300" channel="arte.fr">
+    <title lang="fr">ARTE Journal Junior</title>
+  </programme>
+  <programme start="20241024075500 +0300" stop="20241024085000 +0300" channel="arte.fr">
+    <title lang="fr">La grâce des danseuses aveugles de Sã...</title>
+  </programme>
+  <programme start="20241024085000 +0300" stop="20241024093500 +0300" channel="arte.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241024093500 +0300" stop="20241024102500 +0300" channel="arte.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241024102500 +0300" stop="20241024111500 +0300" channel="arte.fr">
+    <title lang="fr">Les îles irlandaises, avant-postes de...</title>
+  </programme>
+  <programme start="20241024111500 +0300" stop="20241024120500 +0300" channel="arte.fr">
+    <title lang="fr">Les îles irlandaises, avant-postes de...</title>
+  </programme>
+  <programme start="20241024120500 +0300" stop="20241024130000 +0300" channel="arte.fr">
+    <title lang="fr">Un billet de train pour...</title>
+  </programme>
+  <programme start="20241024130000 +0300" stop="20241024135500 +0300" channel="arte.fr">
+    <title lang="fr">La France côté Nord : De la Somme à l...</title>
+  </programme>
+  <programme start="20241024135500 +0300" stop="20241024143500 +0300" channel="arte.fr">
+    <title lang="fr">Les maîtres des abeilles</title>
+  </programme>
+  <programme start="20241024143500 +0300" stop="20241024164500 +0300" channel="arte.fr">
+    <title lang="fr">Hugo Cabret</title>
+  </programme>
+  <programme start="20241024164500 +0300" stop="20241024173500 +0300" channel="arte.fr">
+    <title lang="fr">L'odyssée des animaux</title>
+  </programme>
+  <programme start="20241024173500 +0300" stop="20241024182000 +0300" channel="arte.fr">
+    <title lang="fr">Terre de légendes</title>
+  </programme>
+  <programme start="20241024182000 +0300" stop="20241024190500 +0300" channel="arte.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241024190500 +0300" stop="20241024195500 +0300" channel="arte.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241024195500 +0300" stop="20241024203000 +0300" channel="arte.fr">
+    <title lang="fr">Transylvanie : une clinique pour les ...</title>
+  </programme>
+  <programme start="20241024203000 +0300" stop="20241024204500 +0300" channel="arte.fr">
+    <title lang="fr">Le dessous des images</title>
+  </programme>
+  <programme start="20241024204500 +0300" stop="20241024210500 +0300" channel="arte.fr">
+    <title lang="fr">Arte journal</title>
+  </programme>
+  <programme start="20241024210500 +0300" stop="20241024215000 +0300" channel="arte.fr">
+    <title lang="fr">28 minutes</title>
+  </programme>
+  <programme start="20241024215000 +0300" stop="20241024215500 +0300" channel="arte.fr">
+    <title lang="fr">Le dessous des cartes : l'essentiel</title>
+  </programme>
+  <programme start="20241024215500 +0300" stop="20241024224500 +0300" channel="arte.fr">
+    <title lang="fr">Rematch</title>
+  </programme>
+  <programme start="20241024224500 +0300" stop="20241024233000 +0300" channel="arte.fr">
+    <title lang="fr">Rematch</title>
+  </programme>
+  <programme start="20241024233000 +0300" stop="20241025002000 +0300" channel="arte.fr">
+    <title lang="fr">Rematch</title>
+  </programme>
+  <programme start="20241025002000 +0300" stop="20241025011500 +0300" channel="arte.fr">
+    <title lang="fr">Elsa Morante et "La Storia" : Une écr...</title>
+  </programme>
+  <programme start="20241025011500 +0300" stop="20241025031000 +0300" channel="arte.fr">
+    <title lang="fr">Parole donnée</title>
+  </programme>
+  <programme start="20241025031000 +0300" stop="20241025040000 +0300" channel="arte.fr">
+    <title lang="fr">Comment le gaz russe a gagné l'Ouest ...</title>
+  </programme>
+  <programme start="20241025040000 +0300" stop="20241025045500 +0300" channel="arte.fr">
+    <title lang="fr">Chercheurs d'or en Mongolie : Une ave...</title>
+  </programme>
+  <programme start="20241025045500 +0300" stop="20241025052000 +0300" channel="arte.fr">
+    <title lang="fr">Les maîtres des abeilles</title>
+  </programme>
+  <programme start="20241025052000 +0300" stop="20241025061000 +0300" channel="arte.fr">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20241025061000 +0300" stop="20241025064000 +0300" channel="arte.fr">
+    <title lang="fr">Transylvanie : une clinique pour les ...</title>
+  </programme>
+  <programme start="20241025064000 +0300" stop="20241025064500 +0300" channel="arte.fr">
+    <title lang="fr">Le dessous des cartes : l'essentiel</title>
+  </programme>
+  <programme start="20241025064500 +0300" stop="20241025065500 +0300" channel="arte.fr">
+    <title lang="fr">Le dessous des images</title>
+  </programme>
+  <programme start="20241025065500 +0300" stop="20241025075000 +0300" channel="arte.fr">
+    <title lang="fr">Cimes d'Europe</title>
+  </programme>
+  <programme start="20241025075000 +0300" stop="20241025075500 +0300" channel="arte.fr">
+    <title lang="fr">ARTE Journal Junior</title>
+  </programme>
+  <programme start="20241025075500 +0300" stop="20241025085000 +0300" channel="arte.fr">
+    <title lang="fr">Kentucky, la bataille de Sacramento</title>
+  </programme>
+  <programme start="20241025085000 +0300" stop="20241025093500 +0300" channel="arte.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241025093500 +0300" stop="20241025102500 +0300" channel="arte.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241025102500 +0300" stop="20241025112000 +0300" channel="arte.fr">
+    <title lang="fr">Au Costa Rica, un paradis pour les ch...</title>
+  </programme>
+  <programme start="20241025112000 +0300" stop="20241025121000 +0300" channel="arte.fr">
+    <title lang="fr">Cimes d'Europe</title>
+  </programme>
+  <programme start="20241025121000 +0300" stop="20241025130500 +0300" channel="arte.fr">
+    <title lang="fr">Cimes d'Europe</title>
+  </programme>
+  <programme start="20241025130500 +0300" stop="20241025140000 +0300" channel="arte.fr">
+    <title lang="fr">Les ramasseuses de coquillages de Gal...</title>
+  </programme>
+  <programme start="20241025140000 +0300" stop="20241025143500 +0300" channel="arte.fr">
+    <title lang="fr">Les maîtres des abeilles</title>
+  </programme>
+  <programme start="20241025143500 +0300" stop="20241025164500 +0300" channel="arte.fr">
+    <title lang="fr">Les rêveurs</title>
+  </programme>
+  <programme start="20241025164500 +0300" stop="20241025173500 +0300" channel="arte.fr">
+    <title lang="fr">L'odyssée des animaux</title>
+  </programme>
+  <programme start="20241025173500 +0300" stop="20241025182000 +0300" channel="arte.fr">
+    <title lang="fr">Terre de légendes</title>
+  </programme>
+  <programme start="20241025182000 +0300" stop="20241025190500 +0300" channel="arte.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241025190500 +0300" stop="20241025195500 +0300" channel="arte.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241025195500 +0300" stop="20241025203000 +0300" channel="arte.fr">
+    <title lang="fr">Zéro déchets, utopie ou réalité ?</title>
+  </programme>
+  <programme start="20241025203000 +0300" stop="20241025204500 +0300" channel="arte.fr">
+    <title lang="fr">Le dessous des images</title>
+  </programme>
+  <programme start="20241025204500 +0300" stop="20241025210500 +0300" channel="arte.fr">
+    <title lang="fr">Arte journal</title>
+  </programme>
+  <programme start="20241025210500 +0300" stop="20241025215100 +0300" channel="arte.fr">
+    <title lang="fr">28 minutes</title>
+  </programme>
+  <programme start="20241025215100 +0300" stop="20241025215500 +0300" channel="arte.fr">
+    <title lang="fr">De Gaulle à la plage</title>
+  </programme>
+  <programme start="20241025215500 +0300" stop="20241025234500 +0300" channel="arte.fr">
+    <title lang="fr">Corps d'élite</title>
+  </programme>
+  <programme start="20241025234500 +0300" stop="20241026011500 +0300" channel="arte.fr">
+    <title lang="fr">Les Kennedy : une fratrie américaine</title>
+  </programme>
+  <programme start="20241023035500 +0300" stop="20241023050900 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">La révolution selon François : Change...</title>
+  </programme>
+  <programme start="20241023050900 +0300" stop="20241023060500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20241023060500 +0300" stop="20241023063500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Chypre : base arrière de la guerre à ...</title>
+  </programme>
+  <programme start="20241023063500 +0300" stop="20241023064000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Le dessous des cartes : l'essentiel</title>
+  </programme>
+  <programme start="20241023064000 +0300" stop="20241023065500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Le dessous des images</title>
+  </programme>
+  <programme start="20241023065500 +0300" stop="20241023075000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Food Markets</title>
+  </programme>
+  <programme start="20241023075000 +0300" stop="20241023075500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">ARTE Journal Junior</title>
+  </programme>
+  <programme start="20241023075500 +0300" stop="20241023085000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Les hippopotames de Pablo Escobar</title>
+  </programme>
+  <programme start="20241023085000 +0300" stop="20241023093500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241023093500 +0300" stop="20241023102500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241023102500 +0300" stop="20241023115500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Sauver Venise</title>
+  </programme>
+  <programme start="20241023115500 +0300" stop="20241023123500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Le volcan de La Palma : la vie après ...</title>
+  </programme>
+  <programme start="20241023123500 +0300" stop="20241023132500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Canaries, les îles-volcans</title>
+  </programme>
+  <programme start="20241023132500 +0300" stop="20241023143500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">La France côté Nord : La baie de Somm...</title>
+  </programme>
+  <programme start="20241023143500 +0300" stop="20241023164500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">L'aventure, c'est l'aventure</title>
+  </programme>
+  <programme start="20241023164500 +0300" stop="20241023173000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">L'odyssée des animaux</title>
+  </programme>
+  <programme start="20241023173000 +0300" stop="20241023182000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Terre de légendes</title>
+  </programme>
+  <programme start="20241023182000 +0300" stop="20241023190500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241023190500 +0300" stop="20241023195500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241023195500 +0300" stop="20241023203000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Allemagne : les buvettes trinquent</title>
+  </programme>
+  <programme start="20241023203000 +0300" stop="20241023204500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Le dessous des images</title>
+  </programme>
+  <programme start="20241023204500 +0300" stop="20241023210500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Arte journal</title>
+  </programme>
+  <programme start="20241023210500 +0300" stop="20241023215000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">28 minutes</title>
+  </programme>
+  <programme start="20241023215000 +0300" stop="20241023215500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Le dessous des cartes : l'essentiel</title>
+  </programme>
+  <programme start="20241023215500 +0300" stop="20241023233000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">L'innocent</title>
+  </programme>
+  <programme start="20241023233000 +0300" stop="20241024002500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">"Emmanuelle" : la plus longue caresse...</title>
+  </programme>
+  <programme start="20241024002500 +0300" stop="20241024012000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Italo Svevo : l'écrivain génial de Tr...</title>
+  </programme>
+  <programme start="20241024012000 +0300" stop="20241024030000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Le traducteur</title>
+  </programme>
+  <programme start="20241024030000 +0300" stop="20241024044500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Habemus Papam</title>
+  </programme>
+  <programme start="20241024044500 +0300" stop="20241024051100 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Les maîtres des abeilles</title>
+  </programme>
+  <programme start="20241024051100 +0300" stop="20241024060500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20241024060500 +0300" stop="20241024064000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Allemagne : les buvettes trinquent</title>
+  </programme>
+  <programme start="20241024064000 +0300" stop="20241024064500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Le dessous des cartes : l'essentiel</title>
+  </programme>
+  <programme start="20241024064500 +0300" stop="20241024065500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Le dessous des images</title>
+  </programme>
+  <programme start="20241024065500 +0300" stop="20241024075000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Les parcs naturels... en Minuscule</title>
+  </programme>
+  <programme start="20241024075000 +0300" stop="20241024075500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">ARTE Journal Junior</title>
+  </programme>
+  <programme start="20241024075500 +0300" stop="20241024085000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">La grâce des danseuses aveugles de Sã...</title>
+  </programme>
+  <programme start="20241024085000 +0300" stop="20241024093500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241024093500 +0300" stop="20241024102500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241024102500 +0300" stop="20241024111500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Les îles irlandaises, avant-postes de...</title>
+  </programme>
+  <programme start="20241024111500 +0300" stop="20241024120500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Les îles irlandaises, avant-postes de...</title>
+  </programme>
+  <programme start="20241024120500 +0300" stop="20241024130000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Un billet de train pour...</title>
+  </programme>
+  <programme start="20241024130000 +0300" stop="20241024135500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">La France côté Nord : De la Somme à l...</title>
+  </programme>
+  <programme start="20241024135500 +0300" stop="20241024143500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Les maîtres des abeilles</title>
+  </programme>
+  <programme start="20241024143500 +0300" stop="20241024164500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Hugo Cabret</title>
+  </programme>
+  <programme start="20241024164500 +0300" stop="20241024173500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">L'odyssée des animaux</title>
+  </programme>
+  <programme start="20241024173500 +0300" stop="20241024182000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Terre de légendes</title>
+  </programme>
+  <programme start="20241024182000 +0300" stop="20241024190500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241024190500 +0300" stop="20241024195500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241024195500 +0300" stop="20241024203000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Transylvanie : une clinique pour les ...</title>
+  </programme>
+  <programme start="20241024203000 +0300" stop="20241024204500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Le dessous des images</title>
+  </programme>
+  <programme start="20241024204500 +0300" stop="20241024210500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Arte journal</title>
+  </programme>
+  <programme start="20241024210500 +0300" stop="20241024215000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">28 minutes</title>
+  </programme>
+  <programme start="20241024215000 +0300" stop="20241024215500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Le dessous des cartes : l'essentiel</title>
+  </programme>
+  <programme start="20241024215500 +0300" stop="20241024224500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Rematch</title>
+  </programme>
+  <programme start="20241024224500 +0300" stop="20241024233000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Rematch</title>
+  </programme>
+  <programme start="20241024233000 +0300" stop="20241025002000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Rematch</title>
+  </programme>
+  <programme start="20241025002000 +0300" stop="20241025011500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Elsa Morante et "La Storia" : Une écr...</title>
+  </programme>
+  <programme start="20241025011500 +0300" stop="20241025031000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Parole donnée</title>
+  </programme>
+  <programme start="20241025031000 +0300" stop="20241025040000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Comment le gaz russe a gagné l'Ouest ...</title>
+  </programme>
+  <programme start="20241025040000 +0300" stop="20241025045500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Chercheurs d'or en Mongolie : Une ave...</title>
+  </programme>
+  <programme start="20241025045500 +0300" stop="20241025052000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Les maîtres des abeilles</title>
+  </programme>
+  <programme start="20241025052000 +0300" stop="20241025061000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20241025061000 +0300" stop="20241025064000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Transylvanie : une clinique pour les ...</title>
+  </programme>
+  <programme start="20241025064000 +0300" stop="20241025064500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Le dessous des cartes : l'essentiel</title>
+  </programme>
+  <programme start="20241025064500 +0300" stop="20241025065500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Le dessous des images</title>
+  </programme>
+  <programme start="20241025065500 +0300" stop="20241025075000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Cimes d'Europe</title>
+  </programme>
+  <programme start="20241025075000 +0300" stop="20241025075500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">ARTE Journal Junior</title>
+  </programme>
+  <programme start="20241025075500 +0300" stop="20241025085000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Kentucky, la bataille de Sacramento</title>
+  </programme>
+  <programme start="20241025085000 +0300" stop="20241025093500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241025093500 +0300" stop="20241025102500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241025102500 +0300" stop="20241025112000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Au Costa Rica, un paradis pour les ch...</title>
+  </programme>
+  <programme start="20241025112000 +0300" stop="20241025121000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Cimes d'Europe</title>
+  </programme>
+  <programme start="20241025121000 +0300" stop="20241025130500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Cimes d'Europe</title>
+  </programme>
+  <programme start="20241025130500 +0300" stop="20241025140000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Les ramasseuses de coquillages de Gal...</title>
+  </programme>
+  <programme start="20241025140000 +0300" stop="20241025143500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Les maîtres des abeilles</title>
+  </programme>
+  <programme start="20241025143500 +0300" stop="20241025164500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Les rêveurs</title>
+  </programme>
+  <programme start="20241025164500 +0300" stop="20241025173500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">L'odyssée des animaux</title>
+  </programme>
+  <programme start="20241025173500 +0300" stop="20241025182000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Terre de légendes</title>
+  </programme>
+  <programme start="20241025182000 +0300" stop="20241025190500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241025190500 +0300" stop="20241025195500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  <programme start="20241025195500 +0300" stop="20241025203000 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Zéro déchets, utopie ou réalité ?</title>
+  </programme>
+  <programme start="20241025203000 +0300" stop="20241025204500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Le dessous des images</title>
+  </programme>
+  <programme start="20241025204500 +0300" stop="20241025210500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Arte journal</title>
+  </programme>
+  <programme start="20241025210500 +0300" stop="20241025215100 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">28 minutes</title>
+  </programme>
+  <programme start="20241025215100 +0300" stop="20241025215500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">De Gaulle à la plage</title>
+  </programme>
+  <programme start="20241025215500 +0300" stop="20241025234500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Corps d'élite</title>
+  </programme>
+  <programme start="20241025234500 +0300" stop="20241026011500 +0300" channel="bfmbusiness.fr">
+    <title lang="fr">Les Kennedy : une fratrie américaine</title>
+  </programme>
+  <programme start="20241023022000 +0300" stop="20241023042000 +0300" channel="w9.fr">
+    <title lang="fr">USA 2024</title>
+  </programme>
+  <programme start="20241023042000 +0300" stop="20241023070000 +0300" channel="w9.fr">
+    <title lang="fr">Programmes de la nuit</title>
+  </programme>
+  <programme start="20241023070000 +0300" stop="20241023080000 +0300" channel="w9.fr">
+    <title lang="fr">Wake Up W9</title>
+  </programme>
+  <programme start="20241023080000 +0300" stop="20241023100000 +0300" channel="w9.fr">
+    <title lang="fr">Le double expresso RTL2</title>
+  </programme>
+  <programme start="20241023100000 +0300" stop="20241023110000 +0300" channel="w9.fr">
+    <title lang="fr">W9 Hits</title>
+  </programme>
+  <programme start="20241023110000 +0300" stop="20241023120000 +0300" channel="w9.fr">
+    <title lang="fr">HDM : l'hebdo de la musique</title>
+  </programme>
+  <programme start="20241023120000 +0300" stop="20241023130500 +0300" channel="w9.fr">
+    <title lang="fr">Le hit W9</title>
+  </programme>
+  <programme start="20241023130500 +0300" stop="20241023131000 +0300" channel="w9.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241023131000 +0300" stop="20241023135000 +0300" channel="w9.fr">
+    <title lang="fr">NCIS</title>
+  </programme>
+  <programme start="20241023135000 +0300" stop="20241023145000 +0300" channel="w9.fr">
+    <title lang="fr">NCIS</title>
+  </programme>
+  <programme start="20241023145000 +0300" stop="20241023155000 +0300" channel="w9.fr">
+    <title lang="fr">NCIS</title>
+  </programme>
+  <programme start="20241023155000 +0300" stop="20241023164000 +0300" channel="w9.fr">
+    <title lang="fr">NCIS</title>
+  </programme>
+  <programme start="20241023164000 +0300" stop="20241023174000 +0300" channel="w9.fr">
+    <title lang="fr">NCIS</title>
+  </programme>
+  <programme start="20241023174000 +0300" stop="20241023185000 +0300" channel="w9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+  </programme>
+  <programme start="20241023185000 +0300" stop="20241023195000 +0300" channel="w9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+  </programme>
+  <programme start="20241023195000 +0300" stop="20241023205000 +0300" channel="w9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+  </programme>
+  <programme start="20241023205000 +0300" stop="20241023220500 +0300" channel="w9.fr">
+    <title lang="fr">Les cinquante</title>
+  </programme>
+  <programme start="20241023220500 +0300" stop="20241023221000 +0300" channel="w9.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241023221000 +0300" stop="20241023230000 +0300" channel="w9.fr">
+    <title lang="fr">Enquêtes criminelles</title>
+  </programme>
+  <programme start="20241023230000 +0300" stop="20241024001000 +0300" channel="w9.fr">
+    <title lang="fr">Enquêtes criminelles</title>
+  </programme>
+  <programme start="20241024001000 +0300" stop="20241024011000 +0300" channel="w9.fr">
+    <title lang="fr">Enquêtes criminelles</title>
+  </programme>
+  <programme start="20241024011000 +0300" stop="20241024022000 +0300" channel="w9.fr">
+    <title lang="fr">Enquêtes criminelles</title>
+  </programme>
+  <programme start="20241024022000 +0300" stop="20241024032000 +0300" channel="w9.fr">
+    <title lang="fr">Enquêtes criminelles</title>
+  </programme>
+  <programme start="20241024032000 +0300" stop="20241024042000 +0300" channel="w9.fr">
+    <title lang="fr">Enquêtes criminelles</title>
+  </programme>
+  <programme start="20241024042000 +0300" stop="20241024070000 +0300" channel="w9.fr">
+    <title lang="fr">Programmes de la nuit</title>
+  </programme>
+  <programme start="20241024070000 +0300" stop="20241024080000 +0300" channel="w9.fr">
+    <title lang="fr">Wake Up W9</title>
+  </programme>
+  <programme start="20241024080000 +0300" stop="20241024100000 +0300" channel="w9.fr">
+    <title lang="fr">Le double expresso RTL2</title>
+  </programme>
+  <programme start="20241024100000 +0300" stop="20241024113000 +0300" channel="w9.fr">
+    <title lang="fr">W9 Hits</title>
+  </programme>
+  <programme start="20241024113000 +0300" stop="20241024123000 +0300" channel="w9.fr">
+    <title lang="fr">W9 Hits Gold</title>
+  </programme>
+  <programme start="20241024123000 +0300" stop="20241024130500 +0300" channel="w9.fr">
+    <title lang="fr">W9 Hits</title>
+  </programme>
+  <programme start="20241024130500 +0300" stop="20241024131000 +0300" channel="w9.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241024131000 +0300" stop="20241024135000 +0300" channel="w9.fr">
+    <title lang="fr">NCIS</title>
+  </programme>
+  <programme start="20241024135000 +0300" stop="20241024145000 +0300" channel="w9.fr">
+    <title lang="fr">NCIS</title>
+  </programme>
+  <programme start="20241024145000 +0300" stop="20241024155000 +0300" channel="w9.fr">
+    <title lang="fr">NCIS</title>
+  </programme>
+  <programme start="20241024155000 +0300" stop="20241024164000 +0300" channel="w9.fr">
+    <title lang="fr">NCIS</title>
+  </programme>
+  <programme start="20241024164000 +0300" stop="20241024174000 +0300" channel="w9.fr">
+    <title lang="fr">NCIS</title>
+  </programme>
+  <programme start="20241024174000 +0300" stop="20241024185000 +0300" channel="w9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+  </programme>
+  <programme start="20241024185000 +0300" stop="20241024195000 +0300" channel="w9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+  </programme>
+  <programme start="20241024195000 +0300" stop="20241024205000 +0300" channel="w9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+  </programme>
+  <programme start="20241024205000 +0300" stop="20241024220500 +0300" channel="w9.fr">
+    <title lang="fr">Les cinquante</title>
+  </programme>
+  <programme start="20241024220500 +0300" stop="20241024221000 +0300" channel="w9.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241024221000 +0300" stop="20241024230500 +0300" channel="w9.fr">
+    <title lang="fr">Vidéo quiz, la réponse en images</title>
+  </programme>
+  <programme start="20241024230500 +0300" stop="20241025001000 +0300" channel="w9.fr">
+    <title lang="fr">Vidéo quiz, la réponse en images</title>
+  </programme>
+  <programme start="20241025001000 +0300" stop="20241025020500 +0300" channel="w9.fr">
+    <title lang="fr">Les 100 vidéos qui ont fait rire le m...</title>
+  </programme>
+  <programme start="20241025020500 +0300" stop="20241025035000 +0300" channel="w9.fr">
+    <title lang="fr">Les 100 vidéos qui ont fait rire le m...</title>
+  </programme>
+  <programme start="20241025035000 +0300" stop="20241025070000 +0300" channel="w9.fr">
+    <title lang="fr">Programmes de la nuit</title>
+  </programme>
+  <programme start="20241025070000 +0300" stop="20241025080000 +0300" channel="w9.fr">
+    <title lang="fr">Wake Up W9</title>
+  </programme>
+  <programme start="20241025080000 +0300" stop="20241025100000 +0300" channel="w9.fr">
+    <title lang="fr">Le double expresso RTL2</title>
+  </programme>
+  <programme start="20241025100000 +0300" stop="20241025113000 +0300" channel="w9.fr">
+    <title lang="fr">W9 Hits</title>
+  </programme>
+  <programme start="20241025113000 +0300" stop="20241025123000 +0300" channel="w9.fr">
+    <title lang="fr">W9 Hits Gold</title>
+  </programme>
+  <programme start="20241025123000 +0300" stop="20241025130500 +0300" channel="w9.fr">
+    <title lang="fr">W9 Hits</title>
+  </programme>
+  <programme start="20241025130500 +0300" stop="20241025131000 +0300" channel="w9.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241025131000 +0300" stop="20241025135000 +0300" channel="w9.fr">
+    <title lang="fr">NCIS</title>
+  </programme>
+  <programme start="20241025135000 +0300" stop="20241025145000 +0300" channel="w9.fr">
+    <title lang="fr">NCIS</title>
+  </programme>
+  <programme start="20241025145000 +0300" stop="20241025155000 +0300" channel="w9.fr">
+    <title lang="fr">NCIS</title>
+  </programme>
+  <programme start="20241025155000 +0300" stop="20241025164000 +0300" channel="w9.fr">
+    <title lang="fr">NCIS</title>
+  </programme>
+  <programme start="20241025164000 +0300" stop="20241025174000 +0300" channel="w9.fr">
+    <title lang="fr">NCIS</title>
+  </programme>
+  <programme start="20241025174000 +0300" stop="20241025185000 +0300" channel="w9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+  </programme>
+  <programme start="20241025185000 +0300" stop="20241025195000 +0300" channel="w9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+  </programme>
+  <programme start="20241025195000 +0300" stop="20241025205000 +0300" channel="w9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+  </programme>
+  <programme start="20241025205000 +0300" stop="20241025220500 +0300" channel="w9.fr">
+    <title lang="fr">Les cinquante</title>
+  </programme>
+  <programme start="20241025220500 +0300" stop="20241025221000 +0300" channel="w9.fr">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20241025221000 +0300" stop="20241026000000 +0300" channel="w9.fr">
+    <title lang="fr">Enquête d'action</title>
   </programme>
   <programme start="20241023000000 +0300" stop="20241023011000 +0300" channel="rai1.it">
     <title lang="it">Porta a Porta - Puntata del 22/10/2024</title>
