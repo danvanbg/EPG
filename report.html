@@ -107,6 +107,11 @@
 
                 var totalProgramsTdElement = document.createElement("td");
                 totalProgramsTdElement.innerText = grabber.totalPrograms;
+                if (grabber.totalPrograms == 0) {
+                    totalProgramsTdElement.style.color = "red";
+                    grabberNameTdElement.style.color = "red";
+                    usageTdElement.style.color = "red";
+                }
                 tableRowElement.appendChild(totalProgramsTdElement);
 
 

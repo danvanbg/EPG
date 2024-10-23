@@ -9613,10 +9613,6 @@
     <title>Legende F1</title>
     <desc>U ovom sportskom magazinu saznajte sve o legendama Formule 1.</desc>
   </programme>
-  <programme start="20241027000000 +0300" channel="sportklub3.rs">
-    <title>F1 Mexico: Kvalifikacije</title>
-    <desc>Pratite najbolju akciju i najuzbudljivije momente sa Velike nagrade Meksika.</desc>
-  </programme>
   <programme start="20241023000000 +0300" stop="20241023003000 +0300" channel="sportklub1.hr">
     <title>Euroleague - Pregled: 4. kolo</title>
     <desc>Sportski magazin posvećen Euroligi donosi preglede i analize utakmice te isječke najboljih akcija.</desc>
@@ -9904,10 +9900,6 @@
   <programme start="20241026233000 +0300" stop="20241027000000 +0300" channel="sportklub1.hr">
     <title>Euroleague - Pregled</title>
     <desc>Sportski magazin posvećen Euroligi donosi preglede i analize utakmice te isječke najboljih akcija.</desc>
-  </programme>
-  <programme start="20241027000000 +0300" channel="sportklub1.hr">
-    <title>Na današnji dan</title>
-    <desc>Koji su uspjesi sportaša ili njihovih klubova obilježili današnji dan, saznajte u ovoj emisiji.</desc>
   </programme>
   <programme start="20241023010000 +0300" stop="20241023020000 +0300" channel="sportklub2.hr">
     <title>ATP 500 Vienna: Halys - Monfils</title>
@@ -10355,10 +10347,6 @@
     <title>Legende F1</title>
     <desc>U ovom sportskom magazinu saznajte sve o legendama Formule 1.</desc>
   </programme>
-  <programme start="20241027000000 +0300" channel="sportklub3.hr">
-    <title>F1 Mexico: Kvalifikacije</title>
-    <desc>Pratite najbolju akciju i najuzbudljivije trenutke s Velike nagrade Meksika.</desc>
-  </programme>
   <programme start="20241023014000 +0300" stop="20241023033000 +0300" channel="sportklub4.hr">
     <title>Nogomet - Liga prvaka Azije Elite: Shandong - Yokohama Marinos</title>
     <desc>40 najboljih klubova Azije obračunava se za prestižni pehar. Hoće li pobijediti netko iz zemalja izlazećeg sunca ili netko od bogatih arapskih klubova?</desc>
@@ -10668,10 +10656,6 @@
   <programme start="20241026233000 +0300" stop="20241027000000 +0300" channel="sportklub4.hr">
     <title>Eurocup - Pregled</title>
     <desc>Drugo po težini natjecanje u europskoj klupskoj košarci sigurno zavrjeđuje pozornost ljubitelja košarke. Iako je pomalo u sjeni Eurolige, Eurokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
-  </programme>
-  <programme start="20241027000000 +0300" channel="sportklub4.hr">
-    <title>Nogomet - Saudijska liga: Hilal - Taawoun</title>
-    <desc>Pratite Saudijsku profesionalnu ligu, najvišu nogometnu ligu u ligaškom sustavu Saudijske Arabije. Osnovana je 1976. godine kao prva profesionalna nogometna liga Kraljevine Saudijske Arabije.</desc>
   </programme>
   <programme start="20241023003000 +0300" stop="20241023010000 +0300" channel="sportklub5.hr">
     <title>Sport Klub 5 Promo 4</title>
@@ -11315,10 +11299,6 @@
   </programme>
   <programme start="20241026231500 +0300" stop="20241027000000 +0300" channel="sportklub6.hr">
     <title>Sport Klub 6 Promo 3</title>
-    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
-  </programme>
-  <programme start="20241027000000 +0300" channel="sportklub6.hr">
-    <title>Sport Klub 6 Promo 4</title>
     <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
   </programme>
   <programme start="20241023070000 +0300" stop="20241023083000 +0300" channel="ligadecampeones.mplus.es">

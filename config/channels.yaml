@@ -1386,8 +1386,8 @@
   - name: iConcerts HD
     lang: en
   sources:
-  - telestar.fr
   - dnes.bg
+  - telestar.fr
   - programtv.onet.pl
   
 - id: mtv80s.com
@@ -1579,6 +1579,7 @@
   enabled: true
   name: MCM
   sources:
+  - ouest-france.fr
   - telestar.fr
 
 ##############
@@ -2007,7 +2008,6 @@
   - name: CNBC
     lang: en
   sources:
-  - telestar.fr
   - uksky.com
   - programtv.onet.pl
 
@@ -3120,6 +3120,7 @@
   - name: France 2 HD
   groups: [ "fr" ]
   sources:
+  - ouest-france.fr
   - telestar.fr
   
 - id: france3.fr
@@ -3129,6 +3130,7 @@
   - name: France 3 HD
   groups: [ "fr" ]
   sources:
+  - ouest-france.fr
   - telestar.fr
   
 - id: m6.fr
@@ -3137,6 +3139,7 @@
   - name: M6
   groups: [ "fr" ]
   sources:
+  - ouest-france.fr
   - telestar.fr
   
 - id: arte.fr
@@ -3146,14 +3149,27 @@
   - name: ARTE Francais HD
   groups: [ "fr" ]
   sources:
+  - ouest-france.fr
   - telestar.fr
   
 - id: bfmbusiness.fr
   enabled: true
   names:
   - name: BFM Business
+  - name: BFM HD
+  - name: BFM 
   groups: [ "fr" ]
   sources:
+  - ouest-france.fr
+  - telestar.fr
+  
+- id: w9.fr
+  enabled: true
+  names:
+  - name: W9 
+  groups: [ "fr" ]
+  sources:
+  - ouest-france.fr
   - telestar.fr
   
 - id: france24fr.fr

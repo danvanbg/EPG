@@ -36820,6 +36820,393 @@
   <programme start="20241025230000 +0300" stop="20241026060000 +0300" channel="travelchannel.bg">
     <title>Ghost Adventures (Series 2): Ancient Ram Inn (Episode 8)</title>
   </programme>
+  <programme start="20241023053000 +0300" stop="20241023060000 +0300" channel="traveltv.bg">
+    <title lang="bg">Магията на Китай - Танцьорите</title>
+  </programme>
+  <programme start="20241023060000 +0300" stop="20241023063000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика - Разходка из притоците на Рио Негро</title>
+  </programme>
+  <programme start="20241023063000 +0300" stop="20241023070000 +0300" channel="traveltv.bg">
+    <title lang="bg">Изкуство и култура - Природата влезе в душата ми</title>
+  </programme>
+  <programme start="20241023070000 +0300" stop="20241023073000 +0300" channel="traveltv.bg">
+    <title lang="bg">Искам да съм там: Свети Влас - Рай между морето и планината</title>
+  </programme>
+  <programme start="20241023073000 +0300" stop="20241023080000 +0300" channel="traveltv.bg">
+    <title lang="bg">Импресии - Гърция</title>
+  </programme>
+  <programme start="20241023080000 +0300" stop="20241023083000 +0300" channel="traveltv.bg">
+    <title lang="bg">Виж България - Бургас, мегаполисът на брега</title>
+  </programme>
+  <programme start="20241023083000 +0300" stop="20241023090000 +0300" channel="traveltv.bg">
+    <title lang="bg">Бъди там в музика и картини!</title>
+  </programme>
+  <programme start="20241023090000 +0300" stop="20241023093000 +0300" channel="traveltv.bg">
+    <title lang="bg">Българската история - 10 силни жени в българската история</title>
+  </programme>
+  <programme start="20241023093000 +0300" stop="20241023100000 +0300" channel="traveltv.bg">
+    <title lang="bg">Бъди там в музика и картини!</title>
+  </programme>
+  <programme start="20241023100000 +0300" stop="20241023103000 +0300" channel="traveltv.bg">
+    <title lang="bg">Фолклорна трапеза - Какво да сготвим за Димитровден</title>
+  </programme>
+  <programme start="20241023103000 +0300" stop="20241023110000 +0300" channel="traveltv.bg">
+    <title lang="bg">Бъди там в музика и картини!</title>
+  </programme>
+  <programme start="20241023110000 +0300" stop="20241023113000 +0300" channel="traveltv.bg">
+    <title lang="bg">Балкан фолк</title>
+  </programme>
+  <programme start="20241023113000 +0300" stop="20241023120000 +0300" channel="traveltv.bg">
+    <title lang="bg">Балкан фолк</title>
+  </programme>
+  <programme start="20241023120000 +0300" stop="20241023123000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътешествия из райската земя - Бързи, ледени води</title>
+  </programme>
+  <programme start="20241023123000 +0300" stop="20241023130000 +0300" channel="traveltv.bg">
+    <title lang="bg">Изкуство и култура - Моят Чирпан</title>
+  </programme>
+  <programme start="20241023130000 +0300" stop="20241023133000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Голф</title>
+  </programme>
+  <programme start="20241023133000 +0300" stop="20241023140000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика: Сахара - Забранената цивилизация, част 2</title>
+  </programme>
+  <programme start="20241023140000 +0300" stop="20241023143000 +0300" channel="traveltv.bg">
+    <title lang="bg">Българската история - 10 български учени, за които може би не знаете</title>
+  </programme>
+  <programme start="20241023143000 +0300" stop="20241023150000 +0300" channel="traveltv.bg">
+    <title lang="bg">Зелен свят - Непознатите гори</title>
+  </programme>
+  <programme start="20241023150000 +0300" stop="20241023153000 +0300" channel="traveltv.bg">
+    <title lang="bg">Импресии - Водопад</title>
+  </programme>
+  <programme start="20241023153000 +0300" stop="20241023160000 +0300" channel="traveltv.bg">
+    <title lang="bg">Магията на Китай - Песента на Монголия</title>
+  </programme>
+  <programme start="20241023160000 +0300" stop="20241023163000 +0300" channel="traveltv.bg">
+    <title lang="bg">Регионите на България: Духовните средища на Софийската Света Гора - Св. София, еп.2</title>
+  </programme>
+  <programme start="20241023163000 +0300" stop="20241023170000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Варна</title>
+  </programme>
+  <programme start="20241023170000 +0300" stop="20241023173000 +0300" channel="traveltv.bg">
+    <title lang="bg">Произведено в Япония - Когато ремонтирането се превръща в изкуство</title>
+  </programme>
+  <programme start="20241023173000 +0300" stop="20241023180000 +0300" channel="traveltv.bg">
+    <title lang="bg">Искам да съм там: Стралджа - Когато хората работят заедно</title>
+  </programme>
+  <programme start="20241023180000 +0300" stop="20241023183000 +0300" channel="traveltv.bg">
+    <title lang="bg">Импресии - Пловдив</title>
+  </programme>
+  <programme start="20241023183000 +0300" stop="20241023190000 +0300" channel="traveltv.bg">
+    <title lang="bg">Професия турист - Румъния, еп.1</title>
+  </programme>
+  <programme start="20241023190000 +0300" stop="20241023193000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика: Магията на цветовете</title>
+  </programme>
+  <programme start="20241023193000 +0300" stop="20241023200000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика - Берлин, възроденият метрополис</title>
+  </programme>
+  <programme start="20241023200000 +0300" stop="20241023203000 +0300" channel="traveltv.bg">
+    <title lang="bg">Българската история - 10 интересни факта от българската история, част 1</title>
+  </programme>
+  <programme start="20241023203000 +0300" stop="20241023210000 +0300" channel="traveltv.bg">
+    <title lang="bg">Бъди там в музика и картини!</title>
+  </programme>
+  <programme start="20241023210000 +0300" stop="20241023213000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Долината на розите и тракийските царе</title>
+  </programme>
+  <programme start="20241023213000 +0300" stop="20241023220000 +0300" channel="traveltv.bg">
+    <title lang="bg">Произведено в Япония - Рамен, любимата юфка на Япония</title>
+  </programme>
+  <programme start="20241023220000 +0300" stop="20241023223000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Град Несебър</title>
+  </programme>
+  <programme start="20241023223000 +0300" stop="20241023230000 +0300" channel="traveltv.bg">
+    <title lang="bg">Регионите на България: Духовните средища на Софийската Света Гора - Манастири, еп.3</title>
+  </programme>
+  <programme start="20241023230000 +0300" stop="20241023233000 +0300" channel="traveltv.bg">
+    <title lang="bg">Легендите оживяват - Кадин мост, еп.1</title>
+  </programme>
+  <programme start="20241023233000 +0300" stop="20241024000000 +0300" channel="traveltv.bg">
+    <title lang="bg">Магията на Китай - На възрастта на императорският дворец</title>
+  </programme>
+  <programme start="20241024000000 +0300" stop="20241024003000 +0300" channel="traveltv.bg">
+    <title lang="bg">Българската история - 10 забележителни факта за Дан Колов</title>
+  </programme>
+  <programme start="20241024003000 +0300" stop="20241024010000 +0300" channel="traveltv.bg">
+    <title lang="bg">Час за култура: Института Франклин - Филаделфия</title>
+  </programme>
+  <programme start="20241024010000 +0300" stop="20241024013000 +0300" channel="traveltv.bg">
+    <title lang="bg">Легендите оживяват - Дряново, с.3 еп.2</title>
+  </programme>
+  <programme start="20241024013000 +0300" stop="20241024020000 +0300" channel="traveltv.bg">
+    <title lang="bg">Виж България - Копривщица, градът музей</title>
+  </programme>
+  <programme start="20241024020000 +0300" stop="20241024023000 +0300" channel="traveltv.bg">
+    <title lang="bg">Спорт и приключения - Луда надпревара</title>
+  </programme>
+  <programme start="20241024023000 +0300" stop="20241024030000 +0300" channel="traveltv.bg">
+    <title lang="bg">Зелен свят - Бяла водна лилия</title>
+  </programme>
+  <programme start="20241024030000 +0300" stop="20241024033000 +0300" channel="traveltv.bg">
+    <title lang="bg">Зелен свят - Българско дружество за защита на птиците, програма "Живот"</title>
+  </programme>
+  <programme start="20241024033000 +0300" stop="20241024040000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика - Игуасу</title>
+  </programme>
+  <programme start="20241024040000 +0300" stop="20241024053000 +0300" channel="traveltv.bg">
+    <title lang="bg">Произведено в Япония, Нови епизоди</title>
+  </programme>
+  <programme start="20241024053000 +0300" stop="20241024060000 +0300" channel="traveltv.bg">
+    <title lang="bg">Магията на Китай - Танцьорите</title>
+  </programme>
+  <programme start="20241024060000 +0300" stop="20241024063000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика - Разходка из притоците на Рио Негро</title>
+  </programme>
+  <programme start="20241024063000 +0300" stop="20241024070000 +0300" channel="traveltv.bg">
+    <title lang="bg">Изкуство и култура - Природата влезе в душата ми</title>
+  </programme>
+  <programme start="20241024070000 +0300" stop="20241024073000 +0300" channel="traveltv.bg">
+    <title lang="bg">Искам да съм там: Свети Влас - Рай между морето и планината</title>
+  </programme>
+  <programme start="20241024073000 +0300" stop="20241024080000 +0300" channel="traveltv.bg">
+    <title lang="bg">Импресии - Гърция</title>
+  </programme>
+  <programme start="20241024080000 +0300" stop="20241024083000 +0300" channel="traveltv.bg">
+    <title lang="bg">Виж България - Бургас, мегаполисът на брега</title>
+  </programme>
+  <programme start="20241024083000 +0300" stop="20241024090000 +0300" channel="traveltv.bg">
+    <title lang="bg">Бъди там в музика и картини!</title>
+  </programme>
+  <programme start="20241024090000 +0300" stop="20241024093000 +0300" channel="traveltv.bg">
+    <title lang="bg">Българската история - 10 силни жени в българската история</title>
+  </programme>
+  <programme start="20241024093000 +0300" stop="20241024100000 +0300" channel="traveltv.bg">
+    <title lang="bg">Бъди там в музика и картини!</title>
+  </programme>
+  <programme start="20241024100000 +0300" stop="20241024103000 +0300" channel="traveltv.bg">
+    <title lang="bg">Фолклорна трапеза - Какво да сготвим за Димитровден</title>
+  </programme>
+  <programme start="20241024103000 +0300" stop="20241024110000 +0300" channel="traveltv.bg">
+    <title lang="bg">Бъди там в музика и картини!</title>
+  </programme>
+  <programme start="20241024110000 +0300" stop="20241024113000 +0300" channel="traveltv.bg">
+    <title lang="bg">Балкан фолк</title>
+  </programme>
+  <programme start="20241024113000 +0300" stop="20241024120000 +0300" channel="traveltv.bg">
+    <title lang="bg">Балкан фолк</title>
+  </programme>
+  <programme start="20241024120000 +0300" stop="20241024123000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътешествия из райската земя - Бързи, ледени води</title>
+  </programme>
+  <programme start="20241024123000 +0300" stop="20241024130000 +0300" channel="traveltv.bg">
+    <title lang="bg">Изкуство и култура - Моят Чирпан</title>
+  </programme>
+  <programme start="20241024130000 +0300" stop="20241024133000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Голф</title>
+  </programme>
+  <programme start="20241024133000 +0300" stop="20241024140000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика: Сахара - Забранената цивилизация, част 2</title>
+  </programme>
+  <programme start="20241024140000 +0300" stop="20241024143000 +0300" channel="traveltv.bg">
+    <title lang="bg">Българската история - 10 български учени, за които може би не знаете</title>
+  </programme>
+  <programme start="20241024143000 +0300" stop="20241024150000 +0300" channel="traveltv.bg">
+    <title lang="bg">Зелен свят - Непознатите гори</title>
+  </programme>
+  <programme start="20241024150000 +0300" stop="20241024153000 +0300" channel="traveltv.bg">
+    <title lang="bg">Импресии - Водопад</title>
+  </programme>
+  <programme start="20241024153000 +0300" stop="20241024160000 +0300" channel="traveltv.bg">
+    <title lang="bg">Магията на Китай - Песента на Монголия</title>
+  </programme>
+  <programme start="20241024160000 +0300" stop="20241024163000 +0300" channel="traveltv.bg">
+    <title lang="bg">Регионите на България: Духовните средища на Софийската Света Гора - Св. София, еп.2</title>
+  </programme>
+  <programme start="20241024163000 +0300" stop="20241024170000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Варна</title>
+  </programme>
+  <programme start="20241024170000 +0300" stop="20241024173000 +0300" channel="traveltv.bg">
+    <title lang="bg">Произведено в Япония - Когато ремонтирането се превръща в изкуство</title>
+  </programme>
+  <programme start="20241024173000 +0300" stop="20241024180000 +0300" channel="traveltv.bg">
+    <title lang="bg">Искам да съм там: Стралджа - Когато хората работят заедно</title>
+  </programme>
+  <programme start="20241024180000 +0300" stop="20241024183000 +0300" channel="traveltv.bg">
+    <title lang="bg">Импресии - Пловдив</title>
+  </programme>
+  <programme start="20241024183000 +0300" stop="20241024190000 +0300" channel="traveltv.bg">
+    <title lang="bg">Професия турист - Румъния, еп.1</title>
+  </programme>
+  <programme start="20241024190000 +0300" stop="20241024193000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика: Магията на цветовете</title>
+  </programme>
+  <programme start="20241024193000 +0300" stop="20241024200000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика - Берлин, възроденият метрополис</title>
+  </programme>
+  <programme start="20241024200000 +0300" stop="20241024203000 +0300" channel="traveltv.bg">
+    <title lang="bg">Българската история - 10 интересни факта от българската история, част 1</title>
+  </programme>
+  <programme start="20241024203000 +0300" stop="20241024210000 +0300" channel="traveltv.bg">
+    <title lang="bg">Бъди там в музика и картини!</title>
+  </programme>
+  <programme start="20241024210000 +0300" stop="20241024213000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Долината на розите и тракийските царе</title>
+  </programme>
+  <programme start="20241024213000 +0300" stop="20241024220000 +0300" channel="traveltv.bg">
+    <title lang="bg">Произведено в Япония - Рамен, любимата юфка на Япония</title>
+  </programme>
+  <programme start="20241024220000 +0300" stop="20241024223000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Град Несебър</title>
+  </programme>
+  <programme start="20241024223000 +0300" stop="20241024230000 +0300" channel="traveltv.bg">
+    <title lang="bg">Регионите на България: Духовните средища на Софийската Света Гора - Манастири, еп.3</title>
+  </programme>
+  <programme start="20241024230000 +0300" stop="20241024233000 +0300" channel="traveltv.bg">
+    <title lang="bg">Легендите оживяват - Кадин мост, еп.1</title>
+  </programme>
+  <programme start="20241024233000 +0300" stop="20241025000000 +0300" channel="traveltv.bg">
+    <title lang="bg">Магията на Китай - На възрастта на императорският дворец</title>
+  </programme>
+  <programme start="20241025000000 +0300" stop="20241025003000 +0300" channel="traveltv.bg">
+    <title lang="bg">Българската история - 10 забележителни факта за Дан Колов</title>
+  </programme>
+  <programme start="20241025003000 +0300" stop="20241025010000 +0300" channel="traveltv.bg">
+    <title lang="bg">Час за култура: Института Франклин - Филаделфия</title>
+  </programme>
+  <programme start="20241025010000 +0300" stop="20241025013000 +0300" channel="traveltv.bg">
+    <title lang="bg">Легендите оживяват - Дряново, с.3 еп.2</title>
+  </programme>
+  <programme start="20241025013000 +0300" stop="20241025020000 +0300" channel="traveltv.bg">
+    <title lang="bg">Виж България - Копривщица, градът музей</title>
+  </programme>
+  <programme start="20241025020000 +0300" stop="20241025023000 +0300" channel="traveltv.bg">
+    <title lang="bg">Спорт и приключения - Луда надпревара</title>
+  </programme>
+  <programme start="20241025023000 +0300" stop="20241025030000 +0300" channel="traveltv.bg">
+    <title lang="bg">Зелен свят - Бяла водна лилия</title>
+  </programme>
+  <programme start="20241025030000 +0300" stop="20241025033000 +0300" channel="traveltv.bg">
+    <title lang="bg">Зелен свят - Българско дружество за защита на птиците, програма "Живот"</title>
+  </programme>
+  <programme start="20241025033000 +0300" stop="20241025040000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика - Игуасу</title>
+  </programme>
+  <programme start="20241025040000 +0300" stop="20241025053000 +0300" channel="traveltv.bg">
+    <title lang="bg">Произведено в Япония, Нови епизоди</title>
+  </programme>
+  <programme start="20241025053000 +0300" stop="20241025060000 +0300" channel="traveltv.bg">
+    <title lang="bg">Магията на Китай - Танцьорите</title>
+  </programme>
+  <programme start="20241025060000 +0300" stop="20241025063000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика - Разходка из притоците на Рио Негро</title>
+  </programme>
+  <programme start="20241025063000 +0300" stop="20241025070000 +0300" channel="traveltv.bg">
+    <title lang="bg">Изкуство и култура - Природата влезе в душата ми</title>
+  </programme>
+  <programme start="20241025070000 +0300" stop="20241025073000 +0300" channel="traveltv.bg">
+    <title lang="bg">Искам да съм там: Свети Влас - Рай между морето и планината</title>
+  </programme>
+  <programme start="20241025073000 +0300" stop="20241025080000 +0300" channel="traveltv.bg">
+    <title lang="bg">Импресии - Гърция</title>
+  </programme>
+  <programme start="20241025080000 +0300" stop="20241025083000 +0300" channel="traveltv.bg">
+    <title lang="bg">Виж България - Бургас, мегаполисът на брега</title>
+  </programme>
+  <programme start="20241025083000 +0300" stop="20241025090000 +0300" channel="traveltv.bg">
+    <title lang="bg">Бъди там в музика и картини!</title>
+  </programme>
+  <programme start="20241025090000 +0300" stop="20241025093000 +0300" channel="traveltv.bg">
+    <title lang="bg">Българската история - 10 силни жени в българската история</title>
+  </programme>
+  <programme start="20241025093000 +0300" stop="20241025100000 +0300" channel="traveltv.bg">
+    <title lang="bg">Бъди там в музика и картини!</title>
+  </programme>
+  <programme start="20241025100000 +0300" stop="20241025103000 +0300" channel="traveltv.bg">
+    <title lang="bg">Фолклорна трапеза - Какво да сготвим за Димитровден</title>
+  </programme>
+  <programme start="20241025103000 +0300" stop="20241025110000 +0300" channel="traveltv.bg">
+    <title lang="bg">Бъди там в музика и картини!</title>
+  </programme>
+  <programme start="20241025110000 +0300" stop="20241025113000 +0300" channel="traveltv.bg">
+    <title lang="bg">Балкан фолк</title>
+  </programme>
+  <programme start="20241025113000 +0300" stop="20241025120000 +0300" channel="traveltv.bg">
+    <title lang="bg">Балкан фолк</title>
+  </programme>
+  <programme start="20241025120000 +0300" stop="20241025123000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътешествия из райската земя - Бързи, ледени води</title>
+  </programme>
+  <programme start="20241025123000 +0300" stop="20241025130000 +0300" channel="traveltv.bg">
+    <title lang="bg">Изкуство и култура - Моят Чирпан</title>
+  </programme>
+  <programme start="20241025130000 +0300" stop="20241025133000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Голф</title>
+  </programme>
+  <programme start="20241025133000 +0300" stop="20241025140000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика: Сахара - Забранената цивилизация, част 2</title>
+  </programme>
+  <programme start="20241025140000 +0300" stop="20241025143000 +0300" channel="traveltv.bg">
+    <title lang="bg">Българската история - 10 български учени, за които може би не знаете</title>
+  </programme>
+  <programme start="20241025143000 +0300" stop="20241025150000 +0300" channel="traveltv.bg">
+    <title lang="bg">Зелен свят - Непознатите гори</title>
+  </programme>
+  <programme start="20241025150000 +0300" stop="20241025153000 +0300" channel="traveltv.bg">
+    <title lang="bg">Импресии - Водопад</title>
+  </programme>
+  <programme start="20241025153000 +0300" stop="20241025160000 +0300" channel="traveltv.bg">
+    <title lang="bg">Магията на Китай - Песента на Монголия</title>
+  </programme>
+  <programme start="20241025160000 +0300" stop="20241025163000 +0300" channel="traveltv.bg">
+    <title lang="bg">Регионите на България: Духовните средища на Софийската Света Гора - Св. София, еп.2</title>
+  </programme>
+  <programme start="20241025163000 +0300" stop="20241025170000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Варна</title>
+  </programme>
+  <programme start="20241025170000 +0300" stop="20241025173000 +0300" channel="traveltv.bg">
+    <title lang="bg">Произведено в Япония - Когато ремонтирането се превръща в изкуство</title>
+  </programme>
+  <programme start="20241025173000 +0300" stop="20241025180000 +0300" channel="traveltv.bg">
+    <title lang="bg">Искам да съм там: Стралджа - Когато хората работят заедно</title>
+  </programme>
+  <programme start="20241025180000 +0300" stop="20241025183000 +0300" channel="traveltv.bg">
+    <title lang="bg">Импресии - Пловдив</title>
+  </programme>
+  <programme start="20241025183000 +0300" stop="20241025190000 +0300" channel="traveltv.bg">
+    <title lang="bg">Професия турист - Румъния, еп.1</title>
+  </programme>
+  <programme start="20241025190000 +0300" stop="20241025193000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика: Магията на цветовете</title>
+  </programme>
+  <programme start="20241025193000 +0300" stop="20241025200000 +0300" channel="traveltv.bg">
+    <title lang="bg">Пътеводител на пътешественика - Берлин, възроденият метрополис</title>
+  </programme>
+  <programme start="20241025200000 +0300" stop="20241025203000 +0300" channel="traveltv.bg">
+    <title lang="bg">Българската история - 10 интересни факта от българската история, част 1</title>
+  </programme>
+  <programme start="20241025203000 +0300" stop="20241025210000 +0300" channel="traveltv.bg">
+    <title lang="bg">Бъди там в музика и картини!</title>
+  </programme>
+  <programme start="20241025210000 +0300" stop="20241025213000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Долината на розите и тракийските царе</title>
+  </programme>
+  <programme start="20241025213000 +0300" stop="20241025220000 +0300" channel="traveltv.bg">
+    <title lang="bg">Произведено в Япония - Рамен, любимата юфка на Япония</title>
+  </programme>
+  <programme start="20241025220000 +0300" stop="20241025223000 +0300" channel="traveltv.bg">
+    <title lang="bg">За България - Град Несебър</title>
+  </programme>
+  <programme start="20241025223000 +0300" stop="20241025230000 +0300" channel="traveltv.bg">
+    <title lang="bg">Регионите на България: Духовните средища на Софийската Света Гора - Манастири, еп.3</title>
+  </programme>
+  <programme start="20241025230000 +0300" stop="20241025233000 +0300" channel="traveltv.bg">
+    <title lang="bg">Легендите оживяват - Кадин мост, еп.1</title>
+  </programme>
+  <programme start="20241025233000 +0300" stop="20241026000000 +0300" channel="traveltv.bg">
+    <title lang="bg">Магията на Китай - На възрастта на императорският дворец</title>
+  </programme>
   <programme start="20241023005500 +0300" stop="20241023015000 +0300" channel="docubox.spiintl.com">
     <title lang="bg">Ню Йорк - най-малката опера в света - "Ако успееш там, значи ще успееш навсякъде." Така смятат хората по цял свят за Ню Йорк. Тук ще видим най-малката опера в света....</title>
   </programme>
