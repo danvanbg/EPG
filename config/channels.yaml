@@ -2451,6 +2451,7 @@
   names:
   - name: Chasse & Peche
   sources:
+  - ouest-france.fr
   - telestar.fr
   
 - id: theworld.bg
