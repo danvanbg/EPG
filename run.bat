@@ -4,8 +4,8 @@ set APPDIR=%~dp0
 cd %APPDIR%
 %APPDIR%\bin\app.exe grab -f %APPDIR%\config -o %APPDIR% -l 0
 
-cp report.html ..\harrygg.github.io\EPG\report.html
-cp report.js ..\harrygg.github.io\EPG\report.js
+copy report.html ..\harrygg.github.io\EPG\report.html
+copy report.js ..\harrygg.github.io\EPG\report.js
 
 git pull
 git status
