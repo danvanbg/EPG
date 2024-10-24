@@ -1389,6 +1389,17 @@
   - dnes.bg
 
   
+- id: fueltv.com
+  enabled: true
+  names:
+  - name: Fuel TV HD
+    lang: en
+  - name: Fuel TV
+  groups: ["sport"]
+  sources:
+  - dnes.bg
+
+  
 #############
 ### MUSIC ###
 #############
@@ -2442,9 +2453,10 @@
   - uksky.com
   
 - id: tvt.bg
-  enabled: false
+  enabled: true
   names:
   - name: TVT Tourism
+  - name: TV Tourism HD
     lang: en
   sources:
   - tv.dir.bg
