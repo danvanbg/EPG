@@ -20533,6 +20533,288 @@
   <programme start="20241025230000 +0300" stop="20241026000000 +0300" channel="aljazeera.com">
     <title>Newshour</title>
   </programme>
+  <programme start="20241024040000 +0300" stop="20241024041500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024041500 +0300" stop="20241024050000 +0300" channel="deutschewelle.de">
+    <title>PFAS: Poisoned for Eternity?</title>
+  </programme>
+  <programme start="20241024050000 +0300" stop="20241024050200 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024050200 +0300" stop="20241024053000 +0300" channel="deutschewelle.de">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241024053000 +0300" stop="20241024060000 +0300" channel="deutschewelle.de">
+    <title>Made in Germany: Europe adjusts to high energy costs</title>
+  </programme>
+  <programme start="20241024060000 +0300" stop="20241024061500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024061500 +0300" stop="20241024063000 +0300" channel="deutschewelle.de">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241024063000 +0300" stop="20241024070000 +0300" channel="deutschewelle.de">
+    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
+  </programme>
+  <programme start="20241024070000 +0300" stop="20241024071500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024071500 +0300" stop="20241024080000 +0300" channel="deutschewelle.de">
+    <title>PFAS: Poisoned for Eternity?</title>
+  </programme>
+  <programme start="20241024080000 +0300" stop="20241024080200 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024080200 +0300" stop="20241024083000 +0300" channel="deutschewelle.de">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241024083000 +0300" stop="20241024090000 +0300" channel="deutschewelle.de">
+    <title>Focus on Europe</title>
+  </programme>
+  <programme start="20241024090000 +0300" stop="20241024091500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024091500 +0300" stop="20241024093000 +0300" channel="deutschewelle.de">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241024093000 +0300" stop="20241024100000 +0300" channel="deutschewelle.de">
+    <title>Made in Germany: Europe adjusts to high energy costs</title>
+  </programme>
+  <programme start="20241024100000 +0300" stop="20241024103000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024103000 +0300" stop="20241024110000 +0300" channel="deutschewelle.de">
+    <title>Focus on Europe</title>
+  </programme>
+  <programme start="20241024110000 +0300" stop="20241024113000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024113000 +0300" stop="20241024120000 +0300" channel="deutschewelle.de">
+    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
+  </programme>
+  <programme start="20241024120000 +0300" stop="20241024121500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024121500 +0300" stop="20241024130000 +0300" channel="deutschewelle.de">
+    <title>The Death Marches of the Second World War: Part 2</title>
+  </programme>
+  <programme start="20241024130000 +0300" stop="20241024133000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024133000 +0300" stop="20241024140000 +0300" channel="deutschewelle.de">
+    <title>Eco India: Waste - what to do with it?</title>
+  </programme>
+  <programme start="20241024140000 +0300" stop="20241024143000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024143000 +0300" stop="20241024150000 +0300" channel="deutschewelle.de">
+    <title>Focus on Europe</title>
+  </programme>
+  <programme start="20241024150000 +0300" stop="20241024151500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024151500 +0300" stop="20241024160000 +0300" channel="deutschewelle.de">
+    <title>Maduro: The Indestructible</title>
+  </programme>
+  <programme start="20241024160000 +0300" stop="20241024161500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024161500 +0300" stop="20241024163000 +0300" channel="deutschewelle.de">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241024163000 +0300" stop="20241024170000 +0300" channel="deutschewelle.de">
+    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
+  </programme>
+  <programme start="20241024170000 +0300" stop="20241024173000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024173000 +0300" stop="20241024180000 +0300" channel="deutschewelle.de">
+    <title>Focus on Europe</title>
+  </programme>
+  <programme start="20241024180000 +0300" stop="20241024183000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024183000 +0300" stop="20241024190000 +0300" channel="deutschewelle.de">
+    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
+  </programme>
+  <programme start="20241024190000 +0300" stop="20241024191500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024191500 +0300" stop="20241024200000 +0300" channel="deutschewelle.de">
+    <title>The Death Marches of the Second World War: Part 2</title>
+  </programme>
+  <programme start="20241024200000 +0300" stop="20241024201500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024201500 +0300" stop="20241024203000 +0300" channel="deutschewelle.de">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241024203000 +0300" stop="20241024210000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024210000 +0300" stop="20241024213000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024213000 +0300" stop="20241024220000 +0300" channel="deutschewelle.de">
+    <title>Global Us: What connects us all</title>
+  </programme>
+  <programme start="20241024220000 +0300" stop="20241024220200 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024220200 +0300" stop="20241024223000 +0300" channel="deutschewelle.de">
+    <title>Made in Germany: Europe adjusts to high energy costs</title>
+  </programme>
+  <programme start="20241024223000 +0300" stop="20241024230000 +0300" channel="deutschewelle.de">
+    <title>Gangster Hunt: Police Battle the Mafia</title>
+  </programme>
+  <programme start="20241024230000 +0300" stop="20241024233000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241024233000 +0300" stop="20241025040000 +0300" channel="deutschewelle.de">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241025040000 +0300" stop="20241025041500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025041500 +0300" stop="20241025050000 +0300" channel="deutschewelle.de">
+    <title>Kenya: The Elephant Nannies</title>
+  </programme>
+  <programme start="20241025050000 +0300" stop="20241025050200 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025050200 +0300" stop="20241025053000 +0300" channel="deutschewelle.de">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241025053000 +0300" stop="20241025060000 +0300" channel="deutschewelle.de">
+    <title>Focus on Europe</title>
+  </programme>
+  <programme start="20241025060000 +0300" stop="20241025061500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025061500 +0300" stop="20241025063000 +0300" channel="deutschewelle.de">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241025063000 +0300" stop="20241025070000 +0300" channel="deutschewelle.de">
+    <title>Made in Germany: Europe adjusts to high energy costs</title>
+  </programme>
+  <programme start="20241025070000 +0300" stop="20241025071500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025071500 +0300" stop="20241025080000 +0300" channel="deutschewelle.de">
+    <title>Kenya: The Elephant Nannies</title>
+  </programme>
+  <programme start="20241025080000 +0300" stop="20241025080200 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025080200 +0300" stop="20241025083000 +0300" channel="deutschewelle.de">
+    <title>The Day</title>
+  </programme>
+  <programme start="20241025083000 +0300" stop="20241025090000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025090000 +0300" stop="20241025091500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025091500 +0300" stop="20241025093000 +0300" channel="deutschewelle.de">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241025093000 +0300" stop="20241025100000 +0300" channel="deutschewelle.de">
+    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
+  </programme>
+  <programme start="20241025100000 +0300" stop="20241025103000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025103000 +0300" stop="20241025110000 +0300" channel="deutschewelle.de">
+    <title>Gangster Hunt: Police Battle the Mafia</title>
+  </programme>
+  <programme start="20241025110000 +0300" stop="20241025113000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025113000 +0300" stop="20241025120000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025120000 +0300" stop="20241025121500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025121500 +0300" stop="20241025130000 +0300" channel="deutschewelle.de">
+    <title>PFAS: Poisoned for Eternity?</title>
+  </programme>
+  <programme start="20241025130000 +0300" stop="20241025133000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025133000 +0300" stop="20241025140000 +0300" channel="deutschewelle.de">
+    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
+  </programme>
+  <programme start="20241025140000 +0300" stop="20241025143000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025143000 +0300" stop="20241025150000 +0300" channel="deutschewelle.de">
+    <title>Gangster Hunt: Police Battle the Mafia</title>
+  </programme>
+  <programme start="20241025150000 +0300" stop="20241025151500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025151500 +0300" stop="20241025160000 +0300" channel="deutschewelle.de">
+    <title>The Death Marches of the Second World War: Part 2</title>
+  </programme>
+  <programme start="20241025160000 +0300" stop="20241025161500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025161500 +0300" stop="20241025163000 +0300" channel="deutschewelle.de">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241025163000 +0300" stop="20241025170000 +0300" channel="deutschewelle.de">
+    <title>In Good Shape: The Health Show</title>
+  </programme>
+  <programme start="20241025170000 +0300" stop="20241025173000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025173000 +0300" stop="20241025180000 +0300" channel="deutschewelle.de">
+    <title>Eco India: Waste - what to do with it?</title>
+  </programme>
+  <programme start="20241025180000 +0300" stop="20241025183000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025183000 +0300" stop="20241025190000 +0300" channel="deutschewelle.de">
+    <title>Gangster Hunt: Police Battle the Mafia</title>
+  </programme>
+  <programme start="20241025190000 +0300" stop="20241025191500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025191500 +0300" stop="20241025200000 +0300" channel="deutschewelle.de">
+    <title>PFAS: Poisoned for Eternity?</title>
+  </programme>
+  <programme start="20241025200000 +0300" stop="20241025201500 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025201500 +0300" stop="20241025203000 +0300" channel="deutschewelle.de">
+    <title>Best of DW-online Content</title>
+  </programme>
+  <programme start="20241025203000 +0300" stop="20241025210000 +0300" channel="deutschewelle.de">
+    <title>Afrimaxx: Modern African Lifestyle</title>
+  </programme>
+  <programme start="20241025210000 +0300" stop="20241025213000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025213000 +0300" stop="20241025220000 +0300" channel="deutschewelle.de">
+    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
+  </programme>
+  <programme start="20241025220000 +0300" stop="20241025220200 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025220200 +0300" stop="20241025223000 +0300" channel="deutschewelle.de">
+    <title>Focus on Europe</title>
+  </programme>
+  <programme start="20241025223000 +0300" stop="20241025230000 +0300" channel="deutschewelle.de">
+    <title>Eco Africa</title>
+  </programme>
+  <programme start="20241025230000 +0300" stop="20241025233000 +0300" channel="deutschewelle.de">
+    <title>DW News</title>
+  </programme>
+  <programme start="20241025233000 +0300" stop="20241026040000 +0300" channel="deutschewelle.de">
+    <title>The Day</title>
+  </programme>
   <programme start="20241024000000 +0300" stop="20241024000200 +0300" channel="bloomberg.com">
     <title>DW News</title>
   </programme>
@@ -22596,6 +22878,435 @@
   </programme>
   <programme start="20241025233000 +0300" stop="20241026000000 +0300" channel="nhkworld.com">
     <title>Asia Insight</title>
+  </programme>
+  <programme start="20241024040000 +0300" stop="20241024050000 +0300" channel="skynews.uk">
+    <title>Sky News</title>
+  </programme>
+  <programme start="20241024050000 +0300" stop="20241024060000 +0300" channel="skynews.uk">
+    <title>Sky News</title>
+  </programme>
+  <programme start="20241024060000 +0300" stop="20241024070000 +0300" channel="skynews.uk">
+    <title>Sky News</title>
+  </programme>
+  <programme start="20241024070000 +0300" stop="20241024080000 +0300" channel="skynews.uk">
+    <title>Sky News</title>
+  </programme>
+  <programme start="20241024080000 +0300" stop="20241024083000 +0300" channel="skynews.uk">
+    <title>Breakfast</title>
+  </programme>
+  <programme start="20241024083000 +0300" stop="20241024090000 +0300" channel="skynews.uk">
+    <title>Breakfast</title>
+  </programme>
+  <programme start="20241024090000 +0300" stop="20241024093000 +0300" channel="skynews.uk">
+    <title>Breakfast with Kay Burley</title>
+  </programme>
+  <programme start="20241024093000 +0300" stop="20241024100000 +0300" channel="skynews.uk">
+    <title>Breakfast with Kay Burley</title>
+  </programme>
+  <programme start="20241024100000 +0300" stop="20241024103000 +0300" channel="skynews.uk">
+    <title>Breakfast with Kay Burley</title>
+  </programme>
+  <programme start="20241024103000 +0300" stop="20241024110000 +0300" channel="skynews.uk">
+    <title>Breakfast with Kay Burley</title>
+  </programme>
+  <programme start="20241024110000 +0300" stop="20241024113000 +0300" channel="skynews.uk">
+    <title>Breakfast with Kay Burley</title>
+  </programme>
+  <programme start="20241024113000 +0300" stop="20241024120000 +0300" channel="skynews.uk">
+    <title>Breakfast with Kay Burley</title>
+  </programme>
+  <programme start="20241024120000 +0300" stop="20241024123000 +0300" channel="skynews.uk">
+    <title>Sky News Today with Wilfred Frost</title>
+  </programme>
+  <programme start="20241024123000 +0300" stop="20241024130000 +0300" channel="skynews.uk">
+    <title>Sky News Today with Wilfred Frost</title>
+  </programme>
+  <programme start="20241024130000 +0300" stop="20241024133000 +0300" channel="skynews.uk">
+    <title>Sky News Today with Wilfred Frost</title>
+  </programme>
+  <programme start="20241024133000 +0300" stop="20241024140000 +0300" channel="skynews.uk">
+    <title>Sky News Today with Wilfred Frost</title>
+  </programme>
+  <programme start="20241024140000 +0300" stop="20241024143000 +0300" channel="skynews.uk">
+    <title>Sky News Today with Jayne Secker</title>
+  </programme>
+  <programme start="20241024143000 +0300" stop="20241024150000 +0300" channel="skynews.uk">
+    <title>Sky News Today with Jayne Secker</title>
+  </programme>
+  <programme start="20241024150000 +0300" stop="20241024153000 +0300" channel="skynews.uk">
+    <title>Sky News Today with Jayne Secker</title>
+  </programme>
+  <programme start="20241024153000 +0300" stop="20241024160000 +0300" channel="skynews.uk">
+    <title>Sky News Today with Jayne Secker</title>
+  </programme>
+  <programme start="20241024160000 +0300" stop="20241024163000 +0300" channel="skynews.uk">
+    <title>Sky News with Kamali Melbourne</title>
+  </programme>
+  <programme start="20241024163000 +0300" stop="20241024170000 +0300" channel="skynews.uk">
+    <title>Sky News with Kamali Melbourne</title>
+  </programme>
+  <programme start="20241024170000 +0300" stop="20241024173000 +0300" channel="skynews.uk">
+    <title>Sky News with Kamali Melbourne</title>
+  </programme>
+  <programme start="20241024173000 +0300" stop="20241024180000 +0300" channel="skynews.uk">
+    <title>Sky News with Kamali Melbourne</title>
+  </programme>
+  <programme start="20241024180000 +0300" stop="20241024183000 +0300" channel="skynews.uk">
+    <title>Sky News with Kamali Melbourne</title>
+  </programme>
+  <programme start="20241024183000 +0300" stop="20241024190000 +0300" channel="skynews.uk">
+    <title>Sky News with Kamali Melbourne</title>
+  </programme>
+  <programme start="20241024190000 +0300" stop="20241024193000 +0300" channel="skynews.uk">
+    <title>The News Hour With Mark Austin</title>
+  </programme>
+  <programme start="20241024193000 +0300" stop="20241024200000 +0300" channel="skynews.uk">
+    <title>The News Hour With Mark Austin</title>
+  </programme>
+  <programme start="20241024200000 +0300" stop="20241024203000 +0300" channel="skynews.uk">
+    <title>The News Hour With Mark Austin</title>
+  </programme>
+  <programme start="20241024203000 +0300" stop="20241024210000 +0300" channel="skynews.uk">
+    <title>The News Hour With Mark Austin</title>
+  </programme>
+  <programme start="20241024210000 +0300" stop="20241024213000 +0300" channel="skynews.uk">
+    <title>Politics Hub With Sophy Ridge</title>
+  </programme>
+  <programme start="20241024213000 +0300" stop="20241024220000 +0300" channel="skynews.uk">
+    <title>Politics Hub With Sophy Ridge</title>
+  </programme>
+  <programme start="20241024220000 +0300" stop="20241024223000 +0300" channel="skynews.uk">
+    <title>UK Tonight With Sarah-Jane Mee</title>
+  </programme>
+  <programme start="20241024223000 +0300" stop="20241024230000 +0300" channel="skynews.uk">
+    <title>UK Tonight With Sarah-Jane Mee</title>
+  </programme>
+  <programme start="20241024230000 +0300" stop="20241024233000 +0300" channel="skynews.uk">
+    <title>The World with Yalda Hakim</title>
+  </programme>
+  <programme start="20241024233000 +0300" stop="20241025040000 +0300" channel="skynews.uk">
+    <title>The World with Yalda Hakim</title>
+  </programme>
+  <programme start="20241025040000 +0300" stop="20241025050000 +0300" channel="skynews.uk">
+    <title>Sky News</title>
+  </programme>
+  <programme start="20241025050000 +0300" stop="20241025060000 +0300" channel="skynews.uk">
+    <title>Sky News</title>
+  </programme>
+  <programme start="20241025060000 +0300" stop="20241025070000 +0300" channel="skynews.uk">
+    <title>Sky News</title>
+  </programme>
+  <programme start="20241025070000 +0300" stop="20241025080000 +0300" channel="skynews.uk">
+    <title>Sky News</title>
+  </programme>
+  <programme start="20241025080000 +0300" stop="20241025083000 +0300" channel="skynews.uk">
+    <title>Breakfast</title>
+  </programme>
+  <programme start="20241025083000 +0300" stop="20241025090000 +0300" channel="skynews.uk">
+    <title>Breakfast</title>
+  </programme>
+  <programme start="20241025090000 +0300" stop="20241025093000 +0300" channel="skynews.uk">
+    <title>Breakfast with Anna Jones</title>
+  </programme>
+  <programme start="20241025093000 +0300" stop="20241025100000 +0300" channel="skynews.uk">
+    <title>Breakfast with Anna Jones</title>
+  </programme>
+  <programme start="20241025100000 +0300" stop="20241025103000 +0300" channel="skynews.uk">
+    <title>Breakfast with Anna Jones</title>
+  </programme>
+  <programme start="20241025103000 +0300" stop="20241025110000 +0300" channel="skynews.uk">
+    <title>Breakfast with Anna Jones</title>
+  </programme>
+  <programme start="20241025110000 +0300" stop="20241025113000 +0300" channel="skynews.uk">
+    <title>Breakfast with Anna Jones</title>
+  </programme>
+  <programme start="20241025113000 +0300" stop="20241025120000 +0300" channel="skynews.uk">
+    <title>Breakfast with Anna Jones</title>
+  </programme>
+  <programme start="20241025120000 +0300" stop="20241025123000 +0300" channel="skynews.uk">
+    <title>Sky News Today with Wilfred Frost</title>
+  </programme>
+  <programme start="20241025123000 +0300" stop="20241025130000 +0300" channel="skynews.uk">
+    <title>Sky News Today with Wilfred Frost</title>
+  </programme>
+  <programme start="20241025130000 +0300" stop="20241025133000 +0300" channel="skynews.uk">
+    <title>Sky News Today with Wilfred Frost</title>
+  </programme>
+  <programme start="20241025133000 +0300" stop="20241025140000 +0300" channel="skynews.uk">
+    <title>Sky News Today</title>
+  </programme>
+  <programme start="20241025140000 +0300" stop="20241025143000 +0300" channel="skynews.uk">
+    <title>Sky News Today</title>
+  </programme>
+  <programme start="20241025143000 +0300" stop="20241025150000 +0300" channel="skynews.uk">
+    <title>Sky News Today</title>
+  </programme>
+  <programme start="20241025150000 +0300" stop="20241025153000 +0300" channel="skynews.uk">
+    <title>Sky News Today</title>
+  </programme>
+  <programme start="20241025153000 +0300" stop="20241025160000 +0300" channel="skynews.uk">
+    <title>Sky News Today</title>
+  </programme>
+  <programme start="20241025160000 +0300" stop="20241025163000 +0300" channel="skynews.uk">
+    <title>Sky News Today</title>
+  </programme>
+  <programme start="20241025163000 +0300" stop="20241025170000 +0300" channel="skynews.uk">
+    <title>Sky News Today</title>
+  </programme>
+  <programme start="20241025170000 +0300" stop="20241025173000 +0300" channel="skynews.uk">
+    <title>Sky News Today</title>
+  </programme>
+  <programme start="20241025173000 +0300" stop="20241025180000 +0300" channel="skynews.uk">
+    <title>Sky News Today</title>
+  </programme>
+  <programme start="20241025180000 +0300" stop="20241025183000 +0300" channel="skynews.uk">
+    <title>Sky News Today</title>
+  </programme>
+  <programme start="20241025183000 +0300" stop="20241025190000 +0300" channel="skynews.uk">
+    <title>Sky News Today</title>
+  </programme>
+  <programme start="20241025190000 +0300" stop="20241025193000 +0300" channel="skynews.uk">
+    <title>News Hour with Jonathan Samuels</title>
+  </programme>
+  <programme start="20241025193000 +0300" stop="20241025200000 +0300" channel="skynews.uk">
+    <title>News Hour with Jonathan Samuels</title>
+  </programme>
+  <programme start="20241025200000 +0300" stop="20241025203000 +0300" channel="skynews.uk">
+    <title>News Hour with Jonathan Samuels</title>
+  </programme>
+  <programme start="20241025203000 +0300" stop="20241025210000 +0300" channel="skynews.uk">
+    <title>News Hour with Jonathan Samuels</title>
+  </programme>
+  <programme start="20241025210000 +0300" stop="20241025213000 +0300" channel="skynews.uk">
+    <title>Politics Hub</title>
+  </programme>
+  <programme start="20241025213000 +0300" stop="20241025220000 +0300" channel="skynews.uk">
+    <title>Politics Hub</title>
+  </programme>
+  <programme start="20241025220000 +0300" stop="20241025223000 +0300" channel="skynews.uk">
+    <title>Sky News</title>
+  </programme>
+  <programme start="20241025223000 +0300" stop="20241025230000 +0300" channel="skynews.uk">
+    <title>Sky News</title>
+  </programme>
+  <programme start="20241025230000 +0300" stop="20241025233000 +0300" channel="skynews.uk">
+    <title>Sky News</title>
+  </programme>
+  <programme start="20241025233000 +0300" stop="20241026040000 +0300" channel="skynews.uk">
+    <title>Sky News</title>
+  </programme>
+  <programme start="20241024060000 +0300" stop="20241024064500 +0300" channel="cctv4.com">
+    <title>TV Drama</title>
+  </programme>
+  <programme start="20241024064500 +0300" stop="20241024070000 +0300" channel="cctv4.com">
+    <title>Nostalgia</title>
+  </programme>
+  <programme start="20241024070000 +0300" stop="20241024080000 +0300" channel="cctv4.com">
+    <title>China News</title>
+  </programme>
+  <programme start="20241024080000 +0300" stop="20241024083000 +0300" channel="cctv4.com">
+    <title>National Treasures found</title>
+  </programme>
+  <programme start="20241024083000 +0300" stop="20241024091500 +0300" channel="cctv4.com">
+    <title>TV Drama</title>
+  </programme>
+  <programme start="20241024091500 +0300" stop="20241024100000 +0300" channel="cctv4.com">
+    <title>TV Drama</title>
+  </programme>
+  <programme start="20241024100000 +0300" stop="20241024103000 +0300" channel="cctv4.com">
+    <title>Nostalgia</title>
+  </programme>
+  <programme start="20241024103000 +0300" stop="20241024110000 +0300" channel="cctv4.com">
+    <title>China Showbiz</title>
+  </programme>
+  <programme start="20241024110000 +0300" stop="20241024113000 +0300" channel="cctv4.com">
+    <title>China News</title>
+  </programme>
+  <programme start="20241024113000 +0300" stop="20241024121500 +0300" channel="cctv4.com">
+    <title>TV Drama</title>
+  </programme>
+  <programme start="20241024121500 +0300" stop="20241024130000 +0300" channel="cctv4.com">
+    <title>TV Drama</title>
+  </programme>
+  <programme start="20241024130000 +0300" stop="20241024133000 +0300" channel="cctv4.com">
+    <title>China News</title>
+  </programme>
+  <programme start="20241024133000 +0300" stop="20241024140000 +0300" channel="cctv4.com">
+    <title>Across the Strait</title>
+  </programme>
+  <programme start="20241024140000 +0300" stop="20241024143000 +0300" channel="cctv4.com">
+    <title>China News</title>
+  </programme>
+  <programme start="20241024143000 +0300" stop="20241024150000 +0300" channel="cctv4.com">
+    <title>Asia Today</title>
+  </programme>
+  <programme start="20241024150000 +0300" stop="20241024154500 +0300" channel="cctv4.com">
+    <title>On the Way</title>
+  </programme>
+  <programme start="20241024154500 +0300" stop="20241024160000 +0300" channel="cctv4.com">
+    <title>Nostalgia</title>
+  </programme>
+  <programme start="20241024160000 +0300" stop="20241024163000 +0300" channel="cctv4.com">
+    <title>China News</title>
+  </programme>
+  <programme start="20241024163000 +0300" stop="20241024170000 +0300" channel="cctv4.com">
+    <title>Focus Today</title>
+  </programme>
+  <programme start="20241024170000 +0300" stop="20241024174500 +0300" channel="cctv4.com">
+    <title>TV Drama</title>
+  </programme>
+  <programme start="20241024174500 +0300" stop="20241024183000 +0300" channel="cctv4.com">
+    <title>TV Drama</title>
+  </programme>
+  <programme start="20241024183000 +0300" stop="20241024190000 +0300" channel="cctv4.com">
+    <title>China Showbiz</title>
+  </programme>
+  <programme start="20241024190000 +0300" stop="20241024194500 +0300" channel="cctv4.com">
+    <title>Music Fair</title>
+  </programme>
+  <programme start="20241024194500 +0300" stop="20241024203000 +0300" channel="cctv4.com">
+    <title>Cartoon City</title>
+  </programme>
+  <programme start="20241024203000 +0300" stop="20241024210000 +0300" channel="cctv4.com">
+    <title>National Treasures found</title>
+  </programme>
+  <programme start="20241024210000 +0300" stop="20241024213000 +0300" channel="cctv4.com">
+    <title>Nostalgia</title>
+  </programme>
+  <programme start="20241024213000 +0300" stop="20241024220000 +0300" channel="cctv4.com">
+    <title>Across the Strait</title>
+  </programme>
+  <programme start="20241024220000 +0300" stop="20241024223000 +0300" channel="cctv4.com">
+    <title>Network News</title>
+  </programme>
+  <programme start="20241024223000 +0300" stop="20241024230000 +0300" channel="cctv4.com">
+    <title>China Showbiz</title>
+  </programme>
+  <programme start="20241024230000 +0300" stop="20241024233000 +0300" channel="cctv4.com">
+    <title>China News</title>
+  </programme>
+  <programme start="20241024233000 +0300" stop="20241025000000 +0300" channel="cctv4.com">
+    <title>Focus Today</title>
+  </programme>
+  <programme start="20241025000000 +0300" stop="20241025005000 +0300" channel="cctv4.com">
+    <title>On the Way</title>
+  </programme>
+  <programme start="20241025005000 +0300" stop="20241025020000 +0300" channel="cctv4.com">
+    <title>Discoveries</title>
+  </programme>
+  <programme start="20241025020000 +0300" stop="20241025023000 +0300" channel="cctv4.com">
+    <title>Across the Strait</title>
+  </programme>
+  <programme start="20241025023000 +0300" stop="20241025030000 +0300" channel="cctv4.com">
+    <title>National Treasures found</title>
+  </programme>
+  <programme start="20241025030000 +0300" stop="20241025040500 +0300" channel="cctv4.com">
+    <title>Global News</title>
+  </programme>
+  <programme start="20241025040500 +0300" stop="20241025041500 +0300" channel="cctv4.com">
+    <title>Nostalgia</title>
+  </programme>
+  <programme start="20241025041500 +0300" stop="20241025050000 +0300" channel="cctv4.com">
+    <title>On the Way</title>
+  </programme>
+  <programme start="20241025050000 +0300" stop="20241025051500 +0300" channel="cctv4.com">
+    <title>China News</title>
+  </programme>
+  <programme start="20241025051500 +0300" stop="20241025060000 +0300" channel="cctv4.com">
+    <title>TV Drama</title>
+  </programme>
+  <programme start="20241025060000 +0300" stop="20241025064500 +0300" channel="cctv4.com">
+    <title>TV Drama</title>
+  </programme>
+  <programme start="20241025064500 +0300" stop="20241025070000 +0300" channel="cctv4.com">
+    <title>Nostalgia</title>
+  </programme>
+  <programme start="20241025070000 +0300" stop="20241025080000 +0300" channel="cctv4.com">
+    <title>China News</title>
+  </programme>
+  <programme start="20241025080000 +0300" stop="20241025083000 +0300" channel="cctv4.com">
+    <title>National Treasures found</title>
+  </programme>
+  <programme start="20241025083000 +0300" stop="20241025091500 +0300" channel="cctv4.com">
+    <title>TV Drama</title>
+  </programme>
+  <programme start="20241025091500 +0300" stop="20241025100000 +0300" channel="cctv4.com">
+    <title>TV Drama</title>
+  </programme>
+  <programme start="20241025100000 +0300" stop="20241025103000 +0300" channel="cctv4.com">
+    <title>Nostalgia</title>
+  </programme>
+  <programme start="20241025103000 +0300" stop="20241025110000 +0300" channel="cctv4.com">
+    <title>China Showbiz</title>
+  </programme>
+  <programme start="20241025110000 +0300" stop="20241025113000 +0300" channel="cctv4.com">
+    <title>China News</title>
+  </programme>
+  <programme start="20241025113000 +0300" stop="20241025121500 +0300" channel="cctv4.com">
+    <title>TV Drama</title>
+  </programme>
+  <programme start="20241025121500 +0300" stop="20241025130000 +0300" channel="cctv4.com">
+    <title>TV Drama</title>
+  </programme>
+  <programme start="20241025130000 +0300" stop="20241025133000 +0300" channel="cctv4.com">
+    <title>China News</title>
+  </programme>
+  <programme start="20241025133000 +0300" stop="20241025140000 +0300" channel="cctv4.com">
+    <title>Across the Strait</title>
+  </programme>
+  <programme start="20241025140000 +0300" stop="20241025143000 +0300" channel="cctv4.com">
+    <title>China News</title>
+  </programme>
+  <programme start="20241025143000 +0300" stop="20241025150000 +0300" channel="cctv4.com">
+    <title>Asia Today</title>
+  </programme>
+  <programme start="20241025150000 +0300" stop="20241025154500 +0300" channel="cctv4.com">
+    <title>On the Way</title>
+  </programme>
+  <programme start="20241025154500 +0300" stop="20241025160000 +0300" channel="cctv4.com">
+    <title>Nostalgia</title>
+  </programme>
+  <programme start="20241025160000 +0300" stop="20241025163000 +0300" channel="cctv4.com">
+    <title>China News</title>
+  </programme>
+  <programme start="20241025163000 +0300" stop="20241025170000 +0300" channel="cctv4.com">
+    <title>Focus Today</title>
+  </programme>
+  <programme start="20241025170000 +0300" stop="20241025174500 +0300" channel="cctv4.com">
+    <title>TV Drama</title>
+  </programme>
+  <programme start="20241025174500 +0300" stop="20241025183000 +0300" channel="cctv4.com">
+    <title>TV Drama</title>
+  </programme>
+  <programme start="20241025183000 +0300" stop="20241025190000 +0300" channel="cctv4.com">
+    <title>China Showbiz</title>
+  </programme>
+  <programme start="20241025190000 +0300" stop="20241025194500 +0300" channel="cctv4.com">
+    <title>Music Fair</title>
+  </programme>
+  <programme start="20241025194500 +0300" stop="20241025203000 +0300" channel="cctv4.com">
+    <title>Cartoon City</title>
+  </programme>
+  <programme start="20241025203000 +0300" stop="20241025210000 +0300" channel="cctv4.com">
+    <title>Talk with LuJian</title>
+  </programme>
+  <programme start="20241025210000 +0300" stop="20241025213000 +0300" channel="cctv4.com">
+    <title>Nostalgia</title>
+  </programme>
+  <programme start="20241025213000 +0300" stop="20241025220000 +0300" channel="cctv4.com">
+    <title>Across the Strait</title>
+  </programme>
+  <programme start="20241025220000 +0300" stop="20241025223000 +0300" channel="cctv4.com">
+    <title>Network News</title>
+  </programme>
+  <programme start="20241025223000 +0300" stop="20241025230000 +0300" channel="cctv4.com">
+    <title>China Showbiz</title>
+  </programme>
+  <programme start="20241025230000 +0300" stop="20241025233000 +0300" channel="cctv4.com">
+    <title>China News</title>
+  </programme>
+  <programme start="20241025233000 +0300" stop="20241026000000 +0300" channel="cctv4.com">
+    <title>Focus Today</title>
   </programme>
   <programme start="20241024020000 +0300" stop="20241024023000 +0300" channel="cgtn.cn">
     <title>The World Today</title>
