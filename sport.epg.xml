@@ -447,9 +447,6 @@
     <title>Хайденхайм - Хофенхайм</title>
     <desc>8 кръг, Футбол: Бундеслига 2024/2025, запис</desc>
   </programme>
-  <programme start="20241024023000 +0300" stop="20241024070000 +0300" channel="diemasport.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
   <programme start="20241024070000 +0300" stop="20241024090000 +0300" channel="diemasport.bg">
     <title>Монтана - Янтра, 14 кръг, Футбол: Втора професионална лига 2024/2025, /п/</title>
   </programme>
@@ -9184,10 +9181,6 @@
     <title>SK dokumentarni serijal: Istorija YU Kupa - Zvezdin prvi Kup</title>
     <desc>Od osnivanja 1923. pa do danas, najmasovnije fudbalsko takmičenje u zemlji pamti bezbroj epskih utakmica i nekoliko iznenađujućih osvajača. Ovo su priče o nekima od njih.</desc>
   </programme>
-  <programme start="20241028000000 +0200" channel="sportklub1.rs">
-    <title>Soccer Bet SK VESTI</title>
-    <desc>Sve najvažnije sportske vesti, zanimljivi prilozi i najave predstojećih događaja. Svakodnevni, polučasovni pregled događaja iz sveta sporta samo uz SK Vesti.</desc>
-  </programme>
   <programme start="20241024004000 +0300" stop="20241024024500 +0300" channel="sportklub2.rs">
     <title>Košarka - Euroleague: Partizan - Virtus</title>
     <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
@@ -10659,10 +10652,6 @@
     <title>Euroleague - Pregled</title>
     <desc>Sportski magazin posvećen Euroligi donosi preglede i analize utakmice te isječke najboljih akcija.</desc>
   </programme>
-  <programme start="20241028000000 +0200" channel="sportklub4.hr">
-    <title>Posveta zvijezdama</title>
-    <desc>Boksači, nogometaši, košarkaši... Najbolji sportaši svih vremena, iz svih sportova. Na istom mjestu, u isto vrijeme, kako ih usporediti i kako napraviti vječne liste. Netko će probati ono o čemu se...</desc>
-  </programme>
   <programme start="20241024000000 +0300" stop="20241024010000 +0300" channel="sportklub5.hr">
     <title>Sport Klub 5 Promo 4</title>
     <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
@@ -10961,10 +10950,6 @@
   </programme>
   <programme start="20241027230000 +0200" stop="20241028000000 +0200" channel="sportklub5.hr">
     <title>Sport Klub 5 Promo 3</title>
-    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
-  </programme>
-  <programme start="20241028000000 +0200" channel="sportklub5.hr">
-    <title>Sport Klub 5 Promo 4</title>
     <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
   </programme>
   <programme start="20241024000000 +0300" stop="20241024010000 +0300" channel="sportklub6.hr">
@@ -11305,10 +11290,6 @@
   </programme>
   <programme start="20241027231500 +0200" stop="20241028000000 +0200" channel="sportklub6.hr">
     <title>Sport Klub 6 Promo 3</title>
-    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
-  </programme>
-  <programme start="20241028000000 +0200" channel="sportklub6.hr">
-    <title>Sport Klub 6 Promo 4</title>
     <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
   </programme>
   <programme start="20241024053500 +0300" stop="20241024073000 +0300" channel="ligadecampeones.mplus.es">

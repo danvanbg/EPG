@@ -1995,7 +1995,7 @@
   sources:
   - uksky.com
   - tvtoday.de
-  - telestar.fr
+  - tv.sms.cz
   
 - id: deutschewelle.de
   enabled: true
@@ -2004,8 +2004,8 @@
   - name: Deutsche Welle
     lang: en
   sources:
+  - tv.sms.cz
   - programtv.onet.pl
-  
   
 - id: bloomberg.com
   enabled: true
@@ -2037,7 +2037,7 @@
     lang: en
   sources:
   - uksky.com
-  - telestar.fr
+  - tv.sms.cz
   
 - id: trtworld.com
   enabled: true
@@ -2066,6 +2066,7 @@
     lang: en
   sources:
   - uksky.com
+  - tv.sms.cz
   
 - id: russiatoday.com
   enabled: false
@@ -2096,6 +2097,7 @@
     lang: en
   sources:
   - uksky.com
+  - tv.sms.cz
   - programtv.onet.pl
   
 - id: skynews.uk
@@ -2105,8 +2107,17 @@
   - name: Sky News
     lang: en
   sources:
+  - tv.sms.cz
   - uksky.com
   - programtv.onet.pl
+  
+- id: cctv4.com
+  enabled: true
+  names:
+  - name: CCTV 4
+    lang: en
+  sources:
+  - tv.sms.cz
   
 - id: cgtn.cn
   enabled: true

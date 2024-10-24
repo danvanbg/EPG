@@ -727,6 +727,9 @@
     <display-name>Sky News HD</display-name>
     <display-name lang="en">Sky News</display-name>
   </channel>
+  <channel id="cctv4.com">
+    <display-name lang="en">CCTV 4</display-name>
+  </channel>
   <channel id="cgtn.cn">
     <display-name lang="en">CGTN</display-name>
   </channel>
@@ -7603,9 +7606,6 @@
   <programme start="20241025234500 +0300" stop="20241026100000 +0300" channel="novasport.bg">
     <title>Троа - ФК Париж</title>
     <desc>9 кръг, Футбол: Лига 2 на Франция 2024/2025, /n/</desc>
-  </programme>
-  <programme start="20241024023000 +0300" stop="20241024070000 +0300" channel="diemasport.bg">
-    <title>Програмна пауза${_desc}</title>
   </programme>
   <programme start="20241024070000 +0300" stop="20241024090000 +0300" channel="diemasport.bg">
     <title>Монтана - Янтра, 14 кръг, Футбол: Втора професионална лига 2024/2025, /п/</title>
@@ -23021,288 +23021,6 @@
     <title>Newshour</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
-  <programme start="20241024040000 +0300" stop="20241024041500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024041500 +0300" stop="20241024050000 +0300" channel="deutschewelle.de">
-    <title>PFAS: Poisoned for Eternity?</title>
-  </programme>
-  <programme start="20241024050000 +0300" stop="20241024050200 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024050200 +0300" stop="20241024053000 +0300" channel="deutschewelle.de">
-    <title>The Day</title>
-  </programme>
-  <programme start="20241024053000 +0300" stop="20241024060000 +0300" channel="deutschewelle.de">
-    <title>Made in Germany: Europe adjusts to high energy costs</title>
-  </programme>
-  <programme start="20241024060000 +0300" stop="20241024061500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024061500 +0300" stop="20241024063000 +0300" channel="deutschewelle.de">
-    <title>Best of DW-online Content</title>
-  </programme>
-  <programme start="20241024063000 +0300" stop="20241024070000 +0300" channel="deutschewelle.de">
-    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
-  </programme>
-  <programme start="20241024070000 +0300" stop="20241024071500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024071500 +0300" stop="20241024080000 +0300" channel="deutschewelle.de">
-    <title>PFAS: Poisoned for Eternity?</title>
-  </programme>
-  <programme start="20241024080000 +0300" stop="20241024080200 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024080200 +0300" stop="20241024083000 +0300" channel="deutschewelle.de">
-    <title>The Day</title>
-  </programme>
-  <programme start="20241024083000 +0300" stop="20241024090000 +0300" channel="deutschewelle.de">
-    <title>Focus on Europe</title>
-  </programme>
-  <programme start="20241024090000 +0300" stop="20241024091500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024091500 +0300" stop="20241024093000 +0300" channel="deutschewelle.de">
-    <title>Best of DW-online Content</title>
-  </programme>
-  <programme start="20241024093000 +0300" stop="20241024100000 +0300" channel="deutschewelle.de">
-    <title>Made in Germany: Europe adjusts to high energy costs</title>
-  </programme>
-  <programme start="20241024100000 +0300" stop="20241024103000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024103000 +0300" stop="20241024110000 +0300" channel="deutschewelle.de">
-    <title>Focus on Europe</title>
-  </programme>
-  <programme start="20241024110000 +0300" stop="20241024113000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024113000 +0300" stop="20241024120000 +0300" channel="deutschewelle.de">
-    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
-  </programme>
-  <programme start="20241024120000 +0300" stop="20241024121500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024121500 +0300" stop="20241024130000 +0300" channel="deutschewelle.de">
-    <title>The Death Marches of the Second World War: Part 2</title>
-  </programme>
-  <programme start="20241024130000 +0300" stop="20241024133000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024133000 +0300" stop="20241024140000 +0300" channel="deutschewelle.de">
-    <title>Eco India: Waste - what to do with it?</title>
-  </programme>
-  <programme start="20241024140000 +0300" stop="20241024143000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024143000 +0300" stop="20241024150000 +0300" channel="deutschewelle.de">
-    <title>Focus on Europe</title>
-  </programme>
-  <programme start="20241024150000 +0300" stop="20241024151500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024151500 +0300" stop="20241024160000 +0300" channel="deutschewelle.de">
-    <title>Maduro: The Indestructible</title>
-  </programme>
-  <programme start="20241024160000 +0300" stop="20241024161500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024161500 +0300" stop="20241024163000 +0300" channel="deutschewelle.de">
-    <title>Best of DW-online Content</title>
-  </programme>
-  <programme start="20241024163000 +0300" stop="20241024170000 +0300" channel="deutschewelle.de">
-    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
-  </programme>
-  <programme start="20241024170000 +0300" stop="20241024173000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024173000 +0300" stop="20241024180000 +0300" channel="deutschewelle.de">
-    <title>Focus on Europe</title>
-  </programme>
-  <programme start="20241024180000 +0300" stop="20241024183000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024183000 +0300" stop="20241024190000 +0300" channel="deutschewelle.de">
-    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
-  </programme>
-  <programme start="20241024190000 +0300" stop="20241024191500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024191500 +0300" stop="20241024200000 +0300" channel="deutschewelle.de">
-    <title>The Death Marches of the Second World War: Part 2</title>
-  </programme>
-  <programme start="20241024200000 +0300" stop="20241024201500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024201500 +0300" stop="20241024203000 +0300" channel="deutschewelle.de">
-    <title>Best of DW-online Content</title>
-  </programme>
-  <programme start="20241024203000 +0300" stop="20241024210000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024210000 +0300" stop="20241024213000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024213000 +0300" stop="20241024220000 +0300" channel="deutschewelle.de">
-    <title>Global Us: What connects us all</title>
-  </programme>
-  <programme start="20241024220000 +0300" stop="20241024220200 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024220200 +0300" stop="20241024223000 +0300" channel="deutschewelle.de">
-    <title>Made in Germany: Europe adjusts to high energy costs</title>
-  </programme>
-  <programme start="20241024223000 +0300" stop="20241024230000 +0300" channel="deutschewelle.de">
-    <title>Gangster Hunt: Police Battle the Mafia</title>
-  </programme>
-  <programme start="20241024230000 +0300" stop="20241024233000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241024233000 +0300" stop="20241025040000 +0300" channel="deutschewelle.de">
-    <title>The Day</title>
-  </programme>
-  <programme start="20241025040000 +0300" stop="20241025041500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025041500 +0300" stop="20241025050000 +0300" channel="deutschewelle.de">
-    <title>Kenya: The Elephant Nannies</title>
-  </programme>
-  <programme start="20241025050000 +0300" stop="20241025050200 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025050200 +0300" stop="20241025053000 +0300" channel="deutschewelle.de">
-    <title>The Day</title>
-  </programme>
-  <programme start="20241025053000 +0300" stop="20241025060000 +0300" channel="deutschewelle.de">
-    <title>Focus on Europe</title>
-  </programme>
-  <programme start="20241025060000 +0300" stop="20241025061500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025061500 +0300" stop="20241025063000 +0300" channel="deutschewelle.de">
-    <title>Best of DW-online Content</title>
-  </programme>
-  <programme start="20241025063000 +0300" stop="20241025070000 +0300" channel="deutschewelle.de">
-    <title>Made in Germany: Europe adjusts to high energy costs</title>
-  </programme>
-  <programme start="20241025070000 +0300" stop="20241025071500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025071500 +0300" stop="20241025080000 +0300" channel="deutschewelle.de">
-    <title>Kenya: The Elephant Nannies</title>
-  </programme>
-  <programme start="20241025080000 +0300" stop="20241025080200 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025080200 +0300" stop="20241025083000 +0300" channel="deutschewelle.de">
-    <title>The Day</title>
-  </programme>
-  <programme start="20241025083000 +0300" stop="20241025090000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025090000 +0300" stop="20241025091500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025091500 +0300" stop="20241025093000 +0300" channel="deutschewelle.de">
-    <title>Best of DW-online Content</title>
-  </programme>
-  <programme start="20241025093000 +0300" stop="20241025100000 +0300" channel="deutschewelle.de">
-    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
-  </programme>
-  <programme start="20241025100000 +0300" stop="20241025103000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025103000 +0300" stop="20241025110000 +0300" channel="deutschewelle.de">
-    <title>Gangster Hunt: Police Battle the Mafia</title>
-  </programme>
-  <programme start="20241025110000 +0300" stop="20241025113000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025113000 +0300" stop="20241025120000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025120000 +0300" stop="20241025121500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025121500 +0300" stop="20241025130000 +0300" channel="deutschewelle.de">
-    <title>PFAS: Poisoned for Eternity?</title>
-  </programme>
-  <programme start="20241025130000 +0300" stop="20241025133000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025133000 +0300" stop="20241025140000 +0300" channel="deutschewelle.de">
-    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
-  </programme>
-  <programme start="20241025140000 +0300" stop="20241025143000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025143000 +0300" stop="20241025150000 +0300" channel="deutschewelle.de">
-    <title>Gangster Hunt: Police Battle the Mafia</title>
-  </programme>
-  <programme start="20241025150000 +0300" stop="20241025151500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025151500 +0300" stop="20241025160000 +0300" channel="deutschewelle.de">
-    <title>The Death Marches of the Second World War: Part 2</title>
-  </programme>
-  <programme start="20241025160000 +0300" stop="20241025161500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025161500 +0300" stop="20241025163000 +0300" channel="deutschewelle.de">
-    <title>Best of DW-online Content</title>
-  </programme>
-  <programme start="20241025163000 +0300" stop="20241025170000 +0300" channel="deutschewelle.de">
-    <title>In Good Shape: The Health Show</title>
-  </programme>
-  <programme start="20241025170000 +0300" stop="20241025173000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025173000 +0300" stop="20241025180000 +0300" channel="deutschewelle.de">
-    <title>Eco India: Waste - what to do with it?</title>
-  </programme>
-  <programme start="20241025180000 +0300" stop="20241025183000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025183000 +0300" stop="20241025190000 +0300" channel="deutschewelle.de">
-    <title>Gangster Hunt: Police Battle the Mafia</title>
-  </programme>
-  <programme start="20241025190000 +0300" stop="20241025191500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025191500 +0300" stop="20241025200000 +0300" channel="deutschewelle.de">
-    <title>PFAS: Poisoned for Eternity?</title>
-  </programme>
-  <programme start="20241025200000 +0300" stop="20241025201500 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025201500 +0300" stop="20241025203000 +0300" channel="deutschewelle.de">
-    <title>Best of DW-online Content</title>
-  </programme>
-  <programme start="20241025203000 +0300" stop="20241025210000 +0300" channel="deutschewelle.de">
-    <title>Afrimaxx: Modern African Lifestyle</title>
-  </programme>
-  <programme start="20241025210000 +0300" stop="20241025213000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025213000 +0300" stop="20241025220000 +0300" channel="deutschewelle.de">
-    <title>Conflict Zone: Guest: Illia Ponomarenko</title>
-  </programme>
-  <programme start="20241025220000 +0300" stop="20241025220200 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025220200 +0300" stop="20241025223000 +0300" channel="deutschewelle.de">
-    <title>Focus on Europe</title>
-  </programme>
-  <programme start="20241025223000 +0300" stop="20241025230000 +0300" channel="deutschewelle.de">
-    <title>Eco Africa</title>
-  </programme>
-  <programme start="20241025230000 +0300" stop="20241025233000 +0300" channel="deutschewelle.de">
-    <title>DW News</title>
-  </programme>
-  <programme start="20241025233000 +0300" stop="20241026040000 +0300" channel="deutschewelle.de">
-    <title>The Day</title>
-  </programme>
   <programme start="20241024000000 +0300" stop="20241024000200 +0300" channel="bloomberg.com">
     <title>DW News</title>
   </programme>
@@ -26087,222 +25805,6 @@
   <programme start="20241025233000 +0300" stop="20241026000000 +0300" channel="nhkworld.com">
     <title>Asia Insight</title>
     <desc>In China, unwed mothers had been denied maternity benefits - although major cities are revising this decision to combat population decline, many mothers face an uphill battle attaining their rights.</desc>
-  </programme>
-  <programme start="20241024040000 +0300" stop="20241024050000 +0300" channel="skynews.uk">
-    <title>Sky News</title>
-  </programme>
-  <programme start="20241024050000 +0300" stop="20241024060000 +0300" channel="skynews.uk">
-    <title>Sky News</title>
-  </programme>
-  <programme start="20241024060000 +0300" stop="20241024070000 +0300" channel="skynews.uk">
-    <title>Sky News</title>
-  </programme>
-  <programme start="20241024070000 +0300" stop="20241024080000 +0300" channel="skynews.uk">
-    <title>Sky News</title>
-  </programme>
-  <programme start="20241024080000 +0300" stop="20241024083000 +0300" channel="skynews.uk">
-    <title>Breakfast</title>
-  </programme>
-  <programme start="20241024083000 +0300" stop="20241024090000 +0300" channel="skynews.uk">
-    <title>Breakfast</title>
-  </programme>
-  <programme start="20241024090000 +0300" stop="20241024093000 +0300" channel="skynews.uk">
-    <title>Breakfast with Kay Burley</title>
-  </programme>
-  <programme start="20241024093000 +0300" stop="20241024100000 +0300" channel="skynews.uk">
-    <title>Breakfast with Kay Burley</title>
-  </programme>
-  <programme start="20241024100000 +0300" stop="20241024103000 +0300" channel="skynews.uk">
-    <title>Breakfast with Kay Burley</title>
-  </programme>
-  <programme start="20241024103000 +0300" stop="20241024110000 +0300" channel="skynews.uk">
-    <title>Breakfast with Kay Burley</title>
-  </programme>
-  <programme start="20241024110000 +0300" stop="20241024113000 +0300" channel="skynews.uk">
-    <title>Breakfast with Kay Burley</title>
-  </programme>
-  <programme start="20241024113000 +0300" stop="20241024120000 +0300" channel="skynews.uk">
-    <title>Breakfast with Kay Burley</title>
-  </programme>
-  <programme start="20241024120000 +0300" stop="20241024123000 +0300" channel="skynews.uk">
-    <title>Sky News Today with Wilfred Frost</title>
-  </programme>
-  <programme start="20241024123000 +0300" stop="20241024130000 +0300" channel="skynews.uk">
-    <title>Sky News Today with Wilfred Frost</title>
-  </programme>
-  <programme start="20241024130000 +0300" stop="20241024133000 +0300" channel="skynews.uk">
-    <title>Sky News Today with Wilfred Frost</title>
-  </programme>
-  <programme start="20241024133000 +0300" stop="20241024140000 +0300" channel="skynews.uk">
-    <title>Sky News Today with Wilfred Frost</title>
-  </programme>
-  <programme start="20241024140000 +0300" stop="20241024143000 +0300" channel="skynews.uk">
-    <title>Sky News Today with Jayne Secker</title>
-  </programme>
-  <programme start="20241024143000 +0300" stop="20241024150000 +0300" channel="skynews.uk">
-    <title>Sky News Today with Jayne Secker</title>
-  </programme>
-  <programme start="20241024150000 +0300" stop="20241024153000 +0300" channel="skynews.uk">
-    <title>Sky News Today with Jayne Secker</title>
-  </programme>
-  <programme start="20241024153000 +0300" stop="20241024160000 +0300" channel="skynews.uk">
-    <title>Sky News Today with Jayne Secker</title>
-  </programme>
-  <programme start="20241024160000 +0300" stop="20241024163000 +0300" channel="skynews.uk">
-    <title>Sky News with Kamali Melbourne</title>
-  </programme>
-  <programme start="20241024163000 +0300" stop="20241024170000 +0300" channel="skynews.uk">
-    <title>Sky News with Kamali Melbourne</title>
-  </programme>
-  <programme start="20241024170000 +0300" stop="20241024173000 +0300" channel="skynews.uk">
-    <title>Sky News with Kamali Melbourne</title>
-  </programme>
-  <programme start="20241024173000 +0300" stop="20241024180000 +0300" channel="skynews.uk">
-    <title>Sky News with Kamali Melbourne</title>
-  </programme>
-  <programme start="20241024180000 +0300" stop="20241024183000 +0300" channel="skynews.uk">
-    <title>Sky News with Kamali Melbourne</title>
-  </programme>
-  <programme start="20241024183000 +0300" stop="20241024190000 +0300" channel="skynews.uk">
-    <title>Sky News with Kamali Melbourne</title>
-  </programme>
-  <programme start="20241024190000 +0300" stop="20241024193000 +0300" channel="skynews.uk">
-    <title>The News Hour With Mark Austin</title>
-  </programme>
-  <programme start="20241024193000 +0300" stop="20241024200000 +0300" channel="skynews.uk">
-    <title>The News Hour With Mark Austin</title>
-  </programme>
-  <programme start="20241024200000 +0300" stop="20241024203000 +0300" channel="skynews.uk">
-    <title>The News Hour With Mark Austin</title>
-  </programme>
-  <programme start="20241024203000 +0300" stop="20241024210000 +0300" channel="skynews.uk">
-    <title>The News Hour With Mark Austin</title>
-  </programme>
-  <programme start="20241024210000 +0300" stop="20241024213000 +0300" channel="skynews.uk">
-    <title>Politics Hub With Sophy Ridge</title>
-  </programme>
-  <programme start="20241024213000 +0300" stop="20241024220000 +0300" channel="skynews.uk">
-    <title>Politics Hub With Sophy Ridge</title>
-  </programme>
-  <programme start="20241024220000 +0300" stop="20241024223000 +0300" channel="skynews.uk">
-    <title>UK Tonight With Sarah-Jane Mee</title>
-  </programme>
-  <programme start="20241024223000 +0300" stop="20241024230000 +0300" channel="skynews.uk">
-    <title>UK Tonight With Sarah-Jane Mee</title>
-  </programme>
-  <programme start="20241024230000 +0300" stop="20241024233000 +0300" channel="skynews.uk">
-    <title>The World with Yalda Hakim</title>
-  </programme>
-  <programme start="20241024233000 +0300" stop="20241025040000 +0300" channel="skynews.uk">
-    <title>The World with Yalda Hakim</title>
-  </programme>
-  <programme start="20241025040000 +0300" stop="20241025050000 +0300" channel="skynews.uk">
-    <title>Sky News</title>
-  </programme>
-  <programme start="20241025050000 +0300" stop="20241025060000 +0300" channel="skynews.uk">
-    <title>Sky News</title>
-  </programme>
-  <programme start="20241025060000 +0300" stop="20241025070000 +0300" channel="skynews.uk">
-    <title>Sky News</title>
-  </programme>
-  <programme start="20241025070000 +0300" stop="20241025080000 +0300" channel="skynews.uk">
-    <title>Sky News</title>
-  </programme>
-  <programme start="20241025080000 +0300" stop="20241025083000 +0300" channel="skynews.uk">
-    <title>Breakfast</title>
-  </programme>
-  <programme start="20241025083000 +0300" stop="20241025090000 +0300" channel="skynews.uk">
-    <title>Breakfast</title>
-  </programme>
-  <programme start="20241025090000 +0300" stop="20241025093000 +0300" channel="skynews.uk">
-    <title>Breakfast with Anna Jones</title>
-  </programme>
-  <programme start="20241025093000 +0300" stop="20241025100000 +0300" channel="skynews.uk">
-    <title>Breakfast with Anna Jones</title>
-  </programme>
-  <programme start="20241025100000 +0300" stop="20241025103000 +0300" channel="skynews.uk">
-    <title>Breakfast with Anna Jones</title>
-  </programme>
-  <programme start="20241025103000 +0300" stop="20241025110000 +0300" channel="skynews.uk">
-    <title>Breakfast with Anna Jones</title>
-  </programme>
-  <programme start="20241025110000 +0300" stop="20241025113000 +0300" channel="skynews.uk">
-    <title>Breakfast with Anna Jones</title>
-  </programme>
-  <programme start="20241025113000 +0300" stop="20241025120000 +0300" channel="skynews.uk">
-    <title>Breakfast with Anna Jones</title>
-  </programme>
-  <programme start="20241025120000 +0300" stop="20241025123000 +0300" channel="skynews.uk">
-    <title>Sky News Today with Wilfred Frost</title>
-  </programme>
-  <programme start="20241025123000 +0300" stop="20241025130000 +0300" channel="skynews.uk">
-    <title>Sky News Today with Wilfred Frost</title>
-  </programme>
-  <programme start="20241025130000 +0300" stop="20241025133000 +0300" channel="skynews.uk">
-    <title>Sky News Today with Wilfred Frost</title>
-  </programme>
-  <programme start="20241025133000 +0300" stop="20241025140000 +0300" channel="skynews.uk">
-    <title>Sky News Today</title>
-  </programme>
-  <programme start="20241025140000 +0300" stop="20241025143000 +0300" channel="skynews.uk">
-    <title>Sky News Today</title>
-  </programme>
-  <programme start="20241025143000 +0300" stop="20241025150000 +0300" channel="skynews.uk">
-    <title>Sky News Today</title>
-  </programme>
-  <programme start="20241025150000 +0300" stop="20241025153000 +0300" channel="skynews.uk">
-    <title>Sky News Today</title>
-  </programme>
-  <programme start="20241025153000 +0300" stop="20241025160000 +0300" channel="skynews.uk">
-    <title>Sky News Today</title>
-  </programme>
-  <programme start="20241025160000 +0300" stop="20241025163000 +0300" channel="skynews.uk">
-    <title>Sky News Today</title>
-  </programme>
-  <programme start="20241025163000 +0300" stop="20241025170000 +0300" channel="skynews.uk">
-    <title>Sky News Today</title>
-  </programme>
-  <programme start="20241025170000 +0300" stop="20241025173000 +0300" channel="skynews.uk">
-    <title>Sky News Today</title>
-  </programme>
-  <programme start="20241025173000 +0300" stop="20241025180000 +0300" channel="skynews.uk">
-    <title>Sky News Today</title>
-  </programme>
-  <programme start="20241025180000 +0300" stop="20241025183000 +0300" channel="skynews.uk">
-    <title>Sky News Today</title>
-  </programme>
-  <programme start="20241025183000 +0300" stop="20241025190000 +0300" channel="skynews.uk">
-    <title>Sky News Today</title>
-  </programme>
-  <programme start="20241025190000 +0300" stop="20241025193000 +0300" channel="skynews.uk">
-    <title>News Hour with Jonathan Samuels</title>
-  </programme>
-  <programme start="20241025193000 +0300" stop="20241025200000 +0300" channel="skynews.uk">
-    <title>News Hour with Jonathan Samuels</title>
-  </programme>
-  <programme start="20241025200000 +0300" stop="20241025203000 +0300" channel="skynews.uk">
-    <title>News Hour with Jonathan Samuels</title>
-  </programme>
-  <programme start="20241025203000 +0300" stop="20241025210000 +0300" channel="skynews.uk">
-    <title>News Hour with Jonathan Samuels</title>
-  </programme>
-  <programme start="20241025210000 +0300" stop="20241025213000 +0300" channel="skynews.uk">
-    <title>Politics Hub</title>
-  </programme>
-  <programme start="20241025213000 +0300" stop="20241025220000 +0300" channel="skynews.uk">
-    <title>Politics Hub</title>
-  </programme>
-  <programme start="20241025220000 +0300" stop="20241025223000 +0300" channel="skynews.uk">
-    <title>Sky News</title>
-  </programme>
-  <programme start="20241025223000 +0300" stop="20241025230000 +0300" channel="skynews.uk">
-    <title>Sky News</title>
-  </programme>
-  <programme start="20241025230000 +0300" stop="20241025233000 +0300" channel="skynews.uk">
-    <title>Sky News</title>
-  </programme>
-  <programme start="20241025233000 +0300" stop="20241026040000 +0300" channel="skynews.uk">
-    <title>Sky News</title>
   </programme>
   <programme start="20241024020000 +0300" stop="20241024023000 +0300" channel="cgtn.cn">
     <title>The World Today</title>
@@ -30825,6 +30327,258 @@
   <programme start="20241025233500 +0300" stop="20241026000000 +0300" channel="glasamiturista.ru">
     <title lang="ru">Видеокарта уловистых мест России</title>
   </programme>
+  <programme start="20241024000000 +0300" stop="20241024003000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Ситуацията по света - Дървесината е един от най-големите природни ресурси на тази страна и източник на потенциално големи приходи. Затова и...</title>
+  </programme>
+  <programme start="20241024003000 +0300" stop="20241024005500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Ситуацията по света - Животът на Индрис Сеид Имер и Емет Асен Уораки е тотално преобърнат през последните 30 години. През 1984 г., семействата и...</title>
+  </programme>
+  <programme start="20241024005500 +0300" stop="20241024015000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Войната на безпилотните апарати - Настоящите кампании в Ирак и Афганистан са Първата световна роботизирана война с над 7000 робота във въздуха и 12 000 на...</title>
+  </programme>
+  <programme start="20241024015000 +0300" stop="20241024024500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Боливия: Пътя на смъртта - Боливия е страна на контрастите - Андите, с върхове от 5800 м. на запад, и долината на Амазонка на изток. По средата са...</title>
+  </programme>
+  <programme start="20241024024500 +0300" stop="20241024033500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Соломоновите съкровища - Откриването през 2007 г. в Йерусалим на гробница, за която се твърди, че е на семейството на Исус от Назарет, е последното от...</title>
+  </programme>
+  <programme start="20241024033500 +0300" stop="20241024040000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Ситуацията по света - Поредицата разкрива човешките последствия за глобалните икономически неравенства и нарушенията на човешките права, като показва...</title>
+  </programme>
+  <programme start="20241024040000 +0300" stop="20241024043000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Ситуацията по света - Поредицата разкрива човешките последствия за глобалните икономически неравенства и нарушенията на човешките права, като показва...</title>
+  </programme>
+  <programme start="20241024043000 +0300" stop="20241024050000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Ситуацията по света - Поредицата разкрива човешките последствия за глобалните икономически неравенства и нарушенията на човешките права, като показва...</title>
+  </programme>
+  <programme start="20241024050000 +0300" stop="20241024052500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътуване през историята - Имаме си наш собствен Айдахо в Бойси. Ще посетим една от най-впечатляващите сгради от пионерския Запад в столицата на щата, ще...</title>
+  </programme>
+  <programme start="20241024052500 +0300" stop="20241024055000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътуване през историята - Светците маршируват, докато обикаляме култовата катедрала Сейнт Луис и загадъчния манастир Урсулин в Ню Орлиънс. Ще задълбаем в...</title>
+  </programme>
+  <programme start="20241024055000 +0300" stop="20241024062000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Мозъчни възприятия - Ще разберем как мислим и виждаме, като играем игри с мозъка си. Тази поредица изследва начина, по който виждаме и...</title>
+  </programme>
+  <programme start="20241024062000 +0300" stop="20241024064500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Мозъчни възприятия - Ще разберем как мислим и виждаме, като играем игри с мозъка си. Тази поредица изследва начина, по който виждаме и...</title>
+  </programme>
+  <programme start="20241024064500 +0300" stop="20241024071500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Новата граница - Компаниите за търговски полети в космоса се приближават все повече до готовност за старт. Платежоспособни клиенти скоро ще...</title>
+  </programme>
+  <programme start="20241024071500 +0300" stop="20241024080000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Търсачи на духове - Екипът проучва изоставена фабрика в Бъртън-на-Трент. Има множество доклади за паранормални случки и водещите са готови за всичко.</title>
+  </programme>
+  <programme start="20241024080000 +0300" stop="20241024090000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Търсачи на духове - Построени през 1861 г., казармите на Мил Стрийт имат богата история. Като много други казарми, те също са били използвани като...</title>
+  </programme>
+  <programme start="20241024090000 +0300" stop="20241024092500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътуване през историята - Има много за разглеждане в най-стария град в Америка. Отпийте от отличителния Фонтан на младостта. После ще минем по моста на...</title>
+  </programme>
+  <programme start="20241024092500 +0300" stop="20241024095500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътешествия в Индия - В този епизод ще видим две от най-свещените места в Индия. Първо разбиваме митовете около легендарния Каджурахо и резбованите...</title>
+  </programme>
+  <programme start="20241024095500 +0300" stop="20241024102500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътешествия в Индия - Няма друга фигура в индийската история като Ганди. Бил изследва земята, която Ганди е наричал свой дом, и същевременно опознава...</title>
+  </programme>
+  <programme start="20241024102500 +0300" stop="20241024105000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътешествия в Африка - Във всички предишни епизоди имаше само бегли срещи с гепарди. Тук в Крюгер ще се доближим до свенливата котка, преди да излезем...</title>
+  </programme>
+  <programme start="20241024105000 +0300" stop="20241024111500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътешествия в Африка - В Южна Африка има много различни племенни групи и етноси, но никои нямат по-впечатляваща история от зулусите. Те са били...</title>
+  </programme>
+  <programme start="20241024111500 +0300" stop="20241024120000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Да отидем на остров... Чилое, чили - Откриваме скритите съкровища на света чрез показване на скритото лице на живота и жителите на островите. Островитяните се...</title>
+  </programme>
+  <programme start="20241024120000 +0300" stop="20241024123000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Надпреварата на живота - В този епизод ще изследваме надпреварата на живота в по-малък мащаб, който обаче не е по-малко жесток или конкурентен. Насекоми...</title>
+  </programme>
+  <programme start="20241024123000 +0300" stop="20241024125500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Извънградски приключения - "Извънградски приключения" пътува надлъж и нашир, за да открие най-добрите приключения, които предлагат дестинациите. В първи...</title>
+  </programme>
+  <programme start="20241024125500 +0300" stop="20241024132000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Извънградски приключения - "Извънградски приключения" пътува надлъж и нашир, за да открие най-добрите приключения, които предлагат дестинациите. В първи...</title>
+  </programme>
+  <programme start="20241024132000 +0300" stop="20241024134500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Голямото крайбрежие - Гърбати китове, спокойна вода, лятно слънце и един от най-добрите дни за соло риболов на кралска сьомга.</title>
+  </programme>
+  <programme start="20241024134500 +0300" stop="20241024141000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Голямото крайбрежие - Пътуване на юг край Централното крайбрежие с голям лов и пускане на кралска сьомга при Милбанк.</title>
+  </programme>
+  <programme start="20241024141000 +0300" stop="20241024143500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Дивата Австралия с Рей Меърс 4 - Рей се качва на изследователски кран, за да види дъждовната гора от птичи поглед. Там може да види географската позиция,...</title>
+  </programme>
+  <programme start="20241024143500 +0300" stop="20241024150000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Дивата Австралия с Рей Меърс 5 - Рей поема по Големия океански път на австралийското крайбрежие, гледащо към Антарктика - най-дългото южно крайбрежие на света.</title>
+  </programme>
+  <programme start="20241024150000 +0300" stop="20241024153000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Покажи ми къде живееш - Поредицата търси отговор на въпроса "Как могат човешките същества да твърдят, че са собственици на някое място, за да могат да...</title>
+  </programme>
+  <programme start="20241024153000 +0300" stop="20241024160000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Покажи ми къде живееш - Поредицата търси отговор на въпроса "Как могат човешките същества да твърдят, че са собственици на някое място, за да могат да...</title>
+  </programme>
+  <programme start="20241024160000 +0300" stop="20241024162500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътуване на сляпо - Поредицата показва страни, които не са задължително водещи туристически дестинации. Но Сорин открива скрити съкровища, с които...</title>
+  </programme>
+  <programme start="20241024162500 +0300" stop="20241024165000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътуване на сляпо - С превръзка на очите в Камбоджа, Сорин хвърля стреличка по картата и улучва Тайланд, Земята на усмивките. Невероятно пътуване,...</title>
+  </programme>
+  <programme start="20241024165000 +0300" stop="20241024171500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Зенит - Поредицата разкрива най-новите разработки и изводите, които те носят със себе си за всички нас.</title>
+  </programme>
+  <programme start="20241024171500 +0300" stop="20241024174000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Зенит - Поредицата разкрива най-новите разработки и изводите, които те носят със себе си за всички нас.</title>
+  </programme>
+  <programme start="20241024174000 +0300" stop="20241024183500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">За лодките и хората - Пътуването с лодка носи безценно усещане за свобода и предлага нови пейзажи на всички пътуващи. По водни пътища из целия свят...</title>
+  </programme>
+  <programme start="20241024183500 +0300" stop="20241024193000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">За лодките и хората - Пътуването с лодка носи безценно усещане за свобода и предлага нови пейзажи на всички пътуващи. По водни пътища из целия свят...</title>
+  </programme>
+  <programme start="20241024193000 +0300" stop="20241024202500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Последните орангутани на Суматра - В Суматра днес са останали само около 6000 орангутана. Според песимистичната преценка, шансовете на този застрашен вид да...</title>
+  </programme>
+  <programme start="20241024202500 +0300" stop="20241024211500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Гмуркане с крокодили - В африканските води има един върховен хищник - нилският крокодил. Едно от най-големите и най-смъртоносни влечуги на Земята има...</title>
+  </programme>
+  <programme start="20241024211500 +0300" stop="20241024221000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Новите къщи на Парагвай - В Парагвай луфата се използва за зеленчукови сюнгери, но става и за стоеж на къщи. Ще проследим борбата на Елза Салдивар да...</title>
+  </programme>
+  <programme start="20241024221000 +0300" stop="20241024223500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Сара и акулите - Сара пътува до една от 10-те най-добри дестинации за гмуркане в Австралия (Julian Rocks, Byron Bay, NSW), за да се гмурка с три...</title>
+  </programme>
+  <programme start="20241024223500 +0300" stop="20241024230000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Сара и акулите - Сара пътува до една от 10-те най-добри дестинации за гмуркане в Австралия (Julian Rocks, Byron Bay, NSW), за да се гмурка с три...</title>
+  </programme>
+  <programme start="20241024230000 +0300" stop="20241024233000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Надпреварата на живота - Пустините са сухи. Пустините са екстремни. Истинските пустини получават под 18 см. дъжд годишно. В истинските пустини има малко...</title>
+  </programme>
+  <programme start="20241024233000 +0300" stop="20241025003000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Надпреварата на живота - Това са танковете на природата и всички са ендемични за африканския континент, с изключение на индийските слонове. Африканската...</title>
+  </programme>
+  <programme start="20241025003000 +0300" stop="20241025010000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Надпреварата на живота - Когато хищниците постоянно са нащрек за хапване, плячката трябва непрестанно да избягва съдбата да бъде изядена. Всяка защитна...</title>
+  </programme>
+  <programme start="20241025010000 +0300" stop="20241025015000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Новите петна на леопарда - Филм за мисията на един човек да спре ужасяващия спад на популацията на леопарди в южна Африка заради ширещата се търговия с кожи.</title>
+  </programme>
+  <programme start="20241025015000 +0300" stop="20241025032000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Мистерията с изчезващите пчели - Разследване на екологична катастрофа в световен мащаб, която застрашава цялото човечество. Бъдещето на хранителните ни ресурси...</title>
+  </programme>
+  <programme start="20241025032000 +0300" stop="20241025040500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Ситуацията по света - Поредицата разкрива човешките последствия за глобалните икономически неравенства и нарушенията на човешките права, като показва...</title>
+  </programme>
+  <programme start="20241025040500 +0300" stop="20241025043000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Ситуацията по света - Поредицата разкрива човешките последствия за глобалните икономически неравенства и нарушенията на човешките права, като показва...</title>
+  </programme>
+  <programme start="20241025043000 +0300" stop="20241025050000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Ситуацията по света - Поредицата разкрива човешките последствия за глобалните икономически неравенства и нарушенията на човешките права, като показва...</title>
+  </programme>
+  <programme start="20241025050000 +0300" stop="20241025052500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътуване през историята - Номинираната за Еми поредица цели да събуди интереса на зрителите към богатата и очарователна история на нашия свят чрез...</title>
+  </programme>
+  <programme start="20241025052500 +0300" stop="20241025055000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътуване през историята - Пълен напред на запад! Ще отидем в Солт Лейк Сити, където ще научим за заселването на Юта от Брингъм Янг. После ще разровим...</title>
+  </programme>
+  <programme start="20241025055000 +0300" stop="20241025061500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Мозъчни възприятия - Ще разберем как мислим и виждаме, като играем игри с мозъка си. Тази поредица изследва начина, по който виждаме и...</title>
+  </programme>
+  <programme start="20241025061500 +0300" stop="20241025064000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Мозъчни възприятия - Ще разберем как мислим и виждаме, като играем игри с мозъка си. Тази поредица изследва начина, по който виждаме и...</title>
+  </programme>
+  <programme start="20241025064000 +0300" stop="20241025071000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Новата граница - Съвместната мисия Бепи-Коломбо между европейската и японската космически агенции е пред изстрелване. Целта е Меркурий, който е...</title>
+  </programme>
+  <programme start="20241025071000 +0300" stop="20241025075500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Търсачи на духове - Построени през 1861 г., казармите на Мил Стрийт имат богата история. Като много други казарми, те също са били използвани като...</title>
+  </programme>
+  <programme start="20241025075500 +0300" stop="20241025090000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Търсачи на духове - Тайният бункер Хак Грийн е бивш правителствен бункер в Хак Грийн, Чешър. Той е бил създаден за заблуда на вражеските...</title>
+  </programme>
+  <programme start="20241025090000 +0300" stop="20241025092500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътуване през историята - Отиваме под земята в златната мина Хайди, за да видим как се добива този ценен метал. После ще обиколим чисто новия исторически...</title>
+  </programme>
+  <programme start="20241025092500 +0300" stop="20241025095500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътешествия в Индия - Ще видим историята и митовете около противоречивия бунтовник Типу Султан. Майсор е център на империя, достатъчно силна, за да...</title>
+  </programme>
+  <programme start="20241025095500 +0300" stop="20241025102500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътешествия в Индия - Няма по-британски град в Индия от Калкута. Бившата столица на британска Индия има градини, сгради и музеи като доказателство за...</title>
+  </programme>
+  <programme start="20241025102500 +0300" stop="20241025105000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътешествия в Африка - В Южна Африка има много различни племенни групи и етноси, но никои нямат по-впечатляваща история от зулусите. Те са били...</title>
+  </programme>
+  <programme start="20241025105000 +0300" stop="20241025111500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътешествия в Африка - Бил Бол започва изкарването на най-високата африканска планина. Проблемите започват почти от самото начало, след като...</title>
+  </programme>
+  <programme start="20241025111500 +0300" stop="20241025120000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Да отидем на остров... Доминиканска република - Откриваме скритите съкровища на света чрез показване на скритото лице на живота и жителите на островите. Островитяните се...</title>
+  </programme>
+  <programme start="20241025120000 +0300" stop="20241025123000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Надпреварата на живота - Живеем в свят, пълен с прекрасни животни. Има около 8,7 милиона различни видове на Земята. При такова огромно разнообразие от...</title>
+  </programme>
+  <programme start="20241025123000 +0300" stop="20241025125500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Извънградски приключения - "Извънградски приключения" пътува надлъж и нашир, за да открие най-добрите приключения, които предлагат дестинациите. В първи...</title>
+  </programme>
+  <programme start="20241025125500 +0300" stop="20241025132000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Извънградски приключения - "Извънградски приключения" пътува надлъж и нашир, за да открие най-добрите приключения, които предлагат дестинациите. В първи...</title>
+  </programme>
+  <programme start="20241025132000 +0300" stop="20241025134500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Голямото крайбрежие - Пътуване на юг край Централното крайбрежие с голям лов и пускане на кралска сьомга при Милбанк.</title>
+  </programme>
+  <programme start="20241025134500 +0300" stop="20241025141000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Голямото крайбрежие - Лов с херинга като стръв край домашната ни база на остров Дени.</title>
+  </programme>
+  <programme start="20241025141000 +0300" stop="20241025143500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Дивата Австралия с Рей Меърс 5 - Рей поема по Големия океански път на австралийското крайбрежие, гледащо към Антарктика - най-дългото южно крайбрежие на света.</title>
+  </programme>
+  <programme start="20241025143500 +0300" stop="20241025150000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Дивата Австралия с Рей Меърс 6 - В този епизод Рей изследва Червения център на страната и показва, че австралийската пустиня гъмжи от живот за тези, които знаят...</title>
+  </programme>
+  <programme start="20241025150000 +0300" stop="20241025153000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Покажи ми къде живееш - Поредицата търси отговор на въпроса "Как могат човешките същества да твърдят, че са собственици на някое място, за да могат да...</title>
+  </programme>
+  <programme start="20241025153000 +0300" stop="20241025160000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Покажи ми къде живееш - Поредицата търси отговор на въпроса "Как могат човешките същества да твърдят, че са собственици на някое място, за да могат да...</title>
+  </programme>
+  <programme start="20241025160000 +0300" stop="20241025162500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътуване на сляпо - Втората част от посещението на Тайланд ще донесе пълно приключение на Сорин. Ако смятате да посетите страната за един ден,...</title>
+  </programme>
+  <programme start="20241025162500 +0300" stop="20241025165000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътуване на сляпо - Този епизод е може би най-случайното пътуване, което ще видите по телевизията, но в същото време е един от най-пълните, що се...</title>
+  </programme>
+  <programme start="20241025165000 +0300" stop="20241025171500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Зенит - Поредицата разкрива най-новите разработки и изводите, които те носят със себе си за всички нас.</title>
+  </programme>
+  <programme start="20241025171500 +0300" stop="20241025174500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Зенит - Поредицата разкрива най-новите разработки и изводите, които те носят със себе си за всички нас.</title>
+  </programme>
+  <programme start="20241025174500 +0300" stop="20241025183500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">За лодките и хората - Пътуването с лодка носи безценно усещане за свобода и предлага нови пейзажи на всички пътуващи. По водни пътища из целия свят...</title>
+  </programme>
+  <programme start="20241025183500 +0300" stop="20241025193000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">За лодките и хората - Пътуването с лодка носи безценно усещане за свобода и предлага нови пейзажи на всички пътуващи. По водни пътища из целия свят...</title>
+  </programme>
+  <programme start="20241025193000 +0300" stop="20241025202000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Пътища към четенето - Как протича процесът на четене в мозъците ни? Заслужил професор ни води на това очарователно изследване на прецизния неврален...</title>
+  </programme>
+  <programme start="20241025202000 +0300" stop="20241025211500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Противоречива история на интернет - Поглед към зараждането на защитни движения за свобода на интернет, които са възникнали като реакция на нарастващото регулиране...</title>
+  </programme>
+  <programme start="20241025211500 +0300" stop="20241025221000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Обедненият уран: Един тих убиец - Над 50 държави в света вече притежават оръжия с обеднен уран. Експериментите изобилстват, а последиците за военни и цивилно...</title>
+  </programme>
+  <programme start="20241025221000 +0300" stop="20241025223500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Чудновата наука - На кого му хрумна идеята за консерви? Започна с битка между френски и британски армии преди два века.</title>
+  </programme>
+  <programme start="20241025223500 +0300" stop="20241025230500 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Чудновата наука - През цялата история на човечеството - бизнесът на лечението, разбирането и лечението на болестите е поел по доста особен път.</title>
+  </programme>
+  <programme start="20241025230500 +0300" stop="20241025233000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Новата граница - Международната космическа станция несъмнено е перлата в короната на ниската земна орбита. Тя е наблюдателен пост,...</title>
+  </programme>
+  <programme start="20241025233000 +0300" stop="20241026003000 +0300" channel="docubox.spiintl.com">
+    <title lang="bg">Новата граница - Нашата природа на мореплаватели се е пренесла добре в космическата ера, където се опитваме да отплаваме в неизвестното, в...</title>
+  </programme>
   <programme start="20241024060000 +0300" stop="20241024070000 +0300" channel="historytv.com">
     <title>Mysteries At The Castle (Series 2): Martin Luther And Witches (Episode 9)</title>
   </programme>
@@ -31774,6 +31528,138 @@
   </programme>
   <programme start="20241025234300 +0300" stop="20241026000600 +0300" channel="chasseetpeche.fr">
     <title lang="fr">Québec à vol d'oiseau</title>
+  </programme>
+  <programme start="20241024060000 +0300" stop="20241024065000 +0300" channel="theworld.bg">
+    <title lang="bg">25 места, които трябва да посетите в Източна Европа - Макар рядко да оглавява класациите за популярни туристически дестинации, със своята палитра от старинни градчета, древна...</title>
+  </programme>
+  <programme start="20241024065000 +0300" stop="20241024073000 +0300" channel="theworld.bg">
+    <title lang="bg">Букурещ - Столицата на Румъния, Букурещ, е известна още като "Париж на Изтока". Основана е от княз Дракула и сред пищните класически и...</title>
+  </programme>
+  <programme start="20241024073000 +0300" stop="20241024083500 +0300" channel="theworld.bg">
+    <title lang="bg">България - Разположена в края на Югоизточна Европа, България е страна на природен разкош, приказни селца, древни руини и манастири със...</title>
+  </programme>
+  <programme start="20241024083500 +0300" stop="20241024092000 +0300" channel="theworld.bg">
+    <title lang="bg">София - От 1879 г. насам София е столица на България. Град, чиито корени датират от 5 в. пр. Хр. Опознайте историческият ? център и...</title>
+  </programme>
+  <programme start="20241024092000 +0300" stop="20241024102500 +0300" channel="theworld.bg">
+    <title lang="bg">Пътешествие по река Дунав - Поемете на вълнуващо пътешествие по Дунав - река от ключово икономическо значение, течаща през цели 10 държави.</title>
+  </programme>
+  <programme start="20241024102500 +0300" stop="20241024113000 +0300" channel="theworld.bg">
+    <title lang="bg">Зеленото сърце на Хърватия – по брега на река Сава - В Хърватия е сгушен природен резерват, рай за животните и хората, които са отдадени на традициите. Времето е сякаш спряло, а...</title>
+  </programme>
+  <programme start="20241024113000 +0300" stop="20241024123500 +0300" channel="theworld.bg">
+    <title lang="bg">Хърватия - Една европейска страна, разположена в Средиземноморието, която е истинска културна и архитектурна съкровищница с дълга история,...</title>
+  </programme>
+  <programme start="20241024123500 +0300" stop="20241024131500 +0300" channel="theworld.bg">
+    <title lang="bg">Загреб - Тръгнете на пътешествие из Загреб - град с хилядолетна история и културна столица на Европа. Насладете се на множеството...</title>
+  </programme>
+  <programme start="20241024131500 +0300" stop="20241024141000 +0300" channel="theworld.bg">
+    <title lang="bg">Национален парк "Плитвички езера" - Скрит в гъсто обраслия планински регион Мала Капела, националният парк "Плитвички езера" е най-известната природна...</title>
+  </programme>
+  <programme start="20241024141000 +0300" stop="20241024145500 +0300" channel="theworld.bg">
+    <title lang="bg">Музейната железница в Бохини - Всяко лято в Словения музеен влак пътува по маршрута Йесенице-Нова Горица. Красивите пейзажи и старовремската атмосфера...</title>
+  </programme>
+  <programme start="20241024145500 +0300" stop="20241024153000 +0300" channel="theworld.bg">
+    <title lang="bg">Любляна - В Любляна ще се влюбите от пръв поглед! Столицата на Словения е събрала най-хубавото от влиянието на балканското и...</title>
+  </programme>
+  <programme start="20241024153000 +0300" stop="20241024161000 +0300" channel="theworld.bg">
+    <title lang="bg">Истрия - Полуостров Истрия е една от най-старите селищни области в Европа. Перла на Адриатика с богата история и мултикултурна атмосфера.</title>
+  </programme>
+  <programme start="20241024161000 +0300" stop="20241024165000 +0300" channel="theworld.bg">
+    <title lang="bg">Братислава - Столицата на Словакия, Братислава, е град с дълга и колоритна история. Разположението му на река Дунав и грижливо съхраненият...</title>
+  </programme>
+  <programme start="20241024165000 +0300" stop="20241024175500 +0300" channel="theworld.bg">
+    <title lang="bg">Чехия - Опознайте Чехия - живописните селца, внушителните замъци и средновековните градове превръщат страната в едно истинско...</title>
+  </programme>
+  <programme start="20241024175500 +0300" stop="20241024184000 +0300" channel="theworld.bg">
+    <title lang="bg">С влак из планините Татри - Поемете на вълнуващо пътешествие с влак из Татрите - най-малката планинска верига в Европа. Забележителен пейзаж с величествени...</title>
+  </programme>
+  <programme start="20241024184000 +0300" stop="20241024193500 +0300" channel="theworld.bg">
+    <title lang="bg">Национален парк "Триглав" - Опознайте природната красота на националния парк "Триглав", разположен в северния край на границата между Словения, Италия и...</title>
+  </programme>
+  <programme start="20241024193500 +0300" stop="20241024204500 +0300" channel="theworld.bg">
+    <title lang="bg">Словения - На кръстопът между три магични свята се простира държава, тайно съкровище в Централна Европа. На границите й се сблъскват...</title>
+  </programme>
+  <programme start="20241024204500 +0300" stop="20241024212500 +0300" channel="theworld.bg">
+    <title lang="bg">Невероятни места на планетата: Шварцвалд - В планината Шварцвалд вирее една от най-големите непокътнати гори в Германия. Преди човекът да промени лицето на Шварцвалд,...</title>
+  </programme>
+  <programme start="20241024212500 +0300" stop="20241024220500 +0300" channel="theworld.bg">
+    <title lang="bg">Невероятни места на планетата: Планината Вогези във Франция - Френските Вогези са естествен планински масив в сърцето на Европа. Скалите и горите предлагат подходящо местообитание за богата...</title>
+  </programme>
+  <programme start="20241024220500 +0300" stop="20241024223500 +0300" channel="theworld.bg">
+    <title lang="bg">Древни цивилизации - Еп. 7 - Хибрид между човек и гигант: Има ли излишно ДНК в човешката генетика? Този въпрос остава неразрешен. Съществува...</title>
+  </programme>
+  <programme start="20241024223500 +0300" stop="20241024230500 +0300" channel="theworld.bg">
+    <title lang="bg">Древни цивилизации - Еп. 8 - Кръгли каменни портали: Загадката на каменните кръгове остава неразрешена хилядолетия наред. Но те най-вероятно са се...</title>
+  </programme>
+  <programme start="20241024230500 +0300" stop="20241024233500 +0300" channel="theworld.bg">
+    <title lang="bg">Топ 10 тайни и загадки - Необясними послания.Потопете се в загадката на десет необясними послания от древността.Тези послания съществуват от векове...</title>
+  </programme>
+  <programme start="20241024233500 +0300" stop="20241025060000 +0300" channel="theworld.bg">
+    <title lang="bg">Невероятни пътешествия - Съществата по цялата планета започват да долавят тайни сигнали и се раздвижват. Продължителността на деня и нощта се променя....</title>
+  </programme>
+  <programme start="20241025060000 +0300" stop="20241025065000 +0300" channel="theworld.bg">
+    <title lang="bg">Тайните на Библията - Торинската плащаница - Безброй загадки витаят около прочутата Торинска плащаница - платното, с което според мнозина Исус е бил увит след разпятието...</title>
+  </programme>
+  <programme start="20241025065000 +0300" stop="20241025073000 +0300" channel="theworld.bg">
+    <title lang="bg">Неаполски залив - Крайбрежието на Неаполския залив е едно от най-гъсто населените места в Италия. Около него живеят над 4,4 милиона души, въпреки...</title>
+  </programme>
+  <programme start="20241025073000 +0300" stop="20241025080500 +0300" channel="theworld.bg">
+    <title lang="bg">Амалфитана - Поемете по един от най-красивите панорамни пътища в света - Амалфитана, виещ се на 40 км покрай Амалфитанското крайбрежие....</title>
+  </programme>
+  <programme start="20241025080500 +0300" stop="20241025091500 +0300" channel="theworld.bg">
+    <title lang="bg">Кампания - Регионът Кампания някога е център на древния свят и Средиземноморието, а днес очарова посетителите си с чудни гледки, богата...</title>
+  </programme>
+  <programme start="20241025091500 +0300" stop="20241025095000 +0300" channel="theworld.bg">
+    <title lang="bg">Красивата Венеция - Добре дошли в красивата Венеция - един от най-очарователните градове в света с история, датираща от над1500 години. Разходете...</title>
+  </programme>
+  <programme start="20241025095000 +0300" stop="20241025102500 +0300" channel="theworld.bg">
+    <title lang="bg">Чинкуе Тере - Поемете на разходка из петте живописни селца, образуващи Чинкуе Тере - райско кътче по протежение на лигурския бряг в Италия....</title>
+  </programme>
+  <programme start="20241025102500 +0300" stop="20241025110500 +0300" channel="theworld.bg">
+    <title lang="bg">Генуа - Освен че е петият по големина град в Италия, Генуа е известна като някогашна културна столица на Европа. Поемете из тесните...</title>
+  </programme>
+  <programme start="20241025110500 +0300" stop="20241025120500 +0300" channel="theworld.bg">
+    <title lang="bg">Лигурия - Живописната област Лигурия е сякаш излязла от приказките със своите внушителни скали, уединени селца и прочутия регион Чинкуе...</title>
+  </programme>
+  <programme start="20241025120500 +0300" stop="20241025130000 +0300" channel="theworld.bg">
+    <title lang="bg">От Брайс Каньон до Венеция - Поемете с нас на вълнуваща обиколка из най-впечатляващите забележителности на света. Природните богатства, архитектурните...</title>
+  </programme>
+  <programme start="20241025130000 +0300" stop="20241025134000 +0300" channel="theworld.bg">
+    <title lang="bg">25 места, които трябва да посетите в Източна Европа - Макар рядко да оглавява класациите за популярни туристически дестинации, със своята палитра от старинни градчета, древна...</title>
+  </programme>
+  <programme start="20241025134000 +0300" stop="20241025142500 +0300" channel="theworld.bg">
+    <title lang="bg">25 най-красиви средновековни градове в Европа - Европа е известна със своите оживени метрополиси, но тя има и друга, древна и вълнуваща страна, която можете да опознаете, като...</title>
+  </programme>
+  <programme start="20241025142500 +0300" stop="20241025153500 +0300" channel="theworld.bg">
+    <title lang="bg">Изгубени цивилизации: Най-красивите културни паметници в Рим - С 28 века наситена със събития история, Рим е центърът на западната култура. Амфитеатрите от времето на Империята,...</title>
+  </programme>
+  <programme start="20241025153500 +0300" stop="20241025164000 +0300" channel="theworld.bg">
+    <title lang="bg">Изгубени цивилизации: Гръко-римски забележителности край Неапол - Помпей е сред най-посещаваните археологически обекти в света. Забележително опазеното състояние на града се дължи изцяло на...</title>
+  </programme>
+  <programme start="20241025164000 +0300" stop="20241025175000 +0300" channel="theworld.bg">
+    <title lang="bg">Изгубени цивилизации: Най-красивите паметници на културата в Древна Гърция - Филмът ни представя чудесата и гения на основополагащата за целия Запад гръцка култура. Минаваме през Партенона и древните...</title>
+  </programme>
+  <programme start="20241025175000 +0300" stop="20241025185500 +0300" channel="theworld.bg">
+    <title lang="bg">Изгубени цивилизации: Гърция - полуостров Пелопонес - Пътешествие из гръцкия полуостров Пелопонес, люлка на Микенската цивилизация и дом на мистичната Олимпия, където се палел...</title>
+  </programme>
+  <programme start="20241025185500 +0300" stop="20241025200000 +0300" channel="theworld.bg">
+    <title lang="bg">Изгубени цивилизации: Атина - Делфи - манастирът "Осиос Лукас" - нос Сунио - Атина е столицата и най-големият град в Гърция с над 3 милиона жители заедно спредградията. Тук е политическото, икономическото...</title>
+  </programme>
+  <programme start="20241025200000 +0300" stop="20241025211000 +0300" channel="theworld.bg">
+    <title lang="bg">От Червения площад до "Синьория" във Флоренция - Вълнуващото пътуване из стоте чудеса на света в днешния епизод преминава през бразилския град Тирадентис - важна спирка на...</title>
+  </programme>
+  <programme start="20241025211000 +0300" stop="20241025214500 +0300" channel="theworld.bg">
+    <title lang="bg">25 най-невероятни руини в света - Светът е осеян с руини, напомнящи за историята на отминали епохи и древни народи. Опознайте някои от най-забележителните...</title>
+  </programme>
+  <programme start="20241025214500 +0300" stop="20241025223000 +0300" channel="theworld.bg">
+    <title lang="bg">Древни цивилизации - Еп. 9 - Връзката между Атлантида и Абидос: Съществува ли връзка между Атлантида и Древен Египет? Екип от специалисти разкрива,...</title>
+  </programme>
+  <programme start="20241025223000 +0300" stop="20241025233000 +0300" channel="theworld.bg">
+    <title lang="bg">Древни цивилизации - Еп. 10 - Седем нива под Гиза: Възможно ли е под пирамидите и под сфинксовете в Древен Египет да има останки от град или военна...</title>
+  </programme>
+  <programme start="20241025233000 +0300" stop="20241026060000 +0300" channel="theworld.bg">
+    <title lang="bg">Топ 10 тайни и загадки - Загадките на свещените текстове.Опознайте десет от най-загадъчните свещени текстове по света.Тези текстове съдържат древни...</title>
   </programme>
   <programme start="20241024000200 +0300" stop="20241024000600 +0300" channel="jivayapriroda.ru">
     <title lang="ru">Река Хаммерсбах</title>
