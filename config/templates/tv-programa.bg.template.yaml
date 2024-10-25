@@ -35,7 +35,7 @@ program-details:
   elements:
     - name: desc
       locator: .filmInfo
-      debug: false
+      debug: true
       operations:
       - name: beautify
         hook: after
@@ -73,6 +73,8 @@ channel-parameters:
     channelId: hobi
   docubox.spiintl.com:
     channelId: docubox
+  hgtv.com:
+    channelId: hgtv
 
 #channel-extract-rules:
 #  url: https://www.xn----8sbafg9clhjcp.bg/

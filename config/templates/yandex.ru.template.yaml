@@ -33,6 +33,8 @@ channel-parameters:
     channelId: russia-today-70
   rtdoc.com:
     channelId: rt-doc-1258
+  glasamiturista.ru:
+    channelId: glazami-turista-1473
 
 
 # Used for extracting channel names and params from a page containing the list of available channels

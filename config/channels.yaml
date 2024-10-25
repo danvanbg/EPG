@@ -270,7 +270,7 @@
   - tv.dir.bg
   
 - id: eurochannel.com
-  enabled: true
+  enabled: false
   names:
   - name: Eurochannel
     lang: en
@@ -1397,6 +1397,7 @@
   - name: Fuel TV
   groups: ["sport"]
   sources:
+  - tv.dir.bg
   - dnes.bg
 
   
@@ -1413,8 +1414,8 @@
     lang: en
   sources:
   - dnes.bg
-  - telestar.fr
   - programtv.onet.pl
+  - telestar.fr
   
 - id: mtv80s.com
   enabled: true
@@ -1482,7 +1483,7 @@
   sources:
   - dnes.bg
   - tv.dir.bg
-  - mtv-live-hd-105
+  - programtv.onet.pl
 
 - id: thevoice.bg
   enabled: true
@@ -1614,6 +1615,37 @@
   sources:
   - ouest-france.fr
   - telestar.fr
+  
+- id: hayatfolk.rs
+  enabled: true
+  name: Hayat Folk
+  sources:
+  - mts.rs
+
+- id: hayatmusic.rs
+  enabled: true
+  name: Hayat Music
+  sources:
+  - mts.rs
+
+
+- id: pinkfolk.rs
+  enabled: true
+  name: Pink Folk
+  sources:
+  - mts.rs
+
+- id: pinkfolk2.rs
+  enabled: true
+  name: Pink Folk 2
+  sources:
+  - mts.rs
+
+- id: happy.rs
+  enabled: true
+  name: Happy RS
+  sources:
+  - mts.rs
 
 ##############
 ### GERMAN ###
@@ -2190,13 +2222,14 @@
   sources:
   - mts.rs
   
-- id: hgtv.bg
+- id: hgtv.com
   enabled: true
   names:
   - name: HDGE
   - name: HDGE HD
     lang: en
   sources:
+  - tv-programa.bg
   - dnes.bg
   - tv.dir.bg
   
@@ -2272,14 +2305,15 @@
   sources:
   - dnes.bg
 
-- id: discoveryscience.bg
-  enabled: true
+- id: discoveryscience.com
+  enabled: false
   names:
   - name: Discovery Science
     lang: en
   - name: Discovery Science HD
     lang: en
   sources:
+  - tvguide.co.uk
   - dnes.bg
   
 - id: discoveryshowcase.bg
@@ -2488,6 +2522,7 @@
   - name: Love Nature
     lang: en
   - name: Love Nature HD
+  - name: Love Nature 4K
     lang: en
   sources:
   - dnes.bg
@@ -3171,9 +3206,19 @@
   sources:
   - mts.rs
   
+- id: rts3.rs
+  enabled: true
+  names:
+  - name: РТС 3
+    lang: sr
+  groups: [ "srb" ]
+  sources:
+  - mts.rs
+  
 - id: prva.rs
   enabled: true
   names:
+  - name: Prva RS
   - name: Prva
     lang: sr
   sources:
@@ -3183,7 +3228,18 @@
   enabled: true
   names:
   - name: O2
+  - name: O2 (B92)
     lang: sr
+  groups: [ "srb" ]
+  sources:
+  - mts.rs
+  
+ 
+- id: pink.rs
+  enabled: true
+  names:
+  - name: Pink HD
+  - name: Pink
   groups: [ "srb" ]
   sources:
   - mts.rs
@@ -3278,6 +3334,8 @@
   enabled: true
   names:
   - name: Rai 1
+  - name: RAI 1
+  - name: RAI 1 HD
   groups: [ "it" ]
   sources:
   - raiplay.it
@@ -3286,6 +3344,8 @@
   enabled: true
   names:
   - name: Rai 2
+  - name: RAI 1
+  - name: RAI 1 HD
   groups: [ "it" ]
   sources:
   - raiplay.it
@@ -3294,14 +3354,26 @@
   enabled: true
   names:
   - name: Rai 3
+  - name: RAI 1 HD
+  groups: [ "it" ]
+  sources:
+  - raiplay.it
+  
+- id: rai4.it
+  enabled: true
+  names:
+  - name: Rai 4
+  - name: RAI 4 HD
+  - name: RAI 4
   groups: [ "it" ]
   sources:
   - raiplay.it
   
 - id: rainews.it
-  enabled: false
+  enabled: true
   names:
   - name: Rai News
+  - name: RAI News 24 HD
   sources:
   - raiplay.it
   
@@ -3310,5 +3382,6 @@
   groups: [ "it" ]
   names:
   - name: Rai Scuola
+  - name: RAI Scuola HD
   sources:
   - raiplay.it

@@ -434,9 +434,6 @@
     <title>Бокс: ONE Петъчна бойна вечер 90</title>
     <desc>Бойно събитие в Банкок, Тайланд, запис</desc>
   </programme>
-  <programme start="20241025013000 +0300" stop="20241025070000 +0300" channel="diemasport.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
   <programme start="20241025070000 +0300" stop="20241025090000 +0300" channel="diemasport.bg">
     <title>Спартак Варна - Локомотив Пловдив, 13 кръг, Футбол: efbet Лига 2024/2025, /n/</title>
   </programme>
@@ -9142,9 +9139,6 @@
   <programme start="20241028230000 +0200" stop="20241029000000 +0200" channel="sportklub1.rs">
     <title>No information</title>
   </programme>
-  <programme start="20241029000000 +0200" channel="sportklub1.rs">
-    <title>No information</title>
-  </programme>
   <programme start="20241025000000 +0300" stop="20241025002500 +0300" channel="sportklub2.rs">
     <title>Fast Zone</title>
     <desc>U ovoj emisiji, videćemo šta se dešava na serijama koje ne prenosi Sport Klub. I ovde ima kvalitetnih i ambicioznih vozača koji žele da se probiju u sam vrh.</desc>
@@ -9361,9 +9355,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241028230000 +0200" stop="20241029000000 +0200" channel="sportklub2.rs">
-    <title>No information</title>
-  </programme>
-  <programme start="20241029000000 +0200" channel="sportklub2.rs">
     <title>No information</title>
   </programme>
   <programme start="20241025001000 +0300" stop="20241025010500 +0300" channel="sportklub3.rs">
@@ -9632,9 +9623,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241028230000 +0200" stop="20241029000000 +0200" channel="sportklub3.rs">
-    <title>No information</title>
-  </programme>
-  <programme start="20241029000000 +0200" channel="sportklub3.rs">
     <title>No information</title>
   </programme>
   <programme start="20241025004500 +0300" stop="20241025022000 +0300" channel="sportklub1.hr">
@@ -9910,9 +9898,6 @@
   <programme start="20241028230000 +0200" stop="20241029000000 +0200" channel="sportklub1.hr">
     <title>No information</title>
   </programme>
-  <programme start="20241029000000 +0200" channel="sportklub1.hr">
-    <title>No information</title>
-  </programme>
   <programme start="20241025000000 +0300" stop="20241025002500 +0300" channel="sportklub2.hr">
     <title>Fast Zone</title>
     <desc>U ovoj emisiji, vidjet ćemo što se događa na serijama koje ne prenosi Sport Klub. I ovdje ima kvalitetnih i ambicioznih vozača koji žele probiti u sam vrh.</desc>
@@ -10128,9 +10113,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241028230000 +0200" stop="20241029000000 +0200" channel="sportklub2.hr">
-    <title>No information</title>
-  </programme>
-  <programme start="20241029000000 +0200" channel="sportklub2.hr">
     <title>No information</title>
   </programme>
   <programme start="20241025001000 +0300" stop="20241025010500 +0300" channel="sportklub3.hr">
@@ -10398,9 +10380,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241028230000 +0200" stop="20241029000000 +0200" channel="sportklub3.hr">
-    <title>No information</title>
-  </programme>
-  <programme start="20241029000000 +0200" channel="sportklub3.hr">
     <title>No information</title>
   </programme>
   <programme start="20241025014500 +0300" stop="20241025033000 +0300" channel="sportklub4.hr">
@@ -10688,9 +10667,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241028230000 +0200" stop="20241029000000 +0200" channel="sportklub4.hr">
-    <title>No information</title>
-  </programme>
-  <programme start="20241029000000 +0200" channel="sportklub4.hr">
     <title>No information</title>
   </programme>
   <programme start="20241025000000 +0300" stop="20241025010000 +0300" channel="sportklub5.hr">
@@ -11012,9 +10988,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241028230000 +0200" stop="20241029000000 +0200" channel="sportklub5.hr">
-    <title>No information</title>
-  </programme>
-  <programme start="20241029000000 +0200" channel="sportklub5.hr">
     <title>No information</title>
   </programme>
   <programme start="20241025000000 +0300" stop="20241025010000 +0300" channel="sportklub6.hr">
@@ -11348,9 +11321,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241028230000 +0200" stop="20241029000000 +0200" channel="sportklub6.hr">
-    <title>No information</title>
-  </programme>
-  <programme start="20241029000000 +0200" channel="sportklub6.hr">
     <title>No information</title>
   </programme>
   <programme start="20241025053000 +0300" stop="20241025073000 +0300" channel="ligadecampeones.mplus.es">
@@ -11828,5 +11798,527 @@
   </programme>
   <programme start="20241028230000 +0200" channel="ams.bg">
     <title>Ски алпийски дисциплини: Световна купа в Зьолден, втори манш, гигантски слалом, жени, повторение</title>
+  </programme>
+  <programme start="20241025060000 +0300" stop="20241025070000 +0300" channel="fueltv.com">
+    <title lang="bg">Chasing Dora</title>
+  </programme>
+  <programme start="20241025070000 +0300" stop="20241025073000 +0300" channel="fueltv.com">
+    <title lang="bg">Firsthand</title>
+  </programme>
+  <programme start="20241025073000 +0300" stop="20241025080000 +0300" channel="fueltv.com">
+    <title lang="bg">M80</title>
+  </programme>
+  <programme start="20241025080000 +0300" stop="20241025083000 +0300" channel="fueltv.com">
+    <title lang="bg">The Moto: Inside The Outdoors</title>
+  </programme>
+  <programme start="20241025083000 +0300" stop="20241025085000 +0300" channel="fueltv.com">
+    <title lang="bg">Camp Woodward 8</title>
+  </programme>
+  <programme start="20241025085000 +0300" stop="20241025093000 +0300" channel="fueltv.com">
+    <title lang="bg">Camp Woodward 8</title>
+  </programme>
+  <programme start="20241025093000 +0300" stop="20241025094500 +0300" channel="fueltv.com">
+    <title lang="bg">Snowbound 2</title>
+  </programme>
+  <programme start="20241025094500 +0300" stop="20241025100000 +0300" channel="fueltv.com">
+    <title lang="bg">Snowbound 2</title>
+  </programme>
+  <programme start="20241025100000 +0300" stop="20241025104000 +0300" channel="fueltv.com">
+    <title lang="bg">Fresh Lines</title>
+  </programme>
+  <programme start="20241025104000 +0300" stop="20241025110000 +0300" channel="fueltv.com">
+    <title lang="bg">2024 Duels</title>
+  </programme>
+  <programme start="20241025110000 +0300" stop="20241025120000 +0300" channel="fueltv.com">
+    <title lang="bg">Couscous Swell - A Moroccan Surf Story</title>
+  </programme>
+  <programme start="20241025120000 +0300" stop="20241025130000 +0300" channel="fueltv.com">
+    <title lang="bg">Harvey Spannos</title>
+  </programme>
+  <programme start="20241025130000 +0300" stop="20241025140000 +0300" channel="fueltv.com">
+    <title lang="bg">The Making of "Ultimate Wave Tahiti" 3D</title>
+  </programme>
+  <programme start="20241025140000 +0300" stop="20241025150000 +0300" channel="fueltv.com">
+    <title lang="bg">Highlights World Supercross Championship 2023</title>
+  </programme>
+  <programme start="20241025150000 +0300" stop="20241025151500 +0300" channel="fueltv.com">
+    <title lang="bg">Custom 8</title>
+  </programme>
+  <programme start="20241025151500 +0300" stop="20241025153000 +0300" channel="fueltv.com">
+    <title lang="bg">Imperfect Waves</title>
+  </programme>
+  <programme start="20241025153000 +0300" stop="20241025160000 +0300" channel="fueltv.com">
+    <title lang="bg">Behind The Gate 2023</title>
+  </programme>
+  <programme start="20241025160000 +0300" stop="20241025170000 +0300" channel="fueltv.com">
+    <title lang="bg">Chasing Dora</title>
+  </programme>
+  <programme start="20241025170000 +0300" stop="20241025173000 +0300" channel="fueltv.com">
+    <title lang="bg">Find Refuge in the Sea</title>
+  </programme>
+  <programme start="20241025173000 +0300" stop="20241025180000 +0300" channel="fueltv.com">
+    <title lang="bg">Icons Of Aloha</title>
+  </programme>
+  <programme start="20241025180000 +0300" stop="20241025181500 +0300" channel="fueltv.com">
+    <title lang="bg">Snowchef USA</title>
+  </programme>
+  <programme start="20241025181500 +0300" stop="20241025183000 +0300" channel="fueltv.com">
+    <title lang="bg">Snowchef USA</title>
+  </programme>
+  <programme start="20241025183000 +0300" stop="20241025190000 +0300" channel="fueltv.com">
+    <title lang="bg">SLAM!</title>
+  </programme>
+  <programme start="20241025190000 +0300" stop="20241025193000 +0300" channel="fueltv.com">
+    <title lang="bg">NEXT GEN Skateboarding</title>
+  </programme>
+  <programme start="20241025193000 +0300" stop="20241025200000 +0300" channel="fueltv.com">
+    <title lang="bg">NEXT GEN Skateboarding</title>
+  </programme>
+  <programme start="20241025200000 +0300" stop="20241025210000 +0300" channel="fueltv.com">
+    <title lang="bg">Highlights World Supercross Championship 2023</title>
+  </programme>
+  <programme start="20241025210000 +0300" stop="20241025220000 +0300" channel="fueltv.com">
+    <title lang="bg">Highlights World Supercross Championship 2023</title>
+  </programme>
+  <programme start="20241025220000 +0300" stop="20241025221500 +0300" channel="fueltv.com">
+    <title lang="bg">Custom 8</title>
+  </programme>
+  <programme start="20241025221500 +0300" stop="20241025223000 +0300" channel="fueltv.com">
+    <title lang="bg">Imperfect Waves</title>
+  </programme>
+  <programme start="20241025223000 +0300" stop="20241025231000 +0300" channel="fueltv.com">
+    <title lang="bg">CPH Open: Everyone is a Winner</title>
+  </programme>
+  <programme start="20241025231000 +0300" stop="20241025233000 +0300" channel="fueltv.com">
+    <title lang="bg">Arlberg Effekt</title>
+  </programme>
+  <programme start="20241025233000 +0300" stop="20241026000000 +0300" channel="fueltv.com">
+    <title lang="bg">NEXT GEN Skateboarding</title>
+  </programme>
+  <programme start="20241026000000 +0300" stop="20241026004000 +0300" channel="fueltv.com">
+    <title lang="bg">Highlights Freeride World Tour 2023</title>
+  </programme>
+  <programme start="20241026004000 +0300" stop="20241026010000 +0300" channel="fueltv.com">
+    <title lang="bg">2024 Duels</title>
+  </programme>
+  <programme start="20241026010000 +0300" stop="20241026014000 +0300" channel="fueltv.com">
+    <title lang="bg">Vans Get-N Classic, Vol. 2</title>
+  </programme>
+  <programme start="20241026014000 +0300" stop="20241026020000 +0300" channel="fueltv.com">
+    <title lang="bg">VITO</title>
+  </programme>
+  <programme start="20241026020000 +0300" stop="20241026023000 +0300" channel="fueltv.com">
+    <title lang="bg">Behind The Gate 2023</title>
+  </programme>
+  <programme start="20241026023000 +0300" stop="20241026030000 +0300" channel="fueltv.com">
+    <title lang="bg">Behind The Gate 2023</title>
+  </programme>
+  <programme start="20241026030000 +0300" stop="20241026033000 +0300" channel="fueltv.com">
+    <title lang="bg">Standard Snowboard Show</title>
+  </programme>
+  <programme start="20241026033000 +0300" stop="20241026040000 +0300" channel="fueltv.com">
+    <title lang="bg">The Captain and Casey Show</title>
+  </programme>
+  <programme start="20241026040000 +0300" stop="20241026053000 +0300" channel="fueltv.com">
+    <title lang="bg">Built To Shred</title>
+  </programme>
+  <programme start="20241026053000 +0300" stop="20241026060000 +0300" channel="fueltv.com">
+    <title lang="bg">Route 66 Tour</title>
+  </programme>
+  <programme start="20241026060000 +0300" stop="20241026063000 +0300" channel="fueltv.com">
+    <title lang="bg">Fuel Tv presents Mission: Caribbean</title>
+  </programme>
+  <programme start="20241026063000 +0300" stop="20241026070000 +0300" channel="fueltv.com">
+    <title lang="bg">The Gypsea Tour</title>
+  </programme>
+  <programme start="20241026070000 +0300" stop="20241026073000 +0300" channel="fueltv.com">
+    <title lang="bg">Camp Woodward 8</title>
+  </programme>
+  <programme start="20241026073000 +0300" stop="20241026080000 +0300" channel="fueltv.com">
+    <title lang="bg">Firsthand</title>
+  </programme>
+  <programme start="20241026080000 +0300" stop="20241026081000 +0300" channel="fueltv.com">
+    <title lang="bg">Peace Parks Across America</title>
+  </programme>
+  <programme start="20241026081000 +0300" stop="20241026082000 +0300" channel="fueltv.com">
+    <title lang="bg">Peace Parks Across America</title>
+  </programme>
+  <programme start="20241026082000 +0300" stop="20241026083000 +0300" channel="fueltv.com">
+    <title lang="bg">Peace Parks Across America</title>
+  </programme>
+  <programme start="20241026083000 +0300" stop="20241026090000 +0300" channel="fueltv.com">
+    <title lang="bg">The Moto: Inside The Outdoors</title>
+  </programme>
+  <programme start="20241026090000 +0300" stop="20241026093000 +0300" channel="fueltv.com">
+    <title lang="bg">The Moto: Inside The Outdoors</title>
+  </programme>
+  <programme start="20241026093000 +0300" stop="20241026100000 +0300" channel="fueltv.com">
+    <title lang="bg">M80</title>
+  </programme>
+  <programme start="20241026100000 +0300" stop="20241026103000 +0300" channel="fueltv.com">
+    <title lang="bg">Behind The Gate 2023</title>
+  </programme>
+  <programme start="20241026103000 +0300" stop="20241026110000 +0300" channel="fueltv.com">
+    <title lang="bg">Behind The Gate 2023</title>
+  </programme>
+  <programme start="20241026110000 +0300" stop="20241026113000 +0300" channel="fueltv.com">
+    <title lang="bg">Drive Thru New Zealand</title>
+  </programme>
+  <programme start="20241026113000 +0300" stop="20241026120000 +0300" channel="fueltv.com">
+    <title lang="bg">Drive Thru New Zealand</title>
+  </programme>
+  <programme start="20241026120000 +0300" stop="20241026130000 +0300" channel="fueltv.com">
+    <title lang="bg">Highlights World Supercross Championship 2023</title>
+  </programme>
+  <programme start="20241026130000 +0300" stop="20241026131500 +0300" channel="fueltv.com">
+    <title lang="bg">Custom 8</title>
+  </programme>
+  <programme start="20241026131500 +0300" stop="20241026133000 +0300" channel="fueltv.com">
+    <title lang="bg">Imperfect Waves</title>
+  </programme>
+  <programme start="20241026133000 +0300" stop="20241026140000 +0300" channel="fueltv.com">
+    <title lang="bg">Find Refuge in the Sea</title>
+  </programme>
+  <programme start="20241026140000 +0300" stop="20241026145000 +0300" channel="fueltv.com">
+    <title lang="bg">Without a Paddle</title>
+  </programme>
+  <programme start="20241026145000 +0300" stop="20241026160000 +0300" channel="fueltv.com">
+    <title lang="bg">Ya Missed It</title>
+  </programme>
+  <programme start="20241026160000 +0300" stop="20241026170000 +0300" channel="fueltv.com">
+    <title lang="bg">Vans Get-N Classic, Vol. 3</title>
+  </programme>
+  <programme start="20241026170000 +0300" stop="20241026172000 +0300" channel="fueltv.com">
+    <title lang="bg">The Sun Came Out</title>
+  </programme>
+  <programme start="20241026172000 +0300" stop="20241026173000 +0300" channel="fueltv.com">
+    <title lang="bg">Repeat</title>
+  </programme>
+  <programme start="20241026173000 +0300" stop="20241026174500 +0300" channel="fueltv.com">
+    <title lang="bg">Untouched 2022 - The Australian Freeride Story</title>
+  </programme>
+  <programme start="20241026174500 +0300" stop="20241026180000 +0300" channel="fueltv.com">
+    <title lang="bg">Blastoid</title>
+  </programme>
+  <programme start="20241026180000 +0300" stop="20241026182000 +0300" channel="fueltv.com">
+    <title lang="bg">Journey to a New Earth</title>
+  </programme>
+  <programme start="20241026182000 +0300" stop="20241026190000 +0300" channel="fueltv.com">
+    <title lang="bg">Fresh Lines</title>
+  </programme>
+  <programme start="20241026190000 +0300" stop="20241026193000 +0300" channel="fueltv.com">
+    <title lang="bg">Catch Up with Matt Archbold</title>
+  </programme>
+  <programme start="20241026193000 +0300" stop="20241026210000 +0300" channel="fueltv.com">
+    <title lang="bg">Custom 8</title>
+  </programme>
+  <programme start="20241026210000 +0300" stop="20241026211500 +0300" channel="fueltv.com">
+    <title lang="bg">Custom 8</title>
+  </programme>
+  <programme start="20241026211500 +0300" stop="20241026213000 +0300" channel="fueltv.com">
+    <title lang="bg">Imperfect Waves</title>
+  </programme>
+  <programme start="20241026213000 +0300" stop="20241026220000 +0300" channel="fueltv.com">
+    <title lang="bg">Baja Sessions</title>
+  </programme>
+  <programme start="20241026220000 +0300" stop="20241026230000 +0300" channel="fueltv.com">
+    <title lang="bg">The Making of "Ultimate Wave Tahiti" 3D</title>
+  </programme>
+  <programme start="20241026230000 +0300" stop="20241026233000 +0300" channel="fueltv.com">
+    <title lang="bg">Catch Up with Matt Archbold</title>
+  </programme>
+  <programme start="20241026233000 +0300" stop="20241027000000 +0300" channel="fueltv.com">
+    <title lang="bg">Custom 8</title>
+  </programme>
+  <programme start="20241027000000 +0300" stop="20241027010000 +0300" channel="fueltv.com">
+    <title lang="bg">YETI Natural Selection 2024 - Women Day 2</title>
+  </programme>
+  <programme start="20241027010000 +0300" stop="20241027020000 +0300" channel="fueltv.com">
+    <title lang="bg">Icons Of Aloha</title>
+  </programme>
+  <programme start="20241027020000 +0300" stop="20241027030000 +0200" channel="fueltv.com">
+    <title lang="bg">Highlights World Supercross Championship 2023</title>
+  </programme>
+  <programme start="20241027030000 +0200" stop="20241027031500 +0200" channel="fueltv.com">
+    <title lang="bg">Custom 8</title>
+  </programme>
+  <programme start="20241027031500 +0200" stop="20241027033000 +0200" channel="fueltv.com">
+    <title lang="bg">Imperfect Waves</title>
+  </programme>
+  <programme start="20241027033000 +0200" stop="20241027040000 +0200" channel="fueltv.com">
+    <title lang="bg">Thrillbillies</title>
+  </programme>
+  <programme start="20241027040000 +0200" stop="20241027043000 +0200" channel="fueltv.com">
+    <title lang="bg">Standard Snowboard Show</title>
+  </programme>
+  <programme start="20241027043000 +0200" stop="20241027050000 +0200" channel="fueltv.com">
+    <title lang="bg">Firsthand</title>
+  </programme>
+  <programme start="20241027050000 +0200" stop="20241027053000 +0200" channel="fueltv.com">
+    <title lang="bg">Santa Cruz Euro Skate Tour 2</title>
+  </programme>
+  <programme start="20241027053000 +0200" stop="20241027060000 +0200" channel="fueltv.com">
+    <title lang="bg">Route 66 Tour</title>
+  </programme>
+  <programme start="20241027060000 +0200" stop="20241027063000 +0200" channel="fueltv.com">
+    <title lang="bg">Fuel Tv presents Mission: Caribbean</title>
+  </programme>
+  <programme start="20241027063000 +0200" stop="20241027070000 +0200" channel="fueltv.com">
+    <title lang="bg">The Gypsea Tour</title>
+  </programme>
+  <programme start="20241027070000 +0200" stop="20241027073000 +0200" channel="fueltv.com">
+    <title lang="bg">Camp Woodward 8</title>
+  </programme>
+  <programme start="20241027073000 +0200" stop="20241027080000 +0200" channel="fueltv.com">
+    <title lang="bg">Firsthand</title>
+  </programme>
+  <programme start="20241027080000 +0200" stop="20241027081000 +0200" channel="fueltv.com">
+    <title lang="bg">Peace Parks Across America</title>
+  </programme>
+  <programme start="20241027081000 +0200" stop="20241027082000 +0200" channel="fueltv.com">
+    <title lang="bg">Peace Parks Across America</title>
+  </programme>
+  <programme start="20241027082000 +0200" stop="20241027083000 +0200" channel="fueltv.com">
+    <title lang="bg">Peace Parks Across America</title>
+  </programme>
+  <programme start="20241027083000 +0200" stop="20241027090000 +0200" channel="fueltv.com">
+    <title lang="bg">The Moto: Inside The Outdoors</title>
+  </programme>
+  <programme start="20241027090000 +0200" stop="20241027093000 +0200" channel="fueltv.com">
+    <title lang="bg">The Moto: Inside The Outdoors</title>
+  </programme>
+  <programme start="20241027093000 +0200" stop="20241027100000 +0200" channel="fueltv.com">
+    <title lang="bg">M80</title>
+  </programme>
+  <programme start="20241027100000 +0200" stop="20241027103000 +0200" channel="fueltv.com">
+    <title lang="bg">Behind The Gate 2023</title>
+  </programme>
+  <programme start="20241027103000 +0200" stop="20241027110000 +0200" channel="fueltv.com">
+    <title lang="bg">Behind The Gate 2023</title>
+  </programme>
+  <programme start="20241027110000 +0200" stop="20241027113000 +0200" channel="fueltv.com">
+    <title lang="bg">Drive Thru New Zealand</title>
+  </programme>
+  <programme start="20241027113000 +0200" stop="20241027120000 +0200" channel="fueltv.com">
+    <title lang="bg">Drive Thru New Zealand</title>
+  </programme>
+  <programme start="20241027120000 +0200" stop="20241027130000 +0200" channel="fueltv.com">
+    <title lang="bg">Highlights World Supercross Championship 2023</title>
+  </programme>
+  <programme start="20241027130000 +0200" stop="20241027131500 +0200" channel="fueltv.com">
+    <title lang="bg">Custom 8</title>
+  </programme>
+  <programme start="20241027131500 +0200" stop="20241027133000 +0200" channel="fueltv.com">
+    <title lang="bg">Imperfect Waves</title>
+  </programme>
+  <programme start="20241027133000 +0200" stop="20241027140000 +0200" channel="fueltv.com">
+    <title lang="bg">Find Refuge in the Sea</title>
+  </programme>
+  <programme start="20241027140000 +0200" stop="20241027145000 +0200" channel="fueltv.com">
+    <title lang="bg">Without a Paddle</title>
+  </programme>
+  <programme start="20241027145000 +0200" stop="20241027160000 +0200" channel="fueltv.com">
+    <title lang="bg">Ya Missed It</title>
+  </programme>
+  <programme start="20241027160000 +0200" stop="20241027170000 +0200" channel="fueltv.com">
+    <title lang="bg">Vans Get-N Classic, Vol. 3</title>
+  </programme>
+  <programme start="20241027170000 +0200" stop="20241027172000 +0200" channel="fueltv.com">
+    <title lang="bg">The Sun Came Out</title>
+  </programme>
+  <programme start="20241027172000 +0200" stop="20241027173000 +0200" channel="fueltv.com">
+    <title lang="bg">Repeat</title>
+  </programme>
+  <programme start="20241027173000 +0200" stop="20241027174500 +0200" channel="fueltv.com">
+    <title lang="bg">Untouched 2022 - The Australian Freeride Story</title>
+  </programme>
+  <programme start="20241027174500 +0200" stop="20241027180000 +0200" channel="fueltv.com">
+    <title lang="bg">Blastoid</title>
+  </programme>
+  <programme start="20241027180000 +0200" stop="20241027182000 +0200" channel="fueltv.com">
+    <title lang="bg">Journey to a New Earth</title>
+  </programme>
+  <programme start="20241027182000 +0200" stop="20241027190000 +0200" channel="fueltv.com">
+    <title lang="bg">Fresh Lines</title>
+  </programme>
+  <programme start="20241027190000 +0200" stop="20241027193000 +0200" channel="fueltv.com">
+    <title lang="bg">Catch Up with Matt Archbold</title>
+  </programme>
+  <programme start="20241027193000 +0200" stop="20241027210000 +0200" channel="fueltv.com">
+    <title lang="bg">Custom 8</title>
+  </programme>
+  <programme start="20241027210000 +0200" stop="20241027211500 +0200" channel="fueltv.com">
+    <title lang="bg">Custom 8</title>
+  </programme>
+  <programme start="20241027211500 +0200" stop="20241027213000 +0200" channel="fueltv.com">
+    <title lang="bg">Imperfect Waves</title>
+  </programme>
+  <programme start="20241027213000 +0200" stop="20241027220000 +0200" channel="fueltv.com">
+    <title lang="bg">Baja Sessions</title>
+  </programme>
+  <programme start="20241027220000 +0200" stop="20241027230000 +0200" channel="fueltv.com">
+    <title lang="bg">The Making of "Ultimate Wave Tahiti" 3D</title>
+  </programme>
+  <programme start="20241027230000 +0200" stop="20241027233000 +0200" channel="fueltv.com">
+    <title lang="bg">Catch Up with Matt Archbold</title>
+  </programme>
+  <programme start="20241027233000 +0200" stop="20241028000000 +0200" channel="fueltv.com">
+    <title lang="bg">Custom 8</title>
+  </programme>
+  <programme start="20241028000000 +0200" stop="20241028010000 +0200" channel="fueltv.com">
+    <title lang="bg">YETI Natural Selection 2024 - Women Day 2</title>
+  </programme>
+  <programme start="20241028010000 +0200" stop="20241028020000 +0200" channel="fueltv.com">
+    <title lang="bg">Icons Of Aloha</title>
+  </programme>
+  <programme start="20241028020000 +0200" stop="20241028030000 +0200" channel="fueltv.com">
+    <title lang="bg">Highlights World Supercross Championship 2023</title>
+  </programme>
+  <programme start="20241028030000 +0200" stop="20241028031500 +0200" channel="fueltv.com">
+    <title lang="bg">Custom 8</title>
+  </programme>
+  <programme start="20241028031500 +0200" stop="20241028033000 +0200" channel="fueltv.com">
+    <title lang="bg">Imperfect Waves</title>
+  </programme>
+  <programme start="20241028033000 +0200" stop="20241028040000 +0200" channel="fueltv.com">
+    <title lang="bg">Thrillbillies</title>
+  </programme>
+  <programme start="20241028040000 +0200" stop="20241027103500 +0200" channel="fueltv.com">
+    <title lang="bg">Standard Snowboard Show</title>
+  </programme>
+  <programme start="20241027103500 +0200" stop="20241027114000 +0200" channel="fueltv.com">
+    <title lang="bg">2024 Duels</title>
+  </programme>
+  <programme start="20241027114000 +0200" stop="20241027150000 +0200" channel="fueltv.com">
+    <title lang="bg">2024 Duels</title>
+  </programme>
+  <programme start="20241027150000 +0200" stop="20241027175000 +0200" channel="fueltv.com">
+    <title lang="bg">Behind The Gate 2023</title>
+  </programme>
+  <programme start="20241027175000 +0200" stop="20241027191500 +0200" channel="fueltv.com">
+    <title lang="bg">B-Side: Yago Dora</title>
+  </programme>
+  <programme start="20241027191500 +0200" stop="20241027213500 +0200" channel="fueltv.com">
+    <title lang="bg">Imperfect Waves</title>
+  </programme>
+  <programme start="20241027213500 +0200" stop="20241027223000 +0200" channel="fueltv.com">
+    <title lang="bg">Impact Series</title>
+  </programme>
+  <programme start="20241027223000 +0200" stop="20241027225000 +0200" channel="fueltv.com">
+    <title lang="bg">Cobblestone Riders - The Documentary</title>
+  </programme>
+  <programme start="20241027225000 +0200" stop="20241027231000 +0200" channel="fueltv.com">
+    <title lang="bg">Shaping an Island: The Story of Freeride Madeira</title>
+  </programme>
+  <programme start="20241027231000 +0200" stop="20241028003000 +0200" channel="fueltv.com">
+    <title lang="bg">Catch Up with James Woods</title>
+  </programme>
+  <programme start="20241028003000 +0200" stop="20241028013500 +0200" channel="fueltv.com">
+    <title lang="bg">Behind The Gate 2023</title>
+  </programme>
+  <programme start="20241028013500 +0200" stop="20241028043000 +0200" channel="fueltv.com">
+    <title lang="bg">Impact Series</title>
+  </programme>
+  <programme start="20241028043000 +0200" stop="20241028050000 +0200" channel="fueltv.com">
+    <title lang="bg">Standard Snowboard Show</title>
+  </programme>
+  <programme start="20241028050000 +0200" stop="20241028053000 +0200" channel="fueltv.com">
+    <title lang="bg">The Gypsy Tour</title>
+  </programme>
+  <programme start="20241028053000 +0200" stop="20241028060000 +0200" channel="fueltv.com">
+    <title lang="bg">Surfing for Peace</title>
+  </programme>
+  <programme start="20241028060000 +0200" stop="20241028063000 +0200" channel="fueltv.com">
+    <title lang="bg">Moments</title>
+  </programme>
+  <programme start="20241028063000 +0200" stop="20241028070000 +0200" channel="fueltv.com">
+    <title lang="bg">Icons Of Aloha</title>
+  </programme>
+  <programme start="20241028070000 +0200" stop="20241028073000 +0200" channel="fueltv.com">
+    <title lang="bg">The 808</title>
+  </programme>
+  <programme start="20241028073000 +0200" stop="20241028080000 +0200" channel="fueltv.com">
+    <title lang="bg">Camp Woodward 8</title>
+  </programme>
+  <programme start="20241028080000 +0200" stop="20241028083000 +0200" channel="fueltv.com">
+    <title lang="bg">Camp Woodward 8</title>
+  </programme>
+  <programme start="20241028083000 +0200" stop="20241028090000 +0200" channel="fueltv.com">
+    <title lang="bg">Firsthand</title>
+  </programme>
+  <programme start="20241028090000 +0200" stop="20241028093000 +0200" channel="fueltv.com">
+    <title lang="bg">The Moto: Inside The Outdoors</title>
+  </programme>
+  <programme start="20241028093000 +0200" stop="20241028100000 +0200" channel="fueltv.com">
+    <title lang="bg">The Moto: Inside The Outdoors</title>
+  </programme>
+  <programme start="20241028100000 +0200" stop="20241028103500 +0200" channel="fueltv.com">
+    <title lang="bg">Fresh Lines</title>
+  </programme>
+  <programme start="20241028103500 +0200" stop="20241028110000 +0200" channel="fueltv.com">
+    <title lang="bg">2024 Duels</title>
+  </programme>
+  <programme start="20241028110000 +0200" stop="20241028114000 +0200" channel="fueltv.com">
+    <title lang="bg">CPH Open: Everyone is a Winner</title>
+  </programme>
+  <programme start="20241028114000 +0200" stop="20241028120000 +0200" channel="fueltv.com">
+    <title lang="bg">2024 Duels</title>
+  </programme>
+  <programme start="20241028120000 +0200" stop="20241028130000 +0200" channel="fueltv.com">
+    <title lang="bg">Freedom of Space</title>
+  </programme>
+  <programme start="20241028130000 +0200" stop="20241028140000 +0200" channel="fueltv.com">
+    <title lang="bg">Issue #7 by Dabble Video Magazine</title>
+  </programme>
+  <programme start="20241028140000 +0200" stop="20241028150000 +0200" channel="fueltv.com">
+    <title lang="bg">Chasing Dora</title>
+  </programme>
+  <programme start="20241028150000 +0200" stop="20241028160000 +0200" channel="fueltv.com">
+    <title lang="bg">Behind The Gate 2023</title>
+  </programme>
+  <programme start="20241028160000 +0200" stop="20241028173000 +0200" channel="fueltv.com">
+    <title lang="bg">Skate Na Veia</title>
+  </programme>
+  <programme start="20241028173000 +0200" stop="20241028175000 +0200" channel="fueltv.com">
+    <title lang="bg">VITO</title>
+  </programme>
+  <programme start="20241028175000 +0200" stop="20241028180000 +0200" channel="fueltv.com">
+    <title lang="bg">B-Side: Yago Dora</title>
+  </programme>
+  <programme start="20241028180000 +0200" stop="20241028190000 +0200" channel="fueltv.com">
+    <title lang="bg">Highlights World Supercross Championship 2023</title>
+  </programme>
+  <programme start="20241028190000 +0200" stop="20241028191500 +0200" channel="fueltv.com">
+    <title lang="bg">Custom 8</title>
+  </programme>
+  <programme start="20241028191500 +0200" stop="20241028193000 +0200" channel="fueltv.com">
+    <title lang="bg">Imperfect Waves</title>
+  </programme>
+  <programme start="20241028193000 +0200" stop="20241028210000 +0200" channel="fueltv.com">
+    <title lang="bg">Skate Na Veia</title>
+  </programme>
+  <programme start="20241028210000 +0200" stop="20241028213500 +0200" channel="fueltv.com">
+    <title lang="bg">Issue #14 by Dabble Video Magazine</title>
+  </programme>
+  <programme start="20241028213500 +0200" stop="20241028220000 +0200" channel="fueltv.com">
+    <title lang="bg">Impact Series</title>
+  </programme>
+  <programme start="20241028220000 +0200" stop="20241028223000 +0200" channel="fueltv.com">
+    <title lang="bg">Behind The Gate 2023</title>
+  </programme>
+  <programme start="20241028223000 +0200" stop="20241028225000 +0200" channel="fueltv.com">
+    <title lang="bg">Cobblestone Riders - The Documentary</title>
+  </programme>
+  <programme start="20241028225000 +0200" stop="20241028230000 +0200" channel="fueltv.com">
+    <title lang="bg">Shaping an Island: The Story of Freeride Madeira</title>
+  </programme>
+  <programme start="20241028230000 +0200" stop="20241028231000 +0200" channel="fueltv.com">
+    <title lang="bg">Catch Up with Cory Lopez</title>
+  </programme>
+  <programme start="20241028231000 +0200" stop="20241028233000 +0200" channel="fueltv.com">
+    <title lang="bg">Catch Up with James Woods</title>
+  </programme>
+  <programme start="20241028233000 +0200" channel="fueltv.com">
+    <title lang="bg">Fresh Lines</title>
   </programme>
 </tv>

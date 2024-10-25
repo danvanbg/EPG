@@ -57,7 +57,7 @@ channel-parameters:
     channelId: 102
   #'SUPERSTAR TV':
   #  channelId: 103
-  'TV Pink':
+  pink.rs:
     channelId: 104
   prva.rs:
     channelId: 105
@@ -127,7 +127,7 @@ channel-parameters:
     channelId: 138
   'TV Mreza Most':
     channelId: 139
-  'RTS 3':
+  rts.rs:
     channelId: 140
   'TV Pancevo':
     channelId: 142
@@ -309,7 +309,7 @@ channel-parameters:
     channelId: 277
   'Pink Show':
     channelId: 278
-  'Pink Zabava':
+  pinkzabava.rs:
     channelId: 279
   'Pink Reality':
     channelId: 280
@@ -477,13 +477,13 @@ channel-parameters:
     channelId: 457
   'TV Duga plus':
     channelId: 458
-  'Hayat Folk':
+  hayatfolk.rs:
     channelId: 459
-  'Hayat Music':
+  hayatmusic.rs:
     channelId: 460
-  'Pink Folk':
+  pinkfolk.rs:
     channelId: 461
-  'Pink Folk 2':
+  pinkfolk2.rs:
     channelId: 462
   'BN Music':
     channelId: 463
@@ -883,7 +883,7 @@ channel-parameters:
     channelId: 726
   'BBC Earth HD':
     channelId: 727
-  'Happy TV HD':
+  happy.rs:
     channelId: 728
   'Tanjug TV HD':
     channelId: 730

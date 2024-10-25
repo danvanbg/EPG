@@ -184,7 +184,7 @@ channel-parameters:
     channelId: 11187
   agrotv.bg:
     channelId: 11192
-  'Fuel TV':
+  fueltv.com:
     channelId: 11196
   investigationdiscoveryextra.bg:
     channelId: 11197
@@ -204,7 +204,7 @@ channel-parameters:
     channelId: 11224
   epicdrama.bg:
     channelId: 11228
-  edgesport.bg:
+  edgesport.com:
     channelId: 11233
   bnt3.bg:
     channelId: 11234
@@ -268,7 +268,7 @@ channel-parameters:
     channelId: 11193
   fightbox.filmbox.com:
     channelId: 11194
-  hgtv.bg:
+  hgtv.com:
     channelId: 11286
   UATV:
     channelId: 11288
