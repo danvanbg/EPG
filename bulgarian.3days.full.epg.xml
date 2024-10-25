@@ -77,11 +77,6 @@
     <display-name lang="bg">Агро ТВ</display-name>
     <display-name lang="en">Agro TV</display-name>
   </channel>
-  <channel id="bstv.bg">
-    <display-name lang="bg">БСТВ</display-name>
-    <display-name lang="en">BSTV</display-name>
-    <display-name lang="en">BSTV HD</display-name>
-  </channel>
   <channel id="tv1.bg">
     <display-name lang="bg">ТВ1</display-name>
     <display-name lang="en">TV1</display-name>

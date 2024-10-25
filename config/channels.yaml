@@ -281,7 +281,7 @@
   - dnes.bg
   
 - id: bstv.bg
-  enabled: true
+  enabled: false
   names:
   - name: БСТВ
     lang: bg
@@ -1643,7 +1643,7 @@
 
 - id: happy.rs
   enabled: true
-  name: Happy RS
+  name: Happy RS
   sources:
   - mts.rs
 

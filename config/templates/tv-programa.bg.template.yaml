@@ -35,7 +35,7 @@ program-details:
   elements:
     - name: desc
       locator: .filmInfo
-      debug: true
+      debug: false
       operations:
       - name: beautify
         hook: after
