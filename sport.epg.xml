@@ -625,9 +625,6 @@
   <programme start="20241029234000 +0200" channel="diemasport.bg">
     <title>Студио "Карабао Къп", директно</title>
   </programme>
-  <programme start="20241026020000 +0300" stop="20241026060000 +0300" channel="diemasport2.bg">
-    <title>НБА 360, Баскетбол: НБА 2024/2025, директно</title>
-  </programme>
   <programme start="20241026060000 +0300" stop="20241026073000 +0300" channel="diemasport2.bg">
     <title>Програмна пауза${_desc}</title>
   </programme>
@@ -9117,10 +9114,6 @@
     <title>Košarka - Euroleague: Virtus - Bayern</title>
     <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
   </programme>
-  <programme start="20241030000000 +0200" channel="sportklub1.rs">
-    <title>Soccer Bet SK VESTI</title>
-    <desc>Sve najvažnije sportske vesti, zanimljivi prilozi i najave predstojećih događaja. Svakodnevni, polučasovni pregled događaja iz sveta sporta samo uz SK Vesti.</desc>
-  </programme>
   <programme start="20241026042000 +0300" stop="20241026051000 +0300" channel="sportklub2.rs">
     <title>Magazin saudijske lige</title>
     <desc>Donosimo pregled mečeva saudijske fudbalske lige, najbolji golovi, potezi i analize.</desc>
@@ -9366,9 +9359,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241029230000 +0200" stop="20241030000000 +0200" channel="sportklub2.rs">
-    <title>No information</title>
-  </programme>
-  <programme start="20241030000000 +0200" channel="sportklub2.rs">
     <title>No information</title>
   </programme>
   <programme start="20241026044000 +0300" stop="20241026052000 +0300" channel="sportklub3.rs">
@@ -9622,9 +9612,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241029230000 +0200" stop="20241030000000 +0200" channel="sportklub3.rs">
-    <title>No information</title>
-  </programme>
-  <programme start="20241030000000 +0200" channel="sportklub3.rs">
     <title>No information</title>
   </programme>
   <programme start="20241026000000 +0300" stop="20241026054000 +0300" channel="sportklub1.hr">
@@ -9901,9 +9888,6 @@
   <programme start="20241029230000 +0200" stop="20241030000000 +0200" channel="sportklub1.hr">
     <title>No information</title>
   </programme>
-  <programme start="20241030000000 +0200" channel="sportklub1.hr">
-    <title>No information</title>
-  </programme>
   <programme start="20241026042000 +0300" stop="20241026051000 +0300" channel="sportklub2.hr">
     <title>Magazin saudijske lige</title>
     <desc>Donosimo pregled mečeva saudijske nogometne lige, najbolji golovi, potezi i analize.</desc>
@@ -10148,9 +10132,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241029230000 +0200" stop="20241030000000 +0200" channel="sportklub2.hr">
-    <title>No information</title>
-  </programme>
-  <programme start="20241030000000 +0200" channel="sportklub2.hr">
     <title>No information</title>
   </programme>
   <programme start="20241026044000 +0300" stop="20241026052000 +0300" channel="sportklub3.hr">
@@ -10403,9 +10384,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241029230000 +0200" stop="20241030000000 +0200" channel="sportklub3.hr">
-    <title>No information</title>
-  </programme>
-  <programme start="20241030000000 +0200" channel="sportklub3.hr">
     <title>No information</title>
   </programme>
   <programme start="20241026032000 +0300" stop="20241026034500 +0300" channel="sportklub4.hr">
@@ -10680,9 +10658,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241029230000 +0200" stop="20241030000000 +0200" channel="sportklub4.hr">
-    <title>No information</title>
-  </programme>
-  <programme start="20241030000000 +0200" channel="sportklub4.hr">
     <title>No information</title>
   </programme>
   <programme start="20241026000000 +0300" stop="20241026030000 +0300" channel="sportklub5.hr">
@@ -11019,10 +10994,6 @@
   </programme>
   <programme start="20241029230000 +0200" stop="20241030000000 +0200" channel="sportklub5.hr">
     <title>Sport Klub 5 Promo 3</title>
-    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
-  </programme>
-  <programme start="20241030000000 +0200" channel="sportklub5.hr">
-    <title>Sport Klub 5 Promo 4</title>
     <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
   </programme>
   <programme start="20241026000000 +0300" stop="20241026030000 +0300" channel="sportklub6.hr">
@@ -11363,10 +11334,6 @@
   </programme>
   <programme start="20241029230000 +0200" stop="20241030000000 +0200" channel="sportklub6.hr">
     <title>Sport Klub 6 Promo 3</title>
-    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
-  </programme>
-  <programme start="20241030000000 +0200" channel="sportklub6.hr">
-    <title>Sport Klub 6 Promo 4</title>
     <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
   </programme>
   <programme start="20241026053000 +0300" stop="20241026073000 +0300" channel="ligadecampeones.mplus.es">

@@ -3518,8 +3518,131 @@
     <title>Здравни рубрики</title>
     <desc>Рубрики, в които показваме специалисти, които споделят своя опит, клиники, естетични и козметични процедури, както и разработването и внедряването на иновативни технологии в медицината.</desc>
   </programme>
-  <programme start="20241027233000 +0200" channel="codehealth.bg">
+  <programme start="20241027233000 +0200" stop="20241028093000 +0200" channel="codehealth.bg">
     <title>Сексология с д-р Габи Петрова (повторение)</title>
+  </programme>
+  <programme start="20241028093000 +0200" stop="20241028102000 +0200" channel="codehealth.bg">
+    <title>Парамедици - 10 епизод 1 сезон</title>
+  </programme>
+  <programme start="20241028102000 +0200" stop="20241028111000 +0200" channel="codehealth.bg">
+    <title>Спешна Помощ - 10 епизод 3 сезон</title>
+  </programme>
+  <programme start="20241028111000 +0200" stop="20241028114500 +0200" channel="codehealth.bg">
+    <title>От Браздата до софрата - 2 епизод</title>
+  </programme>
+  <programme start="20241028114500 +0200" stop="20241028123000 +0200" channel="codehealth.bg">
+    <title>Здравни рубрики</title>
+  </programme>
+  <programme start="20241028123000 +0200" stop="20241028133000 +0200" channel="codehealth.bg">
+    <title>Healthy Weekend със Славена Вътова- 16 епизод (повторение)</title>
+  </programme>
+  <programme start="20241028133000 +0200" stop="20241028140000 +0200" channel="codehealth.bg">
+    <title>Здравни рубрики</title>
+  </programme>
+  <programme start="20241028140000 +0200" stop="20241028145000 +0200" channel="codehealth.bg">
+    <title>Дискусия за здраве с Таня Скринска - 1 епизод, 3 сезон</title>
+  </programme>
+  <programme start="20241028145000 +0200" stop="20241028155000 +0200" channel="codehealth.bg">
+    <title>Здравни рубрики</title>
+  </programme>
+  <programme start="20241028155000 +0200" stop="20241028164500 +0200" channel="codehealth.bg">
+    <title>Уикенд Маратон: Парамедици -6 епизод 1 сезон</title>
+  </programme>
+  <programme start="20241028164500 +0200" stop="20241028173000 +0200" channel="codehealth.bg">
+    <title>Уикенд Маратон: Парамедици - 7 епизод 1 сезон</title>
+  </programme>
+  <programme start="20241028173000 +0200" stop="20241028182000 +0200" channel="codehealth.bg">
+    <title>Уикенд Маратон: Спешна Помощ - 6 епизод, 3 сезон</title>
+  </programme>
+  <programme start="20241028182000 +0200" stop="20241028191000 +0200" channel="codehealth.bg">
+    <title>Уикенд Маратон: Спешна Помощ - 7 епизод, 3 сезон</title>
+  </programme>
+  <programme start="20241028191000 +0200" stop="20241028200000 +0200" channel="codehealth.bg">
+    <title>Направено в Рая - 1 епизод</title>
+  </programme>
+  <programme start="20241028200000 +0200" stop="20241028205000 +0200" channel="codehealth.bg">
+    <title>Healthy Lifestyle с Джуджи (повторение)</title>
+  </programme>
+  <programme start="20241028205000 +0200" stop="20241028221500 +0200" channel="codehealth.bg">
+    <title>Здравни рубрики</title>
+  </programme>
+  <programme start="20241028221500 +0200" stop="20241028225000 +0200" channel="codehealth.bg">
+    <title>Попитай Лекаря - 7 епизод, 1 сезон</title>
+  </programme>
+  <programme start="20241028225000 +0200" stop="20241028232500 +0200" channel="codehealth.bg">
+    <title>Попитай Лекаря - 8 епизод, 1 сезон</title>
+  </programme>
+  <programme start="20241028232500 +0200" stop="20241029000000 +0200" channel="codehealth.bg">
+    <title>Попитай Лекаря - 9 епизод, 1 сезон</title>
+  </programme>
+  <programme start="20241029000000 +0200" stop="20241029005000 +0200" channel="codehealth.bg">
+    <title>Нощен Маратон: Парамедици- 8 епизод, 1 сезон</title>
+  </programme>
+  <programme start="20241029005000 +0200" stop="20241029014000 +0200" channel="codehealth.bg">
+    <title>Нощен Маратон: Парамедици - 9 епизод, 1 сезон</title>
+  </programme>
+  <programme start="20241029014000 +0200" stop="20241029023000 +0200" channel="codehealth.bg">
+    <title>Нощен Маратон: Спешна Помощ - 8 епиозд, 3 сезон</title>
+  </programme>
+  <programme start="20241029023000 +0200" stop="20241029030000 +0200" channel="codehealth.bg">
+    <title>Нощен Маратон: Спешна Помощ - 9 епизод, 3 сезон</title>
+  </programme>
+  <programme start="20241029030000 +0200" stop="20241029093000 +0200" channel="codehealth.bg">
+    <title>Здравни рубрики</title>
+  </programme>
+  <programme start="20241029093000 +0200" stop="20241029102000 +0200" channel="codehealth.bg">
+    <title>Парамедици - 10 епизод 1 сезон</title>
+  </programme>
+  <programme start="20241029102000 +0200" stop="20241029111000 +0200" channel="codehealth.bg">
+    <title>Спешна Помощ - 10 епизод 3 сезон</title>
+  </programme>
+  <programme start="20241029111000 +0200" stop="20241029114500 +0200" channel="codehealth.bg">
+    <title>От Браздата до софрата - 2 епизод</title>
+  </programme>
+  <programme start="20241029114500 +0200" stop="20241029123000 +0200" channel="codehealth.bg">
+    <title>Здравни рубрики</title>
+  </programme>
+  <programme start="20241029123000 +0200" stop="20241029133000 +0200" channel="codehealth.bg">
+    <title>Healthy Weekend със Славена Вътова- 16 епизод (повторение)</title>
+  </programme>
+  <programme start="20241029133000 +0200" stop="20241029140000 +0200" channel="codehealth.bg">
+    <title>Здравни рубрики</title>
+  </programme>
+  <programme start="20241029140000 +0200" stop="20241029145000 +0200" channel="codehealth.bg">
+    <title>Дискусия за здраве с Таня Скринска - 1 епизод, 3 сезон</title>
+  </programme>
+  <programme start="20241029145000 +0200" stop="20241029155000 +0200" channel="codehealth.bg">
+    <title>Здравни рубрики</title>
+  </programme>
+  <programme start="20241029155000 +0200" stop="20241029164500 +0200" channel="codehealth.bg">
+    <title>Уикенд Маратон: Парамедици -6 епизод 1 сезон</title>
+  </programme>
+  <programme start="20241029164500 +0200" stop="20241029173000 +0200" channel="codehealth.bg">
+    <title>Уикенд Маратон: Парамедици - 7 епизод 1 сезон</title>
+  </programme>
+  <programme start="20241029173000 +0200" stop="20241029182000 +0200" channel="codehealth.bg">
+    <title>Уикенд Маратон: Спешна Помощ - 6 епизод, 3 сезон</title>
+  </programme>
+  <programme start="20241029182000 +0200" stop="20241029191000 +0200" channel="codehealth.bg">
+    <title>Уикенд Маратон: Спешна Помощ - 7 епизод, 3 сезон</title>
+  </programme>
+  <programme start="20241029191000 +0200" stop="20241029200000 +0200" channel="codehealth.bg">
+    <title>Направено в Рая - 1 епизод</title>
+  </programme>
+  <programme start="20241029200000 +0200" stop="20241029205000 +0200" channel="codehealth.bg">
+    <title>Healthy Lifestyle с Джуджи (повторение)</title>
+  </programme>
+  <programme start="20241029205000 +0200" stop="20241029221500 +0200" channel="codehealth.bg">
+    <title>Здравни рубрики</title>
+  </programme>
+  <programme start="20241029221500 +0200" stop="20241029225000 +0200" channel="codehealth.bg">
+    <title>Попитай Лекаря - 7 епизод, 1 сезон</title>
+  </programme>
+  <programme start="20241029225000 +0200" stop="20241029232500 +0200" channel="codehealth.bg">
+    <title>Попитай Лекаря - 8 епизод, 1 сезон</title>
+  </programme>
+  <programme start="20241029232500 +0200" channel="codehealth.bg">
+    <title>Попитай Лекаря - 9 епизод, 1 сезон</title>
   </programme>
   <programme start="20241026063000 +0300" stop="20241026073000 +0300" channel="skat.bg">
     <title>Документална поредица на Дискавъри (повторение)</title>
