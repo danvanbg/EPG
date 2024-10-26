@@ -171,9 +171,9 @@ channel-parameters:
     channelId: atv2
   oe24.TV:
     channelId: oe24tv
-  'SRF 1':
+  srf1.de:
     channelId: sf1
-  'SRF 2':
+  srf2.de:
     channelId: sf2
   'STAR TV':
     channelId: sttv

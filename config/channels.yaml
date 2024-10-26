@@ -1655,6 +1655,7 @@
   enabled: true
   names:
   - name: ARD
+  - name: ARD One HD
     lang: de
   - name: ARD / Das Erste
     lang: de
@@ -1697,6 +1698,7 @@
   enabled: true
   names:
   - name: Pro 7 Maxx
+  - name: ProSieben Maxx
     lang: de
   sources:
   - tvtoday.de
@@ -1714,7 +1716,7 @@
 - id: sat1.de
   enabled: true
   names:
-  - name: SAT.1
+  - name: Sat.1
     lang: de
   sources:
   - tvtoday.de
@@ -1722,7 +1724,7 @@
 - id: sat1gold.de
   enabled: true
   names:
-  - name: SAT.1 Gold
+  - name: Sat.1 Gold
     lang: de
   sources:
   - tvtoday.de
@@ -1801,6 +1803,34 @@
   enabled: true
   names:
   - name: N-TV
+  - name: N-TV Austria
+    lang: de
+  sources:
+  - tvtoday.de
+  
+- id: srf1.de
+  enabled: true
+  names:
+  - name: SR1
+  - name: SR Fernsehen
+  - name: SR Fernsehen HD
+    lang: de
+  sources:
+  - tvtoday.de
+  
+- id: welt.de
+  enabled: true
+  names:
+  - name: Welt HD
+  - name: Welt
+    lang: de
+  sources:
+  - tvtoday.de
+  
+- id: n24doku.de
+  enabled: true
+  names:
+  - name: N24 Doku
     lang: de
   sources:
   - tvtoday.de
@@ -1808,7 +1838,8 @@
 - id: tagesschau.de
   enabled: true
   names:
-  - name: Tagesschau 24
+  - name: Tagesschau 24 
+  - name: Tagesschau 24 HD
     lang: de
   sources:
   - tvtoday.de
@@ -1817,6 +1848,8 @@
   enabled: true
   names:
   - name: Tele 5
+  - name: Tele 5 DE
+  - name: Tele 5 DE HD
     lang: de
   sources:
   - tvtoday.de
@@ -1892,7 +1925,8 @@
 - id: servus.de
   enabled: true
   names:
-  - name: Servus
+  - name: Servus HD
+  - name: Servus HD Austria
     lang: de
   sources:
   - tvtoday.de

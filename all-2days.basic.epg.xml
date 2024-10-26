@@ -554,7 +554,8 @@
     <display-name>Happy RS</display-name>
   </channel>
   <channel id="ard.de">
-    <display-name lang="de">ARD</display-name>
+    <display-name>ARD</display-name>
+    <display-name lang="de">ARD One HD</display-name>
     <display-name lang="de">ARD / Das Erste</display-name>
     <display-name lang="de">ARD / Das Erste HD</display-name>
   </channel>
@@ -571,17 +572,18 @@
     <display-name lang="de">ZDF Neo HD</display-name>
   </channel>
   <channel id="pro7max.de">
-    <display-name lang="de">Pro 7 Maxx</display-name>
+    <display-name>Pro 7 Maxx</display-name>
+    <display-name lang="de">ProSieben Maxx</display-name>
   </channel>
   <channel id="prosieben.de">
     <display-name lang="de">Pro 7</display-name>
     <display-name lang="de">ProSieben</display-name>
   </channel>
   <channel id="sat1.de">
-    <display-name lang="de">SAT.1</display-name>
+    <display-name lang="de">Sat.1</display-name>
   </channel>
   <channel id="sat1gold.de">
-    <display-name lang="de">SAT.1 Gold</display-name>
+    <display-name lang="de">Sat.1 Gold</display-name>
   </channel>
   <channel id="rtl.de">
     <display-name>RTL</display-name>
@@ -612,13 +614,29 @@
     <display-name lang="de">Anixe HD</display-name>
   </channel>
   <channel id="ntv.de">
-    <display-name lang="de">N-TV</display-name>
+    <display-name>N-TV</display-name>
+    <display-name lang="de">N-TV Austria</display-name>
+  </channel>
+  <channel id="srf1.de">
+    <display-name>SR1</display-name>
+    <display-name>SR Fernsehen</display-name>
+    <display-name lang="de">SR Fernsehen HD</display-name>
+  </channel>
+  <channel id="welt.de">
+    <display-name>Welt HD</display-name>
+    <display-name lang="de">Welt</display-name>
+  </channel>
+  <channel id="n24doku.de">
+    <display-name lang="de">N24 Doku</display-name>
   </channel>
   <channel id="tagesschau.de">
-    <display-name lang="de">Tagesschau 24</display-name>
+    <display-name>Tagesschau 24</display-name>
+    <display-name lang="de">Tagesschau 24 HD</display-name>
   </channel>
   <channel id="tele5.de">
-    <display-name lang="de">Tele 5</display-name>
+    <display-name>Tele 5</display-name>
+    <display-name>Tele 5 DE</display-name>
+    <display-name lang="de">Tele 5 DE HD</display-name>
   </channel>
   <channel id="sixx.de">
     <display-name lang="de">Sixx</display-name>
@@ -647,7 +665,8 @@
     <display-name lang="de">WDR</display-name>
   </channel>
   <channel id="servus.de">
-    <display-name lang="de">Servus</display-name>
+    <display-name>Servus HD</display-name>
+    <display-name lang="de">Servus HD Austria</display-name>
   </channel>
   <channel id="skyaction.de">
     <display-name lang="de">Sky Action</display-name>
@@ -16059,6 +16078,558 @@
   </programme>
   <programme start="20241027230500 +0200" stop="20241028062500 +0200" channel="ntv.de">
     <title>Fürchte Deinen Nächsten!</title>
+  </programme>
+  <programme start="20241026050000 +0300" stop="20241026050500 +0300" channel="srf1.de">
+    <title>Schweiz von oben</title>
+  </programme>
+  <programme start="20241026050500 +0300" stop="20241026054000 +0300" channel="srf1.de">
+    <title>Gredig direkt</title>
+  </programme>
+  <programme start="20241026054000 +0300" stop="20241026062500 +0300" channel="srf1.de">
+    <title>Hoch hinaus</title>
+  </programme>
+  <programme start="20241026062500 +0300" stop="20241026073000 +0300" channel="srf1.de">
+    <title>News-Schlagzeilen</title>
+  </programme>
+  <programme start="20241026073000 +0300" stop="20241026091500 +0300" channel="srf1.de">
+    <title>Wetterkanal</title>
+  </programme>
+  <programme start="20241026091500 +0300" stop="20241026095000 +0300" channel="srf1.de">
+    <title>Signes</title>
+  </programme>
+  <programme start="20241026095000 +0300" stop="20241026102500 +0300" channel="srf1.de">
+    <title>Kassensturz in Gebärdensprache</title>
+  </programme>
+  <programme start="20241026102500 +0300" stop="20241026112500 +0300" channel="srf1.de">
+    <title>Sternstunde Kunst</title>
+  </programme>
+  <programme start="20241026112500 +0300" stop="20241026115500 +0300" channel="srf1.de">
+    <title>Kids@SRF</title>
+  </programme>
+  <programme start="20241026115500 +0300" stop="20241026120000 +0300" channel="srf1.de">
+    <title>SRF school</title>
+  </programme>
+  <programme start="20241026120000 +0300" stop="20241026123000 +0300" channel="srf1.de">
+    <title>SRF school</title>
+  </programme>
+  <programme start="20241026123000 +0300" stop="20241026124000 +0300" channel="srf1.de">
+    <title>SRF school</title>
+  </programme>
+  <programme start="20241026124000 +0300" stop="20241026130000 +0300" channel="srf1.de">
+    <title>SRF school</title>
+  </programme>
+  <programme start="20241026130000 +0300" stop="20241026131000 +0300" channel="srf1.de">
+    <title>Tagesschau</title>
+  </programme>
+  <programme start="20241026131000 +0300" stop="20241026141000 +0300" channel="srf1.de">
+    <title>NZZ Standpunkte</title>
+  </programme>
+  <programme start="20241026141000 +0300" stop="20241026153500 +0300" channel="srf1.de">
+    <title>Wilder Urlaub</title>
+  </programme>
+  <programme start="20241026153500 +0300" stop="20241026160000 +0300" channel="srf1.de">
+    <title>G&amp;G – Gesichter und Geschichten</title>
+  </programme>
+  <programme start="20241026160000 +0300" stop="20241026163500 +0300" channel="srf1.de">
+    <title>Die Nordreportage</title>
+  </programme>
+  <programme start="20241026163500 +0300" stop="20241026171000 +0300" channel="srf1.de">
+    <title>FENSTER ZUM SONNTAG – Magazin</title>
+  </programme>
+  <programme start="20241026171000 +0300" stop="20241026174000 +0300" channel="srf1.de">
+    <title>Cuntrasts</title>
+  </programme>
+  <programme start="20241026174000 +0300" stop="20241026180000 +0300" channel="srf1.de">
+    <title>Minisguard</title>
+  </programme>
+  <programme start="20241026180000 +0300" stop="20241026180500 +0300" channel="srf1.de">
+    <title>Tagesschau</title>
+  </programme>
+  <programme start="20241026180500 +0300" stop="20241026181000 +0300" channel="srf1.de">
+    <title>Meteo</title>
+  </programme>
+  <programme start="20241026181000 +0300" stop="20241026184000 +0300" channel="srf1.de">
+    <title>GESUNDHEITHEUTE – Die Gesundheitssendung mit Dr. Jeanne Fürst</title>
+  </programme>
+  <programme start="20241026184000 +0300" stop="20241026192000 +0300" channel="srf1.de">
+    <title>Potzmusig</title>
+  </programme>
+  <programme start="20241026192000 +0300" stop="20241026193000 +0300" channel="srf1.de">
+    <title>Ziehung des Schweizer Zahlenlottos</title>
+  </programme>
+  <programme start="20241026193000 +0300" stop="20241026195500 +0300" channel="srf1.de">
+    <title>Tagesschau</title>
+  </programme>
+  <programme start="20241026195500 +0300" stop="20241026200000 +0300" channel="srf1.de">
+    <title>Meteo</title>
+  </programme>
+  <programme start="20241026200000 +0300" stop="20241026201000 +0300" channel="srf1.de">
+    <title>Wort zum Sonntag</title>
+  </programme>
+  <programme start="20241026201000 +0300" stop="20241026221000 +0300" channel="srf1.de">
+    <title>Wie tickt die Schweiz?</title>
+  </programme>
+  <programme start="20241026221000 +0300" stop="20241026222000 +0300" channel="srf1.de">
+    <title>Tagesschau</title>
+  </programme>
+  <programme start="20241026222000 +0300" stop="20241026223000 +0300" channel="srf1.de">
+    <title>Meteo</title>
+  </programme>
+  <programme start="20241026223000 +0300" stop="20241027003000 +0300" channel="srf1.de">
+    <title>Solange ich atme</title>
+  </programme>
+  <programme start="20241027003000 +0300" stop="20241027032500 +0200" channel="srf1.de">
+    <title>Live by Night</title>
+  </programme>
+  <programme start="20241027032500 +0200" stop="20241027041500 +0200" channel="srf1.de">
+    <title>Wie tickt die Schweiz?</title>
+  </programme>
+  <programme start="20241027041500 +0200" stop="20241027043500 +0200" channel="srf1.de">
+    <title>G&amp;G – Gesichter und Geschichten</title>
+  </programme>
+  <programme start="20241027043500 +0200" stop="20241027051500 +0200" channel="srf1.de">
+    <title>Hoch hinaus</title>
+  </programme>
+  <programme start="20241027051500 +0200" stop="20241027053500 +0200" channel="srf1.de">
+    <title>Kräuterwelten</title>
+  </programme>
+  <programme start="20241027053500 +0200" stop="20241027061000 +0200" channel="srf1.de">
+    <title>Einstein</title>
+  </programme>
+  <programme start="20241027061000 +0200" stop="20241027065500 +0200" channel="srf1.de">
+    <title>SRF bi de Lüt – Abenteuer Wildnis</title>
+  </programme>
+  <programme start="20241027065500 +0200" stop="20241027073000 +0200" channel="srf1.de">
+    <title>Potzmusig</title>
+  </programme>
+  <programme start="20241027073000 +0200" stop="20241027083000 +0200" channel="srf1.de">
+    <title>News-Schlagzeilen</title>
+  </programme>
+  <programme start="20241027083000 +0200" stop="20241027094500 +0200" channel="srf1.de">
+    <title>Wetterkanal</title>
+  </programme>
+  <programme start="20241027094500 +0200" stop="20241027102500 +0200" channel="srf1.de">
+    <title>Puls in Gebärdensprache</title>
+  </programme>
+  <programme start="20241027102500 +0200" stop="20241027110000 +0200" channel="srf1.de">
+    <title>GESUNDHEITHEUTE – Die Gesundheitssendung mit Dr. Jeanne Fürst</title>
+  </programme>
+  <programme start="20241027110000 +0200" stop="20241027120000 +0200" channel="srf1.de">
+    <title>Sternstunde Religion</title>
+  </programme>
+  <programme start="20241027120000 +0200" stop="20241027130000 +0200" channel="srf1.de">
+    <title>Sternstunde Philosophie</title>
+  </programme>
+  <programme start="20241027130000 +0200" stop="20241027140000 +0200" channel="srf1.de">
+    <title>Sternstunde Kunst</title>
+  </programme>
+  <programme start="20241027140000 +0200" stop="20241027141000 +0200" channel="srf1.de">
+    <title>Tagesschau</title>
+  </programme>
+  <programme start="20241027141000 +0200" stop="20241027151000 +0200" channel="srf1.de">
+    <title>SonntagsZeitung Standpunkte</title>
+  </programme>
+  <programme start="20241027151000 +0200" stop="20241027153500 +0200" channel="srf1.de">
+    <title>Streifzug durch den italienischen Apennin</title>
+  </programme>
+  <programme start="20241027153500 +0200" stop="20241027162000 +0200" channel="srf1.de">
+    <title>Hoch hinaus</title>
+  </programme>
+  <programme start="20241027162000 +0200" stop="20241027171500 +0200" channel="srf1.de">
+    <title>SRF bi de Lüt – Abenteuer Wildnis</title>
+  </programme>
+  <programme start="20241027171500 +0200" stop="20241027181000 +0200" channel="srf1.de">
+    <title>NETZ NATUR</title>
+  </programme>
+  <programme start="20241027181000 +0200" stop="20241027182500 +0200" channel="srf1.de">
+    <title>Minisguard</title>
+  </programme>
+  <programme start="20241027182500 +0200" stop="20241027190000 +0200" channel="srf1.de">
+    <title>Cuntrasts</title>
+  </programme>
+  <programme start="20241027190000 +0200" stop="20241027190500 +0200" channel="srf1.de">
+    <title>Tagesschau</title>
+  </programme>
+  <programme start="20241027190500 +0200" stop="20241027191500 +0200" channel="srf1.de">
+    <title>Meteo</title>
+  </programme>
+  <programme start="20241027191500 +0200" stop="20241027194500 +0200" channel="srf1.de">
+    <title>Fascht e Familie</title>
+  </programme>
+  <programme start="20241027194500 +0200" stop="20241027201000 +0200" channel="srf1.de">
+    <title>G&amp;G Weekend</title>
+  </programme>
+  <programme start="20241027201000 +0200" stop="20241027202500 +0200" channel="srf1.de">
+    <title>mitenand</title>
+  </programme>
+  <programme start="20241027202500 +0200" stop="20241027203000 +0200" channel="srf1.de">
+    <title>Bundesrätin Karin Keller-Sutter spricht zur "Änderung vom 29. Sept. 2023 des Obligationenrechts (Mietrecht: Untermiete)"</title>
+  </programme>
+  <programme start="20241027203000 +0200" stop="20241027205500 +0200" channel="srf1.de">
+    <title>Tagesschau</title>
+  </programme>
+  <programme start="20241027205500 +0200" stop="20241027210500 +0200" channel="srf1.de">
+    <title>Meteo</title>
+  </programme>
+  <programme start="20241027210500 +0200" stop="20241027224500 +0200" channel="srf1.de">
+    <title>Tatort: Dein gutes Recht</title>
+  </programme>
+  <programme start="20241027224500 +0200" stop="20241027232500 +0200" channel="srf1.de">
+    <title>Die Sendung des Monats</title>
+  </programme>
+  <programme start="20241027232500 +0200" stop="20241027235000 +0200" channel="srf1.de">
+    <title>Leila's Fix</title>
+  </programme>
+  <programme start="20241027235000 +0200" stop="20241028000000 +0200" channel="srf1.de">
+    <title>Tagesschau</title>
+  </programme>
+  <programme start="20241026060000 +0300" stop="20241026070000 +0300" channel="welt.de">
+    <title>Lost Places – Folge 66</title>
+  </programme>
+  <programme start="20241026070000 +0300" stop="20241026072000 +0300" channel="welt.de">
+    <title>Die Welt am Morgen</title>
+  </programme>
+  <programme start="20241026072000 +0300" stop="20241026073500 +0300" channel="welt.de">
+    <title>Die Welt am Morgen</title>
+  </programme>
+  <programme start="20241026073500 +0300" stop="20241026080000 +0300" channel="welt.de">
+    <title>Die Welt am Morgen</title>
+  </programme>
+  <programme start="20241026080000 +0300" stop="20241026082000 +0300" channel="welt.de">
+    <title>Die Welt am Morgen</title>
+  </programme>
+  <programme start="20241026082000 +0300" stop="20241026083500 +0300" channel="welt.de">
+    <title>Die Welt am Morgen</title>
+  </programme>
+  <programme start="20241026083500 +0300" stop="20241026090000 +0300" channel="welt.de">
+    <title>Die Welt am Morgen</title>
+  </programme>
+  <programme start="20241026090000 +0300" stop="20241026093000 +0300" channel="welt.de">
+    <title>WELT Newsroom</title>
+  </programme>
+  <programme start="20241026093000 +0300" stop="20241026100000 +0300" channel="welt.de">
+    <title>WELT Newsroom</title>
+  </programme>
+  <programme start="20241026100000 +0300" stop="20241026103000 +0300" channel="welt.de">
+    <title>WELT Newsroom</title>
+  </programme>
+  <programme start="20241026103000 +0300" stop="20241026110000 +0300" channel="welt.de">
+    <title>WELT Newsroom</title>
+  </programme>
+  <programme start="20241026110000 +0300" stop="20241026113000 +0300" channel="welt.de">
+    <title>WELT Newsroom</title>
+  </programme>
+  <programme start="20241026113000 +0300" stop="20241026120000 +0300" channel="welt.de">
+    <title>WELT Newsroom</title>
+  </programme>
+  <programme start="20241026120000 +0300" stop="20241026123000 +0300" channel="welt.de">
+    <title>Die Welt am Mittag</title>
+  </programme>
+  <programme start="20241026123000 +0300" stop="20241026130000 +0300" channel="welt.de">
+    <title>Die Welt am Mittag</title>
+  </programme>
+  <programme start="20241026130000 +0300" stop="20241026133000 +0300" channel="welt.de">
+    <title>Die Welt am Mittag</title>
+  </programme>
+  <programme start="20241026133000 +0300" stop="20241026140000 +0300" channel="welt.de">
+    <title>Die Welt am Mittag</title>
+  </programme>
+  <programme start="20241026140000 +0300" stop="20241026142500 +0300" channel="welt.de">
+    <title>WELT Newsroom</title>
+  </programme>
+  <programme start="20241026142500 +0300" stop="20241026145000 +0300" channel="welt.de">
+    <title>WELT Newsroom</title>
+  </programme>
+  <programme start="20241026145000 +0300" stop="20241026152000 +0300" channel="welt.de">
+    <title>WELT Drive</title>
+  </programme>
+  <programme start="20241026152000 +0300" stop="20241026154500 +0300" channel="welt.de">
+    <title>WELT Drive</title>
+  </programme>
+  <programme start="20241026154500 +0300" stop="20241026164000 +0300" channel="welt.de">
+    <title>Aircraft Doctors</title>
+  </programme>
+  <programme start="20241026164000 +0300" stop="20241026173500 +0300" channel="welt.de">
+    <title>Supercar Tech – Benz, Bugatti, Bentley</title>
+  </programme>
+  <programme start="20241026173500 +0300" stop="20241026182500 +0300" channel="welt.de">
+    <title>Traumzüge – Tokaido Shinkansen</title>
+  </programme>
+  <programme start="20241026182500 +0300" stop="20241026192000 +0300" channel="welt.de">
+    <title>Traumzüge: Bernina Express</title>
+  </programme>
+  <programme start="20241026192000 +0300" stop="20241026201500 +0300" channel="welt.de">
+    <title>Mega-Konstruktionen: Las Vegas High Roller</title>
+  </programme>
+  <programme start="20241026201500 +0300" stop="20241026210500 +0300" channel="welt.de">
+    <title>In Seenot: Das Frachtschiff Flare</title>
+  </programme>
+  <programme start="20241026210500 +0300" stop="20241026220500 +0300" channel="welt.de">
+    <title>In Seenot: Chemietanker Bow Mariner</title>
+  </programme>
+  <programme start="20241026220500 +0300" stop="20241026230500 +0300" channel="welt.de">
+    <title>Mayday – Vor Neufundland</title>
+  </programme>
+  <programme start="20241026230500 +0300" stop="20241027000000 +0300" channel="welt.de">
+    <title>Mayday – Konfusion im Cockpit</title>
+  </programme>
+  <programme start="20241027000000 +0300" stop="20241027005500 +0300" channel="welt.de">
+    <title>Lost Places – Folge 19</title>
+  </programme>
+  <programme start="20241027005500 +0300" stop="20241027013500 +0300" channel="welt.de">
+    <title>Lost Places – Folge 64</title>
+  </programme>
+  <programme start="20241027013500 +0300" stop="20241027030000 +0200" channel="welt.de">
+    <title>In Seenot: Das Frachtschiff Flare</title>
+  </programme>
+  <programme start="20241027030000 +0200" stop="20241027032000 +0200" channel="welt.de">
+    <title>Mayday – Vor Neufundland</title>
+  </programme>
+  <programme start="20241027032000 +0200" stop="20241027034500 +0200" channel="welt.de">
+    <title>In Seenot: Chemietanker Bow Mariner</title>
+  </programme>
+  <programme start="20241027034500 +0200" stop="20241027042500 +0200" channel="welt.de">
+    <title>Mayday – Konfusion im Cockpit</title>
+  </programme>
+  <programme start="20241027042500 +0200" stop="20241027050500 +0200" channel="welt.de">
+    <title>Lost Places – Folge 19</title>
+  </programme>
+  <programme start="20241027050500 +0200" stop="20241027054500 +0200" channel="welt.de">
+    <title>Lost Places – Folge 64</title>
+  </programme>
+  <programme start="20241027054500 +0200" stop="20241027062000 +0200" channel="welt.de">
+    <title>Lost Places – Folge 66</title>
+  </programme>
+  <programme start="20241027062000 +0200" stop="20241027070000 +0200" channel="welt.de">
+    <title>Mega-Konstruktionen: Las Vegas High Roller</title>
+  </programme>
+  <programme start="20241027070000 +0200" stop="20241027080000 +0200" channel="welt.de">
+    <title>Supercar Tech – Benz, Bugatti, Bentley</title>
+  </programme>
+  <programme start="20241027080000 +0200" stop="20241027082000 +0200" channel="welt.de">
+    <title>Die Welt am Morgen</title>
+  </programme>
+  <programme start="20241027082000 +0200" stop="20241027083500 +0200" channel="welt.de">
+    <title>Die Welt am Morgen</title>
+  </programme>
+  <programme start="20241027083500 +0200" stop="20241027090000 +0200" channel="welt.de">
+    <title>Die Welt am Morgen</title>
+  </programme>
+  <programme start="20241027090000 +0200" stop="20241027092000 +0200" channel="welt.de">
+    <title>Die Welt am Morgen</title>
+  </programme>
+  <programme start="20241027092000 +0200" stop="20241027093500 +0200" channel="welt.de">
+    <title>Die Welt am Morgen</title>
+  </programme>
+  <programme start="20241027093500 +0200" stop="20241027100000 +0200" channel="welt.de">
+    <title>Die Welt am Morgen</title>
+  </programme>
+  <programme start="20241027100000 +0200" stop="20241027103000 +0200" channel="welt.de">
+    <title>WELT Newsroom</title>
+  </programme>
+  <programme start="20241027103000 +0200" stop="20241027110000 +0200" channel="welt.de">
+    <title>WELT Newsroom</title>
+  </programme>
+  <programme start="20241027110000 +0200" stop="20241027113000 +0200" channel="welt.de">
+    <title>WELT Newsroom</title>
+  </programme>
+  <programme start="20241027113000 +0200" stop="20241027120000 +0200" channel="welt.de">
+    <title>WELT Newsroom</title>
+  </programme>
+  <programme start="20241027120000 +0200" stop="20241027123000 +0200" channel="welt.de">
+    <title>WELT Newsroom</title>
+  </programme>
+  <programme start="20241027123000 +0200" stop="20241027130000 +0200" channel="welt.de">
+    <title>WELT Newsroom</title>
+  </programme>
+  <programme start="20241027130000 +0200" stop="20241027133000 +0200" channel="welt.de">
+    <title>Die Welt am Mittag</title>
+  </programme>
+  <programme start="20241027133000 +0200" stop="20241027140000 +0200" channel="welt.de">
+    <title>Die Welt am Mittag</title>
+  </programme>
+  <programme start="20241027140000 +0200" stop="20241027143000 +0200" channel="welt.de">
+    <title>Die Welt am Mittag</title>
+  </programme>
+  <programme start="20241027143000 +0200" stop="20241027150000 +0200" channel="welt.de">
+    <title>Die Welt am Mittag</title>
+  </programme>
+  <programme start="20241027150000 +0200" stop="20241027160000 +0200" channel="welt.de">
+    <title>BILD SPORT</title>
+  </programme>
+  <programme start="20241027160000 +0200" stop="20241027173000 +0200" channel="welt.de">
+    <title>Handball: Bundesliga</title>
+  </programme>
+  <programme start="20241027173000 +0200" stop="20241027193000 +0200" channel="welt.de">
+    <title>Basketball: Bundesliga</title>
+  </programme>
+  <programme start="20241027193000 +0200" stop="20241027194500 +0200" channel="welt.de">
+    <title>Nachberichte Basketball-Bundesliga</title>
+  </programme>
+  <programme start="20241027194500 +0200" stop="20241027202000 +0200" channel="welt.de">
+    <title>Lost Places – Folge 65</title>
+  </programme>
+  <programme start="20241027202000 +0200" stop="20241027211500 +0200" channel="welt.de">
+    <title>Lost Places – Schiffe aus Beton</title>
+  </programme>
+  <programme start="20241027211500 +0200" stop="20241027220500 +0200" channel="welt.de">
+    <title>Lost Places – Folge 99</title>
+  </programme>
+  <programme start="20241027220500 +0200" stop="20241027230000 +0200" channel="welt.de">
+    <title>Lost Places Folge 100</title>
+  </programme>
+  <programme start="20241027230000 +0200" stop="20241028000000 +0200" channel="welt.de">
+    <title>Lost Places – Folge 101</title>
+  </programme>
+  <programme start="20241026053000 +0300" stop="20241026061500 +0300" channel="n24doku.de">
+    <title>Gefängnisse</title>
+  </programme>
+  <programme start="20241026061500 +0300" stop="20241026070500 +0300" channel="n24doku.de">
+    <title>Lost Places</title>
+  </programme>
+  <programme start="20241026070500 +0300" stop="20241026080000 +0300" channel="n24doku.de">
+    <title>Lost Places</title>
+  </programme>
+  <programme start="20241026080000 +0300" stop="20241026085500 +0300" channel="n24doku.de">
+    <title>Strangest Things – Folge 20</title>
+  </programme>
+  <programme start="20241026085500 +0300" stop="20241026095000 +0300" channel="n24doku.de">
+    <title>Strangest Things – Folge 19</title>
+  </programme>
+  <programme start="20241026095000 +0300" stop="20241026104000 +0300" channel="n24doku.de">
+    <title>Heiß und zerbrechlich – Die Arbeit der Glasmacher</title>
+  </programme>
+  <programme start="20241026104000 +0300" stop="20241026112000 +0300" channel="n24doku.de">
+    <title>Vom Rind zum Steak – Europas größter Rinder-Schlachthof</title>
+  </programme>
+  <programme start="20241026112000 +0300" stop="20241026121500 +0300" channel="n24doku.de">
+    <title>Geheimnisvolle Erde: Eisige Welten</title>
+  </programme>
+  <programme start="20241026121500 +0300" stop="20241026130500 +0300" channel="n24doku.de">
+    <title>Geheimnisvolle Erde: Wüsten</title>
+  </programme>
+  <programme start="20241026130500 +0300" stop="20241026140000 +0300" channel="n24doku.de">
+    <title>Strangest Things – Folge 19</title>
+  </programme>
+  <programme start="20241026140000 +0300" stop="20241026150000 +0300" channel="n24doku.de">
+    <title>Strangest Things – Folge 20</title>
+  </programme>
+  <programme start="20241026150000 +0300" stop="20241026155000 +0300" channel="n24doku.de">
+    <title>Riesenbaustelle Fehmarnbelt – Europas Mega-Tunnel entsteht (1)</title>
+  </programme>
+  <programme start="20241026155000 +0300" stop="20241026164000 +0300" channel="n24doku.de">
+    <title>High-Tech aus dem Hobbykeller – Modellbauer der Meisterklasse</title>
+  </programme>
+  <programme start="20241026164000 +0300" stop="20241026173500 +0300" channel="n24doku.de">
+    <title>Aircraft Doctors</title>
+  </programme>
+  <programme start="20241026173500 +0300" stop="20241026182500 +0300" channel="n24doku.de">
+    <title>Supercar Tech – Benz, Bugatti, Bentley</title>
+  </programme>
+  <programme start="20241026182500 +0300" stop="20241026192500 +0300" channel="n24doku.de">
+    <title>Traumzüge – Tokaido Shinkansen</title>
+  </programme>
+  <programme start="20241026192500 +0300" stop="20241026202000 +0300" channel="n24doku.de">
+    <title>Traumzüge: Bernina Express</title>
+  </programme>
+  <programme start="20241026202000 +0300" stop="20241026211000 +0300" channel="n24doku.de">
+    <title>Mega-Konstruktionen: Las Vegas High Roller</title>
+  </programme>
+  <programme start="20241026211000 +0300" stop="20241026220500 +0300" channel="n24doku.de">
+    <title>In Seenot: Das Frachtschiff Flare</title>
+  </programme>
+  <programme start="20241026220500 +0300" stop="20241026230000 +0300" channel="n24doku.de">
+    <title>In Seenot: Chemietanker Bow Mariner</title>
+  </programme>
+  <programme start="20241026230000 +0300" stop="20241026235500 +0300" channel="n24doku.de">
+    <title>Mayday</title>
+  </programme>
+  <programme start="20241026235500 +0300" stop="20241027004500 +0300" channel="n24doku.de">
+    <title>Mayday</title>
+  </programme>
+  <programme start="20241027004500 +0300" stop="20241027012500 +0300" channel="n24doku.de">
+    <title>Lost Places</title>
+  </programme>
+  <programme start="20241027012500 +0300" stop="20241027031000 +0200" channel="n24doku.de">
+    <title>Lost Places</title>
+  </programme>
+  <programme start="20241027031000 +0200" stop="20241027034000 +0200" channel="n24doku.de">
+    <title>In Seenot: Das Frachtschiff Flare</title>
+  </programme>
+  <programme start="20241027034000 +0200" stop="20241027035500 +0200" channel="n24doku.de">
+    <title>Mayday</title>
+  </programme>
+  <programme start="20241027035500 +0200" stop="20241027042000 +0200" channel="n24doku.de">
+    <title>In Seenot: Chemietanker Bow Mariner</title>
+  </programme>
+  <programme start="20241027042000 +0200" stop="20241027050500 +0200" channel="n24doku.de">
+    <title>Mayday</title>
+  </programme>
+  <programme start="20241027050500 +0200" stop="20241027054500 +0200" channel="n24doku.de">
+    <title>Lost Places</title>
+  </programme>
+  <programme start="20241027054500 +0200" stop="20241027063000 +0200" channel="n24doku.de">
+    <title>Lost Places</title>
+  </programme>
+  <programme start="20241027063000 +0200" stop="20241027071500 +0200" channel="n24doku.de">
+    <title>Lost Places</title>
+  </programme>
+  <programme start="20241027071500 +0200" stop="20241027081000 +0200" channel="n24doku.de">
+    <title>Mega-Konstruktionen: Las Vegas High Roller</title>
+  </programme>
+  <programme start="20241027081000 +0200" stop="20241027090000 +0200" channel="n24doku.de">
+    <title>Supercar Tech – Benz, Bugatti, Bentley</title>
+  </programme>
+  <programme start="20241027090000 +0200" stop="20241027095500 +0200" channel="n24doku.de">
+    <title>Traumzüge – Tokaido Shinkansen</title>
+  </programme>
+  <programme start="20241027095500 +0200" stop="20241027105000 +0200" channel="n24doku.de">
+    <title>Traumzüge: Bernina Express</title>
+  </programme>
+  <programme start="20241027105000 +0200" stop="20241027114500 +0200" channel="n24doku.de">
+    <title>Mega-Konstruktionen: Champlain Bridge</title>
+  </programme>
+  <programme start="20241027114500 +0200" stop="20241027122500 +0200" channel="n24doku.de">
+    <title>In Seenot: Das Frachtschiff Flare</title>
+  </programme>
+  <programme start="20241027122500 +0200" stop="20241027132000 +0200" channel="n24doku.de">
+    <title>In Seenot: Chemietanker Bow Mariner</title>
+  </programme>
+  <programme start="20241027132000 +0200" stop="20241027141500 +0200" channel="n24doku.de">
+    <title>Mayday</title>
+  </programme>
+  <programme start="20241027141500 +0200" stop="20241027150500 +0200" channel="n24doku.de">
+    <title>Mayday</title>
+  </programme>
+  <programme start="20241027150500 +0200" stop="20241027160000 +0200" channel="n24doku.de">
+    <title>Die Seenotretter – Einsatz bei Wind und Wellen</title>
+  </programme>
+  <programme start="20241027160000 +0200" stop="20241027165500 +0200" channel="n24doku.de">
+    <title>Harmony of the Seas – Freizeitspaß auf hoher See</title>
+  </programme>
+  <programme start="20241027165500 +0200" stop="20241027175000 +0200" channel="n24doku.de">
+    <title>Die gefährliche Reise der Sardinen – Festmahl im Ozean</title>
+  </programme>
+  <programme start="20241027175000 +0200" stop="20241027184000 +0200" channel="n24doku.de">
+    <title>Mysteriöse Meere</title>
+  </programme>
+  <programme start="20241027184000 +0200" stop="20241027193500 +0200" channel="n24doku.de">
+    <title>Extreme Phänomene – Die Macht der Natur</title>
+  </programme>
+  <programme start="20241027193500 +0200" stop="20241027203000 +0200" channel="n24doku.de">
+    <title>Mega-Krane – Schwergewichte im Einsatz</title>
+  </programme>
+  <programme start="20241027203000 +0200" stop="20241027212500 +0200" channel="n24doku.de">
+    <title>Lost Places</title>
+  </programme>
+  <programme start="20241027212500 +0200" stop="20241027221500 +0200" channel="n24doku.de">
+    <title>Lost Places – Schiffe aus Beton</title>
+  </programme>
+  <programme start="20241027221500 +0200" stop="20241027230500 +0200" channel="n24doku.de">
+    <title>Lost Places</title>
+  </programme>
+  <programme start="20241027230500 +0200" stop="20241028000000 +0200" channel="n24doku.de">
+    <title>Lost Places Folge 100</title>
   </programme>
   <programme start="20241026050500 +0300" stop="20241026051500 +0300" channel="tagesschau.de">
     <title>Nachrichten</title>
