@@ -1449,8 +1449,8 @@
   - name: VH1
     lang: en
   sources:
-  - dnes.bg
   - programtv.onet.pl
+
 
 - id: clubmtv.com
   enabled: true
@@ -1597,6 +1597,7 @@
   enabled: true
   names:
   - name: Mezzo Live
+  - name: Mezzo Live HD
     lang: en
   sources:
   - programtv.onet.pl
@@ -1609,12 +1610,13 @@
   sources:
   - tvtoday.de
 
-- id: mcm.fr
+- id: mcmtop.fr
   enabled: true
+  name: MCM Top
+  name: MCM Top HD
   name: MCM
   sources:
-  - ouest-france.fr
-  - telestar.fr
+  - programme-tv.net
   
 - id: hayatfolk.rs
   enabled: true
@@ -3290,6 +3292,7 @@
   groups: [ "fr" ]
   sources:
   - ouest-france.fr
+  - programme-tv.net
   
 - id: france2.fr
   enabled: true
@@ -3299,6 +3302,7 @@
   groups: [ "fr" ]
   sources:
   - ouest-france.fr
+  - programme-tv.net
   - telestar.fr
   
 - id: france3.fr
@@ -3309,7 +3313,17 @@
   groups: [ "fr" ]
   sources:
   - ouest-france.fr
-  - telestar.fr
+  - programme-tv.net
+  
+- id: france4.fr
+  enabled: true
+  names:
+  - name: France 4
+  - name: France 4 HD
+  groups: [ "fr" ]
+  sources:
+  - ouest-france.fr
+  - programme-tv.net
   
 - id: m6.fr
   enabled: true
@@ -3318,6 +3332,7 @@
   groups: [ "fr" ]
   sources:
   - ouest-france.fr
+  - programme-tv.net
   - telestar.fr
   
 - id: tv5monde.fr
@@ -3336,6 +3351,7 @@
   groups: [ "fr" ]
   sources:
   - ouest-france.fr
+  - programme-tv.net
   - telestar.fr
   
 - id: bfmbusiness.fr
@@ -3347,6 +3363,7 @@
   groups: [ "fr" ]
   sources:
   - ouest-france.fr
+  - programme-tv.net
   - telestar.fr
   
 - id: w9.fr
@@ -3357,6 +3374,7 @@
   groups: [ "fr" ]
   sources:
   - ouest-france.fr
+  - programme-tv.net
   - telestar.fr
 
   
