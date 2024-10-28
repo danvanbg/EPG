@@ -54,14 +54,6 @@
     <display-name>Max Sport 4 HD</display-name>
     <display-name>Max Sport 4 LQ</display-name>
   </channel>
-  <channel id="sportal.bg">
-    <display-name>Sportal HD</display-name>
-    <display-name>Sportal TV</display-name>
-  </channel>
-  <channel id="b1b.tv">
-    <display-name>B1B Action HD</display-name>
-    <display-name>B1B TV</display-name>
-  </channel>
   <channel id="eurosport1.bg">
     <display-name>Eurosport</display-name>
     <display-name>Eurosport HD</display-name>
@@ -6379,6 +6371,501 @@
     <icon src="https://ntvplus.ru//files/stv/e/5b/60/88/9/e5b608895a521b8d5fa3b4d04eb44f6a9c14207de026db0f96aafacb9fb6bdf9.jpg" />
     <desc>Бега - испытания лошадей рысистых пород на резвость в беге рысью. Обычно лошади испытываются, запряжённые…</desc>
   </programme>
+  <programme start="20241028043000 +0200" stop="20241028051500 +0200" channel="gametoon.tv">
+    <title>Gramy z Głową</title>
+  </programme>
+  <programme start="20241028051500 +0200" stop="20241028060000 +0200" channel="gametoon.tv">
+    <title>Gramy z Głową</title>
+  </programme>
+  <programme start="20241028060000 +0200" stop="20241028070000 +0200" channel="gametoon.tv">
+    <title>Gramy z Głową</title>
+  </programme>
+  <programme start="20241028070000 +0200" stop="20241028072500 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Carbon Studio</title>
+  </programme>
+  <programme start="20241028072500 +0200" stop="20241028080000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 40</title>
+  </programme>
+  <programme start="20241028080000 +0200" stop="20241028084500 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 41</title>
+  </programme>
+  <programme start="20241028084500 +0200" stop="20241028085500 +0200" channel="gametoon.tv">
+    <title>Gildia Smaków</title>
+  </programme>
+  <programme start="20241028085500 +0200" stop="20241028091500 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Carbon Studio</title>
+  </programme>
+  <programme start="20241028091500 +0200" stop="20241028093000 +0200" channel="gametoon.tv">
+    <title>TVGry</title>
+  </programme>
+  <programme start="20241028093000 +0200" stop="20241028100000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Neighbours back From Hell, część 6</title>
+  </programme>
+  <programme start="20241028100000 +0200" stop="20241028101000 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241028101000 +0200" stop="20241028103000 +0200" channel="gametoon.tv">
+    <title>Board News</title>
+  </programme>
+  <programme start="20241028103000 +0200" stop="20241028104000 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Immersion, Vol2 część 1</title>
+  </programme>
+  <programme start="20241028104000 +0200" stop="20241028105000 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Immersion, Vol2 część 2</title>
+  </programme>
+  <programme start="20241028105000 +0200" stop="20241028111500 +0200" channel="gametoon.tv">
+    <title>TVGry</title>
+  </programme>
+  <programme start="20241028111500 +0200" stop="20241028115500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Star Wars: Squadrons, część 1</title>
+  </programme>
+  <programme start="20241028115500 +0200" stop="20241028123500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: SnowRunner, część 8</title>
+  </programme>
+  <programme start="20241028123500 +0200" stop="20241028131000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Biomutant, część 2</title>
+  </programme>
+  <programme start="20241028131000 +0200" stop="20241028134500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Immortals Fenyx Rising: Mity Wschodniego Królestwa, część 3</title>
+  </programme>
+  <programme start="20241028134500 +0200" stop="20241028135500 +0200" channel="gametoon.tv">
+    <title>Sim Racing Challenge 2022</title>
+  </programme>
+  <programme start="20241028135500 +0200" stop="20241028143000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Hades, część 11</title>
+  </programme>
+  <programme start="20241028143000 +0200" stop="20241028150000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Solar Ash, część 20</title>
+  </programme>
+  <programme start="20241028150000 +0200" stop="20241028151500 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Live Motion Games część 1</title>
+  </programme>
+  <programme start="20241028151500 +0200" stop="20241028155000 +0200" channel="gametoon.tv">
+    <title>World Trigger, odc. 3</title>
+  </programme>
+  <programme start="20241028155000 +0200" stop="20241028160000 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241028160000 +0200" stop="20241028163500 +0200" channel="gametoon.tv">
+    <title>World Trigger, odc. 4</title>
+  </programme>
+  <programme start="20241028163500 +0200" stop="20241028165000 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Pyramid Games, część 1</title>
+  </programme>
+  <programme start="20241028165000 +0200" stop="20241028173000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 40</title>
+  </programme>
+  <programme start="20241028173000 +0200" stop="20241028182000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 41</title>
+  </programme>
+  <programme start="20241028182000 +0200" stop="20241028183000 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241028183000 +0200" stop="20241028184500 +0200" channel="gametoon.tv">
+    <title>Gildia Smaków</title>
+  </programme>
+  <programme start="20241028184500 +0200" stop="20241028191000 +0200" channel="gametoon.tv">
+    <title>Board News</title>
+  </programme>
+  <programme start="20241028191000 +0200" stop="20241028200000 +0200" channel="gametoon.tv">
+    <title>B2sim - biznesowe Mistrzostwa Simracingowe</title>
+  </programme>
+  <programme start="20241028200000 +0200" stop="20241028203000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Monster Hunter: Rise, część 11</title>
+  </programme>
+  <programme start="20241028203000 +0200" stop="20241028210000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Hogwart's Legacy, część 11</title>
+  </programme>
+  <programme start="20241028210000 +0200" stop="20241028213000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Road 96, część 1</title>
+  </programme>
+  <programme start="20241028213000 +0200" stop="20241028220500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Star Wars Jedi: Ocalały, część 9</title>
+  </programme>
+  <programme start="20241028220500 +0200" stop="20241028223500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Kangurek Kao, część 12</title>
+  </programme>
+  <programme start="20241028223500 +0200" stop="20241028225500 +0200" channel="gametoon.tv">
+    <title>Let's Replay: Crossout, część 1</title>
+  </programme>
+  <programme start="20241028225500 +0200" stop="20241028232500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Legion Samobójców: Śmierć Lidze Sprawiedliwości, część 17</title>
+  </programme>
+  <programme start="20241028232500 +0200" stop="20241029041000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Wiedźmin 3: Dziki Gon, część 33</title>
+  </programme>
+  <programme start="20241029041000 +0200" stop="20241029050500 +0200" channel="gametoon.tv">
+    <title>Gametoon Arena 2: CS: GO</title>
+  </programme>
+  <programme start="20241029050500 +0200" stop="20241029061500 +0200" channel="gametoon.tv">
+    <title>Gametoon Arena 2: CS: GO</title>
+  </programme>
+  <programme start="20241029061500 +0200" stop="20241029070000 +0200" channel="gametoon.tv">
+    <title>Let's Replay: Crossout, część 7</title>
+  </programme>
+  <programme start="20241029070000 +0200" stop="20241029072500 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Drago Entertainment</title>
+  </programme>
+  <programme start="20241029072500 +0200" stop="20241029080000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 41</title>
+  </programme>
+  <programme start="20241029080000 +0200" stop="20241029084500 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 42</title>
+  </programme>
+  <programme start="20241029084500 +0200" stop="20241029085500 +0200" channel="gametoon.tv">
+    <title>Gildia Smaków</title>
+  </programme>
+  <programme start="20241029085500 +0200" stop="20241029091000 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Drago Entertainment</title>
+  </programme>
+  <programme start="20241029091000 +0200" stop="20241029093000 +0200" channel="gametoon.tv">
+    <title>TVGry</title>
+  </programme>
+  <programme start="20241029093000 +0200" stop="20241029100000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Neighbours back From Hell, część 7</title>
+  </programme>
+  <programme start="20241029100000 +0200" stop="20241029101500 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241029101500 +0200" stop="20241029103500 +0200" channel="gametoon.tv">
+    <title>Board News</title>
+  </programme>
+  <programme start="20241029103500 +0200" stop="20241029105500 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Immersion Vr część 1</title>
+  </programme>
+  <programme start="20241029105500 +0200" stop="20241029111500 +0200" channel="gametoon.tv">
+    <title>TVGry</title>
+  </programme>
+  <programme start="20241029111500 +0200" stop="20241029115500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Star Wars: Squadrons, część 2</title>
+  </programme>
+  <programme start="20241029115500 +0200" stop="20241029123500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: SnowRunner, część 9</title>
+  </programme>
+  <programme start="20241029123500 +0200" stop="20241029131500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Biomutant, część 3</title>
+  </programme>
+  <programme start="20241029131500 +0200" stop="20241029135000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Immortals Fenyx Rising: Mity Wschodniego Królestwa, część 4</title>
+  </programme>
+  <programme start="20241029135000 +0200" stop="20241029140000 +0200" channel="gametoon.tv">
+    <title>Sim Racing Challenge 2022</title>
+  </programme>
+  <programme start="20241029140000 +0200" stop="20241029143000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: One Hand Clapping, część 2</title>
+  </programme>
+  <programme start="20241029143000 +0200" stop="20241029144000 +0200" channel="gametoon.tv">
+    <title>Sim Racing Challenge 2022</title>
+  </programme>
+  <programme start="20241029144000 +0200" stop="20241029150500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Solar Ash, część 21</title>
+  </programme>
+  <programme start="20241029150500 +0200" stop="20241029151500 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Live Motion Games część 2</title>
+  </programme>
+  <programme start="20241029151500 +0200" stop="20241029155000 +0200" channel="gametoon.tv">
+    <title>World Trigger, odc. 4</title>
+  </programme>
+  <programme start="20241029155000 +0200" stop="20241029160000 +0200" channel="gametoon.tv">
+    <title>Actionland</title>
+  </programme>
+  <programme start="20241029160000 +0200" stop="20241029164000 +0200" channel="gametoon.tv">
+    <title>World Trigger, odc. 5</title>
+  </programme>
+  <programme start="20241029164000 +0200" stop="20241029165000 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Pyramid Games, część 2</title>
+  </programme>
+  <programme start="20241029165000 +0200" stop="20241029173000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 41</title>
+  </programme>
+  <programme start="20241029173000 +0200" stop="20241029182500 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 42</title>
+  </programme>
+  <programme start="20241029182500 +0200" stop="20241029183500 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241029183500 +0200" stop="20241029184500 +0200" channel="gametoon.tv">
+    <title>Gildia Smaków</title>
+  </programme>
+  <programme start="20241029184500 +0200" stop="20241029191000 +0200" channel="gametoon.tv">
+    <title>Board News</title>
+  </programme>
+  <programme start="20241029191000 +0200" stop="20241029200000 +0200" channel="gametoon.tv">
+    <title>B2sim - biznesowe Mistrzostwa Simracingowe</title>
+  </programme>
+  <programme start="20241029200000 +0200" stop="20241029203000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Monster Hunter: Rise, część 12</title>
+  </programme>
+  <programme start="20241029203000 +0200" stop="20241029210000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Hogwart's Legacy, część 12</title>
+  </programme>
+  <programme start="20241029210000 +0200" stop="20241029213000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Road 96, część 2</title>
+  </programme>
+  <programme start="20241029213000 +0200" stop="20241029220500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Star Wars Jedi: Ocalały, część 10</title>
+  </programme>
+  <programme start="20241029220500 +0200" stop="20241029223500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Kangurek Kao, część 13</title>
+  </programme>
+  <programme start="20241029223500 +0200" stop="20241029230000 +0200" channel="gametoon.tv">
+    <title>Let's Replay: Crossout, część 2</title>
+  </programme>
+  <programme start="20241029230000 +0200" stop="20241029233000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Legion Samobójców: Śmierć Lidze Sprawiedliwości, część 18</title>
+  </programme>
+  <programme start="20241029233000 +0200" stop="20241030042000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Wiedźmin 3: Dziki Gon, część 34</title>
+  </programme>
+  <programme start="20241030042000 +0200" stop="20241030051500 +0200" channel="gametoon.tv">
+    <title>Gametoon Arena 2: CS: GO</title>
+  </programme>
+  <programme start="20241030051500 +0200" stop="20241030062000 +0200" channel="gametoon.tv">
+    <title>Gametoon Arena 2: World Of Tanks: Część 1</title>
+  </programme>
+  <programme start="20241030062000 +0200" stop="20241030070000 +0200" channel="gametoon.tv">
+    <title>Let's Replay: Crossout, część 8</title>
+  </programme>
+  <programme start="20241030070000 +0200" stop="20241030072000 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: EPIC VR, część 1</title>
+  </programme>
+  <programme start="20241030072000 +0200" stop="20241030080000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 42</title>
+  </programme>
+  <programme start="20241030080000 +0200" stop="20241030085500 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 43</title>
+  </programme>
+  <programme start="20241030085500 +0200" stop="20241030091000 +0200" channel="gametoon.tv">
+    <title>Gildia Smaków</title>
+  </programme>
+  <programme start="20241030091000 +0200" stop="20241030092500 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Forestlight Games, część 1</title>
+  </programme>
+  <programme start="20241030092500 +0200" stop="20241030094000 +0200" channel="gametoon.tv">
+    <title>TVGry</title>
+  </programme>
+  <programme start="20241030094000 +0200" stop="20241030101000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Neighbours back From Hell, część 8</title>
+  </programme>
+  <programme start="20241030101000 +0200" stop="20241030102000 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241030102000 +0200" stop="20241030104000 +0200" channel="gametoon.tv">
+    <title>Board News</title>
+  </programme>
+  <programme start="20241030104000 +0200" stop="20241030105500 +0200" channel="gametoon.tv">
+    <title>Sim Racing Challenge 2022</title>
+  </programme>
+  <programme start="20241030105500 +0200" stop="20241030111500 +0200" channel="gametoon.tv">
+    <title>TVGry</title>
+  </programme>
+  <programme start="20241030111500 +0200" stop="20241030115500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Star Wars: Squadrons, część 3</title>
+  </programme>
+  <programme start="20241030115500 +0200" stop="20241030123500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: SnowRunner, część 10</title>
+  </programme>
+  <programme start="20241030123500 +0200" stop="20241030130500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Biomutant, część 4</title>
+  </programme>
+  <programme start="20241030130500 +0200" stop="20241030134000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Immortals Fenyx Rising: Mity Wschodniego Królestwa, część 5</title>
+  </programme>
+  <programme start="20241030134000 +0200" stop="20241030135500 +0200" channel="gametoon.tv">
+    <title>Sim Racing Challenge 2022</title>
+  </programme>
+  <programme start="20241030135500 +0200" stop="20241030142500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: One Hand Clapping, część 3</title>
+  </programme>
+  <programme start="20241030142500 +0200" stop="20241030143500 +0200" channel="gametoon.tv">
+    <title>Sim Racing Challenge 2022</title>
+  </programme>
+  <programme start="20241030143500 +0200" stop="20241030150500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Solar Ash, część 22</title>
+  </programme>
+  <programme start="20241030150500 +0200" stop="20241030152000 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Movie Games, część 1</title>
+  </programme>
+  <programme start="20241030152000 +0200" stop="20241030155000 +0200" channel="gametoon.tv">
+    <title>World Trigger, odc. 5</title>
+  </programme>
+  <programme start="20241030155000 +0200" stop="20241030160000 +0200" channel="gametoon.tv">
+    <title>Epic Indie</title>
+  </programme>
+  <programme start="20241030160000 +0200" stop="20241030164000 +0200" channel="gametoon.tv">
+    <title>World Trigger, odc. 6</title>
+  </programme>
+  <programme start="20241030164000 +0200" stop="20241030165000 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241030165000 +0200" stop="20241030173000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 42</title>
+  </programme>
+  <programme start="20241030173000 +0200" stop="20241030182000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 43</title>
+  </programme>
+  <programme start="20241030182000 +0200" stop="20241030183500 +0200" channel="gametoon.tv">
+    <title>Actionland</title>
+  </programme>
+  <programme start="20241030183500 +0200" stop="20241030184500 +0200" channel="gametoon.tv">
+    <title>Gildia Smaków</title>
+  </programme>
+  <programme start="20241030184500 +0200" stop="20241030190500 +0200" channel="gametoon.tv">
+    <title>Board News</title>
+  </programme>
+  <programme start="20241030190500 +0200" stop="20241030200000 +0200" channel="gametoon.tv">
+    <title>B2sim - biznesowe Mistrzostwa Simracingowe</title>
+  </programme>
+  <programme start="20241030200000 +0200" stop="20241030203000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Monster Hunter: Rise, część 13</title>
+  </programme>
+  <programme start="20241030203000 +0200" stop="20241030210000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Hogwart's Legacy, część 13</title>
+  </programme>
+  <programme start="20241030210000 +0200" stop="20241030213000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Road 96, część 3</title>
+  </programme>
+  <programme start="20241030213000 +0200" stop="20241030220500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Star Wars Jedi: Ocalały, część 11</title>
+  </programme>
+  <programme start="20241030220500 +0200" stop="20241030221500 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241030221500 +0200" stop="20241030224500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Kangurek Kao, część 14</title>
+  </programme>
+  <programme start="20241030224500 +0200" stop="20241030231000 +0200" channel="gametoon.tv">
+    <title>Let's Replay: Crossout, część 3</title>
+  </programme>
+  <programme start="20241030231000 +0200" stop="20241030234000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Legion Samobójców: Śmierć Lidze Sprawiedliwości, część 19</title>
+  </programme>
+  <programme start="20241030234000 +0200" stop="20241031043000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Wiedźmin 3: Dziki Gon, część 35</title>
+  </programme>
+  <programme start="20241031043000 +0200" stop="20241031052500 +0200" channel="gametoon.tv">
+    <title>Gametoon Arena 2: World Of Tanks: Część 2</title>
+  </programme>
+  <programme start="20241031052500 +0200" stop="20241031063000 +0200" channel="gametoon.tv">
+    <title>Gametoon Arena 2: World Of Tanks: Część 3</title>
+  </programme>
+  <programme start="20241031063000 +0200" stop="20241031070000 +0200" channel="gametoon.tv">
+    <title>Let's Replay: Creaks, część 1</title>
+  </programme>
+  <programme start="20241031070000 +0200" stop="20241031072000 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: EPIC VR, część 2</title>
+  </programme>
+  <programme start="20241031072000 +0200" stop="20241031080000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 43</title>
+  </programme>
+  <programme start="20241031080000 +0200" stop="20241031090000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 44</title>
+  </programme>
+  <programme start="20241031090000 +0200" stop="20241031091500 +0200" channel="gametoon.tv">
+    <title>Gildia Smaków</title>
+  </programme>
+  <programme start="20241031091500 +0200" stop="20241031093000 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Forestlight Games, część 2</title>
+  </programme>
+  <programme start="20241031093000 +0200" stop="20241031095000 +0200" channel="gametoon.tv">
+    <title>TVGry</title>
+  </programme>
+  <programme start="20241031095000 +0200" stop="20241031102000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Neighbours back From Hell, część 9</title>
+  </programme>
+  <programme start="20241031102000 +0200" stop="20241031103500 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241031103500 +0200" stop="20241031105500 +0200" channel="gametoon.tv">
+    <title>Board News</title>
+  </programme>
+  <programme start="20241031105500 +0200" stop="20241031111500 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Immersion Vr część 2</title>
+  </programme>
+  <programme start="20241031111500 +0200" stop="20241031113000 +0200" channel="gametoon.tv">
+    <title>TVGry</title>
+  </programme>
+  <programme start="20241031113000 +0200" stop="20241031120500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Star Wars: Squadrons, część 4</title>
+  </programme>
+  <programme start="20241031120500 +0200" stop="20241031124000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: One Hand Clapping, część 1</title>
+  </programme>
+  <programme start="20241031124000 +0200" stop="20241031131500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Biomutant, część 5</title>
+  </programme>
+  <programme start="20241031131500 +0200" stop="20241031135000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Immortals Fenyx Rising: Mity Wschodniego Królestwa, część 6</title>
+  </programme>
+  <programme start="20241031135000 +0200" stop="20241031140000 +0200" channel="gametoon.tv">
+    <title>Sim Racing Challenge 2022</title>
+  </programme>
+  <programme start="20241031140000 +0200" stop="20241031143000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: One Hand Clapping, część 4</title>
+  </programme>
+  <programme start="20241031143000 +0200" stop="20241031144500 +0200" channel="gametoon.tv">
+    <title>Let's Replay: Creaks, część 1</title>
+  </programme>
+  <programme start="20241031144500 +0200" stop="20241031151500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Solar Ash, część 23</title>
+  </programme>
+  <programme start="20241031151500 +0200" stop="20241031153000 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Movie Games, część 2</title>
+  </programme>
+  <programme start="20241031153000 +0200" stop="20241031160000 +0200" channel="gametoon.tv">
+    <title>World Trigger, odc. 6</title>
+  </programme>
+  <programme start="20241031160000 +0200" stop="20241031164000 +0200" channel="gametoon.tv">
+    <title>World Trigger, odc. 7</title>
+  </programme>
+  <programme start="20241031164000 +0200" stop="20241031165000 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241031165000 +0200" stop="20241031173000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 43</title>
+  </programme>
+  <programme start="20241031173000 +0200" stop="20241031182500 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 44</title>
+  </programme>
+  <programme start="20241031182500 +0200" stop="20241031183500 +0200" channel="gametoon.tv">
+    <title>Epic Indie</title>
+  </programme>
+  <programme start="20241031183500 +0200" stop="20241031184500 +0200" channel="gametoon.tv">
+    <title>Gildia Smaków</title>
+  </programme>
+  <programme start="20241031184500 +0200" stop="20241031191000 +0200" channel="gametoon.tv">
+    <title>Board News</title>
+  </programme>
+  <programme start="20241031191000 +0200" stop="20241031200000 +0200" channel="gametoon.tv">
+    <title>B2sim - biznesowe Mistrzostwa Simracingowe</title>
+  </programme>
+  <programme start="20241031200000 +0200" stop="20241031203000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Monster Hunter: Rise, część 14</title>
+  </programme>
+  <programme start="20241031203000 +0200" stop="20241031210000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Hogwart's Legacy, część 14</title>
+  </programme>
+  <programme start="20241031210000 +0200" stop="20241031213500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Road 96, część 4</title>
+  </programme>
+  <programme start="20241031213500 +0200" stop="20241031220500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Star Wars Jedi: Ocalały, część 12</title>
+  </programme>
+  <programme start="20241031220500 +0200" stop="20241031223500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Kangurek Kao, część 15</title>
+  </programme>
+  <programme start="20241031223500 +0200" stop="20241031225500 +0200" channel="gametoon.tv">
+    <title>Let's Replay: Crossout, część 4</title>
+  </programme>
+  <programme start="20241031225500 +0200" stop="20241031232500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Legion Samobójców: Śmierć Lidze Sprawiedliwości, część 20</title>
+  </programme>
+  <programme start="20241031232500 +0200" stop="20241031235500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Wiedźmin 3: Dziki Gon, część 36</title>
+  </programme>
+  <programme start="20241031235500 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 43</title>
+  </programme>
   <programme start="20241028000000 +0200" stop="20241028020000 +0200" channel="aspor.tr">
     <title lang="tr">-</title>
   </programme>
@@ -9032,9 +9519,6 @@
   <programme start="20241031230000 +0200" stop="20241101000000 +0200" channel="sportklub2.rs">
     <title>No information</title>
   </programme>
-  <programme start="20241101000000 +0200" channel="sportklub2.rs">
-    <title>No information</title>
-  </programme>
   <programme start="20241028020000 +0200" stop="20241028041500 +0200" channel="sportklub3.rs">
     <title>Američki koledž fudbal: Alabama - Missouri</title>
     <desc>Koledž fudbal je američki fudbal koji igraju timovi sportista-studenata u okviru američkih koledža, univerziteta i vojnih akademija. Univerzitetski fudbal je jedna stepenica niže u odnosu na...</desc>
@@ -9300,9 +9784,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241031230000 +0200" stop="20241101000000 +0200" channel="sportklub3.rs">
-    <title>No information</title>
-  </programme>
-  <programme start="20241101000000 +0200" channel="sportklub3.rs">
     <title>No information</title>
   </programme>
   <programme start="20241028031500 +0200" stop="20241028033500 +0200" channel="sportklub1.hr">
@@ -9577,9 +10058,6 @@
   <programme start="20241031230000 +0200" stop="20241101000000 +0200" channel="sportklub1.hr">
     <title>No information</title>
   </programme>
-  <programme start="20241101000000 +0200" channel="sportklub1.hr">
-    <title>No information</title>
-  </programme>
   <programme start="20241028030000 +0200" stop="20241028043500 +0200" channel="sportklub2.hr">
     <title>Odbojka - Talijanska liga (ž): Cuneo - Milano</title>
     <desc>Kao i kod muške odbojkaške lige u Italiji, ženska odbojkaška liga se smatra jednom od najkvalitetnijih natjecanja na svijetu. Pravi ljubitelji odbojke sigurno neće propustiti ovo natjecanje!</desc>
@@ -9835,9 +10313,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241031230000 +0200" stop="20241101000000 +0200" channel="sportklub2.hr">
-    <title>No information</title>
-  </programme>
-  <programme start="20241101000000 +0200" channel="sportklub2.hr">
     <title>No information</title>
   </programme>
   <programme start="20241028020000 +0200" stop="20241028041500 +0200" channel="sportklub3.hr">
@@ -10105,9 +10580,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241031230000 +0200" stop="20241101000000 +0200" channel="sportklub3.hr">
-    <title>No information</title>
-  </programme>
-  <programme start="20241101000000 +0200" channel="sportklub3.hr">
     <title>No information</title>
   </programme>
   <programme start="20241028000000 +0200" stop="20241028021500 +0200" channel="sportklub4.hr">
@@ -10388,9 +10860,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241031230000 +0200" stop="20241101000000 +0200" channel="sportklub4.hr">
-    <title>No information</title>
-  </programme>
-  <programme start="20241101000000 +0200" channel="sportklub4.hr">
     <title>No information</title>
   </programme>
   <programme start="20241028000000 +0200" stop="20241028020000 +0200" channel="sportklub5.hr">
@@ -10753,10 +11222,6 @@
     <title>Sport Klub 5 Promo 3</title>
     <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
   </programme>
-  <programme start="20241101000000 +0200" channel="sportklub5.hr">
-    <title>Sport Klub 5 Promo 4</title>
-    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
-  </programme>
   <programme start="20241028000000 +0200" stop="20241028020000 +0200" channel="sportklub6.hr">
     <title>Sport Klub 6 Promo 4</title>
     <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
@@ -11115,10 +11580,6 @@
   </programme>
   <programme start="20241031230000 +0200" stop="20241101000000 +0200" channel="sportklub6.hr">
     <title>Sport Klub 6 Promo 3</title>
-    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
-  </programme>
-  <programme start="20241101000000 +0200" channel="sportklub6.hr">
-    <title>Sport Klub 6 Promo 4</title>
     <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
   </programme>
   <programme start="20241028055000 +0200" stop="20241028073000 +0200" channel="ligadecampeones.mplus.es">

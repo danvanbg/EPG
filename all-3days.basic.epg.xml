@@ -273,14 +273,6 @@
     <display-name>Max Sport 4 HD</display-name>
     <display-name>Max Sport 4 LQ</display-name>
   </channel>
-  <channel id="sportal.bg">
-    <display-name>Sportal HD</display-name>
-    <display-name>Sportal TV</display-name>
-  </channel>
-  <channel id="b1b.tv">
-    <display-name>B1B Action HD</display-name>
-    <display-name>B1B TV</display-name>
-  </channel>
   <channel id="eurosport1.bg">
     <display-name>Eurosport</display-name>
     <display-name>Eurosport HD</display-name>
@@ -12489,6 +12481,378 @@
   </programme>
   <programme start="20241030235000 +0200" stop="20241031060000 +0200" channel="konnyimir.ru">
     <title lang="ru">PRO_Лошадей. Наследие Жетона (0+)</title>
+  </programme>
+  <programme start="20241028043000 +0200" stop="20241028051500 +0200" channel="gametoon.tv">
+    <title>Gramy z Głową</title>
+  </programme>
+  <programme start="20241028051500 +0200" stop="20241028060000 +0200" channel="gametoon.tv">
+    <title>Gramy z Głową</title>
+  </programme>
+  <programme start="20241028060000 +0200" stop="20241028070000 +0200" channel="gametoon.tv">
+    <title>Gramy z Głową</title>
+  </programme>
+  <programme start="20241028070000 +0200" stop="20241028072500 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Carbon Studio</title>
+  </programme>
+  <programme start="20241028072500 +0200" stop="20241028080000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 40</title>
+  </programme>
+  <programme start="20241028080000 +0200" stop="20241028084500 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 41</title>
+  </programme>
+  <programme start="20241028084500 +0200" stop="20241028085500 +0200" channel="gametoon.tv">
+    <title>Gildia Smaków</title>
+  </programme>
+  <programme start="20241028085500 +0200" stop="20241028091500 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Carbon Studio</title>
+  </programme>
+  <programme start="20241028091500 +0200" stop="20241028093000 +0200" channel="gametoon.tv">
+    <title>TVGry</title>
+  </programme>
+  <programme start="20241028093000 +0200" stop="20241028100000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Neighbours back From Hell, część 6</title>
+  </programme>
+  <programme start="20241028100000 +0200" stop="20241028101000 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241028101000 +0200" stop="20241028103000 +0200" channel="gametoon.tv">
+    <title>Board News</title>
+  </programme>
+  <programme start="20241028103000 +0200" stop="20241028104000 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Immersion, Vol2 część 1</title>
+  </programme>
+  <programme start="20241028104000 +0200" stop="20241028105000 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Immersion, Vol2 część 2</title>
+  </programme>
+  <programme start="20241028105000 +0200" stop="20241028111500 +0200" channel="gametoon.tv">
+    <title>TVGry</title>
+  </programme>
+  <programme start="20241028111500 +0200" stop="20241028115500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Star Wars: Squadrons, część 1</title>
+  </programme>
+  <programme start="20241028115500 +0200" stop="20241028123500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: SnowRunner, część 8</title>
+  </programme>
+  <programme start="20241028123500 +0200" stop="20241028131000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Biomutant, część 2</title>
+  </programme>
+  <programme start="20241028131000 +0200" stop="20241028134500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Immortals Fenyx Rising: Mity Wschodniego Królestwa, część 3</title>
+  </programme>
+  <programme start="20241028134500 +0200" stop="20241028135500 +0200" channel="gametoon.tv">
+    <title>Sim Racing Challenge 2022</title>
+  </programme>
+  <programme start="20241028135500 +0200" stop="20241028143000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Hades, część 11</title>
+  </programme>
+  <programme start="20241028143000 +0200" stop="20241028150000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Solar Ash, część 20</title>
+  </programme>
+  <programme start="20241028150000 +0200" stop="20241028151500 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Live Motion Games część 1</title>
+  </programme>
+  <programme start="20241028151500 +0200" stop="20241028155000 +0200" channel="gametoon.tv">
+    <title>World Trigger, odc. 3</title>
+  </programme>
+  <programme start="20241028155000 +0200" stop="20241028160000 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241028160000 +0200" stop="20241028163500 +0200" channel="gametoon.tv">
+    <title>World Trigger, odc. 4</title>
+  </programme>
+  <programme start="20241028163500 +0200" stop="20241028165000 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Pyramid Games, część 1</title>
+  </programme>
+  <programme start="20241028165000 +0200" stop="20241028173000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 40</title>
+  </programme>
+  <programme start="20241028173000 +0200" stop="20241028182000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 41</title>
+  </programme>
+  <programme start="20241028182000 +0200" stop="20241028183000 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241028183000 +0200" stop="20241028184500 +0200" channel="gametoon.tv">
+    <title>Gildia Smaków</title>
+  </programme>
+  <programme start="20241028184500 +0200" stop="20241028191000 +0200" channel="gametoon.tv">
+    <title>Board News</title>
+  </programme>
+  <programme start="20241028191000 +0200" stop="20241028200000 +0200" channel="gametoon.tv">
+    <title>B2sim - biznesowe Mistrzostwa Simracingowe</title>
+  </programme>
+  <programme start="20241028200000 +0200" stop="20241028203000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Monster Hunter: Rise, część 11</title>
+  </programme>
+  <programme start="20241028203000 +0200" stop="20241028210000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Hogwart's Legacy, część 11</title>
+  </programme>
+  <programme start="20241028210000 +0200" stop="20241028213000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Road 96, część 1</title>
+  </programme>
+  <programme start="20241028213000 +0200" stop="20241028220500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Star Wars Jedi: Ocalały, część 9</title>
+  </programme>
+  <programme start="20241028220500 +0200" stop="20241028223500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Kangurek Kao, część 12</title>
+  </programme>
+  <programme start="20241028223500 +0200" stop="20241028225500 +0200" channel="gametoon.tv">
+    <title>Let's Replay: Crossout, część 1</title>
+  </programme>
+  <programme start="20241028225500 +0200" stop="20241028232500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Legion Samobójców: Śmierć Lidze Sprawiedliwości, część 17</title>
+  </programme>
+  <programme start="20241028232500 +0200" stop="20241029041000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Wiedźmin 3: Dziki Gon, część 33</title>
+  </programme>
+  <programme start="20241029041000 +0200" stop="20241029050500 +0200" channel="gametoon.tv">
+    <title>Gametoon Arena 2: CS: GO</title>
+  </programme>
+  <programme start="20241029050500 +0200" stop="20241029061500 +0200" channel="gametoon.tv">
+    <title>Gametoon Arena 2: CS: GO</title>
+  </programme>
+  <programme start="20241029061500 +0200" stop="20241029070000 +0200" channel="gametoon.tv">
+    <title>Let's Replay: Crossout, część 7</title>
+  </programme>
+  <programme start="20241029070000 +0200" stop="20241029072500 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Drago Entertainment</title>
+  </programme>
+  <programme start="20241029072500 +0200" stop="20241029080000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 41</title>
+  </programme>
+  <programme start="20241029080000 +0200" stop="20241029084500 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 42</title>
+  </programme>
+  <programme start="20241029084500 +0200" stop="20241029085500 +0200" channel="gametoon.tv">
+    <title>Gildia Smaków</title>
+  </programme>
+  <programme start="20241029085500 +0200" stop="20241029091000 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Drago Entertainment</title>
+  </programme>
+  <programme start="20241029091000 +0200" stop="20241029093000 +0200" channel="gametoon.tv">
+    <title>TVGry</title>
+  </programme>
+  <programme start="20241029093000 +0200" stop="20241029100000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Neighbours back From Hell, część 7</title>
+  </programme>
+  <programme start="20241029100000 +0200" stop="20241029101500 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241029101500 +0200" stop="20241029103500 +0200" channel="gametoon.tv">
+    <title>Board News</title>
+  </programme>
+  <programme start="20241029103500 +0200" stop="20241029105500 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Immersion Vr część 1</title>
+  </programme>
+  <programme start="20241029105500 +0200" stop="20241029111500 +0200" channel="gametoon.tv">
+    <title>TVGry</title>
+  </programme>
+  <programme start="20241029111500 +0200" stop="20241029115500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Star Wars: Squadrons, część 2</title>
+  </programme>
+  <programme start="20241029115500 +0200" stop="20241029123500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: SnowRunner, część 9</title>
+  </programme>
+  <programme start="20241029123500 +0200" stop="20241029131500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Biomutant, część 3</title>
+  </programme>
+  <programme start="20241029131500 +0200" stop="20241029135000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Immortals Fenyx Rising: Mity Wschodniego Królestwa, część 4</title>
+  </programme>
+  <programme start="20241029135000 +0200" stop="20241029140000 +0200" channel="gametoon.tv">
+    <title>Sim Racing Challenge 2022</title>
+  </programme>
+  <programme start="20241029140000 +0200" stop="20241029143000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: One Hand Clapping, część 2</title>
+  </programme>
+  <programme start="20241029143000 +0200" stop="20241029144000 +0200" channel="gametoon.tv">
+    <title>Sim Racing Challenge 2022</title>
+  </programme>
+  <programme start="20241029144000 +0200" stop="20241029150500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Solar Ash, część 21</title>
+  </programme>
+  <programme start="20241029150500 +0200" stop="20241029151500 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Live Motion Games część 2</title>
+  </programme>
+  <programme start="20241029151500 +0200" stop="20241029155000 +0200" channel="gametoon.tv">
+    <title>World Trigger, odc. 4</title>
+  </programme>
+  <programme start="20241029155000 +0200" stop="20241029160000 +0200" channel="gametoon.tv">
+    <title>Actionland</title>
+  </programme>
+  <programme start="20241029160000 +0200" stop="20241029164000 +0200" channel="gametoon.tv">
+    <title>World Trigger, odc. 5</title>
+  </programme>
+  <programme start="20241029164000 +0200" stop="20241029165000 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Pyramid Games, część 2</title>
+  </programme>
+  <programme start="20241029165000 +0200" stop="20241029173000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 41</title>
+  </programme>
+  <programme start="20241029173000 +0200" stop="20241029182500 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 42</title>
+  </programme>
+  <programme start="20241029182500 +0200" stop="20241029183500 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241029183500 +0200" stop="20241029184500 +0200" channel="gametoon.tv">
+    <title>Gildia Smaków</title>
+  </programme>
+  <programme start="20241029184500 +0200" stop="20241029191000 +0200" channel="gametoon.tv">
+    <title>Board News</title>
+  </programme>
+  <programme start="20241029191000 +0200" stop="20241029200000 +0200" channel="gametoon.tv">
+    <title>B2sim - biznesowe Mistrzostwa Simracingowe</title>
+  </programme>
+  <programme start="20241029200000 +0200" stop="20241029203000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Monster Hunter: Rise, część 12</title>
+  </programme>
+  <programme start="20241029203000 +0200" stop="20241029210000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Hogwart's Legacy, część 12</title>
+  </programme>
+  <programme start="20241029210000 +0200" stop="20241029213000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Road 96, część 2</title>
+  </programme>
+  <programme start="20241029213000 +0200" stop="20241029220500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Star Wars Jedi: Ocalały, część 10</title>
+  </programme>
+  <programme start="20241029220500 +0200" stop="20241029223500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Kangurek Kao, część 13</title>
+  </programme>
+  <programme start="20241029223500 +0200" stop="20241029230000 +0200" channel="gametoon.tv">
+    <title>Let's Replay: Crossout, część 2</title>
+  </programme>
+  <programme start="20241029230000 +0200" stop="20241029233000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Legion Samobójców: Śmierć Lidze Sprawiedliwości, część 18</title>
+  </programme>
+  <programme start="20241029233000 +0200" stop="20241030042000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Wiedźmin 3: Dziki Gon, część 34</title>
+  </programme>
+  <programme start="20241030042000 +0200" stop="20241030051500 +0200" channel="gametoon.tv">
+    <title>Gametoon Arena 2: CS: GO</title>
+  </programme>
+  <programme start="20241030051500 +0200" stop="20241030062000 +0200" channel="gametoon.tv">
+    <title>Gametoon Arena 2: World Of Tanks: Część 1</title>
+  </programme>
+  <programme start="20241030062000 +0200" stop="20241030070000 +0200" channel="gametoon.tv">
+    <title>Let's Replay: Crossout, część 8</title>
+  </programme>
+  <programme start="20241030070000 +0200" stop="20241030072000 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: EPIC VR, część 1</title>
+  </programme>
+  <programme start="20241030072000 +0200" stop="20241030080000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 42</title>
+  </programme>
+  <programme start="20241030080000 +0200" stop="20241030085500 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 43</title>
+  </programme>
+  <programme start="20241030085500 +0200" stop="20241030091000 +0200" channel="gametoon.tv">
+    <title>Gildia Smaków</title>
+  </programme>
+  <programme start="20241030091000 +0200" stop="20241030092500 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Forestlight Games, część 1</title>
+  </programme>
+  <programme start="20241030092500 +0200" stop="20241030094000 +0200" channel="gametoon.tv">
+    <title>TVGry</title>
+  </programme>
+  <programme start="20241030094000 +0200" stop="20241030101000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Neighbours back From Hell, część 8</title>
+  </programme>
+  <programme start="20241030101000 +0200" stop="20241030102000 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241030102000 +0200" stop="20241030104000 +0200" channel="gametoon.tv">
+    <title>Board News</title>
+  </programme>
+  <programme start="20241030104000 +0200" stop="20241030105500 +0200" channel="gametoon.tv">
+    <title>Sim Racing Challenge 2022</title>
+  </programme>
+  <programme start="20241030105500 +0200" stop="20241030111500 +0200" channel="gametoon.tv">
+    <title>TVGry</title>
+  </programme>
+  <programme start="20241030111500 +0200" stop="20241030115500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Star Wars: Squadrons, część 3</title>
+  </programme>
+  <programme start="20241030115500 +0200" stop="20241030123500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: SnowRunner, część 10</title>
+  </programme>
+  <programme start="20241030123500 +0200" stop="20241030130500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Biomutant, część 4</title>
+  </programme>
+  <programme start="20241030130500 +0200" stop="20241030134000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Immortals Fenyx Rising: Mity Wschodniego Królestwa, część 5</title>
+  </programme>
+  <programme start="20241030134000 +0200" stop="20241030135500 +0200" channel="gametoon.tv">
+    <title>Sim Racing Challenge 2022</title>
+  </programme>
+  <programme start="20241030135500 +0200" stop="20241030142500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: One Hand Clapping, część 3</title>
+  </programme>
+  <programme start="20241030142500 +0200" stop="20241030143500 +0200" channel="gametoon.tv">
+    <title>Sim Racing Challenge 2022</title>
+  </programme>
+  <programme start="20241030143500 +0200" stop="20241030150500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Solar Ash, część 22</title>
+  </programme>
+  <programme start="20241030150500 +0200" stop="20241030152000 +0200" channel="gametoon.tv">
+    <title>Projekt Wywiad: Movie Games, część 1</title>
+  </programme>
+  <programme start="20241030152000 +0200" stop="20241030155000 +0200" channel="gametoon.tv">
+    <title>World Trigger, odc. 5</title>
+  </programme>
+  <programme start="20241030155000 +0200" stop="20241030160000 +0200" channel="gametoon.tv">
+    <title>Epic Indie</title>
+  </programme>
+  <programme start="20241030160000 +0200" stop="20241030164000 +0200" channel="gametoon.tv">
+    <title>World Trigger, odc. 6</title>
+  </programme>
+  <programme start="20241030164000 +0200" stop="20241030165000 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241030165000 +0200" stop="20241030173000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 42</title>
+  </programme>
+  <programme start="20241030173000 +0200" stop="20241030182000 +0200" channel="gametoon.tv">
+    <title>Dragon Ball, odc. 43</title>
+  </programme>
+  <programme start="20241030182000 +0200" stop="20241030183500 +0200" channel="gametoon.tv">
+    <title>Actionland</title>
+  </programme>
+  <programme start="20241030183500 +0200" stop="20241030184500 +0200" channel="gametoon.tv">
+    <title>Gildia Smaków</title>
+  </programme>
+  <programme start="20241030184500 +0200" stop="20241030190500 +0200" channel="gametoon.tv">
+    <title>Board News</title>
+  </programme>
+  <programme start="20241030190500 +0200" stop="20241030200000 +0200" channel="gametoon.tv">
+    <title>B2sim - biznesowe Mistrzostwa Simracingowe</title>
+  </programme>
+  <programme start="20241030200000 +0200" stop="20241030203000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Monster Hunter: Rise, część 13</title>
+  </programme>
+  <programme start="20241030203000 +0200" stop="20241030210000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Hogwart's Legacy, część 13</title>
+  </programme>
+  <programme start="20241030210000 +0200" stop="20241030213000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Road 96, część 3</title>
+  </programme>
+  <programme start="20241030213000 +0200" stop="20241030220500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Star Wars Jedi: Ocalały, część 11</title>
+  </programme>
+  <programme start="20241030220500 +0200" stop="20241030221500 +0200" channel="gametoon.tv">
+    <title>Gametoon Spotlight</title>
+  </programme>
+  <programme start="20241030221500 +0200" stop="20241030224500 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Kangurek Kao, część 14</title>
+  </programme>
+  <programme start="20241030224500 +0200" stop="20241030231000 +0200" channel="gametoon.tv">
+    <title>Let's Replay: Crossout, część 3</title>
+  </programme>
+  <programme start="20241030231000 +0200" stop="20241030234000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Legion Samobójców: Śmierć Lidze Sprawiedliwości, część 19</title>
+  </programme>
+  <programme start="20241030234000 +0200" stop="20241031043000 +0200" channel="gametoon.tv">
+    <title>Stream Nation: Wiedźmin 3: Dziki Gon, część 35</title>
   </programme>
   <programme start="20241028000000 +0200" stop="20241028020000 +0200" channel="aspor.tr">
     <title lang="tr">-</title>
@@ -51838,6 +52202,159 @@
   <programme start="20241030233000 +0200" stop="20241031041500 +0200" channel="erox.spiintl.com">
     <title>My Teen Darling</title>
   </programme>
+  <programme start="20241028050000 +0200" stop="20241028064000 +0200" channel="eroxxx.spiintl.com">
+    <title>Fairytale Garden</title>
+  </programme>
+  <programme start="20241028064000 +0200" stop="20241028070000 +0200" channel="eroxxx.spiintl.com">
+    <title>Make Me Sweat 1</title>
+  </programme>
+  <programme start="20241028070000 +0200" stop="20241028084500 +0200" channel="eroxxx.spiintl.com">
+    <title>Blind Date Swingers</title>
+  </programme>
+  <programme start="20241028084500 +0200" stop="20241028102500 +0200" channel="eroxxx.spiintl.com">
+    <title>Body 2 Body</title>
+  </programme>
+  <programme start="20241028102500 +0200" stop="20241028124500 +0200" channel="eroxxx.spiintl.com">
+    <title>Sugar Fuck Candy</title>
+  </programme>
+  <programme start="20241028124500 +0200" stop="20241028145000 +0200" channel="eroxxx.spiintl.com">
+    <title>Sexual Encounters</title>
+  </programme>
+  <programme start="20241028145000 +0200" stop="20241028164500 +0200" channel="eroxxx.spiintl.com">
+    <title>Paparazzi: Die dreistesten Fotografen der Geschichte</title>
+  </programme>
+  <programme start="20241028164500 +0200" stop="20241028185000 +0200" channel="eroxxx.spiintl.com">
+    <title>Horny and Juicy</title>
+  </programme>
+  <programme start="20241028185000 +0200" stop="20241028205000 +0200" channel="eroxxx.spiintl.com">
+    <title>Erotic Desire</title>
+  </programme>
+  <programme start="20241028205000 +0200" stop="20241028211500 +0200" channel="eroxxx.spiintl.com">
+    <title>Steamy Stories 1</title>
+  </programme>
+  <programme start="20241028211500 +0200" stop="20241028215000 +0200" channel="eroxxx.spiintl.com">
+    <title>Steamy Stories 2</title>
+  </programme>
+  <programme start="20241028215000 +0200" stop="20241028221500 +0200" channel="eroxxx.spiintl.com">
+    <title>Steamy Stories 3</title>
+  </programme>
+  <programme start="20241028221500 +0200" stop="20241028235000 +0200" channel="eroxxx.spiintl.com">
+    <title>Raw Instinct</title>
+  </programme>
+  <programme start="20241028235000 +0200" stop="20241029053500 +0200" channel="eroxxx.spiintl.com">
+    <title>Nonstop Nookie</title>
+  </programme>
+  <programme start="20241029053500 +0200" stop="20241029070000 +0200" channel="eroxxx.spiintl.com">
+    <title>Lesbian Sextivities</title>
+  </programme>
+  <programme start="20241029070000 +0200" stop="20241029073500 +0200" channel="eroxxx.spiintl.com">
+    <title>The Artist 1</title>
+  </programme>
+  <programme start="20241029073500 +0200" stop="20241029081000 +0200" channel="eroxxx.spiintl.com">
+    <title>The Artist 2</title>
+  </programme>
+  <programme start="20241029081000 +0200" stop="20241029084500 +0200" channel="eroxxx.spiintl.com">
+    <title>The Artist 3</title>
+  </programme>
+  <programme start="20241029084500 +0200" stop="20241029103000 +0200" channel="eroxxx.spiintl.com">
+    <title>Sporty Girls</title>
+  </programme>
+  <programme start="20241029103000 +0200" stop="20241029123500 +0200" channel="eroxxx.spiintl.com">
+    <title>Sex in Venice</title>
+  </programme>
+  <programme start="20241029123500 +0200" stop="20241029141500 +0200" channel="eroxxx.spiintl.com">
+    <title>Lesbian Footlovers</title>
+  </programme>
+  <programme start="20241029141500 +0200" stop="20241029144500 +0200" channel="eroxxx.spiintl.com">
+    <title>Confessions of a Sinner 1</title>
+  </programme>
+  <programme start="20241029144500 +0200" stop="20241029152000 +0200" channel="eroxxx.spiintl.com">
+    <title>Confessions of a Sinner 3</title>
+  </programme>
+  <programme start="20241029152000 +0200" stop="20241029174500 +0200" channel="eroxxx.spiintl.com">
+    <title>Anal Debauchery 3</title>
+  </programme>
+  <programme start="20241029174500 +0200" stop="20241029181500 +0200" channel="eroxxx.spiintl.com">
+    <title>Black Obsession 1</title>
+  </programme>
+  <programme start="20241029181500 +0200" stop="20241029184500 +0200" channel="eroxxx.spiintl.com">
+    <title>Black Obsession 2</title>
+  </programme>
+  <programme start="20241029184500 +0200" stop="20241029192000 +0200" channel="eroxxx.spiintl.com">
+    <title>Black Obsession 3</title>
+  </programme>
+  <programme start="20241029192000 +0200" stop="20241029212000 +0200" channel="eroxxx.spiintl.com">
+    <title>Hot and Nasty</title>
+  </programme>
+  <programme start="20241029212000 +0200" stop="20241029215500 +0200" channel="eroxxx.spiintl.com">
+    <title>The Passionate Three 1</title>
+  </programme>
+  <programme start="20241029215500 +0200" stop="20241029222500 +0200" channel="eroxxx.spiintl.com">
+    <title>The Passionate Three 2</title>
+  </programme>
+  <programme start="20241029222500 +0200" stop="20241029225000 +0200" channel="eroxxx.spiintl.com">
+    <title>The Passionate Three 3</title>
+  </programme>
+  <programme start="20241029225000 +0200" stop="20241030040000 +0200" channel="eroxxx.spiintl.com">
+    <title>Sweat On</title>
+  </programme>
+  <programme start="20241030040000 +0200" stop="20241030054000 +0200" channel="eroxxx.spiintl.com">
+    <title>Room Full of Mirrors</title>
+  </programme>
+  <programme start="20241030054000 +0200" stop="20241030061500 +0200" channel="eroxxx.spiintl.com">
+    <title>Sexy And She Knows It 1</title>
+  </programme>
+  <programme start="20241030061500 +0200" stop="20241030070000 +0200" channel="eroxxx.spiintl.com">
+    <title>Sexy And She Knows It 2</title>
+  </programme>
+  <programme start="20241030070000 +0200" stop="20241030073000 +0200" channel="eroxxx.spiintl.com">
+    <title>Sexy And She Knows It 3</title>
+  </programme>
+  <programme start="20241030073000 +0200" stop="20241030095000 +0200" channel="eroxxx.spiintl.com">
+    <title>Fucked &amp; Disorderly</title>
+  </programme>
+  <programme start="20241030095000 +0200" stop="20241030115000 +0200" channel="eroxxx.spiintl.com">
+    <title>Dirty Little Club Sluts</title>
+  </programme>
+  <programme start="20241030115000 +0200" stop="20241030135000 +0200" channel="eroxxx.spiintl.com">
+    <title>Erotic Desire</title>
+  </programme>
+  <programme start="20241030135000 +0200" stop="20241030151000 +0200" channel="eroxxx.spiintl.com">
+    <title>Lesbian Sextivities</title>
+  </programme>
+  <programme start="20241030151000 +0200" stop="20241030154500 +0200" channel="eroxxx.spiintl.com">
+    <title>Seduced by the Boss 1</title>
+  </programme>
+  <programme start="20241030154500 +0200" stop="20241030162500 +0200" channel="eroxxx.spiintl.com">
+    <title>Seduced by the Boss 2</title>
+  </programme>
+  <programme start="20241030162500 +0200" stop="20241030190000 +0200" channel="eroxxx.spiintl.com">
+    <title>Young Harlots - Dirty Business</title>
+  </programme>
+  <programme start="20241030190000 +0200" stop="20241030193500 +0200" channel="eroxxx.spiintl.com">
+    <title>Wet! 1</title>
+  </programme>
+  <programme start="20241030193500 +0200" stop="20241030200500 +0200" channel="eroxxx.spiintl.com">
+    <title>Wet! 2</title>
+  </programme>
+  <programme start="20241030200500 +0200" stop="20241030203500 +0200" channel="eroxxx.spiintl.com">
+    <title>Wet! 3</title>
+  </programme>
+  <programme start="20241030203500 +0200" stop="20241030220500 +0200" channel="eroxxx.spiintl.com">
+    <title>Angels Boutique</title>
+  </programme>
+  <programme start="20241030220500 +0200" stop="20241030223500 +0200" channel="eroxxx.spiintl.com">
+    <title>Hot Water 1</title>
+  </programme>
+  <programme start="20241030223500 +0200" stop="20241030231000 +0200" channel="eroxxx.spiintl.com">
+    <title>Hot Water 2</title>
+  </programme>
+  <programme start="20241030231000 +0200" stop="20241030235000 +0200" channel="eroxxx.spiintl.com">
+    <title>Hot Water 3</title>
+  </programme>
+  <programme start="20241030235000 +0200" stop="20241031040000 +0200" channel="eroxxx.spiintl.com">
+    <title>Sinful Detective</title>
+  </programme>
   <programme start="20241028045000 +0200" stop="20241028052100 +0200" channel="dorceltv.com">
     <title>Geisha 4 you</title>
   </programme>
@@ -55788,6 +56305,681 @@
   </programme>
   <programme start="20241030235500 +0200" stop="20241031030500 +0200" channel="france3.fr">
     <title lang="fr">Journal Météo Climat</title>
+  </programme>
+  <programme start="20241028024500 +0200" stop="20241028042000 +0200" channel="france4.fr">
+    <title lang="fr">Islands</title>
+  </programme>
+  <programme start="20241028042000 +0200" stop="20241028054500 +0200" channel="france4.fr">
+    <title lang="fr">Le Requiem de Verdi</title>
+  </programme>
+  <programme start="20241028054500 +0200" stop="20241028060500 +0200" channel="france4.fr">
+    <title lang="fr">Les matinales</title>
+  </programme>
+  <programme start="20241028060500 +0200" stop="20241028062500 +0200" channel="france4.fr">
+    <title lang="fr">Foot 2 rue</title>
+  </programme>
+  <programme start="20241028062500 +0200" stop="20241028064500 +0200" channel="france4.fr">
+    <title lang="fr">Foot 2 rue</title>
+  </programme>
+  <programme start="20241028064500 +0200" stop="20241028070500 +0200" channel="france4.fr">
+    <title lang="fr">Foot 2 rue</title>
+  </programme>
+  <programme start="20241028070500 +0200" stop="20241028073000 +0200" channel="france4.fr">
+    <title lang="fr">Foot 2 rue</title>
+  </programme>
+  <programme start="20241028073000 +0200" stop="20241028075000 +0200" channel="france4.fr">
+    <title lang="fr">L'armure de Jade</title>
+  </programme>
+  <programme start="20241028075000 +0200" stop="20241028075500 +0200" channel="france4.fr">
+    <title lang="fr">Végétosaures</title>
+  </programme>
+  <programme start="20241028075500 +0200" stop="20241028080300 +0200" channel="france4.fr">
+    <title lang="fr">Un jour, une question</title>
+  </programme>
+  <programme start="20241028080300 +0200" stop="20241028080400 +0200" channel="france4.fr">
+    <title lang="fr">Héros à moitié</title>
+  </programme>
+  <programme start="20241028080400 +0200" stop="20241028082400 +0200" channel="france4.fr">
+    <title lang="fr">Héros à moitié</title>
+  </programme>
+  <programme start="20241028082400 +0200" stop="20241028082600 +0200" channel="france4.fr">
+    <title lang="fr">Héros à moitié</title>
+  </programme>
+  <programme start="20241028082600 +0200" stop="20241028084700 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241028084700 +0200" stop="20241028084800 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241028084800 +0200" stop="20241028090800 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241028090800 +0200" stop="20241028092000 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241028092000 +0200" stop="20241028094200 +0200" channel="france4.fr">
+    <title lang="fr">Mystery Lane</title>
+  </programme>
+  <programme start="20241028094200 +0200" stop="20241028095500 +0200" channel="france4.fr">
+    <title lang="fr">Mystery Lane</title>
+  </programme>
+  <programme start="20241028095500 +0200" stop="20241028101600 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241028101600 +0200" stop="20241028101700 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241028101700 +0200" stop="20241028103700 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241028103700 +0200" stop="20241028104800 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241028104800 +0200" stop="20241028105000 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241028105000 +0200" stop="20241028111100 +0200" channel="france4.fr">
+    <title lang="fr">Potobot</title>
+  </programme>
+  <programme start="20241028111100 +0200" stop="20241028111200 +0200" channel="france4.fr">
+    <title lang="fr">Potobot</title>
+  </programme>
+  <programme start="20241028111200 +0200" stop="20241028113200 +0200" channel="france4.fr">
+    <title lang="fr">Potobot</title>
+  </programme>
+  <programme start="20241028113200 +0200" stop="20241028114300 +0200" channel="france4.fr">
+    <title lang="fr">Potobot</title>
+  </programme>
+  <programme start="20241028114300 +0200" stop="20241028115500 +0200" channel="france4.fr">
+    <title lang="fr">Potobot</title>
+  </programme>
+  <programme start="20241028115500 +0200" stop="20241028115700 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241028115700 +0200" stop="20241028121700 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241028121700 +0200" stop="20241028122800 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241028122800 +0200" stop="20241028123900 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241028123900 +0200" stop="20241028124000 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241028124000 +0200" stop="20241028125500 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241028125500 +0200" stop="20241028130400 +0200" channel="france4.fr">
+    <title lang="fr">Manger, bouger, dormir</title>
+  </programme>
+  <programme start="20241028130400 +0200" stop="20241028132600 +0200" channel="france4.fr">
+    <title lang="fr">Les Croods (Pré)histoires de famille</title>
+  </programme>
+  <programme start="20241028132600 +0200" stop="20241028134800 +0200" channel="france4.fr">
+    <title lang="fr">Les Croods (Pré)histoires de famille</title>
+  </programme>
+  <programme start="20241028134800 +0200" stop="20241028140000 +0200" channel="france4.fr">
+    <title lang="fr">Les Croods (Pré)histoires de famille</title>
+  </programme>
+  <programme start="20241028140000 +0200" stop="20241028142500 +0200" channel="france4.fr">
+    <title lang="fr">Les Croods (Pré)histoires de famille</title>
+  </programme>
+  <programme start="20241028142500 +0200" stop="20241028143500 +0200" channel="france4.fr">
+    <title lang="fr">Un jour, une question</title>
+  </programme>
+  <programme start="20241028143500 +0200" stop="20241028144200 +0200" channel="france4.fr">
+    <title lang="fr">Il était une fois... ces drôles d'obj...</title>
+  </programme>
+  <programme start="20241028144200 +0200" stop="20241028144500 +0200" channel="france4.fr">
+    <title lang="fr">Il était une fois... ces drôles d'obj...</title>
+  </programme>
+  <programme start="20241028144500 +0200" stop="20241028151500 +0200" channel="france4.fr">
+    <title lang="fr">C'est toujours pas sorcier</title>
+  </programme>
+  <programme start="20241028151500 +0200" stop="20241028162500 +0200" channel="france4.fr">
+    <title lang="fr">Scooby-Doo : la malédiction du pilote...</title>
+  </programme>
+  <programme start="20241028162500 +0200" stop="20241028163600 +0200" channel="france4.fr">
+    <title lang="fr">Le refuge d'Audrey</title>
+  </programme>
+  <programme start="20241028163600 +0200" stop="20241028165600 +0200" channel="france4.fr">
+    <title lang="fr">Le refuge d'Audrey</title>
+  </programme>
+  <programme start="20241028165600 +0200" stop="20241028165800 +0200" channel="france4.fr">
+    <title lang="fr">Le refuge d'Audrey</title>
+  </programme>
+  <programme start="20241028165800 +0200" stop="20241028171900 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241028171900 +0200" stop="20241028172000 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241028172000 +0200" stop="20241028174000 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241028174000 +0200" stop="20241028175100 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241028175100 +0200" stop="20241028180200 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241028180200 +0200" stop="20241028182500 +0200" channel="france4.fr">
+    <title lang="fr">Mystery Lane</title>
+  </programme>
+  <programme start="20241028182500 +0200" stop="20241028183800 +0200" channel="france4.fr">
+    <title lang="fr">Mystery Lane</title>
+  </programme>
+  <programme start="20241028183800 +0200" stop="20241028185500 +0200" channel="france4.fr">
+    <title lang="fr">Okoo-koo</title>
+  </programme>
+  <programme start="20241028185500 +0200" stop="20241028190600 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241028190600 +0200" stop="20241028190700 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241028190700 +0200" stop="20241028192200 +0200" channel="france4.fr">
+    <title lang="fr">Okoo-koo</title>
+  </programme>
+  <programme start="20241028192200 +0200" stop="20241028192300 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241028192300 +0200" stop="20241028193300 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241028193300 +0200" stop="20241028195100 +0200" channel="france4.fr">
+    <title lang="fr">Okoo-koo</title>
+  </programme>
+  <programme start="20241028195100 +0200" stop="20241028201500 +0200" channel="france4.fr">
+    <title lang="fr">Petite Casbah</title>
+  </programme>
+  <programme start="20241028201500 +0200" stop="20241028203500 +0200" channel="france4.fr">
+    <title lang="fr">Petite Casbah</title>
+  </programme>
+  <programme start="20241028203500 +0200" stop="20241028204300 +0200" channel="france4.fr">
+    <title lang="fr">Un jour, une question</title>
+  </programme>
+  <programme start="20241028204300 +0200" stop="20241028205400 +0200" channel="france4.fr">
+    <title lang="fr">Organisation super insolite</title>
+  </programme>
+  <programme start="20241028205400 +0200" stop="20241028205500 +0200" channel="france4.fr">
+    <title lang="fr">Organisation super insolite</title>
+  </programme>
+  <programme start="20241028205500 +0200" stop="20241028211500 +0200" channel="france4.fr">
+    <title lang="fr">Organisation super insolite</title>
+  </programme>
+  <programme start="20241028211500 +0200" stop="20241028212700 +0200" channel="france4.fr">
+    <title lang="fr">Organisation super insolite</title>
+  </programme>
+  <programme start="20241028212700 +0200" stop="20241028214000 +0200" channel="france4.fr">
+    <title lang="fr">Organisation super insolite</title>
+  </programme>
+  <programme start="20241028214000 +0200" stop="20241028215000 +0200" channel="france4.fr">
+    <title lang="fr">T'es au top</title>
+  </programme>
+  <programme start="20241028215000 +0200" stop="20241028220000 +0200" channel="france4.fr">
+    <title lang="fr">Okoo-koo</title>
+  </programme>
+  <programme start="20241028220000 +0200" stop="20241028225500 +0200" channel="france4.fr">
+    <title lang="fr">Basique, le concert</title>
+  </programme>
+  <programme start="20241028225500 +0200" stop="20241028234500 +0200" channel="france4.fr">
+    <title lang="fr">Planète Rap</title>
+  </programme>
+  <programme start="20241028234500 +0200" stop="20241029004000 +0200" channel="france4.fr">
+    <title lang="fr">De la rue aux Jeux</title>
+  </programme>
+  <programme start="20241029004000 +0200" stop="20241029015000 +0200" channel="france4.fr">
+    <title lang="fr">Mashup Tropical</title>
+  </programme>
+  <programme start="20241029015000 +0200" stop="20241029032500 +0200" channel="france4.fr">
+    <title lang="fr">Moi, c'est Rodman et toi ?</title>
+  </programme>
+  <programme start="20241029032500 +0200" stop="20241029044000 +0200" channel="france4.fr">
+    <title lang="fr">Génération Paname</title>
+  </programme>
+  <programme start="20241029044000 +0200" stop="20241029053500 +0200" channel="france4.fr">
+    <title lang="fr">Planète Rap</title>
+  </programme>
+  <programme start="20241029053500 +0200" stop="20241029070000 +0200" channel="france4.fr">
+    <title lang="fr">Moonwalk</title>
+  </programme>
+  <programme start="20241029070000 +0200" stop="20241029072500 +0200" channel="france4.fr">
+    <title lang="fr">L'armure de Jade</title>
+  </programme>
+  <programme start="20241029072500 +0200" stop="20241029075000 +0200" channel="france4.fr">
+    <title lang="fr">L'armure de Jade</title>
+  </programme>
+  <programme start="20241029075000 +0200" stop="20241029075500 +0200" channel="france4.fr">
+    <title lang="fr">Végétosaures</title>
+  </programme>
+  <programme start="20241029075500 +0200" stop="20241029075600 +0200" channel="france4.fr">
+    <title lang="fr">Végétosaures</title>
+  </programme>
+  <programme start="20241029075600 +0200" stop="20241029080500 +0200" channel="france4.fr">
+    <title lang="fr">Un jour, une question</title>
+  </programme>
+  <programme start="20241029080500 +0200" stop="20241029080600 +0200" channel="france4.fr">
+    <title lang="fr">Héros à moitié</title>
+  </programme>
+  <programme start="20241029080600 +0200" stop="20241029082600 +0200" channel="france4.fr">
+    <title lang="fr">Héros à moitié</title>
+  </programme>
+  <programme start="20241029082600 +0200" stop="20241029082800 +0200" channel="france4.fr">
+    <title lang="fr">Héros à moitié</title>
+  </programme>
+  <programme start="20241029082800 +0200" stop="20241029084900 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241029084900 +0200" stop="20241029090000 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241029090000 +0200" stop="20241029091100 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241029091100 +0200" stop="20241029092200 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241029092200 +0200" stop="20241029094500 +0200" channel="france4.fr">
+    <title lang="fr">Mystery Lane</title>
+  </programme>
+  <programme start="20241029094500 +0200" stop="20241029095800 +0200" channel="france4.fr">
+    <title lang="fr">Mystery Lane</title>
+  </programme>
+  <programme start="20241029095800 +0200" stop="20241029101900 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241029101900 +0200" stop="20241029102000 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241029102000 +0200" stop="20241029104000 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241029104000 +0200" stop="20241029105300 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241029105300 +0200" stop="20241029111400 +0200" channel="france4.fr">
+    <title lang="fr">Potobot</title>
+  </programme>
+  <programme start="20241029111400 +0200" stop="20241029112500 +0200" channel="france4.fr">
+    <title lang="fr">Potobot</title>
+  </programme>
+  <programme start="20241029112500 +0200" stop="20241029112600 +0200" channel="france4.fr">
+    <title lang="fr">Potobot</title>
+  </programme>
+  <programme start="20241029112600 +0200" stop="20241029114600 +0200" channel="france4.fr">
+    <title lang="fr">Potobot</title>
+  </programme>
+  <programme start="20241029114600 +0200" stop="20241029114900 +0200" channel="france4.fr">
+    <title lang="fr">Potobot</title>
+  </programme>
+  <programme start="20241029114900 +0200" stop="20241029121000 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241029121000 +0200" stop="20241029122100 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241029122100 +0200" stop="20241029123200 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241029123200 +0200" stop="20241029124300 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241029124300 +0200" stop="20241029124400 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241029124400 +0200" stop="20241029125500 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241029125500 +0200" stop="20241029130700 +0200" channel="france4.fr">
+    <title lang="fr">Manger, bouger, dormir</title>
+  </programme>
+  <programme start="20241029130700 +0200" stop="20241029132900 +0200" channel="france4.fr">
+    <title lang="fr">Les Croods (Pré)histoires de famille</title>
+  </programme>
+  <programme start="20241029132900 +0200" stop="20241029135100 +0200" channel="france4.fr">
+    <title lang="fr">Les Croods (Pré)histoires de famille</title>
+  </programme>
+  <programme start="20241029135100 +0200" stop="20241029140400 +0200" channel="france4.fr">
+    <title lang="fr">Les Croods (Pré)histoires de famille</title>
+  </programme>
+  <programme start="20241029140400 +0200" stop="20241029142500 +0200" channel="france4.fr">
+    <title lang="fr">Les Croods (Pré)histoires de famille</title>
+  </programme>
+  <programme start="20241029142500 +0200" stop="20241029142900 +0200" channel="france4.fr">
+    <title lang="fr">Un jour, une question</title>
+  </programme>
+  <programme start="20241029142900 +0200" stop="20241029143600 +0200" channel="france4.fr">
+    <title lang="fr">Il était une fois... ces drôles d'obj...</title>
+  </programme>
+  <programme start="20241029143600 +0200" stop="20241029144500 +0200" channel="france4.fr">
+    <title lang="fr">Il était une fois... ces drôles d'obj...</title>
+  </programme>
+  <programme start="20241029144500 +0200" stop="20241029151500 +0200" channel="france4.fr">
+    <title lang="fr">C'est toujours pas sorcier</title>
+  </programme>
+  <programme start="20241029151500 +0200" stop="20241029163300 +0200" channel="france4.fr">
+    <title lang="fr">Scooby-Doo ! La folie du catch *2014</title>
+  </programme>
+  <programme start="20241029163300 +0200" stop="20241029165400 +0200" channel="france4.fr">
+    <title lang="fr">Le refuge d'Audrey</title>
+  </programme>
+  <programme start="20241029165400 +0200" stop="20241029170500 +0200" channel="france4.fr">
+    <title lang="fr">Le refuge d'Audrey</title>
+  </programme>
+  <programme start="20241029170500 +0200" stop="20241029170700 +0200" channel="france4.fr">
+    <title lang="fr">Le refuge d'Audrey</title>
+  </programme>
+  <programme start="20241029170700 +0200" stop="20241029171800 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241029171800 +0200" stop="20241029173800 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241029173800 +0200" stop="20241029173900 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241029173900 +0200" stop="20241029175900 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241029175900 +0200" stop="20241029181100 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241029181100 +0200" stop="20241029183300 +0200" channel="france4.fr">
+    <title lang="fr">Mystery Lane</title>
+  </programme>
+  <programme start="20241029183300 +0200" stop="20241029184700 +0200" channel="france4.fr">
+    <title lang="fr">Mystery Lane</title>
+  </programme>
+  <programme start="20241029184700 +0200" stop="20241029190300 +0200" channel="france4.fr">
+    <title lang="fr">Okoo-koo</title>
+  </programme>
+  <programme start="20241029190300 +0200" stop="20241029191400 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241029191400 +0200" stop="20241029191500 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241029191500 +0200" stop="20241029193200 +0200" channel="france4.fr">
+    <title lang="fr">Okoo-koo</title>
+  </programme>
+  <programme start="20241029193200 +0200" stop="20241029194300 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241029194300 +0200" stop="20241029194400 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241029194400 +0200" stop="20241029200100 +0200" channel="france4.fr">
+    <title lang="fr">Okoo-koo</title>
+  </programme>
+  <programme start="20241029200100 +0200" stop="20241029201600 +0200" channel="france4.fr">
+    <title lang="fr">Petite Casbah</title>
+  </programme>
+  <programme start="20241029201600 +0200" stop="20241029203100 +0200" channel="france4.fr">
+    <title lang="fr">Petite Casbah</title>
+  </programme>
+  <programme start="20241029203100 +0200" stop="20241029204300 +0200" channel="france4.fr">
+    <title lang="fr">Un jour, une question</title>
+  </programme>
+  <programme start="20241029204300 +0200" stop="20241029210400 +0200" channel="france4.fr">
+    <title lang="fr">Organisation super insolite</title>
+  </programme>
+  <programme start="20241029210400 +0200" stop="20241029210500 +0200" channel="france4.fr">
+    <title lang="fr">Organisation super insolite</title>
+  </programme>
+  <programme start="20241029210500 +0200" stop="20241029212500 +0200" channel="france4.fr">
+    <title lang="fr">Organisation super insolite</title>
+  </programme>
+  <programme start="20241029212500 +0200" stop="20241029212600 +0200" channel="france4.fr">
+    <title lang="fr">Organisation super insolite</title>
+  </programme>
+  <programme start="20241029212600 +0200" stop="20241029214000 +0200" channel="france4.fr">
+    <title lang="fr">Organisation super insolite</title>
+  </programme>
+  <programme start="20241029214000 +0200" stop="20241029220000 +0200" channel="france4.fr">
+    <title lang="fr">T'es au top</title>
+  </programme>
+  <programme start="20241029220000 +0200" stop="20241029225500 +0200" channel="france4.fr">
+    <title lang="fr">Vocations lyriques en Nouvelle-Calédo...</title>
+  </programme>
+  <programme start="20241029225500 +0200" stop="20241029234500 +0200" channel="france4.fr">
+    <title lang="fr">Edwin Fardini, poétique de la terre</title>
+  </programme>
+  <programme start="20241029234500 +0200" stop="20241029235500 +0200" channel="france4.fr">
+    <title lang="fr">Modules culture prime</title>
+  </programme>
+  <programme start="20241029235500 +0200" stop="20241030012000 +0200" channel="france4.fr">
+    <title lang="fr">Les nuits d'été à Schönbrunn</title>
+  </programme>
+  <programme start="20241030012000 +0200" stop="20241030012500 +0200" channel="france4.fr">
+    <title lang="fr">Le pitch cinéma</title>
+  </programme>
+  <programme start="20241030012500 +0200" stop="20241030033000 +0200" channel="france4.fr">
+    <title lang="fr">Alain Souchon en concert ici &amp; là au ...</title>
+  </programme>
+  <programme start="20241030033000 +0200" stop="20241030052500 +0200" channel="france4.fr">
+    <title lang="fr">Bénabar : tournée des indociles</title>
+  </programme>
+  <programme start="20241030052500 +0200" stop="20241030055000 +0200" channel="france4.fr">
+    <title lang="fr">Moonwalk</title>
+  </programme>
+  <programme start="20241030055000 +0200" stop="20241030060000 +0200" channel="france4.fr">
+    <title lang="fr">Les matinales</title>
+  </programme>
+  <programme start="20241030060000 +0200" stop="20241030062500 +0200" channel="france4.fr">
+    <title lang="fr">L'armure de Jade</title>
+  </programme>
+  <programme start="20241030062500 +0200" stop="20241030064500 +0200" channel="france4.fr">
+    <title lang="fr">L'armure de Jade</title>
+  </programme>
+  <programme start="20241030064500 +0200" stop="20241030071000 +0200" channel="france4.fr">
+    <title lang="fr">L'armure de Jade</title>
+  </programme>
+  <programme start="20241030071000 +0200" stop="20241030073000 +0200" channel="france4.fr">
+    <title lang="fr">L'armure de Jade</title>
+  </programme>
+  <programme start="20241030073000 +0200" stop="20241030074500 +0200" channel="france4.fr">
+    <title lang="fr">L'armure de Jade</title>
+  </programme>
+  <programme start="20241030074500 +0200" stop="20241030075000 +0200" channel="france4.fr">
+    <title lang="fr">Végétosaures</title>
+  </programme>
+  <programme start="20241030075000 +0200" stop="20241030075500 +0200" channel="france4.fr">
+    <title lang="fr">Végétosaures</title>
+  </programme>
+  <programme start="20241030075500 +0200" stop="20241030080400 +0200" channel="france4.fr">
+    <title lang="fr">Un jour, une question</title>
+  </programme>
+  <programme start="20241030080400 +0200" stop="20241030081400 +0200" channel="france4.fr">
+    <title lang="fr">Héros à moitié</title>
+  </programme>
+  <programme start="20241030081400 +0200" stop="20241030082500 +0200" channel="france4.fr">
+    <title lang="fr">Héros à moitié</title>
+  </programme>
+  <programme start="20241030082500 +0200" stop="20241030082700 +0200" channel="france4.fr">
+    <title lang="fr">Héros à moitié</title>
+  </programme>
+  <programme start="20241030082700 +0200" stop="20241030083800 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241030083800 +0200" stop="20241030085800 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241030085800 +0200" stop="20241030090900 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241030090900 +0200" stop="20241030092100 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241030092100 +0200" stop="20241030094300 +0200" channel="france4.fr">
+    <title lang="fr">Mystery Lane</title>
+  </programme>
+  <programme start="20241030094300 +0200" stop="20241030095500 +0200" channel="france4.fr">
+    <title lang="fr">Mystery Lane</title>
+  </programme>
+  <programme start="20241030095500 +0200" stop="20241030101500 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241030101500 +0200" stop="20241030101600 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241030101600 +0200" stop="20241030103600 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241030103600 +0200" stop="20241030104700 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241030104700 +0200" stop="20241030104900 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241030104900 +0200" stop="20241030111000 +0200" channel="france4.fr">
+    <title lang="fr">Potobot</title>
+  </programme>
+  <programme start="20241030111000 +0200" stop="20241030112100 +0200" channel="france4.fr">
+    <title lang="fr">Potobot</title>
+  </programme>
+  <programme start="20241030112100 +0200" stop="20241030113200 +0200" channel="france4.fr">
+    <title lang="fr">Potobot</title>
+  </programme>
+  <programme start="20241030113200 +0200" stop="20241030114300 +0200" channel="france4.fr">
+    <title lang="fr">Potobot</title>
+  </programme>
+  <programme start="20241030114300 +0200" stop="20241030114500 +0200" channel="france4.fr">
+    <title lang="fr">Potobot</title>
+  </programme>
+  <programme start="20241030114500 +0200" stop="20241030120600 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241030120600 +0200" stop="20241030121700 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241030121700 +0200" stop="20241030122800 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241030122800 +0200" stop="20241030123900 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241030123900 +0200" stop="20241030124000 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241030124000 +0200" stop="20241030125500 +0200" channel="france4.fr">
+    <title lang="fr">Idéfix et les Irréductibles</title>
+  </programme>
+  <programme start="20241030125500 +0200" stop="20241030130400 +0200" channel="france4.fr">
+    <title lang="fr">Manger, bouger, dormir</title>
+  </programme>
+  <programme start="20241030130400 +0200" stop="20241030132600 +0200" channel="france4.fr">
+    <title lang="fr">Les Croods (Pré)histoires de famille</title>
+  </programme>
+  <programme start="20241030132600 +0200" stop="20241030134800 +0200" channel="france4.fr">
+    <title lang="fr">Les Croods (Pré)histoires de famille</title>
+  </programme>
+  <programme start="20241030134800 +0200" stop="20241030140000 +0200" channel="france4.fr">
+    <title lang="fr">Les Croods (Pré)histoires de famille</title>
+  </programme>
+  <programme start="20241030140000 +0200" stop="20241030142500 +0200" channel="france4.fr">
+    <title lang="fr">Les Croods (Pré)histoires de famille</title>
+  </programme>
+  <programme start="20241030142500 +0200" stop="20241030143500 +0200" channel="france4.fr">
+    <title lang="fr">Un jour, une question</title>
+  </programme>
+  <programme start="20241030143500 +0200" stop="20241030144100 +0200" channel="france4.fr">
+    <title lang="fr">Il était une fois... ces drôles d'obj...</title>
+  </programme>
+  <programme start="20241030144100 +0200" stop="20241030144500 +0200" channel="france4.fr">
+    <title lang="fr">Il était une fois... ces drôles d'obj...</title>
+  </programme>
+  <programme start="20241030144500 +0200" stop="20241030151500 +0200" channel="france4.fr">
+    <title lang="fr">C'est toujours pas sorcier</title>
+  </programme>
+  <programme start="20241030151500 +0200" stop="20241030162300 +0200" channel="france4.fr">
+    <title lang="fr">Scooby-Doo et le fantôme gourmand</title>
+  </programme>
+  <programme start="20241030162300 +0200" stop="20241030163400 +0200" channel="france4.fr">
+    <title lang="fr">Le refuge d'Audrey</title>
+  </programme>
+  <programme start="20241030163400 +0200" stop="20241030165400 +0200" channel="france4.fr">
+    <title lang="fr">Le refuge d'Audrey</title>
+  </programme>
+  <programme start="20241030165400 +0200" stop="20241030165600 +0200" channel="france4.fr">
+    <title lang="fr">Le refuge d'Audrey</title>
+  </programme>
+  <programme start="20241030165600 +0200" stop="20241030170700 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241030170700 +0200" stop="20241030172700 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241030172700 +0200" stop="20241030172800 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241030172800 +0200" stop="20241030174800 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241030174800 +0200" stop="20241030180000 +0200" channel="france4.fr">
+    <title lang="fr">Molusco</title>
+  </programme>
+  <programme start="20241030180000 +0200" stop="20241030182200 +0200" channel="france4.fr">
+    <title lang="fr">Mystery Lane</title>
+  </programme>
+  <programme start="20241030182200 +0200" stop="20241030184000 +0200" channel="france4.fr">
+    <title lang="fr">Mystery Lane</title>
+  </programme>
+  <programme start="20241030184000 +0200" stop="20241030185600 +0200" channel="france4.fr">
+    <title lang="fr">Okoo-koo</title>
+  </programme>
+  <programme start="20241030185600 +0200" stop="20241030190600 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241030190600 +0200" stop="20241030190700 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241030190700 +0200" stop="20241030192300 +0200" channel="france4.fr">
+    <title lang="fr">Okoo-koo</title>
+  </programme>
+  <programme start="20241030192300 +0200" stop="20241030193400 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241030193400 +0200" stop="20241030193500 +0200" channel="france4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+  </programme>
+  <programme start="20241030193500 +0200" stop="20241030195200 +0200" channel="france4.fr">
+    <title lang="fr">Okoo-koo</title>
+  </programme>
+  <programme start="20241030195200 +0200" stop="20241030200800 +0200" channel="france4.fr">
+    <title lang="fr">Petite Casbah</title>
+  </programme>
+  <programme start="20241030200800 +0200" stop="20241030203500 +0200" channel="france4.fr">
+    <title lang="fr">Petite Casbah</title>
+  </programme>
+  <programme start="20241030203500 +0200" stop="20241030204700 +0200" channel="france4.fr">
+    <title lang="fr">Un jour, une question</title>
+  </programme>
+  <programme start="20241030204700 +0200" stop="20241030205800 +0200" channel="france4.fr">
+    <title lang="fr">Organisation super insolite</title>
+  </programme>
+  <programme start="20241030205800 +0200" stop="20241030210900 +0200" channel="france4.fr">
+    <title lang="fr">Organisation super insolite</title>
+  </programme>
+  <programme start="20241030210900 +0200" stop="20241030212000 +0200" channel="france4.fr">
+    <title lang="fr">Organisation super insolite</title>
+  </programme>
+  <programme start="20241030212000 +0200" stop="20241030213100 +0200" channel="france4.fr">
+    <title lang="fr">Organisation super insolite</title>
+  </programme>
+  <programme start="20241030213100 +0200" stop="20241030214000 +0200" channel="france4.fr">
+    <title lang="fr">Organisation super insolite</title>
+  </programme>
+  <programme start="20241030214000 +0200" stop="20241030215000 +0200" channel="france4.fr">
+    <title lang="fr">T'es au top</title>
+  </programme>
+  <programme start="20241030215000 +0200" stop="20241030220000 +0200" channel="france4.fr">
+    <title lang="fr">Okoo-koo</title>
+  </programme>
+  <programme start="20241030220000 +0200" stop="20241031000000 +0200" channel="france4.fr">
+    <title lang="fr">Une journée avec Jacques Brel</title>
   </programme>
   <programme start="20241028023500 +0200" stop="20241028040500 +0200" channel="m6.fr">
     <title lang="fr">Enquête exclusive</title>

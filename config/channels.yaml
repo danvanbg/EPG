@@ -797,7 +797,7 @@
   - tv.dir.bg
   
 - id: sportal.bg
-  enabled: true
+  enabled: false
   names:
   - name: Sportal HD
   - name: Sportal TV
@@ -806,7 +806,7 @@
   - sportal.bg
   
 - id: b1b.tv
-  enabled: true
+  enabled: false
   names:
   - name: B1B Action HD
   - name: B1B TV
