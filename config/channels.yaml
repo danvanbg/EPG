@@ -2121,13 +2121,14 @@
   enabled: true
   names:
   - name: CNBC
+  - name: CNBC HD
     lang: en
   sources:
   - uksky.com
   - programtv.onet.pl
 
 - id: france24.com
-  enabled: false
+  enabled: true
   names:
   - name: France 24 HD
   - name: France 24
@@ -3090,6 +3091,7 @@
   groups: [ "tr" ]
   sources:
   - turksatkablo.com.tr
+  - tvplus.com.tr
   
 - id: beyaztv.tr
   enabled: true
@@ -3105,7 +3107,7 @@
 ### OTHERS ###
 ##############
 
-- id: englishclub.bg
+- id: englishclub.tv
   enabled: false
   names:
   - name: English Club
