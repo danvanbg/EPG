@@ -35,6 +35,34 @@ channel-parameters:
     channelId: rt-doc-1258
   glasamiturista.ru:
     channelId: glazami-turista-1473
+  luxe.tv:
+    channelId: luxetv-542
+  mcmtop.fr:
+    channelId: mcm-top-583
+  zhivi.ru:
+    channelId: jivi-421
+  moyaplaneta.ru:
+    channelId: moya-planeta-653
+  karusel.ru:
+    channelId: karusel-int-554
+  vijuprimiere.ru:
+    channelId: vip-premiere-779
+  vijumegahit.ru:
+    channelId: vip-megahit-778
+  vijucomedy.ru:
+    channelId: vip-comedy-777
+  detskiymir.ru:
+    channelId: detskiy-mir-1256
+  bober.ru:
+    channelId: bober-1171
+  konnyymir .ru:
+    channelId: konnyy-mir-1184
+  vremya .ru:
+    channelId: vremya-649
+  vijutv1000ruskoe.ru:
+    channelId: tv1000-russkoe-kino-475
+  centralnoe.ru:
+    channelId: centralnoe-televidenie-ctv-198
 
 
 # Used for extracting channel names and params from a page containing the list of available channels

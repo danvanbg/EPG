@@ -464,6 +464,7 @@
   names:
   - name: TV 1000
     lang: en
+  - name: TV 100 org
   - name: TV1000
     lang: en
   - name: TV 1000 HD
@@ -628,7 +629,7 @@
   - start.bg
   
 - id: cine.box
-  enabled: true
+  enabled: false
   names:
   - name: Cinebox
     lang: en
@@ -642,7 +643,7 @@
   - bulsatcom.bg
   
 - id: action.box
-  enabled: true
+  enabled: false
   names:
   - name: Actionbox
     lang: en
@@ -655,9 +656,8 @@
   sources:
   - bulsatcom.bg
 
-  
 - id: comedy.box
-  enabled: true
+  enabled: false
   names:
   - name: Comedybox
     lang: en
@@ -669,6 +669,27 @@
     lang: en
   sources:
   - bulsatcom.bg
+
+- id: vijuprimiere.ru
+  enabled: true
+  names:
+  - name: VIP Premiере HD
+  sources:
+  - yandex.ru
+  
+- id: vijumegahit.ru
+  enabled: true
+  names:
+  - name: VIP Megahit HD
+  sources:
+  - yandex.ru
+  
+- id: vijucomedy.ru
+  enabled: true
+  names:
+  - name: VIP Comedy HD
+  sources:
+  - yandex.ru
 
 #############
 ### SPORT ###
@@ -1121,6 +1142,7 @@
     lang: en
   groups: ["sport"]
   sources:
+  - yandex.ru
   - ntvplus.ru
   
 - id: gametoon.tv
@@ -1494,22 +1516,27 @@
   - programtv.onet.pl
 
 - id: thevoice.bg
+  days-ahead: 1
   enabled: true
   names:
   - name: The Voice
+  - name: The Voice HD
     lang: en
   sources:
   - dnes.bg
 
 - id: citytv.bg
+  days-ahead: 1
   enabled: true
   names:
   - name: City TV
+  - name: City HD
     lang: en
   sources:
   - city.bg
 
 - id: magictv.bg
+  days-ahead: 1
   enabled: false
   names:
   - name: Magic TV
@@ -1517,6 +1544,7 @@
   sources:
   
 - id: magictv.uk
+  days-ahead: 1
   enabled: false
   names:
   - name: Magic UK
@@ -1524,6 +1552,7 @@
   sources:
   
 - id: planeta4k.bg
+  days-ahead: 1
   enabled: true
   names:
   - name: Planeta 4K
@@ -1534,6 +1563,7 @@
   - dnes.bg
   
 - id: planetatv.bg
+  days-ahead: 1
   enabled: true
   names:
   - name: Planeta
@@ -1547,6 +1577,7 @@
   - dnes.bg
 
 - id: planetafolk.bg
+  days-ahead: 1
   enabled: true
   names:
   - name: Planeta Folk
@@ -1557,6 +1588,7 @@
   - dnes.bg
   
 - id: fentv.bg
+  days-ahead: 1
   enabled: true
   names:
   - name: Фен ТВ
@@ -1569,6 +1601,7 @@
   - dnes.bg
     
 - id: fenfolk.bg
+  days-ahead: 1
   enabled: true
   names:
   - name: Фен Фолк
@@ -1579,6 +1612,7 @@
   - dnes.bg
   
 - id: balkanika.bg
+  days-ahead: 1
   enabled: true
   names:
   - name: Балканика
@@ -1591,6 +1625,7 @@
   - dnes.bg
   
 - id: mezzo.tv
+  days-ahead: 1
   enabled: true
   names:
   - name: Mezzo
@@ -1602,6 +1637,7 @@
   - tv.dir.bg
   
 - id: mezzolive.tv
+  days-ahead: 1
   enabled: true
   names:
   - name: Mezzo Live
@@ -1611,6 +1647,7 @@
   - programtv.onet.pl
 
 - id: deutschesmusik.de
+  days-ahead: 1
   enabled: true
   names:
   - name: Deutsche Musik
@@ -1619,15 +1656,18 @@
   - tvtoday.de
 
 - id: mcmtop.fr
+  days-ahead: 2
   enabled: true
   names:
    - name: MCM Top
    - name: MCM Top HD
    - name: MCM
   sources:
+  - yandex.ru
   - programme-tv.net
   
 - id: hayatfolk.rs
+  days-ahead: 1
   enabled: true
   names:
     - name: Hayat Folk
@@ -1635,14 +1675,15 @@
   - mts.rs
 
 - id: hayatmusic.rs
+  days-ahead: 1
   enabled: true
   names:
     - name: Hayat Music
   sources:
   - mts.rs
 
-
 - id: pinkfolk.rs
+  days-ahead: 1
   enabled: true
   names:
     - name: Pink Folk
@@ -1650,6 +1691,7 @@
   - mts.rs
 
 - id: pinkfolk2.rs
+  days-ahead: 1
   enabled: true
   names:
     - name: Pink Folk 2
@@ -1657,6 +1699,7 @@
   - mts.rs
 
 - id: happy.rs
+  days-ahead: 1
   enabled: true
   names:
   - name: Happy RS
@@ -1664,10 +1707,20 @@
   - mts.rs
   
 - id: trtmusic.tr
+  days-ahead: 1
   enabled: true
   names:
   - name: TRT Music
   - name: TRT Music HD
+  sources:
+  - tvplus.com.tr
+
+- id: deluxmusic.com
+  days-ahead: 1
+  enabled: true
+  names:
+  - name: Deluxe Music
+  - name: Deluxe Music HD
   sources:
   - tvplus.com.tr
 
@@ -1894,8 +1947,17 @@
   sources:
   - tvtoday.de
   
-- id: kabeleinsdoku.de
+- id: vox.de
   enabled: true
+  names:
+  - name: Vox
+  - name: Vox HD
+    lang: de
+  sources:
+  - tvtoday.de
+  
+- id: kabeleinsdoku.de
+  enabled: false
   names:
   - name: Kabel Eins Doku
     lang: de
@@ -1917,6 +1979,7 @@
   names:
   - name: ORF 2
     lang: de
+  - name: ORF 2 Europe
   - name: ORF2 HD
     lang: de
   sources:
@@ -2106,6 +2169,7 @@
     lang: en
   sources:
   - programtv.onet.pl
+  - tvtoday.de
   
 - id: euronews.com
   enabled: true
@@ -2150,7 +2214,8 @@
   sources:
   - uksky.com
   - programtv.onet.pl
-
+  - tvtoday.de
+  
 - id: france24.com
   enabled: true
   names:
@@ -2161,6 +2226,16 @@
   - uksky.com
   - tv.sms.cz
   - tvplus.com.tr
+  - tvtoday.de
+  
+- id: france24.fr
+  enabled: true
+  names:
+  - name: France 24 FR HD
+  - name: France 24 FR
+    lang: en
+  sources:
+  - tvtoday.de
   
 - id: russiatoday.com
   enabled: false
@@ -2193,6 +2268,7 @@
   - uksky.com
   - tv.sms.cz
   - programtv.onet.pl
+  - tvtoday.de
   
 - id: skynews.uk
   enabled: true
@@ -2217,6 +2293,7 @@
   enabled: true
   names:
   - name: CGTN
+  - name: CGTN HD
     lang: en
   sources:
   - mts.rs
@@ -2742,21 +2819,23 @@
   - dnes.bg
   - tv.dir.bg
   
-- id: karusel.ru
-  enabled: false
+- id: karusel.tv
+  enabled: true
   names:
-  - name: Карусел
-    lang: en
+  - name: Карусель
   groups: [ "kids" ]
   sources:
+  - yandex.ru
   
-- id: detskyimir.ru
-  enabled: false
+- id: detskiymir.ru
+  enabled: true
   names:
+  - name: Детский мир HD / Телеклуб
   - name: Детский мир / Телеклуб
     lang: en
   groups: [ "kids" ]
   sources:
+    - yandex.ru
   
 - id: disney.ru
   enabled: false
@@ -2802,6 +2881,7 @@
   groups: [ "kids" ]
   sources:
   - tvplus.com.tr
+
 
 ###############
 ### RUSSIAN ###
@@ -2893,6 +2973,17 @@
   groups: [ "ru" ]
   sources:
   - ntvplus.ru
+  - yandex.ru
+  
+- id: moyaplaneta.ru
+  enabled: true
+  names:
+  - name: Моя Планета
+    lang: ru
+  groups: [ "ru" ]
+  sources:
+  - yandex.ru
+  - ntvplus.ru
   
 - id: ntv.ru
   enabled: true
@@ -2931,7 +3022,7 @@
   sources:
   - ntvplus.ru
   
-- id: ruskoekino.tv1000.ru
+- id: vijutv1000ruskoe.ru
   enabled: true
   names:
   - name: TV 1000 Руское кино
@@ -2940,23 +3031,34 @@
   groups: [ "ru" ]
   sources:
   - ntvplus.ru
+  - yandex.ru
   
 - id: vremya.ru
   enabled: true
+  days-ahead: 1
   names:
   - name: Время
-    lang: ru
   groups: [ "ru" ]
   sources:
+    - yandex.ru
   
-- id: telekafe.ru
+- id: bober.ru
   enabled: true
   names:
-  - name: Телекафе
+  - name: Бобер
     lang: ru
   groups: [ "ru" ]
   sources:
-  - ntvplus.ru
+  - yandex.ru
+  
+- id: centralnoe.ru
+  enabled: true
+  names:
+  - name: Централное ТВ
+    lang: ru
+  groups: [ "ru" ]
+  sources:
+  - yandex.ru
   
 ###############
 ### TURKISH ###
@@ -3036,6 +3138,7 @@
 
 - id: cnnturk.tr
   enabled: true
+  days-ahead: 1
   names:
   - name: CNN Turk
   - name: CNN Turk HD
@@ -3044,8 +3147,10 @@
   sources:
   - tvplus.com.tr
   - turksatkablo.com.tr
-
+  - tvtoday.de
+  
 - id: haberturk.tr
+  days-ahead: 1
   enabled: true
   names:
   - name: Haber Turk
@@ -3162,10 +3267,10 @@
   enabled: true
   names:
   - name: TV 8
+  - name: TV8 Intl
   groups: [ "tr" ]
   sources:
   - turksatkablo.com.tr
-  - tvplus.com.tr
   
 - id: tv85.tr
   enabled: true
@@ -3176,7 +3281,7 @@
   - tvplus.com.tr
   
 - id: fox.tr
-  enabled: true
+  enabled: false
   names:
   - name: Fox TR
   groups: [ "tr" ]
@@ -3440,11 +3545,22 @@
   enabled: true
   names:
   - name: M6
+  - name: M6 HD
   groups: [ "fr" ]
   sources:
   - ouest-france.fr
   - programme-tv.net
   - telestar.fr
+  
+- id: 6ter.fr
+  enabled: true
+  names:
+  - name: 6ter HD
+  - name: 6ter
+  groups: [ "fr" ]
+  sources:
+  - programme-tv.net
+  - ouest-france.fr
   
 - id: tv5monde.fr
   enabled: true
@@ -3507,8 +3623,7 @@
   enabled: true
   names:
   - name: Rai 2
-  - name: RAI 1
-  - name: RAI 1 HD
+  - name: RAI 2 HD
   groups: [ "it" ]
   sources:
   - raiplay.it
@@ -3517,7 +3632,7 @@
   enabled: true
   names:
   - name: Rai 3
-  - name: RAI 1 HD
+  - name: RAI 3 HD
   groups: [ "it" ]
   sources:
   - raiplay.it
@@ -3548,3 +3663,12 @@
   - name: RAI Scuola HD
   sources:
   - raiplay.it
+  
+- id: luxe.tv
+  enabled: true
+  groups: [ "it" ]
+  names:
+  - name: Luxe TV HD
+  - name: Luxe TV 4K
+  sources:
+  - yandex.ru

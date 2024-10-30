@@ -197,23 +197,23 @@ channel-parameters:
     channelId: aljaz
   bbcworldnews.com:
     channelId: bbc
-  bloomberg.tv:
+  bloomberg.com:
     channelId: blm
-  CNBC:
+  cnbc.com:
     channelId: cnbc
   CNN:
     channelId: cnn
-  'France 24 (franz.)':
+  france24.fr:
     channelId: fr24f
-  'France 24 (engl.)':
+  france24.com:
     channelId: fr24e
-  'NHK WORLD TV':
+  nhkworld.com:
     channelId: nhk
-  'CNN Turk':
+  cnnturk.tr:
     channelId: cnn-t
   deutschesmusik.de:
     channelId: dmf
-  'MTV Base':
+  mtvbase.com:
     channelId: mtv-b
   'club MTV':
     channelId: mtv-d
