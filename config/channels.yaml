@@ -1141,6 +1141,7 @@
   - name: A Spor HD
   groups: ["sport"]
   sources:
+  - tvplus.com.tr
   - turksatkablo.com.tr
 
 - id: tivibuspor.tr
@@ -1160,6 +1161,7 @@
     lang: tr
   groups: ["sport"]
   sources:
+  - tvplus.com.tr
   - trt.net.tr
   - turksatkablo.com.tr
 
@@ -1419,6 +1421,7 @@
   
 - id: mtv80s.com
   enabled: true
+  days-ahead: 1
   names:
   - name: MTV 80s
     lang: en
@@ -1429,6 +1432,7 @@
   - programtv.onet.pl
   
 - id: mtv90s.com
+  days-ahead: 1
   enabled: true
   names:
   - name: MTV 90s
@@ -1440,6 +1444,7 @@
   - programtv.onet.pl
 
 - id: mtv00s.com
+  days-ahead: 1
   enabled: true
   names:
   - name: MTV 00s
@@ -1453,6 +1458,7 @@
 
 
 - id: clubmtv.com
+  days-ahead: 1
   enabled: true
   names:
   - name: Club MTV
@@ -1464,6 +1470,7 @@
   - programtv.onet.pl
   
 - id: mtvhits.com
+  days-ahead: 1
   enabled: true
   names:
   - name: MTV Hits
@@ -1474,6 +1481,7 @@
   - programtv.onet.pl
 
 - id: mtvlive.com
+  days-ahead: 1
   enabled: true
   names:
   - name: MTV Live
@@ -1612,42 +1620,56 @@
 
 - id: mcmtop.fr
   enabled: true
-  name: MCM Top
-  name: MCM Top HD
-  name: MCM
+  names:
+   - name: MCM Top
+   - name: MCM Top HD
+   - name: MCM
   sources:
   - programme-tv.net
   
 - id: hayatfolk.rs
   enabled: true
-  name: Hayat Folk
+  names:
+    - name: Hayat Folk
   sources:
   - mts.rs
 
 - id: hayatmusic.rs
   enabled: true
-  name: Hayat Music
+  names:
+    - name: Hayat Music
   sources:
   - mts.rs
 
 
 - id: pinkfolk.rs
   enabled: true
-  name: Pink Folk
+  names:
+    - name: Pink Folk
   sources:
   - mts.rs
 
 - id: pinkfolk2.rs
   enabled: true
-  name: Pink Folk 2
+  names:
+    - name: Pink Folk 2
   sources:
   - mts.rs
 
 - id: happy.rs
   enabled: true
-  name: Happy RS
+  names:
+  - name: Happy RS
   sources:
   - mts.rs
+  
+- id: trtmusic.tr
+  enabled: true
+  names:
+  - name: TRT Music
+  - name: TRT Music HD
+  sources:
+  - tvplus.com.tr
 
 ##############
 ### GERMAN ###
@@ -2064,6 +2086,7 @@
   - uksky.com
   - tvtoday.de
   - tv.sms.cz
+  - tvplus.com.tr
   
 - id: deutschewelle.de
   enabled: true
@@ -2115,6 +2138,7 @@
   - name: TRT World HD
     lang: en
   sources:
+  - tvplus.com.tr
   - uksky.com
 
 - id: cnbc.com
@@ -2136,6 +2160,7 @@
   sources:
   - uksky.com
   - tv.sms.cz
+  - tvplus.com.tr
   
 - id: russiatoday.com
   enabled: false
@@ -2745,11 +2770,38 @@
   enabled: true
   names:
   - name: TRT Cocuk
+  - name: TRT Cocuk HD
     lang: tr
   groups: [ "kids" ]
   sources:
+  - tvplus.com.tr
   - trt.net.tr
   - turksatkablo.com.tr
+  
+- id: minicacocuk.tr
+  enabled: true
+  names:
+  - name: Minika Cocuk
+    lang: tr
+  groups: [ "kids" ]
+  sources:
+  - tvplus.com.tr
+
+- id: duck.tv
+  enabled: true
+  names:
+  - name: Duck TV
+  groups: [ "kids" ]
+  sources:
+  - tvplus.com.tr
+  
+- id: baby.tv
+  enabled: true
+  names:
+  - name: Baby TV
+  groups: [ "kids" ]
+  sources:
+  - tvplus.com.tr
 
 ###############
 ### RUSSIAN ###
@@ -2932,6 +2984,7 @@
   groups: [ "tr" ]
   sources:
   - trt.net.tr
+  - tvplus.com.tr
   - turksatkablo.com.tr
 
 - id: trtbelgesel.tr
@@ -2943,16 +2996,53 @@
     lang: tr
   groups: [ "tr" ]
   sources:
+  - tvplus.com.tr
   - trt.net.tr
   - turksatkablo.com.tr
+
+
+- id: trtarabi.tr
+  enabled: true
+  names:
+  - name: TRT Arapca
+    lang: tr
+  - name: TRT Arapca HD
+    lang: tr
+  groups: [ "tr" ]
+  sources:
+  - tvplus.com.tr
+
+- id: trtavaz.tr
+  enabled: true
+  names:
+  - name: TRT Avaz HD
+    lang: tr
+  - name: TRT Avaz
+    lang: tr
+  groups: [ "tr" ]
+  sources:
+  - tvplus.com.tr
+
+- id: nowtv.tr
+  enabled: true
+  names:
+  - name: Now
+    lang: tr
+  - name: Now HD
+    lang: tr
+  groups: [ "tr" ]
+  sources:
+  - tvplus.com.tr
 
 - id: cnnturk.tr
   enabled: true
   names:
   - name: CNN Turk
+  - name: CNN Turk HD
     lang: tr
   groups: [ "tr" ]
   sources:
+  - tvplus.com.tr
   - turksatkablo.com.tr
 
 - id: haberturk.tr
@@ -2963,7 +3053,8 @@
   groups: [ "tr" ]
   sources:
   - turksatkablo.com.tr
-
+  - tvplus.com.tr
+  
 - id: yabantv.tr
   enabled: false
   names:
@@ -2989,14 +3080,17 @@
     lang: tr
   groups: [ "tr" ]
   sources:
+    - tvplus.com.tr
   
 - id: kanal7.tr
   enabled: true
   names:
   - name: Kanal 7
+  - name: Kanal 7 (tr)
     lang: tr
   groups: [ "tr" ]
   sources:
+  - tvplus.com.tr
   - turksatkablo.com.tr
 
 - id: dreamturk.tr
@@ -3017,7 +3111,8 @@
   groups: [ "tr" ]
   sources:
   - turksatkablo.com.tr
-
+  - tvplus.com.tr
+  
 - id: taytv.tr
   enabled: false
   names:
@@ -3043,6 +3138,7 @@
   groups: [ "tr" ]
   sources:
   - turksatkablo.com.tr
+  - tvplus.com.tr
 
 - id: ntv.tr
   enabled: true
@@ -3050,6 +3146,7 @@
   - name: NTV
   groups: [ "tr" ]
   sources:
+  - tvplus.com.tr
   - turksatkablo.com.tr
 
 - id: startv.tr
@@ -3059,7 +3156,8 @@
   groups: [ "tr" ]
   sources:
   - turksatkablo.com.tr
-
+  - tvplus.com.tr
+  
 - id: tv8.tr
   enabled: true
   names:
@@ -3067,7 +3165,16 @@
   groups: [ "tr" ]
   sources:
   - turksatkablo.com.tr
-
+  - tvplus.com.tr
+  
+- id: tv85.tr
+  enabled: true
+  names:
+  - name: TV 8.5
+  groups: [ "tr" ]
+  sources:
+  - tvplus.com.tr
+  
 - id: fox.tr
   enabled: true
   names:
@@ -3083,7 +3190,8 @@
   groups: [ "tr" ]
   sources:
   - turksatkablo.com.tr
-
+  - tvplus.com.tr
+  
 - id: showtv.tr
   enabled: true
   names:
@@ -3098,10 +3206,11 @@
   names:
   - name: Beyaz TV
   - name: Beyaz HD
+  - name: Beyaz TV HD
   groups: [ "tr" ]
   sources:
   - turksatkablo.com.tr
-
+  - tvplus.com.tr
 
 ##############
 ### OTHERS ###

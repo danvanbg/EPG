@@ -9334,10 +9334,6 @@
     <title>Pregled Evrolige: 6. KOLO</title>
     <desc>18 najboljih timova Evrope ponovo se bore za titulu najboljeg na kontinentu. EFES je zasluženo uzeo titulu prošle sezone, a čini se da će imati nikada teži zadatak da je odbrane. Mogu li Zvezda i...</desc>
   </programme>
-  <programme start="20241103000000 +0200" channel="sportklub1.rs">
-    <title>Soccer Bet SK VESTI</title>
-    <desc>Sve najvažnije sportske vesti, zanimljivi prilozi i najave predstojećih događaja. Svakodnevni, polučasovni pregled događaja iz sveta sporta samo uz SK Vesti.</desc>
-  </programme>
   <programme start="20241030000000 +0200" stop="20241030060000 +0200" channel="sportklub2.rs">
     <title>No information</title>
   </programme>
@@ -10109,10 +10105,6 @@
     <title>Euroleague - Pregled: 6. kolo</title>
     <desc>Sportski magazin posvećen Euroligi donosi preglede i analize utakmice te isječke najboljih akcija.</desc>
   </programme>
-  <programme start="20241103000000 +0200" channel="sportklub1.hr">
-    <title>Euroleague - Pregled: 7. kolo</title>
-    <desc>Sportski magazin posvećen Euroligi donosi preglede i analize utakmice te isječke najboljih akcija.</desc>
-  </programme>
   <programme start="20241030000000 +0200" stop="20241030060000 +0200" channel="sportklub2.hr">
     <title>No information</title>
   </programme>
@@ -10870,10 +10862,6 @@
     <title>Nogomet - Nizozemska liga: Feyenoord - AZ Alkmaar</title>
     <desc>Eredivisie najviši je rang nogometnih natjecanja u Nizozemskoj. Kolijevka totalnog nogometa iz sezone u sezonu oduševljava nas neizvjesnim te efikasnim susretima.</desc>
   </programme>
-  <programme start="20241103000000 +0200" channel="sportklub4.hr">
-    <title>Nogomet - Austrijska liga: Salzburg - Grazer</title>
-    <desc>Osnovana 1974. godine austrijska Bundesliga broji 10 klubova u četverokružnom sistemu natjecanja. Najviše osvojenih naslova ima bečki Rapid.</desc>
-  </programme>
   <programme start="20241030000000 +0200" stop="20241030020000 +0200" channel="sportklub5.hr">
     <title>Sport Klub 5 Promo 4</title>
     <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
@@ -11208,10 +11196,6 @@
   </programme>
   <programme start="20241102233000 +0200" stop="20241103000000 +0200" channel="sportklub5.hr">
     <title>Sport Klub 5 Promo 3</title>
-    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
-  </programme>
-  <programme start="20241103000000 +0200" channel="sportklub5.hr">
-    <title>Sport Klub 5 Promo 4</title>
     <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
   </programme>
   <programme start="20241030000000 +0200" stop="20241030020000 +0200" channel="sportklub6.hr">
@@ -11560,10 +11544,6 @@
   </programme>
   <programme start="20241102230000 +0200" stop="20241103000000 +0200" channel="sportklub6.hr">
     <title>Sport Klub 6 Promo 3</title>
-    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
-  </programme>
-  <programme start="20241103000000 +0200" channel="sportklub6.hr">
-    <title>Sport Klub 6 Promo 4</title>
     <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
   </programme>
   <programme start="20241030065000 +0200" stop="20241030073000 +0200" channel="ligadecampeones.mplus.es">
