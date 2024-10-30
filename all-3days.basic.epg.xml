@@ -392,14 +392,6 @@
     <display-name lang="en">Sky Sports 1</display-name>
     <display-name lang="en">Sky Sports Main Event</display-name>
   </channel>
-  <channel id="skysport1.de">
-    <display-name lang="de">Sky Sport 1</display-name>
-    <display-name lang="de">Sky Sport 1 HD</display-name>
-  </channel>
-  <channel id="skysport2.de">
-    <display-name lang="de">Sky Sport 2 HD</display-name>
-    <display-name lang="de">Sky Sport 2</display-name>
-  </channel>
   <channel id="skysportbundesliga.de">
     <display-name lang="de">Sky Sport Bundesliga</display-name>
     <display-name lang="de">Sky Sport Bundesliga HD</display-name>
@@ -826,10 +818,6 @@
     <display-name lang="en">Investigation Discovery</display-name>
     <display-name lang="en">ID Xtra</display-name>
     <display-name lang="en">ID Xtra HD</display-name>
-  </channel>
-  <channel id="dtx.tv">
-    <display-name>DTX HD</display-name>
-    <display-name>DTX</display-name>
   </channel>
   <channel id="foodnetwork.bg">
     <display-name lang="en">Food Network</display-name>

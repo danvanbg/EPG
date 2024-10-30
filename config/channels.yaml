@@ -1252,7 +1252,7 @@
     
   
 - id: skysport1.de
-  enabled: true
+  enabled: false
   names:
   - name: Sky Sport 1
     lang: de
@@ -1264,7 +1264,7 @@
   - programtv.onet.pl
   
 - id: skysport2.de
-  enabled: true
+  enabled: false
   names:
   - name: Sky Sport 2 HD
     lang: de
@@ -2477,7 +2477,7 @@
   - tv.dir.bg
   
 - id: dtx.tv
-  enabled: true
+  enabled: false
   names:
   - name: DTX HD
   - name: DTX
