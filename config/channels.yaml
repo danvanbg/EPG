@@ -1411,6 +1411,15 @@
   groups: ["sport"]
   sources:
   - dnes.bg
+  
+- id: supertennis.it
+  enabled: true
+  names:
+  - name: Super Tennis
+  - name: Super Tennis HD
+  groups: ["sport"]
+  sources:
+  - guida.tv
 
   
 - id: fueltv.com
@@ -3618,6 +3627,7 @@
   groups: [ "it" ]
   sources:
   - raiplay.it
+  - guida.tv
   
 - id: rai2.it
   enabled: true
@@ -3627,7 +3637,8 @@
   groups: [ "it" ]
   sources:
   - raiplay.it
-  
+  - guida.tv
+
 - id: rai3.it
   enabled: true
   names:
@@ -3636,6 +3647,7 @@
   groups: [ "it" ]
   sources:
   - raiplay.it
+  - guida.tv
   
 - id: rai4.it
   enabled: true
@@ -3646,6 +3658,7 @@
   groups: [ "it" ]
   sources:
   - raiplay.it
+  - guida.tv
   
 - id: rainews.it
   enabled: true
@@ -3654,6 +3667,7 @@
   - name: RAI News 24 HD
   sources:
   - raiplay.it
+  - guida.tv
   
 - id: raiscuola.it
   enabled: true
@@ -3663,6 +3677,7 @@
   - name: RAI Scuola HD
   sources:
   - raiplay.it
+  - guida.tv
   
 - id: luxe.tv
   enabled: true
