@@ -13,7 +13,6 @@ programs:
 elements:
   - name: title
     locator: h4
-    # type: InnerText
     debug: true
     operations:
     - name: remove-after
@@ -27,7 +26,6 @@ elements:
 
   - name: desc
     locator: .description > p
-    type: InnerText
     operations:
       - name: beautify
         hook: after

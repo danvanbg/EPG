@@ -270,10 +270,14 @@ channel-parameters:
     channelId: 11194
   hgtv.com:
     channelId: 11286
-  UATV:
-    channelId: 11288
   codehealth.bg:
     channelId: 11293
+  vidimoinevidimo.bg:
+    channelId: 11315
+  kanal4.bg:
+    channelId: 11312
+  ams.de:
+    channelId: 11312
 
 #channel-extract-rules:
 #  url: https://www.dnes.bg/tv.php

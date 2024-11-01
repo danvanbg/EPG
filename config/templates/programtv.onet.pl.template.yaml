@@ -12,7 +12,7 @@ request:
 
 programs:
   debug: false
-  locator: '.emissions ul > li'
+  locator: .emissions ul > li
     
 elements:
   - name: title

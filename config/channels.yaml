@@ -324,7 +324,7 @@
   - dnes.bg
   
 - id: vtk.bg
-  enabled: true
+  enabled: false
   names:
   - name: ВТК
     lang: bg
@@ -473,27 +473,35 @@
   - pawa.tv
   - dnes.bg
 
-- id: filmbox.com
+- id: filmboxbasic.com
   enabled: true
   names:
-  - name: FILMBOX
+  - name: Filmbox
     lang: en
-  - name: FILMBOX HD
+  - name: Filmbox HD
     lang: en
   sources:
   - dnes.bg
-  - tv.dir.tv
   
-- id: filmboxstars.com
+- id: filmboxextras.com
   enabled: true
   names:
-  - name: FilmBox Stars
+  - name: FilmBox Extra
     lang: en
-  - name: FilmBox Stars HD
+  - name: FilmBox Extra HD
     lang: en
   sources:
   - dnes.bg
-  - tv.dir.tv
+  
+
+- id: kanal4.bg
+  enabled: true
+  names:
+  - name: Канал 4
+    lang: bg
+  - name: Канал 4 HD
+  sources:
+  - dnes.bg
 
 - id: diema.bg
   enabled: true
@@ -775,16 +783,19 @@
 
 - id: maxsport1.bg
   enabled: true
+  increment: false
   names:
   - name: Max Sport 1
   - name: Max Sport 1 HD
   - name: Max Sport 1 LQ
   groups: ["sport"]
   sources:
+  - maxsport.live
   - dnes.bg
   - tv.dir.bg
   
 - id: maxsport2.bg
+  increment: false
   enabled: true
   names:
   - name: Max Sport 2
@@ -792,10 +803,12 @@
   - name: Max Sport 2 LQ
   groups: ["sport"]
   sources:
+  - maxsport.live  
   - dnes.bg
   - tv.dir.bg
   
 - id: maxsport3.bg
+  increment: false
   enabled: true
   names:
   - name: Max Sport 3
@@ -803,10 +816,12 @@
   - name: Max Sport 3 LQ
   groups: ["sport"]
   sources:
+  - maxsport.live  
   - dnes.bg
   - tv.dir.bg
   
 - id: maxsport4.bg
+  increment: false
   enabled: true
   names:
   - name: Max Sport 4
@@ -814,6 +829,7 @@
   - name: Max Sport 4 LQ
   groups: ["sport"]
   sources:
+  - maxsport.live  
   - dnes.bg
   - tv.dir.bg
   
@@ -1300,6 +1316,7 @@
   enabled: true
   names:
   - name: "SR: Sport Klub 1"
+  - name: "Sport Klub 1 SR"
     lang: sr
   groups: ["sport"]
   sources:
@@ -1309,6 +1326,7 @@
   enabled: true
   names:
   - name: "SR: Sport Klub 2"
+  - name: "Sport Klub 2 SR"
     lang: sr
   groups: ["sport"]
   sources:
@@ -1318,6 +1336,7 @@
   enabled: true
   names:
   - name: "SR: Sport Klub 3"
+  - name: "Sport Klub 3 SR"
     lang: sr
   groups: ["sport"]
   sources:
@@ -1327,6 +1346,7 @@
   enabled: true
   names:
   - name: "HR: Sport Klub 1"
+  - name: "Sport Klub 1 HR"
     lang: hr
   groups: ["sport"]
   sources:
@@ -1336,6 +1356,7 @@
   enabled: true
   names:
   - name: "HR: Sport Klub 2"
+  - name: "Sport Klub 2 HR"
     lang: hr
   groups: ["sport"]
   sources:
@@ -1345,6 +1366,7 @@
   enabled: true
   names:
   - name: "HR: Sport Klub 3"
+  - name: "Sport Klub 3 HR"
     lang: hr
   groups: ["sport"]
   sources:
@@ -1354,6 +1376,7 @@
   enabled: true
   names:
   - name: "HR: Sport Klub 4"
+  - name: "Sport Klub 4 HR"
     lang: hr
   groups: ["sport"]
   sources:
@@ -1363,6 +1386,7 @@
   enabled: true
   names:
   - name: "HR: Sport Klub 5"
+  - name: "Sport Klub 5 HR"
     lang: hr
   groups: ["sport"]
   sources:
@@ -1372,6 +1396,7 @@
   enabled: true
   names:
   - name: "HR: Sport Klub 6"
+  - name: "Sport Klub 6 HR"
     lang: hr
   groups: ["sport"]
   sources:
@@ -1399,17 +1424,18 @@
   sources:
   - movistarplus.es
   
-- id: ams.bg
+- id: ams.de
   enabled: true
   names:
   - name: Auto Moto Sport
     lang: en
   - name: Auto Moto Sport HD
     lang: en
-  - name: AMX
+  - name: AMS
     lang: en
   groups: ["sport"]
   sources:
+  - tvtoday.de
   - dnes.bg
   
 - id: supertennis.it
@@ -1420,6 +1446,26 @@
   groups: ["sport"]
   sources:
   - guida.tv
+  
+- id: foxsports1.com
+  enabled: true
+  names:
+  - name: Fox Sports 1
+  - name: Fox Sports 1 USA
+  - name: Fox Sports 1 HD
+  groups: ["sport"]
+  sources:
+  - ontvtonight.com
+  
+- id: foxsports2.com
+  enabled: true
+  names:
+  - name: Fox Sports 1
+  - name: Fox Sports 1 USA
+  - name: Fox Sports 1 HD
+  groups: ["sport"]
+  sources:
+  - ontvtonight.com
 
   
 - id: fueltv.com
@@ -2019,7 +2065,7 @@
   - tvtoday.de
   
 - id: servus.de
-  enabled: true
+  enabled: false
   names:
   - name: Servus HD
   - name: Servus HD Austria
@@ -2373,12 +2419,12 @@
 - id: hgtv.com
   enabled: true
   names:
-  - name: HDGE
-  - name: HDGE HD
+  - name: HGTV
+  - name: HGTV HD
     lang: en
   sources:
-  - tv-programa.bg
   - dnes.bg
+  - tv-programa.bg
   - tv.dir.bg
   
 - id: tlc.bg
@@ -2590,8 +2636,8 @@
   - name: Travel TV
     lang: en
   sources:
-  - start.bg
   - dnes.bg
+  - start.bg
   - tv.dir.bg
 
 - id: glasamiturista.ru
@@ -2676,6 +2722,14 @@
   - dnes.bg
   - tv.dir.bg
   
+- id: vidimoinevidimo.bg
+  enabled: true
+  names:
+  - name: Видимо и невидимо HD
+  - name: Видимо и невидимо
+  sources:
+  - dnes.bg
+  
 - id: bbcearth.com
   enabled: false
   names:
@@ -2731,16 +2785,14 @@
   sources:
   - yandex.ru
 
-  
 - id: wnesstv.com
-  enabled: false
+  enabled: true
   names:
+  - name: Wness
   - name: Wness TV
-    lang: en
   - name: Wness HD
-    lang: en    
   sources:
-  - wness.com
+  - wnesstv.com
   
 ############
 ### KIDS ###
@@ -3331,12 +3383,14 @@
 ##############
 
 - id: englishclub.tv
-  enabled: false
+  enabled: true
   names:
   - name: English Club
+  - name: English Club HD
     lang: en
   groups: [ "oth" ]
   sources:
+    - tvplus.com.tr
 
 - id: tve.es
   enabled: true
