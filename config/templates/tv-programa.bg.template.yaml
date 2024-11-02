@@ -75,6 +75,44 @@ channel-parameters:
     channelId: docubox
   hgtv.com:
     channelId: hgtv
+  cartoonito.bg:
+    channelId: cartoonito
+  filmboxstars.com:
+    channelId: filmbox-stars
+  filmboxextras.com:
+    channelId: filmbox-extras
+  filmbox.com:
+    channelId: filmbox
+  tlc.bg:
+    channelId: tlc
+  travelchannel.bg:
+    channelId: travel-channel
+  nickelodeon.tv:
+    channelId: nickelodeon
+  nicktoons.tv:
+    channelId: nicktoons
+  nick.tv:
+    channelId: nick-jr
+  disneychannel.bg:
+    channelId: disney
+  cartoonnetwork.tv:
+    channelId: cartoon-network
+  thevoice.bg:
+    channelId: the-voice
+  mezzo.tv:
+    channelId: mezzo
+  planetatv.bg:
+    channelId: planeta
+  ekids.bg:
+    channelId: ekids
+  discoverychannel.bg:
+    channelId: discovery
+  investigationdiscovery.bg:
+    channelId: id
+  investigationdiscoveryextra.bg:
+    channelId: id-xtra
+  historytv.com:
+    channelId: history
 
 #channel-extract-rules:
 #  url: https://www.xn----8sbafg9clhjcp.bg/

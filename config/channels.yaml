@@ -473,7 +473,7 @@
   - pawa.tv
   - dnes.bg
 
-- id: filmboxbasic.com
+- id: filmbox.com
   enabled: true
   names:
   - name: Filmbox
@@ -483,7 +483,7 @@
   sources:
   - dnes.bg
   
-- id: filmboxextras.com
+- id: filmboxextra.com
   enabled: true
   names:
   - name: FilmBox Extra
@@ -491,6 +491,18 @@
   - name: FilmBox Extra HD
     lang: en
   sources:
+  - tv-programa.bg
+  - dnes.bg
+  
+- id: filmboxstars.com
+  enabled: true
+  names:
+  - name: FilmBox Stars
+    lang: en
+  - name: FilmBox Stars HD
+    lang: en
+  sources:
+  - tv-programa.bg
   - dnes.bg
   
 
@@ -502,6 +514,14 @@
   - name: Канал 4 HD
   sources:
   - dnes.bg
+
+- id: vivacomarena.bg
+  enabled: true
+  names:
+  - name: Arena
+  - name: Arena HD
+  sources:
+  - tv-programa.bg
 
 - id: diema.bg
   enabled: true
@@ -1204,7 +1224,7 @@
   - turksatkablo.com.tr
 
 - id: raisport1.it
-  enabled: true
+  enabled: false
   names:
   - name: Rai Sport 1
   groups: ["sport"]
@@ -1220,7 +1240,7 @@
   sources:
   - mts.rs
   - dnes.bg
-  
+  - tvtoday.de
   
 - id: sport1.de
   enabled: true
@@ -1235,7 +1255,7 @@
   - tvtoday.de
   
 - id: sport1plus.de
-  enabled: true
+  enabled: false
   names:
   - name: Sport +
   - name: Sport+
@@ -1257,7 +1277,7 @@
   - tvtoday.de
   
 - id: skysports1.com
-  enabled: true
+  enabled: false
   names:
   - name: Sky Sports 1
     lang: en
@@ -1629,6 +1649,7 @@
   - name: Planeta LQ
     lang: en
   sources:
+  - tv-programa.bg
   - dnes.bg
 
 - id: planetafolk.bg
@@ -1653,6 +1674,7 @@
   - name: Fen HD
     lang: en
   sources:
+  - fentv.bg
   - dnes.bg
     
 - id: fenfolk.bg
@@ -1686,6 +1708,7 @@
   - name: Mezzo
     lang: en
   sources:
+  - tv-programa.bg
   - programtv.onet.pl
   - tvtoday.de
   - dnes.bg
@@ -2423,8 +2446,8 @@
   - name: HGTV HD
     lang: en
   sources:
-  - dnes.bg
   - tv-programa.bg
+  - dnes.bg
   - tv.dir.bg
   
 - id: tlc.bg
@@ -2435,6 +2458,7 @@
   - name: TLC LQ
     lang: en
   sources:
+  - tv-programa.bg
   - dnes.bg
   - tv.dir.bg
   
@@ -2497,6 +2521,7 @@
   - name: Discovery LQ
     lang: en
   sources:
+  - tv-programa.bg
   - dnes.bg
 
 - id: discoveryscience.com
@@ -2519,7 +2544,7 @@
   - tv.dir.bg
   
 - id: investigationdiscovery.bg
-  enabled: true
+  enabled: false
   names:
   - name: Investigation Discovery
     lang: en
@@ -2528,8 +2553,19 @@
   - name: ID Xtra HD
     lang: en
   sources:
+  - tv-programa.bg
   - dnes.bg
   - tv.dir.bg
+  
+- id: investigationdiscoveryextra.bg
+  enabled: true
+  names:
+  - name: ID Xtra
+    lang: en
+  - name: ID Xtra HD
+    lang: en
+  sources:
+  - tv-programa.bg
   
 - id: dtx.tv
   enabled: false
@@ -2626,6 +2662,7 @@
   - name: Travel Channel HD
     lang: en
   sources:
+  - tv-programa.bg
   - dnes.bg
 
 - id: traveltv.bg
@@ -2671,6 +2708,7 @@
   - name: History Channel HD
     lang: en
   sources:
+  - tv-programa.bg
   - dnes.bg
   - tv.dir.bg
   
@@ -2806,16 +2844,29 @@
     lang: en
   groups: [ "kids" ]
   sources:
+  - tv-programa.bg
   - dnes.bg
   - tv.dir.bg
+  
+- id: nicktoons.tv
+  enabled: true
+  names:
+  - name: Nicktoons
+  - name: Nicktoons HD
+    lang: en
+  groups: [ "kids" ]
+  sources:
+  - tv-programa.bg
 
 - id: nick.tv
   enabled: true
   names:
+  - name: Nick Jr.
   - name: Nick HD
     lang: en
   groups: [ "kids" ]
   sources:
+  - tv-programa.bg
   - dnes.bg
   - tv.dir.bg
   
@@ -2838,6 +2889,7 @@
   groups: [ "kids" ]
   sources:
   - dnes.bg
+  - tv-programa.bg
   
 - id: davincilearning.tv
   enabled: true
@@ -2849,19 +2901,23 @@
   - dnes.bg
   - tv.dir.bg
   
-- id: boomerang.tv
+- id: cartoonito.bg
   enabled: true
   names:
-  - name: Boomerang
+  - name: Cartoonito
+  - name: Cartoonito HD
     lang: en
   groups: [ "kids" ]
   sources:
+  - tv-programa.bg
+  - dnes.bg
   - tv.dir.bg
   
 - id: cartoonnetwork.tv
   enabled: true
   names:
   - name: Cartoon Network
+  - name: Cartoon Network / TCM
   - name: Cartoon Net LQ
     lang: en
   groups: [ "kids" ]
@@ -2877,6 +2933,7 @@
     lang: en
   groups: [ "kids" ]
   sources:
+  - tv-programa.bg
   - dnes.bg
   - tv.dir.bg
   
@@ -2942,6 +2999,14 @@
   groups: [ "kids" ]
   sources:
   - tvplus.com.tr
+  
+- id: fixandfoxi.de
+  enabled: true
+  names:
+  - name: Fix and Foxi
+  groups: [ "kids" ]
+  sources:
+  - tvtoday.de
 
 
 ###############

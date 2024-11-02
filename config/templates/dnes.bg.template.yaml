@@ -278,6 +278,8 @@ channel-parameters:
     channelId: 11312
   ams.de:
     channelId: 11312
+  cartoonito.bg:
+    channelId: 11298
 
 #channel-extract-rules:
 #  url: https://www.dnes.bg/tv.php
