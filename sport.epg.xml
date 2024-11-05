@@ -836,25 +836,31 @@
   <programme start="20241105173000 +0200" stop="20241105180000 +0200" channel="diemasport3.bg">
     <title>Втора Бундеслига: Обзор на кръга, 11 епизод, предаване за германски футбол 2024/2025</title>
   </programme>
-  <programme start="20241105180000 +0200" stop="20241105200000 +0200" channel="diemasport3.bg">
-    <title>Сепахан - Шарджа, 4 кръг, Футбол: Елитна Шампионска лига на Азия 2024/2025, директно</title>
+  <programme start="20241105180000 +0200" stop="20241105183000 +0200" channel="diemasport3.bg">
+    <title>Формула 1: Обзор, 21 епизод, предаване за Формула 1 2024, /п/</title>
   </programme>
-  <programme start="20241105200000 +0200" stop="20241105210000 +0200" channel="diemasport3.bg">
+  <programme start="20241105183000 +0200" stop="20241105190000 +0200" channel="diemasport3.bg">
+    <title>Обзор на кръга: Лига 1, 10 епизод, предаване за френски футбол 2024/2025, /п/</title>
+  </programme>
+  <programme start="20241105190000 +0200" stop="20241105200000 +0200" channel="diemasport3.bg">
     <title>Формула 1: Екстра, 21 епизод, предаване за Формула 1 2024</title>
   </programme>
-  <programme start="20241105210000 +0200" stop="20241105231500 +0200" channel="diemasport3.bg">
+  <programme start="20241105200000 +0200" stop="20241105220000 +0200" channel="diemasport3.bg">
+    <title>Сепахан - Шарджа, 4 кръг, Футбол: Елитна Шампионска лига на Азия 2024/2025, директно</title>
+  </programme>
+  <programme start="20241105220000 +0200" stop="20241106001500 +0200" channel="diemasport3.bg">
     <title>Шарлът Хорнетс - Бостън Селтикс, Баскетбол от НБА 2024/2025, /п/</title>
   </programme>
-  <programme start="20241105231500 +0200" stop="20241106010000 +0200" channel="diemasport3.bg">
+  <programme start="20241106001500 +0200" stop="20241106020000 +0200" channel="diemasport3.bg">
     <title>Холщайн Кийл - Хайденхайм, 9 кръг, Футбол: Бундеслига 2024/2025, /п/</title>
   </programme>
-  <programme start="20241106010000 +0200" stop="20241106024500 +0200" channel="diemasport3.bg">
+  <programme start="20241106020000 +0200" stop="20241106034500 +0200" channel="diemasport3.bg">
     <title>Байер Леверкузен - Щутгарт, 9 кръг, Футбол: Бундеслига 2024/2025, /п/</title>
   </programme>
-  <programme start="20241106024500 +0200" stop="20241106044500 +0200" channel="diemasport3.bg">
+  <programme start="20241106034500 +0200" stop="20241106054500 +0200" channel="diemasport3.bg">
     <title>Улм - Шалке 04, 11 кръг, Футбол: Втора Бундеслига 2024/2025, /п/</title>
   </programme>
-  <programme start="20241106044500 +0200" stop="20241106063000 +0200" channel="diemasport3.bg">
+  <programme start="20241106054500 +0200" stop="20241106063000 +0200" channel="diemasport3.bg">
     <title>Програмна пауза, Програмна пауза</title>
   </programme>
   <programme start="20241106063000 +0200" stop="20241106083000 +0200" channel="diemasport3.bg">
@@ -1148,59 +1154,32 @@
   <programme start="20241108220000 +0200" channel="ring.bg">
     <title>– Бойни вечери</title>
   </programme>
-  <programme start="20241105040000 +0200" stop="20241105050000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Белград</title>
-  </programme>
-  <programme start="20241105050000 +0200" stop="20241105060000 +0200" channel="maxsport1.bg">
-    <title>Зона волей</title>
-  </programme>
-  <programme start="20241105060000 +0200" stop="20241105070000 +0200" channel="maxsport1.bg">
-    <title>Брейкпойнт</title>
-  </programme>
-  <programme start="20241105070000 +0200" stop="20241105090000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Мец, Франция</title>
-  </programme>
-  <programme start="20241105090000 +0200" stop="20241105110000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Мец, Франция</title>
-  </programme>
-  <programme start="20241105110000 +0200" stop="20241105130000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Мец, Франция</title>
-  </programme>
-  <programme start="20241105130000 +0200" stop="20241105150000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Мец, Франция</title>
-  </programme>
-  <programme start="20241105150000 +0200" stop="20241105170000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Мец, Франция</title>
-  </programme>
   <programme start="20241105170000 +0200" stop="20241105190000 +0200" channel="maxsport1.bg">
     <title>ПРЯКО, ATP 250: Мец, Франция</title>
   </programme>
-  <programme start="20241105190000 +0200" stop="20241105200000 +0200" channel="maxsport1.bg">
+  <programme start="20241105190000 +0200" stop="20241105210000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, ATP 250: Мец, Франция</title>
+  </programme>
+  <programme start="20241105210000 +0200" stop="20241105220000 +0200" channel="maxsport1.bg">
     <title>Trans World Sport</title>
   </programme>
-  <programme start="20241105200000 +0200" stop="20241105220000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, УЕФА Шампионска лига: Лил - Ювентус</title>
-  </programme>
   <programme start="20241105220000 +0200" stop="20241106000000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Белград</title>
+    <title>ПРЯКО, УЕФА Шампионска лига: Лил - Ювентус Четвърти кръг</title>
   </programme>
   <programme start="20241106000000 +0200" stop="20241106020000 +0200" channel="maxsport1.bg">
     <title>ATP 250: Белград</title>
   </programme>
-  <programme start="20241106020000 +0200" stop="20241106043000 +0200" channel="maxsport1.bg">
-    <title>Волейбол - СуперЛига: Монтана - Берое</title>
+  <programme start="20241106020000 +0200" stop="20241106040000 +0200" channel="maxsport1.bg">
+    <title>ATP 250: Белград</title>
   </programme>
-  <programme start="20241106043000 +0200" stop="20241106050000 +0200" channel="maxsport1.bg">
-    <title>Trans World Sport</title>
+  <programme start="20241106040000 +0200" stop="20241106070000 +0200" channel="maxsport1.bg">
+    <title>Волейбол - СуперЛига: Монтана - Берое Монтана - Берое</title>
   </programme>
-  <programme start="20241106050000 +0200" stop="20241106060000 +0200" channel="maxsport1.bg">
-    <title>Евролига: Обзор 6 и 7 кръг</title>
+  <programme start="20241106070000 +0200" stop="20241106080000 +0200" channel="maxsport1.bg">
+    <title>Евролига: Обзор 6 и 7 кръг Обзор 6 и 7 кръг</title>
   </programme>
-  <programme start="20241106060000 +0200" stop="20241106070000 +0200" channel="maxsport1.bg">
-    <title>Зона волей</title>
-  </programme>
-  <programme start="20241106070000 +0200" stop="20241106090000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Мец, Франция</title>
+  <programme start="20241106080000 +0200" stop="20241106090000 +0200" channel="maxsport1.bg">
+    <title>"Зона волей" Токшоу</title>
   </programme>
   <programme start="20241106090000 +0200" stop="20241106110000 +0200" channel="maxsport1.bg">
     <title>ATP 250: Мец, Франция</title>
@@ -1209,7 +1188,7 @@
     <title>ATP 250: Мец, Франция</title>
   </programme>
   <programme start="20241106130000 +0200" stop="20241106150000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Мец, Франция</title>
+    <title>ATP 250: Мец, Франция</title>
   </programme>
   <programme start="20241106150000 +0200" stop="20241106170000 +0200" channel="maxsport1.bg">
     <title>ПРЯКО, ATP 250: Мец, Франция</title>
@@ -1221,628 +1200,511 @@
     <title>ПРЯКО, ATP 250: Мец, Франция</title>
   </programme>
   <programme start="20241106210000 +0200" stop="20241106230000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Белград</title>
+    <title>ПРЯКО, ATP 250: Мец, Франция</title>
   </programme>
   <programme start="20241106230000 +0200" stop="20241107010000 +0200" channel="maxsport1.bg">
     <title>ATP 250: Белград</title>
   </programme>
   <programme start="20241107010000 +0200" stop="20241107030000 +0200" channel="maxsport1.bg">
-    <title>Волейбол - Шампионска лига: Жешов - Марица - Пловдив</title>
+    <title>ATP 250: Белград</title>
   </programme>
-  <programme start="20241107030000 +0200" stop="20241107050000 +0200" channel="maxsport1.bg">
+  <programme start="20241107030000 +0200" stop="20241107070000 +0200" channel="maxsport1.bg">
+    <title>Волейбол - Шампионска лига: Жешов - Марица - Пловдив Първи кръг, жени</title>
+  </programme>
+  <programme start="20241107070000 +0200" stop="20241107090000 +0200" channel="maxsport1.bg">
     <title>ATP 250: Мец, Франция</title>
   </programme>
-  <programme start="20241107050000 +0200" stop="20241107070000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Мец, Франция</title>
-  </programme>
-  <programme start="20241107070000 +0200" stop="20241107100000 +0200" channel="maxsport1.bg">
+  <programme start="20241107090000 +0200" stop="20241107150000 +0200" channel="maxsport1.bg">
     <title>ПРЯКО, Голф: ABU DHABI HSBC CHAMPIONSHIP</title>
-  </programme>
-  <programme start="20241107100000 +0200" stop="20241107130000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Голф: ABU DHABI HSBC CHAMPIONSHIP</title>
-  </programme>
-  <programme start="20241107130000 +0200" stop="20241107150000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Мец, Франция</title>
   </programme>
   <programme start="20241107150000 +0200" stop="20241107170000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Мец, Франция</title>
+    <title>ПРЯКО, ATP 250: Мец, Франция Четвъртфинал</title>
   </programme>
   <programme start="20241107170000 +0200" stop="20241107190000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Мец, Франция</title>
+    <title>ПРЯКО, ATP 250: Мец, Франция Четвъртфинал</title>
   </programme>
-  <programme start="20241107190000 +0200" stop="20241107193000 +0200" channel="maxsport1.bg">
-    <title>Голф: Hangzhou Open</title>
+  <programme start="20241107190000 +0200" stop="20241107210000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, ATP 250: Мец, Франция Четвъртфинал</title>
   </programme>
-  <programme start="20241107193000 +0200" stop="20241107213000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Евролига: Олимпия Милано - Реал Мадрид</title>
+  <programme start="20241107210000 +0200" stop="20241107213000 +0200" channel="maxsport1.bg">
+    <title>Голф: Hangzhou Open Обзор на турнира</title>
   </programme>
   <programme start="20241107213000 +0200" stop="20241107233000 +0200" channel="maxsport1.bg">
-    <title>Евролига: Олимпия Милано - Реал Мадрид</title>
+    <title>ПРЯКО, Евролига: Олимпия Милано - Реал Мадрид Олимпия Милано - Реал Мадрид</title>
   </programme>
-  <programme start="20241107233000 +0200" stop="20241108000000 +0200" channel="maxsport1.bg">
+  <programme start="20241107233000 +0200" stop="20241108013000 +0200" channel="maxsport1.bg">
+    <title>Евролига: Олимпия Милано - Реал Мадрид Цървена Звезда - АЛБА Берлин</title>
+  </programme>
+  <programme start="20241108013000 +0200" stop="20241108020000 +0200" channel="maxsport1.bg">
     <title>Trans World Sport</title>
   </programme>
-  <programme start="20241108000000 +0200" stop="20241108010000 +0200" channel="maxsport1.bg">
-    <title>Moto GP: Обзор на състезанието за Голямата награда на Малайзия</title>
+  <programme start="20241108020000 +0200" stop="20241108030000 +0200" channel="maxsport1.bg">
+    <title>Moto GP: Обзор на състезанието за Голямата награда на Малайзия Обзор на състезанието за Голямата награда на Малайзия</title>
   </programme>
-  <programme start="20241108010000 +0200" stop="20241108030000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Мец, Франция</title>
+  <programme start="20241108030000 +0200" stop="20241108070000 +0200" channel="maxsport1.bg">
+    <title>ATP 250: Мец, Франция Четвъртфинал</title>
   </programme>
-  <programme start="20241108030000 +0200" stop="20241108050000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Мец, Франция</title>
+  <programme start="20241108070000 +0200" stop="20241108090000 +0200" channel="maxsport1.bg">
+    <title>ATP 250: Мец, Франция Четвъртфинал</title>
   </programme>
-  <programme start="20241108050000 +0200" stop="20241108070000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Мец, Франция</title>
-  </programme>
-  <programme start="20241108070000 +0200" stop="20241108100000 +0200" channel="maxsport1.bg">
+  <programme start="20241108090000 +0200" stop="20241108150000 +0200" channel="maxsport1.bg">
     <title>ПРЯКО, Голф: ABU DHABI HSBC CHAMPIONSHIP</title>
   </programme>
-  <programme start="20241108100000 +0200" stop="20241108130000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Голф: ABU DHABI HSBC CHAMPIONSHIP</title>
+  <programme start="20241108150000 +0200" stop="20241108153000 +0200" channel="maxsport1.bg">
+    <title>Голф: Hangzhou Open Обзор на турнира</title>
   </programme>
-  <programme start="20241108130000 +0200" stop="20241108133000 +0200" channel="maxsport1.bg">
-    <title>Голф: Hangzhou Open</title>
+  <programme start="20241108153000 +0200" stop="20241108163000 +0200" channel="maxsport1.bg">
+    <title>Nascar Cup Series: Обзор на състезанието във Вирджиния Обзор на състезанието във Вирджиния</title>
   </programme>
-  <programme start="20241108133000 +0200" stop="20241108143000 +0200" channel="maxsport1.bg">
-    <title>Nascar Cup Series: Обзор на състезанието във Вирджиния</title>
+  <programme start="20241108163000 +0200" stop="20241108183000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, ATP 250: Мец, Франция Първи полуфинал</title>
   </programme>
-  <programme start="20241108143000 +0200" stop="20241108163000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Мец, Франция</title>
-  </programme>
-  <programme start="20241108163000 +0200" stop="20241108170000 +0200" channel="maxsport1.bg">
+  <programme start="20241108183000 +0200" stop="20241108190000 +0200" channel="maxsport1.bg">
     <title>Trans World Sport</title>
   </programme>
-  <programme start="20241108170000 +0200" stop="20241108190000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Евролига: Анадолу Ефес - Монако</title>
+  <programme start="20241108190000 +0200" stop="20241108210000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, Евролига: Анадолу Ефес - Монако Анадолу Ефес - Монако</title>
   </programme>
-  <programme start="20241108190000 +0200" stop="20241108191500 +0200" channel="maxsport1.bg">
+  <programme start="20241108210000 +0200" stop="20241108211500 +0200" channel="maxsport1.bg">
     <title>ПРЯКО, Студио "Баскетбол"</title>
   </programme>
-  <programme start="20241108191500 +0200" stop="20241108210500 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Евролига: Панатинайкос - Олимпиакос</title>
+  <programme start="20241108211500 +0200" stop="20241108230500 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, Евролига: Панатинайкос - Олимпиакос Панатинайкос - Олимпиакос</title>
   </programme>
-  <programme start="20241108210500 +0200" stop="20241108213000 +0200" channel="maxsport1.bg">
+  <programme start="20241108230500 +0200" stop="20241108233000 +0200" channel="maxsport1.bg">
     <title>ПРЯКО, Студио "Баскетбол"</title>
-  </programme>
-  <programme start="20241108213000 +0200" stop="20241108233000 +0200" channel="maxsport1.bg">
-    <title>Еврокупа: Апоел Йерусалим - Венеция</title>
   </programme>
   <programme start="20241108233000 +0200" channel="maxsport1.bg">
-    <title>Еврокупа: Гран Канария - Улвс</title>
+    <title>Еврокупа: Апоел Йерусалим - Венеция Апоел Йерусалим - Венеция</title>
   </programme>
-  <programme start="20241105050000 +0200" stop="20241105060000 +0200" channel="maxsport2.bg">
-    <title>Зона волей</title>
+  <programme start="20241105180000 +0200" stop="20241105190000 +0200" channel="maxsport2.bg">
+    <title>"Удар със стик"</title>
   </programme>
-  <programme start="20241105060000 +0200" stop="20241105080000 +0200" channel="maxsport2.bg">
-    <title>ATP 250: Белград</title>
+  <programme start="20241105190000 +0200" stop="20241105210000 +0200" channel="maxsport2.bg">
+    <title>NHL: Минесота Уайлд - Торонто Мейпъл Лийфс Минесота Уайлд - Торонто Мейпъл Лийфс</title>
   </programme>
-  <programme start="20241105080000 +0200" stop="20241105100000 +0200" channel="maxsport2.bg">
-    <title>ATP 250: Белград</title>
+  <programme start="20241105210000 +0200" stop="20241105220000 +0200" channel="maxsport2.bg">
+    <title>Световен рали шампионат 2: Обзор на кръга Обзор на кръга</title>
   </programme>
-  <programme start="20241105100000 +0200" stop="20241105120000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, ATP 250: Белград</title>
+  <programme start="20241105220000 +0200" stop="20241106000000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, УЕФА Шампионска лига: Спортинг Лисабон - Манчестър Сити Четвърти кръг</title>
   </programme>
-  <programme start="20241105120000 +0200" stop="20241105140000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, ATP 250: Белград</title>
+  <programme start="20241106000000 +0200" stop="20241106010000 +0200" channel="maxsport2.bg">
+    <title>Евролига: Обзор 6 и 7 кръг Обзор 6 и 7 кръг</title>
   </programme>
-  <programme start="20241105140000 +0200" stop="20241105160000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, ATP 250: Белград</title>
+  <programme start="20241106010000 +0200" stop="20241106020000 +0200" channel="maxsport2.bg">
+    <title>"Удар със стик"</title>
   </programme>
-  <programme start="20241105160000 +0200" stop="20241105180000 +0200" channel="maxsport2.bg">
-    <title>NHL: Минесота Уайлд - Торонто Мейпъл Лийфс</title>
+  <programme start="20241106020000 +0200" stop="20241106053000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, NHL: Торонто Мейпъл Лийфс - Бостън Бруинс Торонто Мейпъл Лийфс - Бостън Бруинс</title>
   </programme>
-  <programme start="20241105180000 +0200" stop="20241105183000 +0200" channel="maxsport2.bg">
-    <title>Удар със стик</title>
-  </programme>
-  <programme start="20241105183000 +0200" stop="20241105200000 +0200" channel="maxsport2.bg">
-    <title>Зона волей</title>
-  </programme>
-  <programme start="20241105200000 +0200" stop="20241105220000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, УЕФА Шампионска лига: Спортинг Лисабон - Манчестър Сити</title>
-  </programme>
-  <programme start="20241105220000 +0200" stop="20241105230000 +0200" channel="maxsport2.bg">
-    <title>Евролига: Обзор 6 и 7 кръг</title>
-  </programme>
-  <programme start="20241105230000 +0200" stop="20241105233000 +0200" channel="maxsport2.bg">
-    <title>Световен рали шампионат 2: Обзор на кръга</title>
-  </programme>
-  <programme start="20241105233000 +0200" stop="20241106000000 +0200" channel="maxsport2.bg">
-    <title>Удар със стик</title>
-  </programme>
-  <programme start="20241106000000 +0200" stop="20241106030000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, NHL: Торонто Мейпъл Лийфс - Бостън Бруинс</title>
-  </programme>
-  <programme start="20241106030000 +0200" stop="20241106033000 +0200" channel="maxsport2.bg">
-    <title>Trans World Sport</title>
-  </programme>
-  <programme start="20241106033000 +0200" stop="20241106060000 +0200" channel="maxsport2.bg">
-    <title>Национална баскетболна лига: Миньор - Левски</title>
-  </programme>
-  <programme start="20241106060000 +0200" stop="20241106080000 +0200" channel="maxsport2.bg">
-    <title>ATP 250: Белград</title>
+  <programme start="20241106053000 +0200" stop="20241106080000 +0200" channel="maxsport2.bg">
+    <title>Национална баскетболна лига: Миньор - Левски Миньор - Левски</title>
   </programme>
   <programme start="20241106080000 +0200" stop="20241106100000 +0200" channel="maxsport2.bg">
     <title>ATP 250: Белград</title>
   </programme>
   <programme start="20241106100000 +0200" stop="20241106120000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, ATP 250: Белград</title>
+    <title>ATP 250: Белград</title>
   </programme>
   <programme start="20241106120000 +0200" stop="20241106140000 +0200" channel="maxsport2.bg">
     <title>ПРЯКО, ATP 250: Белград</title>
   </programme>
-  <programme start="20241106140000 +0200" stop="20241106143000 +0200" channel="maxsport2.bg">
-    <title>Голф: Hangzhou Open</title>
+  <programme start="20241106140000 +0200" stop="20241106160000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, ATP 250: Белград</title>
   </programme>
-  <programme start="20241106143000 +0200" stop="20241106153000 +0200" channel="maxsport2.bg">
-    <title>Удар със стик</title>
+  <programme start="20241106160000 +0200" stop="20241106163000 +0200" channel="maxsport2.bg">
+    <title>Голф: Hangzhou Open Обзор на турнира</title>
   </programme>
-  <programme start="20241106153000 +0200" stop="20241106163000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, "Спорна топка"</title>
+  <programme start="20241106163000 +0200" stop="20241106173000 +0200" channel="maxsport2.bg">
+    <title>"Удар със стик"</title>
   </programme>
-  <programme start="20241106163000 +0200" stop="20241106170000 +0200" channel="maxsport2.bg">
+  <programme start="20241106173000 +0200" stop="20241106183000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, "Спорна топка" Токшоу</title>
+  </programme>
+  <programme start="20241106183000 +0200" stop="20241106190000 +0200" channel="maxsport2.bg">
     <title>ПРЯКО, Студио "Волейбол"</title>
   </programme>
-  <programme start="20241106170000 +0200" stop="20241106190000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Волейбол - Шампионска лига: Жешов - Марица - Пловдив</title>
+  <programme start="20241106190000 +0200" stop="20241106210000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, Волейбол - Шампионска лига: Жешов - Марица - Пловдив Първи кръг, жени</title>
   </programme>
-  <programme start="20241106190000 +0200" stop="20241106191500 +0200" channel="maxsport2.bg">
+  <programme start="20241106210000 +0200" stop="20241106211500 +0200" channel="maxsport2.bg">
     <title>ПРЯКО, Студио "Волейбол"</title>
   </programme>
-  <programme start="20241106191500 +0200" stop="20241106213000 +0200" channel="maxsport2.bg">
-    <title>Волейбол - СуперЛига: Монтана - Берое</title>
+  <programme start="20241106211500 +0200" stop="20241106233000 +0200" channel="maxsport2.bg">
+    <title>Волейбол - СуперЛига: Монтана - Берое Монтана - Берое</title>
   </programme>
-  <programme start="20241106213000 +0200" stop="20241106233000 +0200" channel="maxsport2.bg">
-    <title>NHL: Торонто Мейпъл Лийфс - Бостън Бруинс</title>
+  <programme start="20241106233000 +0200" stop="20241107013000 +0200" channel="maxsport2.bg">
+    <title>NHL: Торонто Мейпъл Лийфс - Бостън Бруинс Торонто Мейпъл Лийфс - Бостън Бруинс</title>
   </programme>
-  <programme start="20241106233000 +0200" stop="20241107003000 +0200" channel="maxsport2.bg">
-    <title>Спорна топка</title>
+  <programme start="20241107013000 +0200" stop="20241107023000 +0200" channel="maxsport2.bg">
+    <title>"Спорна топка" Токшоу</title>
   </programme>
-  <programme start="20241107003000 +0200" stop="20241107013000 +0200" channel="maxsport2.bg">
-    <title>Удар със стик</title>
+  <programme start="20241107023000 +0200" stop="20241107033000 +0200" channel="maxsport2.bg">
+    <title>"Удар със стик"</title>
   </programme>
-  <programme start="20241107013000 +0200" stop="20241107043000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, NHL: Едмънтън Ойлърс - Вегас Голдън Найтс</title>
+  <programme start="20241107033000 +0200" stop="20241107070000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, NHL: Едмънтън Ойлърс - Вегас Голдън Найтс Едмънтън Ойлърс - Вегас Голдън Найтс</title>
   </programme>
-  <programme start="20241107043000 +0200" stop="20241107050000 +0200" channel="maxsport2.bg">
-    <title>Голф: Hangzhou Open</title>
-  </programme>
-  <programme start="20241107050000 +0200" stop="20241107060000 +0200" channel="maxsport2.bg">
-    <title>Евролига: Обзор 6 и 7 кръг</title>
-  </programme>
-  <programme start="20241107060000 +0200" stop="20241107080000 +0200" channel="maxsport2.bg">
-    <title>ATP 250: Белград</title>
+  <programme start="20241107070000 +0200" stop="20241107080000 +0200" channel="maxsport2.bg">
+    <title>Евролига: Обзор 6 и 7 кръг Обзор 6 и 7 кръг</title>
   </programme>
   <programme start="20241107080000 +0200" stop="20241107100000 +0200" channel="maxsport2.bg">
     <title>ATP 250: Белград</title>
   </programme>
   <programme start="20241107100000 +0200" stop="20241107120000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, ATP 250: Белград</title>
+    <title>ATP 250: Белград</title>
   </programme>
   <programme start="20241107120000 +0200" stop="20241107140000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, ATP 250: Белград</title>
+    <title>ПРЯКО, ATP 250: Белград Четвъртфинал</title>
   </programme>
   <programme start="20241107140000 +0200" stop="20241107160000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, ATP 250: Белград</title>
+    <title>ПРЯКО, ATP 250: Белград Четвъртфинал</title>
   </programme>
-  <programme start="20241107160000 +0200" stop="20241107163000 +0200" channel="maxsport2.bg">
-    <title>Голф: Hangzhou Open</title>
+  <programme start="20241107160000 +0200" stop="20241107180000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, ATP 250: Белград Четвъртфинал</title>
   </programme>
-  <programme start="20241107163000 +0200" stop="20241107173000 +0200" channel="maxsport2.bg">
-    <title>Скорост на Макс</title>
+  <programme start="20241107180000 +0200" stop="20241107183000 +0200" channel="maxsport2.bg">
+    <title>Голф: Hangzhou Open Обзор на турнира</title>
   </programme>
-  <programme start="20241107173000 +0200" stop="20241107183000 +0200" channel="maxsport2.bg">
-    <title>Moto GP: Обзор на състезанието за Голямата награда на Малайзия</title>
+  <programme start="20241107183000 +0200" stop="20241107193000 +0200" channel="maxsport2.bg">
+    <title>"Скорост на Макс" Токшоу</title>
   </programme>
-  <programme start="20241107183000 +0200" stop="20241107190000 +0200" channel="maxsport2.bg">
+  <programme start="20241107193000 +0200" stop="20241107203000 +0200" channel="maxsport2.bg">
+    <title>Moto GP: Обзор на състезанието за Голямата награда на Малайзия Обзор на състезанието за Голямата награда на Малайзия</title>
+  </programme>
+  <programme start="20241107203000 +0200" stop="20241107210000 +0200" channel="maxsport2.bg">
     <title>Trans World Sport</title>
   </programme>
-  <programme start="20241107190000 +0200" stop="20241107210000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Волейбол - Шампионска лига: Веро Волей - Порто</title>
+  <programme start="20241107210000 +0200" stop="20241107230000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, Волейбол - Шампионска лига: Веро Волей - Порто Първи кръг, жени</title>
   </programme>
-  <programme start="20241107210000 +0200" stop="20241107213000 +0200" channel="maxsport2.bg">
-    <title>Удар със стик</title>
+  <programme start="20241107230000 +0200" stop="20241108000000 +0200" channel="maxsport2.bg">
+    <title>"Удар със стик"</title>
   </programme>
-  <programme start="20241107213000 +0200" stop="20241107223000 +0200" channel="maxsport2.bg">
-    <title>Nascar Cup Series: Обзор на състезанието във Вирджиния</title>
+  <programme start="20241108000000 +0200" stop="20241108011500 +0200" channel="maxsport2.bg">
+    <title>Nascar Cup Series: Обзор на състезанието във Вирджиния Обзор на състезанието във Вирджиния</title>
   </programme>
-  <programme start="20241107223000 +0200" stop="20241108000000 +0200" channel="maxsport2.bg">
-    <title>Moto 2 : Състезание за Голямата награда на Малайзия</title>
+  <programme start="20241108011500 +0200" stop="20241108023000 +0200" channel="maxsport2.bg">
+    <title>Moto 2: Състезание за Голямата награда на Малайзия Състезание за Голямата награда на Малайзия</title>
   </programme>
-  <programme start="20241108000000 +0200" stop="20241108003000 +0200" channel="maxsport2.bg">
-    <title>Удар със стик</title>
+  <programme start="20241108023000 +0200" stop="20241108083000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, NHL: Тампа Бей Лайтнинг - Филаделфия Флайърс Тампа Бей Лайтнинг - Филаделфия Флайърс</title>
   </programme>
-  <programme start="20241108003000 +0200" stop="20241108033000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, NHL: Тампа Бей Лайтнинг - Филаделфия Флайърс</title>
-  </programme>
-  <programme start="20241108033000 +0200" stop="20241108063000 +0200" channel="maxsport2.bg">
-    <title>NFL: Балтимор Рейвънс - Денвър Бронкос</title>
-  </programme>
-  <programme start="20241108063000 +0200" stop="20241108070000 +0200" channel="maxsport2.bg">
-    <title>Голф: Hangzhou Open</title>
-  </programme>
-  <programme start="20241108070000 +0200" stop="20241108090000 +0200" channel="maxsport2.bg">
-    <title>ATP 250: Белград</title>
+  <programme start="20241108083000 +0200" stop="20241108090000 +0200" channel="maxsport2.bg">
+    <title>Голф: Hangzhou Open Обзор на турнира</title>
   </programme>
   <programme start="20241108090000 +0200" stop="20241108110000 +0200" channel="maxsport2.bg">
-    <title>ATP 250: Белград</title>
+    <title>ATP 250: Белград Четвъртфинал</title>
   </programme>
   <programme start="20241108110000 +0200" stop="20241108130000 +0200" channel="maxsport2.bg">
-    <title>ATP 250: Белград</title>
+    <title>ATP 250: Белград Четвъртфинал</title>
   </programme>
-  <programme start="20241108130000 +0200" stop="20241108140000 +0200" channel="maxsport2.bg">
-    <title>Удар със стик</title>
+  <programme start="20241108130000 +0200" stop="20241108150000 +0200" channel="maxsport2.bg">
+    <title>ATP 250: Белград Четвъртфинал</title>
   </programme>
-  <programme start="20241108140000 +0200" stop="20241108160000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, ATP 250: Белград</title>
+  <programme start="20241108150000 +0200" stop="20241108160000 +0200" channel="maxsport2.bg">
+    <title>"Удар със стик"</title>
   </programme>
-  <programme start="20241108160000 +0200" stop="20241108163000 +0200" channel="maxsport2.bg">
+  <programme start="20241108160000 +0200" stop="20241108180000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, ATP 250: Белград Първи полуфинал</title>
+  </programme>
+  <programme start="20241108180000 +0200" stop="20241108183000 +0200" channel="maxsport2.bg">
     <title>Trans World Sport</title>
   </programme>
-  <programme start="20241108163000 +0200" stop="20241108170000 +0200" channel="maxsport2.bg">
-    <title>NFL: Обзор 9 кръг</title>
+  <programme start="20241108183000 +0200" stop="20241108190000 +0200" channel="maxsport2.bg">
+    <title>NFL: Обзор 9 кръг Обзор 9 кръг</title>
   </programme>
-  <programme start="20241108170000 +0200" stop="20241108173000 +0200" channel="maxsport2.bg">
+  <programme start="20241108190000 +0200" stop="20241108193000 +0200" channel="maxsport2.bg">
     <title>ПРЯКО, Студио "Волейбол"</title>
   </programme>
-  <programme start="20241108173000 +0200" stop="20241108191500 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Волейбол - СуперЛига: Дея - Левски</title>
+  <programme start="20241108193000 +0200" stop="20241108211500 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, Волейбол - СуперЛига: Дея - Левски Дея - Левски</title>
   </programme>
-  <programme start="20241108191500 +0200" stop="20241108193000 +0200" channel="maxsport2.bg">
+  <programme start="20241108211500 +0200" stop="20241108213000 +0200" channel="maxsport2.bg">
     <title>ПРЯКО, Студио "Волейбол"</title>
-  </programme>
-  <programme start="20241108193000 +0200" stop="20241108213000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Евролига: Барселона - Баскония</title>
   </programme>
   <programme start="20241108213000 +0200" stop="20241108233000 +0200" channel="maxsport2.bg">
-    <title>ATP 250: Белград</title>
+    <title>ПРЯКО, Евролига: Барселона - Баскония Барселона - Баскония</title>
   </programme>
   <programme start="20241108233000 +0200" channel="maxsport2.bg">
-    <title>Удар със стик</title>
+    <title>ATP 250: Белград Втори полуфинал</title>
   </programme>
-  <programme start="20241105040000 +0200" stop="20241105060000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Верона - Рома</title>
+  <programme start="20241105170000 +0200" stop="20241105180000 +0200" channel="maxsport3.bg">
+    <title>"УЕФА Лига Европа и Лига на конференциите" Магазинно предаване</title>
   </programme>
-  <programme start="20241105060000 +0200" stop="20241105080000 +0200" channel="maxsport3.bg">
-    <title>Евролига: Макаби Тел Авив - Реал Мадрид</title>
+  <programme start="20241105180000 +0200" stop="20241105190000 +0200" channel="maxsport3.bg">
+    <title>"Калчо мания" Токшоу</title>
   </programme>
-  <programme start="20241105080000 +0200" stop="20241105090000 +0200" channel="maxsport3.bg">
-    <title>Trans World Sport</title>
-  </programme>
-  <programme start="20241105090000 +0200" stop="20241105110000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Интер - Венеция</title>
-  </programme>
-  <programme start="20241105110000 +0200" stop="20241105130000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Удинезе - Ювентус</title>
-  </programme>
-  <programme start="20241105130000 +0200" stop="20241105150000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, УЕФА Младежка Шампионска лига: Спортинг Лисабон - Манчестър Сити</title>
-  </programme>
-  <programme start="20241105150000 +0200" stop="20241105160000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Лига Европа и Лига на конференциите</title>
-  </programme>
-  <programme start="20241105160000 +0200" stop="20241105170000 +0200" channel="maxsport3.bg">
-    <title>Калчо мания</title>
-  </programme>
-  <programme start="20241105170000 +0200" stop="20241105174500 +0200" channel="maxsport3.bg">
+  <programme start="20241105190000 +0200" stop="20241105194500 +0200" channel="maxsport3.bg">
     <title>ПРЯКО, Студио "Футбол"</title>
   </programme>
-  <programme start="20241105174500 +0200" stop="20241105193000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, УЕФА Шампионска лига: ПСВ Айндховен - Жирона</title>
+  <programme start="20241105194500 +0200" stop="20241105213000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, УЕФА Шампионска лига: ПСВ Айндховен - Жирона Четвърти кръг</title>
   </programme>
-  <programme start="20241105193000 +0200" stop="20241105200000 +0200" channel="maxsport3.bg">
+  <programme start="20241105213000 +0200" stop="20241105220000 +0200" channel="maxsport3.bg">
     <title>ПРЯКО, Студио "Футбол"</title>
   </programme>
-  <programme start="20241105200000 +0200" stop="20241105215000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, УЕФА Шампионска лига: Реал Мадрид - Милан</title>
+  <programme start="20241105220000 +0200" stop="20241105235000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, УЕФА Шампионска лига: Реал Мадрид - Милан Четвърти кръг</title>
   </programme>
-  <programme start="20241105215000 +0200" stop="20241105221500 +0200" channel="maxsport3.bg">
+  <programme start="20241105235000 +0200" stop="20241106001500 +0200" channel="maxsport3.bg">
     <title>ПРЯКО, Студио "Футбол"</title>
   </programme>
-  <programme start="20241105221500 +0200" stop="20241105230000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, УЕФА Шампионска лига: Обзор на кръга</title>
-  </programme>
-  <programme start="20241105230000 +0200" stop="20241106010000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Шампионска лига: Лил - Ювентус</title>
+  <programme start="20241106001500 +0200" stop="20241106010000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, УЕФА Шампионска лига: Обзор на кръга Обзор на кръга</title>
   </programme>
   <programme start="20241106010000 +0200" stop="20241106030000 +0200" channel="maxsport3.bg">
+    <title>УЕФА Шампионска лига: Лил - Ювентус Четвърти кръг</title>
+  </programme>
+  <programme start="20241106030000 +0200" stop="20241106070000 +0200" channel="maxsport3.bg">
     <title>Серия А: Монца - Милан</title>
   </programme>
-  <programme start="20241106030000 +0200" stop="20241106050000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Наполи - Аталанта</title>
-  </programme>
-  <programme start="20241106050000 +0200" stop="20241106060000 +0200" channel="maxsport3.bg">
-    <title>Калчо мания</title>
-  </programme>
-  <programme start="20241106060000 +0200" stop="20241106080000 +0200" channel="maxsport3.bg">
-    <title>Евролига: Цървена Звезда - Панатинайкос</title>
+  <programme start="20241106070000 +0200" stop="20241106080000 +0200" channel="maxsport3.bg">
+    <title>"Калчо мания" Токшоу</title>
   </programme>
   <programme start="20241106080000 +0200" stop="20241106100000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Верона - Рома</title>
+    <title>Евролига: Цървена Звезда - Панатинайкос Цървена Звезда - Панатинайкос</title>
   </programme>
   <programme start="20241106100000 +0200" stop="20241106120000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Лацио - Каляри</title>
+    <title>Серия А: Верона - Рома</title>
   </programme>
   <programme start="20241106120000 +0200" stop="20241106140000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Шампионска лига: Ливърпул - Байер Леверкузен</title>
-  </programme>
-  <programme start="20241106140000 +0200" stop="20241106160000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Шампионска лига: Реал Мадрид - Милан</title>
-  </programme>
-  <programme start="20241106160000 +0200" stop="20241106170000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Обзор 11 кръг</title>
-  </programme>
-  <programme start="20241106170000 +0200" stop="20241106180000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Шампионска лига: Обзор на кръга</title>
-  </programme>
-  <programme start="20241106180000 +0200" stop="20241106200000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Еврокупа: Апоел Йерусалим - Венеция</title>
-  </programme>
-  <programme start="20241106200000 +0200" stop="20241106220000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Еврокупа: Гран Канария - Улвс</title>
-  </programme>
-  <programme start="20241106220000 +0200" stop="20241107000000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Шампионска лига: ПСВ Айндховен - Жирона</title>
-  </programme>
-  <programme start="20241107000000 +0200" stop="20241107020000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Интер - Венеция</title>
-  </programme>
-  <programme start="20241107020000 +0200" stop="20241107040000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Удинезе - Ювентус</title>
-  </programme>
-  <programme start="20241107040000 +0200" stop="20241107060000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Младежка Шампионска лига: Спортинг Лисабон - Манчестър Сити</title>
-  </programme>
-  <programme start="20241107060000 +0200" stop="20241107080000 +0200" channel="maxsport3.bg">
-    <title>Евролига: Фенербахче - Партизан</title>
-  </programme>
-  <programme start="20241107080000 +0200" stop="20241107090000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Обзор 11 кръг</title>
-  </programme>
-  <programme start="20241107090000 +0200" stop="20241107110000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Монца - Милан</title>
-  </programme>
-  <programme start="20241107110000 +0200" stop="20241107130000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Шампионска лига: Слован Братислава - Динамо Загреб</title>
-  </programme>
-  <programme start="20241107130000 +0200" stop="20241107150000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Шампионска лига: Спортинг Лисабон - Манчестър Сити</title>
-  </programme>
-  <programme start="20241107150000 +0200" stop="20241107160000 +0200" channel="maxsport3.bg">
-    <title>Trans World Sport</title>
-  </programme>
-  <programme start="20241107160000 +0200" stop="20241107163000 +0200" channel="maxsport3.bg">
-    <title>Серия А: "Екстра Калчо"</title>
-  </programme>
-  <programme start="20241107163000 +0200" stop="20241107174500 +0200" channel="maxsport3.bg">
-    <title>Саудитска Професионална Лига: Обзор 9 кръг</title>
-  </programme>
-  <programme start="20241107174500 +0200" stop="20241107200000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, УЕФА Лига Европа: Галатасарай - Тотнъм</title>
-  </programme>
-  <programme start="20241107200000 +0200" stop="20241107220000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, УЕФА Лига Европа: Манчестър Юнайтед - ПАОК</title>
-  </programme>
-  <programme start="20241107220000 +0200" stop="20241107222500 +0200" channel="maxsport3.bg">
-    <title>Серия А: "Екстра Калчо"</title>
-  </programme>
-  <programme start="20241107222500 +0200" stop="20241107231500 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, УЕФА Лига Европа и Лига на конференциите: Обзор на кръга</title>
-  </programme>
-  <programme start="20241107231500 +0200" stop="20241108011500 +0200" channel="maxsport3.bg">
-    <title>УЕФА Лига Европа: Юнион Сен Жилоа - Рома</title>
-  </programme>
-  <programme start="20241108011500 +0200" stop="20241108030000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Наполи - Аталанта</title>
-  </programme>
-  <programme start="20241108030000 +0200" stop="20241108040000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Шампионска лига: Обзор на кръга</title>
-  </programme>
-  <programme start="20241108040000 +0200" stop="20241108060000 +0200" channel="maxsport3.bg">
     <title>Серия А: Лацио - Каляри</title>
   </programme>
-  <programme start="20241108060000 +0200" stop="20241108080000 +0200" channel="maxsport3.bg">
-    <title>Евролига: Олимпия Милано - Реал Мадрид</title>
+  <programme start="20241106140000 +0200" stop="20241106160000 +0200" channel="maxsport3.bg">
+    <title>УЕФА Шампионска лига: Ливърпул - Байер Леверкузен Четвърти кръг</title>
   </programme>
-  <programme start="20241108080000 +0200" stop="20241108084500 +0200" channel="maxsport3.bg">
-    <title>Серия А: "Екстра Калчо"</title>
+  <programme start="20241106160000 +0200" stop="20241106180000 +0200" channel="maxsport3.bg">
+    <title>УЕФА Шампионска лига: Реал Мадрид - Милан Четвърти кръг</title>
   </programme>
-  <programme start="20241108084500 +0200" stop="20241108104500 +0200" channel="maxsport3.bg">
-    <title>УЕФА Лига Европа: Манчестър Юнайтед - ПАОК</title>
+  <programme start="20241106180000 +0200" stop="20241106190000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Обзор 11 кръг Обзор 11 кръг</title>
   </programme>
-  <programme start="20241108104500 +0200" stop="20241108124500 +0200" channel="maxsport3.bg">
-    <title>УЕФА Шампионска лига: ПСВ Айндховен - Жирона</title>
+  <programme start="20241106190000 +0200" stop="20241106200000 +0200" channel="maxsport3.bg">
+    <title>УЕФА Шампионска лига: Обзор на кръга Обзор на кръга</title>
   </programme>
-  <programme start="20241108124500 +0200" stop="20241108144500 +0200" channel="maxsport3.bg">
-    <title>УЕФА Шампионска лига: Лил - Ювентус</title>
+  <programme start="20241106200000 +0200" stop="20241106220000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Еврокупа: Апоел Йерусалим - Венеция Апоел Йерусалим - Венеция</title>
   </programme>
-  <programme start="20241108144500 +0200" stop="20241108170000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Саудитска Професионална Лига: Ал Хилал - Ал Етифак</title>
+  <programme start="20241106220000 +0200" stop="20241107000000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Еврокупа: Гран Канария - Улвс Гран Канария - Улвс</title>
   </programme>
-  <programme start="20241108170000 +0200" stop="20241108191500 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, ATP 250: Мец, Франция</title>
+  <programme start="20241107000000 +0200" stop="20241107020000 +0200" channel="maxsport3.bg">
+    <title>УЕФА Шампионска лига: ПСВ Айндховен - Жирона Четвърти кръг</title>
   </programme>
-  <programme start="20241108191500 +0200" stop="20241108194500 +0200" channel="maxsport3.bg">
-    <title>Серия А: "Преди кръга"</title>
+  <programme start="20241107020000 +0200" stop="20241107040000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Интер - Венеция</title>
   </programme>
-  <programme start="20241108194500 +0200" stop="20241108214500 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Серия А: Лече - Емполи</title>
+  <programme start="20241107040000 +0200" stop="20241107080000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Удинезе - Ювентус</title>
   </programme>
-  <programme start="20241108214500 +0200" stop="20241108221500 +0200" channel="maxsport3.bg">
-    <title>УЕФА Шампионска лига</title>
+  <programme start="20241107080000 +0200" stop="20241107100000 +0200" channel="maxsport3.bg">
+    <title>Евролига: Фенербахче - Партизан Фенербахче - Партизан</title>
   </programme>
-  <programme start="20241108221500 +0200" channel="maxsport3.bg">
-    <title>Саудитска Професионална Лига: Ал Рияд - Ал Насър</title>
+  <programme start="20241107100000 +0200" stop="20241107110000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Обзор 11 кръг Обзор 11 кръг</title>
   </programme>
-  <programme start="20241105040000 +0200" stop="20241105060000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Жирона - Леганес</title>
+  <programme start="20241107110000 +0200" stop="20241107130000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Монца - Милан</title>
   </programme>
-  <programme start="20241105060000 +0200" stop="20241105080000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Севиля - Реал Сосиедад</title>
+  <programme start="20241107130000 +0200" stop="20241107150000 +0200" channel="maxsport3.bg">
+    <title>УЕФА Шампионска лига: Слован Братислава - Динамо Загреб Четвърти кръг</title>
   </programme>
-  <programme start="20241105080000 +0200" stop="20241105093000 +0200" channel="maxsport4.bg">
-    <title>"Пред Стадиона" - спортно шоу</title>
+  <programme start="20241107150000 +0200" stop="20241107170000 +0200" channel="maxsport3.bg">
+    <title>УЕФА Шампионска лига: Спортинг Лисабон - Манчестър Сити Четвърти кръг</title>
   </programme>
-  <programme start="20241105093000 +0200" stop="20241105113000 +0200" channel="maxsport4.bg">
-    <title>Копа Судамерикана: Расинг Клуб - Коринтианс</title>
-  </programme>
-  <programme start="20241105113000 +0200" stop="20241105123000 +0200" channel="maxsport4.bg">
-    <title>УЕФА Лига Европа и Лига на конференциите</title>
-  </programme>
-  <programme start="20241105123000 +0200" stop="20241105143000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Барселона - Еспаньол</title>
-  </programme>
-  <programme start="20241105143000 +0200" stop="20241105153000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига 2: Обзор 13 кръг</title>
-  </programme>
-  <programme start="20241105153000 +0200" stop="20241105163000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Обзор 12 кръг</title>
-  </programme>
-  <programme start="20241105163000 +0200" stop="20241105174500 +0200" channel="maxsport4.bg">
-    <title>LaLiga дневник</title>
-  </programme>
-  <programme start="20241105174500 +0200" stop="20241105200000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, УЕФА Шампионска лига: Слован Братислава - Динамо Загреб</title>
-  </programme>
-  <programme start="20241105200000 +0200" stop="20241105220000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, УЕФА Шампионска лига: Ливърпул - Байер Леверкузен</title>
-  </programme>
-  <programme start="20241105220000 +0200" stop="20241106000000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Атлетико Мадрид - Лас Палмас</title>
-  </programme>
-  <programme start="20241106000000 +0200" stop="20241106020000 +0200" channel="maxsport4.bg">
-    <title>Копа Либертадорес: Пенярол - Ботафого</title>
-  </programme>
-  <programme start="20241106020000 +0200" stop="20241106040000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Селта - Хетафе</title>
-  </programme>
-  <programme start="20241106040000 +0200" stop="20241106050000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига 2: Обзор 13 кръг</title>
-  </programme>
-  <programme start="20241106050000 +0200" stop="20241106060000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Обзор 12 кръг</title>
-  </programme>
-  <programme start="20241106060000 +0200" stop="20241106080000 +0200" channel="maxsport4.bg">
-    <title>Копа Судамерикана: Ланус - Крузейро</title>
-  </programme>
-  <programme start="20241106080000 +0200" stop="20241106100000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Атлетик Билбао - Бетис</title>
-  </programme>
-  <programme start="20241106100000 +0200" stop="20241106120000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Барселона - Еспаньол</title>
-  </programme>
-  <programme start="20241106120000 +0200" stop="20241106123000 +0200" channel="maxsport4.bg">
+  <programme start="20241107170000 +0200" stop="20241107180000 +0200" channel="maxsport3.bg">
     <title>Trans World Sport</title>
   </programme>
-  <programme start="20241106123000 +0200" stop="20241106143000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Жирона - Леганес</title>
+  <programme start="20241107180000 +0200" stop="20241107183000 +0200" channel="maxsport3.bg">
+    <title>Серия А: "Екстра Калчо"</title>
+  </programme>
+  <programme start="20241107183000 +0200" stop="20241107194500 +0200" channel="maxsport3.bg">
+    <title>Саудитска Професионална Лига: Обзор 9 кръг Обзор 9 кръг</title>
+  </programme>
+  <programme start="20241107194500 +0200" stop="20241107220000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, УЕФА Лига Европа: Галатасарай - Тотнъм Четвърти кръг</title>
+  </programme>
+  <programme start="20241107220000 +0200" stop="20241108000000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, УЕФА Лига Европа: Манчестър Юнайтед - ПАОК Четвърти кръг</title>
+  </programme>
+  <programme start="20241108000000 +0200" stop="20241108002500 +0200" channel="maxsport3.bg">
+    <title>Серия А: "Екстра Калчо"</title>
+  </programme>
+  <programme start="20241108002500 +0200" stop="20241108011500 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, УЕФА Лига Европа и Лига на конференциите: Обзор на кръга Обзор на кръга</title>
+  </programme>
+  <programme start="20241108011500 +0200" stop="20241108031500 +0200" channel="maxsport3.bg">
+    <title>УЕФА Лига Европа: Юнион Сен Жилоа - Рома Четвърти кръг</title>
+  </programme>
+  <programme start="20241108031500 +0200" stop="20241108060000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Наполи - Аталанта</title>
+  </programme>
+  <programme start="20241108060000 +0200" stop="20241108080000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Лацио - Каляри</title>
+  </programme>
+  <programme start="20241108080000 +0200" stop="20241108100000 +0200" channel="maxsport3.bg">
+    <title>Евролига: Олимпия Милано - Реал Мадрид Олимпия Милано - Реал Мадрид</title>
+  </programme>
+  <programme start="20241108100000 +0200" stop="20241108104500 +0200" channel="maxsport3.bg">
+    <title>Серия А: "Екстра Калчо"</title>
+  </programme>
+  <programme start="20241108104500 +0200" stop="20241108124500 +0200" channel="maxsport3.bg">
+    <title>УЕФА Лига Европа: Манчестър Юнайтед - ПАОК Четвърти кръг</title>
+  </programme>
+  <programme start="20241108124500 +0200" stop="20241108144500 +0200" channel="maxsport3.bg">
+    <title>УЕФА Шампионска лига: ПСВ Айндховен - Жирона Четвърти кръг</title>
+  </programme>
+  <programme start="20241108144500 +0200" stop="20241108164500 +0200" channel="maxsport3.bg">
+    <title>УЕФА Шампионска лига: Лил - Ювентус Четвърти кръг</title>
+  </programme>
+  <programme start="20241108164500 +0200" stop="20241108190000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Саудитска Професионална Лига: Ал Хилал - Ал Етифак Ал Хилал - Ал Етифак</title>
+  </programme>
+  <programme start="20241108190000 +0200" stop="20241108211500 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, ATP 250: Мец, Франция Втори полуфинал</title>
+  </programme>
+  <programme start="20241108211500 +0200" stop="20241108214500 +0200" channel="maxsport3.bg">
+    <title>Серия А: "Преди кръга"</title>
+  </programme>
+  <programme start="20241108214500 +0200" stop="20241108234500 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Серия А: Лече - Емполи</title>
+  </programme>
+  <programme start="20241108234500 +0200" channel="maxsport3.bg">
+    <title>"УЕФА Шампионска лига" Магазинно предаване</title>
+  </programme>
+  <programme start="20241105173000 +0200" stop="20241105183000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Обзор 12 кръг Обзор</title>
+  </programme>
+  <programme start="20241105183000 +0200" stop="20241105194500 +0200" channel="maxsport4.bg">
+    <title>"LaLiga дневник" Токшоу</title>
+  </programme>
+  <programme start="20241105194500 +0200" stop="20241105220000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, УЕФА Шампионска лига: Слован Братислава - Динамо Загреб Четвърти кръг</title>
+  </programme>
+  <programme start="20241105220000 +0200" stop="20241106000000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, УЕФА Шампионска лига: Ливърпул - Байер Леверкузен Четвърти кръг</title>
+  </programme>
+  <programme start="20241106000000 +0200" stop="20241106020000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Атлетико Мадрид - Лас Палмас</title>
+  </programme>
+  <programme start="20241106020000 +0200" stop="20241106040000 +0200" channel="maxsport4.bg">
+    <title>Копа Либертадорес: Пенярол - Ботафого Втори полуфинал</title>
+  </programme>
+  <programme start="20241106040000 +0200" stop="20241106070000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Селта - Хетафе</title>
+  </programme>
+  <programme start="20241106070000 +0200" stop="20241106080000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Обзор 12 кръг Обзор</title>
+  </programme>
+  <programme start="20241106080000 +0200" stop="20241106100000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига 2: Леванте - Малага</title>
+  </programme>
+  <programme start="20241106100000 +0200" stop="20241106120000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Севиля - Реал Сосиедад</title>
+  </programme>
+  <programme start="20241106120000 +0200" stop="20241106140000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Барселона - Еспаньол</title>
+  </programme>
+  <programme start="20241106140000 +0200" stop="20241106143000 +0200" channel="maxsport4.bg">
+    <title>Trans World Sport</title>
   </programme>
   <programme start="20241106143000 +0200" stop="20241106163000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Атлетик Билбао - Бетис</title>
+  </programme>
+  <programme start="20241106163000 +0200" stop="20241106183000 +0200" channel="maxsport4.bg">
     <title>Ла Лига: Атлетико Мадрид - Лас Палмас</title>
   </programme>
-  <programme start="20241106163000 +0200" stop="20241106170000 +0200" channel="maxsport4.bg">
+  <programme start="20241106183000 +0200" stop="20241106190000 +0200" channel="maxsport4.bg">
     <title>Ла Лига: "Светът на Ла Лига"</title>
   </programme>
-  <programme start="20241106170000 +0200" stop="20241106190000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Волейбол - Шампионска лига: Фенербахче - Лодз</title>
+  <programme start="20241106190000 +0200" stop="20241106210000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, Волейбол - Шампионска лига: Фенербахче - Лодз Първи кръг, жени</title>
   </programme>
-  <programme start="20241106190000 +0200" stop="20241106200000 +0200" channel="maxsport4.bg">
-    <title>LaLiga дневник</title>
+  <programme start="20241106210000 +0200" stop="20241106230000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Валенсия - Реал Мадрид</title>
   </programme>
-  <programme start="20241106200000 +0200" stop="20241106220000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Севиля - Реал Сосиедад</title>
-  </programme>
-  <programme start="20241106220000 +0200" stop="20241107000000 +0200" channel="maxsport4.bg">
-    <title>Саудитска Професионална Лига: Ал Насър - Ал Хилал</title>
+  <programme start="20241106230000 +0200" stop="20241107000000 +0200" channel="maxsport4.bg">
+    <title>"LaLiga дневник" Токшоу</title>
   </programme>
   <programme start="20241107000000 +0200" stop="20241107020000 +0200" channel="maxsport4.bg">
-    <title>Копа Судамерикана: Ланус - Крузейро</title>
+    <title>Ла Лига: Севиля - Реал Сосиедад</title>
   </programme>
   <programme start="20241107020000 +0200" stop="20241107040000 +0200" channel="maxsport4.bg">
+    <title>Копа Судамерикана: Ланус - Крузейро Втори полуфинал</title>
+  </programme>
+  <programme start="20241107040000 +0200" stop="20241107080000 +0200" channel="maxsport4.bg">
     <title>Ла Лига: Барселона - Еспаньол</title>
   </programme>
-  <programme start="20241107040000 +0200" stop="20241107060000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Атлетик Билбао - Бетис</title>
-  </programme>
-  <programme start="20241107060000 +0200" stop="20241107080000 +0200" channel="maxsport4.bg">
+  <programme start="20241107080000 +0200" stop="20241107100000 +0200" channel="maxsport4.bg">
     <title>Ла Лига: Атлетико Мадрид - Лас Палмас</title>
   </programme>
-  <programme start="20241107080000 +0200" stop="20241107090000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Обзор 12 кръг</title>
-  </programme>
-  <programme start="20241107090000 +0200" stop="20241107110000 +0200" channel="maxsport4.bg">
-    <title>Копа Либертадорес: Ривър Плейт - Атлетико Минейро</title>
+  <programme start="20241107100000 +0200" stop="20241107110000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Обзор 12 кръг Обзор</title>
   </programme>
   <programme start="20241107110000 +0200" stop="20241107130000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Севиля - Реал Сосиедад</title>
+    <title>Копа Либертадорес: Ривър Плейт - Атлетико Минейро Втори полуфинал</title>
   </programme>
   <programme start="20241107130000 +0200" stop="20241107150000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Атлетик Билбао - Бетис</title>
+    <title>Ла Лига: Севиля - Реал Сосиедад</title>
   </programme>
   <programme start="20241107150000 +0200" stop="20241107170000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Жирона - Леганес</title>
+    <title>Ла Лига: Валенсия - Реал Мадрид</title>
   </programme>
-  <programme start="20241107170000 +0200" stop="20241107174500 +0200" channel="maxsport4.bg">
+  <programme start="20241107170000 +0200" stop="20241107190000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига 2: Леванте - Малага</title>
+  </programme>
+  <programme start="20241107190000 +0200" stop="20241107194500 +0200" channel="maxsport4.bg">
     <title>Ла Лига: "Хрониките на Ла Лига"</title>
   </programme>
-  <programme start="20241107174500 +0200" stop="20241107200000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, УЕФА Лига Европа: Юнион Сен Жилоа - Рома</title>
-  </programme>
-  <programme start="20241107200000 +0200" stop="20241107220000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, УЕФА Лига Европа: АЗ Алкмаар - Фенербахче</title>
+  <programme start="20241107194500 +0200" stop="20241107220000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, УЕФА Лига Европа: Юнион Сен Жилоа - Рома Четвърти кръг</title>
   </programme>
   <programme start="20241107220000 +0200" stop="20241108000000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, УЕФА Лига Европа: АЗ Алкмаар - Фенербахче Четвърти кръг</title>
+  </programme>
+  <programme start="20241108000000 +0200" stop="20241108020000 +0200" channel="maxsport4.bg">
     <title>Ла Лига: Барселона - Еспаньол</title>
   </programme>
-  <programme start="20241108000000 +0200" stop="20241108010000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига 2: Обзор 13 кръг</title>
+  <programme start="20241108020000 +0200" stop="20241108030000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига 2: Обзор 13 кръг Обзор</title>
   </programme>
-  <programme start="20241108010000 +0200" stop="20241108013000 +0200" channel="maxsport4.bg">
+  <programme start="20241108030000 +0200" stop="20241108033000 +0200" channel="maxsport4.bg">
     <title>Ла Лига: "Светът на Ла Лига"</title>
   </programme>
-  <programme start="20241108013000 +0200" stop="20241108043000 +0200" channel="maxsport4.bg">
+  <programme start="20241108033000 +0200" stop="20241108100000 +0200" channel="maxsport4.bg">
     <title>Голф: ABU DHABI HSBC CHAMPIONSHIP</title>
   </programme>
-  <programme start="20241108043000 +0200" stop="20241108060000 +0200" channel="maxsport4.bg">
-    <title>Голф: ABU DHABI HSBC CHAMPIONSHIP</title>
+  <programme start="20241108100000 +0200" stop="20241108110000 +0200" channel="maxsport4.bg">
+    <title>"LaLiga дневник" Токшоу</title>
   </programme>
-  <programme start="20241108060000 +0200" stop="20241108080000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Атлетик Билбао - Бетис</title>
+  <programme start="20241108110000 +0200" stop="20241108130000 +0200" channel="maxsport4.bg">
+    <title>Копа Либертадорес: Пенярол - Ботафого Втори полуфинал</title>
   </programme>
-  <programme start="20241108080000 +0200" stop="20241108090000 +0200" channel="maxsport4.bg">
-    <title>LaLiga дневник</title>
-  </programme>
-  <programme start="20241108090000 +0200" stop="20241108110000 +0200" channel="maxsport4.bg">
-    <title>Копа Либертадорес: Пенярол - Ботафого</title>
-  </programme>
-  <programme start="20241108110000 +0200" stop="20241108120000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига 2: Обзор 13 кръг</title>
-  </programme>
-  <programme start="20241108120000 +0200" stop="20241108140000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Атлетико Мадрид - Лас Палмас</title>
+  <programme start="20241108130000 +0200" stop="20241108140000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига 2: Обзор 13 кръг Обзор</title>
   </programme>
   <programme start="20241108140000 +0200" stop="20241108160000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Севиля - Реал Сосиедад</title>
+    <title>Ла Лига: Атлетико Мадрид - Лас Палмас</title>
   </programme>
   <programme start="20241108160000 +0200" stop="20241108180000 +0200" channel="maxsport4.bg">
     <title>Ла Лига: Барселона - Еспаньол</title>
   </programme>
-  <programme start="20241108180000 +0200" stop="20241108190000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, "Пред Стадиона" - спортно шоу</title>
+  <programme start="20241108180000 +0200" stop="20241108200000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Валенсия - Реал Мадрид</title>
   </programme>
-  <programme start="20241108190000 +0200" stop="20241108193000 +0200" channel="maxsport4.bg">
+  <programme start="20241108200000 +0200" stop="20241108210000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, "Пред Стадиона" - спортно шоу "Пред Стадиона" - спортно шоу</title>
+  </programme>
+  <programme start="20241108210000 +0200" stop="20241108213000 +0200" channel="maxsport4.bg">
     <title>Ла Лига: "Хрониките на Ла Лига"</title>
   </programme>
-  <programme start="20241108193000 +0200" stop="20241108200000 +0200" channel="maxsport4.bg">
+  <programme start="20241108213000 +0200" stop="20241108220000 +0200" channel="maxsport4.bg">
     <title>Ла Лига: "Преди кръга"</title>
   </programme>
-  <programme start="20241108200000 +0200" stop="20241108220000 +0200" channel="maxsport4.bg">
+  <programme start="20241108220000 +0200" channel="maxsport4.bg">
     <title>ПРЯКО, Ла Лига: Райо Валекано - Лас Палмас</title>
-  </programme>
-  <programme start="20241108220000 +0200" stop="20241108230000 +0200" channel="maxsport4.bg">
-    <title>УЕФА Лига Европа и Лига на конференциите: Обзор на кръга</title>
-  </programme>
-  <programme start="20241108230000 +0200" channel="maxsport4.bg">
-    <title>Копа Судамерикана: Расинг Клуб - Коринтианс</title>
   </programme>
   <programme start="20241105073000 +0200" stop="20241105083000 +0200" channel="eurosport1.bg">
     <title>Снукър: Международен шампионат, първи кръг, повторение</title>
@@ -10787,10 +10649,6 @@
     <title>Sport Klub 5 Promo 3</title>
     <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
   </programme>
-  <programme start="20241109000000 +0200" channel="sportklub5.hr">
-    <title>Sport Klub 5 Promo 4</title>
-    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
-  </programme>
   <programme start="20241105000000 +0200" stop="20241105020000 +0200" channel="sportklub6.hr">
     <title>Sport Klub 6 Promo 4</title>
     <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
@@ -11157,10 +11015,6 @@
   </programme>
   <programme start="20241108230000 +0200" stop="20241109000000 +0200" channel="sportklub6.hr">
     <title>Sport Klub 6 Promo 3</title>
-    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
-  </programme>
-  <programme start="20241109000000 +0200" channel="sportklub6.hr">
-    <title>Sport Klub 6 Promo 4</title>
     <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
   </programme>
   <programme start="20241105063000 +0200" stop="20241105073000 +0200" channel="ligadecampeones.mplus.es">
@@ -12032,6 +11886,216 @@
   </programme>
   <programme start="20241108234500 +0200" channel="ams.de">
     <title>Beziehungskisten</title>
+  </programme>
+  <programme start="20241105020000 +0200" stop="20241105034500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241105034500 +0200" stop="20241105040000 +0200" channel="supertennis.it">
+    <title>Colpo da campione</title>
+  </programme>
+  <programme start="20241105040000 +0200" stop="20241105060000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241105060000 +0200" stop="20241105080000 +0200" channel="supertennis.it">
+    <title>Tennis: Australian Open</title>
+  </programme>
+  <programme start="20241105080000 +0200" stop="20241105090000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241105090000 +0200" stop="20241105100000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241105100000 +0200" stop="20241105120000 +0200" channel="supertennis.it">
+    <title>Tennis Talk</title>
+  </programme>
+  <programme start="20241105120000 +0200" stop="20241105141500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241105141500 +0200" stop="20241105143000 +0200" channel="supertennis.it">
+    <title>Supertennis Today</title>
+  </programme>
+  <programme start="20241105143000 +0200" stop="20241105164500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241105164500 +0200" stop="20241105170000 +0200" channel="supertennis.it">
+    <title>Supertennis Today</title>
+  </programme>
+  <programme start="20241105170000 +0200" stop="20241105184500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241105184500 +0200" stop="20241105190000 +0200" channel="supertennis.it">
+    <title>Supertennis Today</title>
+  </programme>
+  <programme start="20241105190000 +0200" stop="20241105204500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241105204500 +0200" stop="20241105210000 +0200" channel="supertennis.it">
+    <title>Supertennis Today</title>
+  </programme>
+  <programme start="20241105210000 +0200" stop="20241105233000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241105233000 +0200" stop="20241105234500 +0200" channel="supertennis.it">
+    <title>Cronache Italiane</title>
+  </programme>
+  <programme start="20241105234500 +0200" stop="20241106020000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241106020000 +0200" stop="20241106040000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241106040000 +0200" stop="20241106060000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241106060000 +0200" stop="20241106080000 +0200" channel="supertennis.it">
+    <title>Tennis: US Open</title>
+  </programme>
+  <programme start="20241106080000 +0200" stop="20241106090000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241106090000 +0200" stop="20241106100000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241106100000 +0200" stop="20241106120000 +0200" channel="supertennis.it">
+    <title>Cronache Italiane</title>
+  </programme>
+  <programme start="20241106120000 +0200" stop="20241106141500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241106141500 +0200" stop="20241106143000 +0200" channel="supertennis.it">
+    <title>Supertennis Today</title>
+  </programme>
+  <programme start="20241106143000 +0200" stop="20241106164500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241106164500 +0200" stop="20241106170000 +0200" channel="supertennis.it">
+    <title>Supertennis Today</title>
+  </programme>
+  <programme start="20241106170000 +0200" stop="20241106184500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241106184500 +0200" stop="20241106190000 +0200" channel="supertennis.it">
+    <title>Supertennis Today</title>
+  </programme>
+  <programme start="20241106190000 +0200" stop="20241106204500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241106204500 +0200" stop="20241106210000 +0200" channel="supertennis.it">
+    <title>Supertennis Today</title>
+  </programme>
+  <programme start="20241106210000 +0200" stop="20241106233000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241106233000 +0200" stop="20241106234500 +0200" channel="supertennis.it">
+    <title>Tennis Parade</title>
+  </programme>
+  <programme start="20241106234500 +0200" stop="20241107020000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241107020000 +0200" stop="20241107040000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241107040000 +0200" stop="20241107060000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241107060000 +0200" stop="20241107074500 +0200" channel="supertennis.it">
+    <title>Tennis: Roland Garros</title>
+  </programme>
+  <programme start="20241107074500 +0200" stop="20241107080000 +0200" channel="supertennis.it">
+    <title>Cronache Italiane</title>
+  </programme>
+  <programme start="20241107080000 +0200" stop="20241107090000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241107090000 +0200" stop="20241107100000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241107100000 +0200" stop="20241107120000 +0200" channel="supertennis.it">
+    <title>Tennis Parade</title>
+  </programme>
+  <programme start="20241107120000 +0200" stop="20241107141500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241107141500 +0200" stop="20241107143000 +0200" channel="supertennis.it">
+    <title>Supertennis Today</title>
+  </programme>
+  <programme start="20241107143000 +0200" stop="20241107164500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241107164500 +0200" stop="20241107170000 +0200" channel="supertennis.it">
+    <title>Supertennis Today</title>
+  </programme>
+  <programme start="20241107170000 +0200" stop="20241107184500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241107184500 +0200" stop="20241107190000 +0200" channel="supertennis.it">
+    <title>Supertennis Today</title>
+  </programme>
+  <programme start="20241107190000 +0200" stop="20241107204500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241107204500 +0200" stop="20241107210000 +0200" channel="supertennis.it">
+    <title>Supertennis Today</title>
+  </programme>
+  <programme start="20241107210000 +0200" stop="20241107233000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241107233000 +0200" stop="20241107234500 +0200" channel="supertennis.it">
+    <title>Colpo da campione</title>
+  </programme>
+  <programme start="20241107234500 +0200" stop="20241108020000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241108020000 +0200" stop="20241108040000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241108040000 +0200" stop="20241108060000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241108060000 +0200" stop="20241108094500 +0200" channel="supertennis.it">
+    <title>Tennis: Australian Open</title>
+  </programme>
+  <programme start="20241108094500 +0200" stop="20241108100000 +0200" channel="supertennis.it">
+    <title>Tennis Parade</title>
+  </programme>
+  <programme start="20241108100000 +0200" stop="20241108120000 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241108120000 +0200" stop="20241108121500 +0200" channel="supertennis.it">
+    <title>Colpo da campione</title>
+  </programme>
+  <programme start="20241108121500 +0200" stop="20241108141500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241108141500 +0200" stop="20241108143000 +0200" channel="supertennis.it">
+    <title>Supertennis Today</title>
+  </programme>
+  <programme start="20241108143000 +0200" stop="20241108164500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241108164500 +0200" stop="20241108170000 +0200" channel="supertennis.it">
+    <title>Supertennis Today</title>
+  </programme>
+  <programme start="20241108170000 +0200" stop="20241108184500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241108184500 +0200" stop="20241108190000 +0200" channel="supertennis.it">
+    <title>Supertennis Today</title>
+  </programme>
+  <programme start="20241108190000 +0200" stop="20241108204500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241108204500 +0200" stop="20241108210000 +0200" channel="supertennis.it">
+    <title>Supertennis Today</title>
+  </programme>
+  <programme start="20241108210000 +0200" stop="20241108224500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
+  </programme>
+  <programme start="20241108224500 +0200" stop="20241108234500 +0200" channel="supertennis.it">
+    <title>Colpo da campione</title>
+  </programme>
+  <programme start="20241108234500 +0200" channel="supertennis.it">
+    <title>WTA Finals Riyadh</title>
   </programme>
   <programme start="20241105060000 +0200" stop="20241105090000 +0200" channel="foxsports1.com">
     <title>To Be Announced</title>

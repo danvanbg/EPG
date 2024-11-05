@@ -810,8 +810,8 @@
   - name: Max Sport 1 LQ
   groups: ["sport"]
   sources:
-  - maxsport.live
   - dnes.bg
+  - maxsport.live
   - tv.dir.bg
   
 - id: maxsport2.bg
@@ -823,8 +823,8 @@
   - name: Max Sport 2 LQ
   groups: ["sport"]
   sources:
-  - maxsport.live  
   - dnes.bg
+  - maxsport.live  
   - tv.dir.bg
   
 - id: maxsport3.bg
@@ -836,8 +836,8 @@
   - name: Max Sport 3 LQ
   groups: ["sport"]
   sources:
-  - maxsport.live  
   - dnes.bg
+  - maxsport.live  
   - tv.dir.bg
   
 - id: maxsport4.bg
@@ -849,8 +849,8 @@
   - name: Max Sport 4 LQ
   groups: ["sport"]
   sources:
-  - maxsport.live  
   - dnes.bg
+  - maxsport.live  
   - tv.dir.bg
   
 - id: sportal.bg
@@ -2673,6 +2673,8 @@
   - name: Travel TV
     lang: en
   sources:
+  - traveltv.bg-night
+  - traveltv.bg
   - dnes.bg
   - start.bg
   - tv.dir.bg
