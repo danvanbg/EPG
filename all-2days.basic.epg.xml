@@ -81,6 +81,10 @@
     <display-name lang="bg">Агро ТВ</display-name>
     <display-name lang="en">Agro TV</display-name>
   </channel>
+  <channel id="tvn.bg">
+    <display-name lang="bg">ТВН</display-name>
+    <display-name lang="en">TVN</display-name>
+  </channel>
   <channel id="tv1.bg">
     <display-name lang="bg">ТВ1</display-name>
     <display-name lang="en">TV1</display-name>
@@ -3892,6 +3896,51 @@
   <programme start="20241112235500 +0200" stop="20241113055500 +0200" channel="agrotv.bg">
     <title>Музикална пауза</title>
   </programme>
+  <programme start="20241111120000 +0200" stop="20241111141000 +0200" channel="tvn.bg">
+    <title>„Айрънклад (2011)“ – екшън, драма, исторически.</title>
+  </programme>
+  <programme start="20241111141000 +0200" stop="20241111161000 +0200" channel="tvn.bg">
+    <title>„Айрънклад (2011)“ – екшън, драма, исторически.</title>
+  </programme>
+  <programme start="20241111161000 +0200" stop="20241111180000 +0200" channel="tvn.bg">
+    <title>„Айрънклад (2011)“ – екшън, драма, исторически.</title>
+  </programme>
+  <programme start="20241111180000 +0200" stop="20241111185000 +0200" channel="tvn.bg">
+    <title>„Айрънклад (2011)“ – екшън, драма, исторически.</title>
+  </programme>
+  <programme start="20241111185000 +0200" stop="20241111210500 +0200" channel="tvn.bg">
+    <title>„Айрънклад (2011)“ – екшън, драма, исторически.</title>
+  </programme>
+  <programme start="20241111210500 +0200" stop="20241111220500 +0200" channel="tvn.bg">
+    <title>„Айрънклад (2011)“ – екшън, драма, исторически.</title>
+  </programme>
+  <programme start="20241111220500 +0200" stop="20241112120000 +0200" channel="tvn.bg">
+    <title>„Айрънклад (2011)“ – екшън, драма, исторически.</title>
+  </programme>
+  <programme start="20241112120000 +0200" stop="20241112135000 +0200" channel="tvn.bg">
+    <title>„Айрънклад (2011)“ – екшън, драма, исторически.</title>
+  </programme>
+  <programme start="20241112135000 +0200" stop="20241112154000 +0200" channel="tvn.bg">
+    <title>„Айрънклад (2011)“ – екшън, драма, исторически.</title>
+  </programme>
+  <programme start="20241112154000 +0200" stop="20241112161000 +0200" channel="tvn.bg">
+    <title>„Айрънклад (2011)“ – екшън, драма, исторически.</title>
+  </programme>
+  <programme start="20241112161000 +0200" stop="20241112180000 +0200" channel="tvn.bg">
+    <title>„Айрънклад (2011)“ – екшън, драма, исторически.</title>
+  </programme>
+  <programme start="20241112180000 +0200" stop="20241112184500 +0200" channel="tvn.bg">
+    <title>„Айрънклад (2011)“ – екшън, драма, исторически.</title>
+  </programme>
+  <programme start="20241112184500 +0200" stop="20241112211000 +0200" channel="tvn.bg">
+    <title>„Айрънклад (2011)“ – екшън, драма, исторически.</title>
+  </programme>
+  <programme start="20241112211000 +0200" stop="20241112221000 +0200" channel="tvn.bg">
+    <title>„Айрънклад (2011)“ – екшън, драма, исторически.</title>
+  </programme>
+  <programme start="20241112221000 +0200" stop="20241113120000 +0200" channel="tvn.bg">
+    <title>„Айрънклад (2011)“ – екшън, драма, исторически.</title>
+  </programme>
   <programme start="20241111060000 +0200" stop="20241111063000 +0200" channel="tv1.bg">
     <title>"Хармония и здраве" - гимнастика за духа и тялото</title>
   </programme>
@@ -7048,18 +7097,6 @@
   <programme start="20241112220000 +0200" stop="20241113000000 +0200" channel="ring.bg">
     <title>– Бойни вечери: UFC</title>
   </programme>
-  <programme start="20241111060000 +0200" stop="20241111080000 +0200" channel="maxsport1.bg">
-    <title>Волейбол - Серия А1: Тренто - Верона Тренто - Верона</title>
-  </programme>
-  <programme start="20241111080000 +0200" stop="20241111090000 +0200" channel="maxsport1.bg">
-    <title>Trans World Sport</title>
-  </programme>
-  <programme start="20241111090000 +0200" stop="20241111110000 +0200" channel="maxsport1.bg">
-    <title>Евролига: Панатинайкос - Олимпиакос Панатинайкос - Олимпиакос</title>
-  </programme>
-  <programme start="20241111110000 +0200" stop="20241111130000 +0200" channel="maxsport1.bg">
-    <title>Nitto ATP Finals: Торино</title>
-  </programme>
   <programme start="20241111130000 +0200" stop="20241111150000 +0200" channel="maxsport1.bg">
     <title>Nitto ATP Finals: Торино</title>
   </programme>
@@ -7126,12 +7163,6 @@
   <programme start="20241112233000 +0200" stop="20241113013000 +0200" channel="maxsport1.bg">
     <title>Волейбол - Шампионска лига: Калцит Камник - Веро Волей Втори кръг, жени</title>
   </programme>
-  <programme start="20241111070000 +0200" stop="20241111080000 +0200" channel="maxsport2.bg">
-    <title>"Удар със стик"</title>
-  </programme>
-  <programme start="20241111080000 +0200" stop="20241111130000 +0200" channel="maxsport2.bg">
-    <title>Голф: ABU DHABI HSBC CHAMPIONSHIP</title>
-  </programme>
   <programme start="20241111130000 +0200" stop="20241111133000 +0200" channel="maxsport2.bg">
     <title>Евролига: Обзор 8 кръг Обзор 8 кръг</title>
   </programme>
@@ -7195,12 +7226,6 @@
   <programme start="20241112230000 +0200" stop="20241113020000 +0200" channel="maxsport2.bg">
     <title>NFL: Вашингтон Командърс - Питсбърг Стийлърс Вашингтон Командърс - Питсбърг Стийлърс</title>
   </programme>
-  <programme start="20241111080000 +0200" stop="20241111100000 +0200" channel="maxsport3.bg">
-    <title>Саудитска Професионална Лига: Ал Хилал - Ал Етифак Ал Хилал - Ал Етифак</title>
-  </programme>
-  <programme start="20241111100000 +0200" stop="20241111120000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Лига Европа: Манчестър Юнайтед - ПАОК Четвърти кръг</title>
-  </programme>
   <programme start="20241111120000 +0200" stop="20241111130000 +0200" channel="maxsport3.bg">
     <title>УЕФА Лига Европа и Лига на конференциите: Обзор на кръга Обзор на кръга</title>
   </programme>
@@ -7263,9 +7288,6 @@
   </programme>
   <programme start="20241112220000 +0200" stop="20241113000000 +0200" channel="maxsport3.bg">
     <title>Евролига: Фенербахче - Байерн Мюнхен Фенербахче - Байерн Мюнхен</title>
-  </programme>
-  <programme start="20241111100000 +0200" stop="20241111120000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Реал Сосиедад - Барселона</title>
   </programme>
   <programme start="20241111120000 +0200" stop="20241111140000 +0200" channel="maxsport4.bg">
     <title>Ла Лига: Майорка - Атлетико Мадрид</title>

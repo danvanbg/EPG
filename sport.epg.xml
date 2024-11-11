@@ -1082,18 +1082,6 @@
   <programme start="20241114220000 +0200" channel="ring.bg">
     <title>– Бойни вечери</title>
   </programme>
-  <programme start="20241111060000 +0200" stop="20241111080000 +0200" channel="maxsport1.bg">
-    <title>Волейбол - Серия А1: Тренто - Верона Тренто - Верона</title>
-  </programme>
-  <programme start="20241111080000 +0200" stop="20241111090000 +0200" channel="maxsport1.bg">
-    <title>Trans World Sport</title>
-  </programme>
-  <programme start="20241111090000 +0200" stop="20241111110000 +0200" channel="maxsport1.bg">
-    <title>Евролига: Панатинайкос - Олимпиакос Панатинайкос - Олимпиакос</title>
-  </programme>
-  <programme start="20241111110000 +0200" stop="20241111130000 +0200" channel="maxsport1.bg">
-    <title>Nitto ATP Finals: Торино</title>
-  </programme>
   <programme start="20241111130000 +0200" stop="20241111150000 +0200" channel="maxsport1.bg">
     <title>Nitto ATP Finals: Торино</title>
   </programme>
@@ -1228,12 +1216,6 @@
   </programme>
   <programme start="20241114233000 +0200" channel="maxsport1.bg">
     <title>Волейбол - Шампионска лига: Вашаш - Фенербахче Втори кръг, жени</title>
-  </programme>
-  <programme start="20241111070000 +0200" stop="20241111080000 +0200" channel="maxsport2.bg">
-    <title>"Удар със стик"</title>
-  </programme>
-  <programme start="20241111080000 +0200" stop="20241111130000 +0200" channel="maxsport2.bg">
-    <title>Голф: ABU DHABI HSBC CHAMPIONSHIP</title>
   </programme>
   <programme start="20241111130000 +0200" stop="20241111133000 +0200" channel="maxsport2.bg">
     <title>Евролига: Обзор 8 кръг Обзор 8 кръг</title>
@@ -1394,12 +1376,6 @@
   <programme start="20241114230000 +0200" channel="maxsport2.bg">
     <title>Евролига: Асвел - Цървена Звезда Асвел - Цървена Звезда</title>
   </programme>
-  <programme start="20241111080000 +0200" stop="20241111100000 +0200" channel="maxsport3.bg">
-    <title>Саудитска Професионална Лига: Ал Хилал - Ал Етифак Ал Хилал - Ал Етифак</title>
-  </programme>
-  <programme start="20241111100000 +0200" stop="20241111120000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Лига Европа: Манчестър Юнайтед - ПАОК Четвърти кръг</title>
-  </programme>
   <programme start="20241111120000 +0200" stop="20241111130000 +0200" channel="maxsport3.bg">
     <title>УЕФА Лига Европа и Лига на конференциите: Обзор на кръга Обзор на кръга</title>
   </programme>
@@ -1546,9 +1522,6 @@
   </programme>
   <programme start="20241114233000 +0200" channel="maxsport3.bg">
     <title>Серия А: Каляри - Милан</title>
-  </programme>
-  <programme start="20241111100000 +0200" stop="20241111120000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Реал Сосиедад - Барселона</title>
   </programme>
   <programme start="20241111120000 +0200" stop="20241111140000 +0200" channel="maxsport4.bg">
     <title>Ла Лига: Майорка - Атлетико Мадрид</title>
@@ -8815,9 +8788,6 @@
   <programme start="20241114230000 +0200" stop="20241115000000 +0200" channel="sportklub1.rs">
     <title>No information</title>
   </programme>
-  <programme start="20241115000000 +0200" channel="sportklub1.rs">
-    <title>No information</title>
-  </programme>
   <programme start="20241111025500 +0200" stop="20241111044500 +0200" channel="sportklub2.rs">
     <title>Fudbal - Grčka liga: PAOK - Olympiacos</title>
     <desc>Voli se fudbal u Grčkoj i svaki duel, pogotovo derbi, doživljava se sa mnogo strasti. Olimpijakos jeste favorit za titulu, ali AEK, PAOK i večiti rival Panatinaikos kucaju na vrata...</desc>
@@ -9081,9 +9051,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241114230000 +0200" stop="20241115000000 +0200" channel="sportklub2.rs">
-    <title>No information</title>
-  </programme>
-  <programme start="20241115000000 +0200" channel="sportklub2.rs">
     <title>No information</title>
   </programme>
   <programme start="20241111021500 +0200" stop="20241111040500 +0200" channel="sportklub3.rs">
@@ -9351,9 +9318,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241114230000 +0200" stop="20241115000000 +0200" channel="sportklub3.rs">
-    <title>No information</title>
-  </programme>
-  <programme start="20241115000000 +0200" channel="sportklub3.rs">
     <title>No information</title>
   </programme>
   <programme start="20241111051500 +0200" stop="20241111060000 +0200" channel="sportklub1.hr">
@@ -9913,9 +9877,6 @@
   <programme start="20241114230000 +0200" stop="20241115000000 +0200" channel="sportklub2.hr">
     <title>No information</title>
   </programme>
-  <programme start="20241115000000 +0200" channel="sportklub2.hr">
-    <title>No information</title>
-  </programme>
   <programme start="20241111021500 +0200" stop="20241111040500 +0200" channel="sportklub3.hr">
     <title>Nogomet - Turska liga: Fenerbahce - Sivas</title>
     <desc>Turska Superliga je najviša profesionalna liga Turske u nogometu. Ova liga osnovana je 1957. godine i nalazi se pod upravom Turskog nogometnog saveza. U ligi se trenutno natječe 18 klubova, a...</desc>
@@ -10181,9 +10142,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241114230000 +0200" stop="20241115000000 +0200" channel="sportklub3.hr">
-    <title>No information</title>
-  </programme>
-  <programme start="20241115000000 +0200" channel="sportklub3.hr">
     <title>No information</title>
   </programme>
   <programme start="20241111020000 +0200" stop="20241111022500 +0200" channel="sportklub4.hr">
@@ -10463,9 +10421,6 @@
     <title>No information</title>
   </programme>
   <programme start="20241114230000 +0200" stop="20241115000000 +0200" channel="sportklub4.hr">
-    <title>No information</title>
-  </programme>
-  <programme start="20241115000000 +0200" channel="sportklub4.hr">
     <title>No information</title>
   </programme>
   <programme start="20241111000000 +0200" stop="20241111020000 +0200" channel="sportklub5.hr">
@@ -10836,10 +10791,6 @@
     <title>Sport Klub 5 Promo 3</title>
     <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
   </programme>
-  <programme start="20241115000000 +0200" channel="sportklub5.hr">
-    <title>Sport Klub 5 Promo 4</title>
-    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
-  </programme>
   <programme start="20241111000000 +0200" stop="20241111020000 +0200" channel="sportklub6.hr">
     <title>Sport Klub 6 Promo 4</title>
     <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
@@ -11206,10 +11157,6 @@
   </programme>
   <programme start="20241114230000 +0200" stop="20241115000000 +0200" channel="sportklub6.hr">
     <title>Sport Klub 6 Promo 3</title>
-    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
-  </programme>
-  <programme start="20241115000000 +0200" channel="sportklub6.hr">
-    <title>Sport Klub 6 Promo 4</title>
     <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
   </programme>
   <programme start="20241111060000 +0200" stop="20241111073000 +0200" channel="ligadecampeones.mplus.es">
