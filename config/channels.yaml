@@ -269,6 +269,17 @@
   sources:
   - tv.dir.bg
   
+- id: tvn.bg
+  enabled: true
+  names:
+  - name: ТВН
+    lang: bg
+  - name: TVN
+    lang: en
+  groups: ["bg"]
+  sources:
+  - tvn.bg
+  
 - id: eurochannel.com
   enabled: false
   names:
