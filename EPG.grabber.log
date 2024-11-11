@@ -1,12 +1,12 @@
-2024-11-11 11:41:28.700 00001 [INF] **************************************************************************
-2024-11-11 11:41:28.723 00001 [INF] 
-2024-11-11 11:41:28.730 00001 [INF]                        EPG.grabber  1.23.9.20
-2024-11-11 11:41:28.731 00001 [INF] 
-2024-11-11 11:41:28.732 00001 [INF] **************************************************************************
-2024-11-11 11:41:28.733 00001 [INF] Start time: "2024-11-11T11:41:28.7334263+02:00"
-2024-11-11 11:41:28.735 00001 [INF] Command line arguments: grab -f C:\Users\HGenev\Git\harrygg\EPG\\config -o C:\Users\HGenev\Git\harrygg\EPG\ -l 0
-2024-11-11 11:41:28.895 00001 [INF] Loading config from file C:\Users\HGenev\Git\harrygg\EPG\config\config.yaml
-2024-11-11 11:41:29.187 00001 [ERR] Error during grabbing YamlDotNet.Core.YamlException: (Line: 41, Col: 27, Idx: 1575) - (Line: 41, Col: 28, Idx: 1576): Exception during deserialization
+2024-11-11 11:45:20.711 00001 [INF] **************************************************************************
+2024-11-11 11:45:20.729 00001 [INF] 
+2024-11-11 11:45:20.736 00001 [INF]                        EPG.grabber  1.23.9.20
+2024-11-11 11:45:20.738 00001 [INF] 
+2024-11-11 11:45:20.739 00001 [INF] **************************************************************************
+2024-11-11 11:45:20.740 00001 [INF] Start time: "2024-11-11T11:45:20.7400363+02:00"
+2024-11-11 11:45:20.742 00001 [INF] Command line arguments: grab -f C:\Users\HGenev\Git\harrygg\EPG\\config -o C:\Users\HGenev\Git\harrygg\EPG\ -l 0
+2024-11-11 11:45:20.841 00001 [INF] Loading config from file C:\Users\HGenev\Git\harrygg\EPG\config\config.yaml
+2024-11-11 11:45:20.997 00001 [ERR] Error during grabbing YamlDotNet.Core.YamlException: (Line: 41, Col: 27, Idx: 1575) - (Line: 41, Col: 28, Idx: 1576): Exception during deserialization
  ---> System.FormatException: The value "3" is not a valid YAML Boolean
    at YamlDotNet.Serialization.NodeDeserializers.ScalarNodeDeserializer.DeserializeBooleanHelper(String value)
    at YamlDotNet.Serialization.NodeDeserializers.ScalarNodeDeserializer.YamlDotNet.Serialization.INodeDeserializer.Deserialize(IParser parser, Type expectedType, Func`3 nestedObjectDeserializer, Object& value)
@@ -26,5 +26,5 @@
    at Entities.Configuration.AppConfigurationBuilder.LoadConfig() in C:\Users\HGenev\Git\EPG.Grabber\src\Entities\Configuration\AppConfigurationBuilder.cs:line 159
    at Entities.Configuration.AppConfigurationBuilder.Build() in C:\Users\HGenev\Git\EPG.Grabber\src\Entities\Configuration\AppConfigurationBuilder.cs:line 136
    at App.Runners.GrabCommandRunner.Run(DirectoryInfo folder, Int32 logLevel, DirectoryInfo cacheFolder, String[] channelIds, String[] groupIds, DirectoryInfo outputFolder, Boolean export) in C:\Users\HGenev\Git\EPG.Grabber\src\App\Runners\GrabCommandRunner.cs:line 35
-2024-11-11 11:41:29.211 00001 [INF] End time "2024-11-11T11:41:29.2113400+02:00"
-2024-11-11 11:41:29.212 00001 [INF] Execution time: "00:00:00.4779137"
+2024-11-11 11:45:21.010 00001 [INF] End time "2024-11-11T11:45:21.0108633+02:00"
+2024-11-11 11:45:21.012 00001 [INF] Execution time: "00:00:00.2708270"
