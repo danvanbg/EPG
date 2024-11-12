@@ -272,10 +272,7 @@
 - id: tvn.bg
   enabled: true
   names:
-  - name: ТВН
-    lang: bg
   - name: TVN
-    lang: en
   groups: ["bg"]
   sources:
   - tvn.bg
@@ -2749,6 +2746,7 @@
   - name: TV Tourism HD
     lang: en
   sources:
+  - see.bg
   - tv.dir.bg
   - dnes.bg
   
