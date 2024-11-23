@@ -2944,9 +2944,20 @@
     lang: en
   groups: [ "kids" ]
   sources:
+  - disney.bg
   - tv-programa.bg
   - dnes.bg
   - tv.dir.bg
+  
+- id: disneyjunior.bg
+  enabled: true
+  names:
+  - name: Disney Jr.
+    lang: en
+  groups: [ "kids" ]
+  sources:
+  - disney.bg
+  - dnes.bg
   
 - id: karusel.tv
   enabled: true
