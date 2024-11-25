@@ -6,37 +6,40 @@ locator-strategy: jsonpath
 date-format: yyyy-MM-dd
 
 request:
-  url: https://www.movistarplus.es/programacion-tv/${date}?v=json
+  url: https://www.movistarplus.es/programacion-tv/${channelId}/${date}
+  debug: false
+  operations: 
+    - name: remove-before
+      hook: after
+      arguments: [ "<script type=\"application/ld+json\">", true]
+    - name: remove-after
+      hook: after
+      arguments: [ "</script>", true]
     
 programs:
-  locator: $.data.${channelId}.PROGRAMAS[:]
+  debug: false
+  locator: $.itemListElement[:]
 
 elements:
   - name: start
-    locator: HORA_INICIO
+    locator: item.startDate
+    time-format: o
   - name: title  
-    locator: TITULO
-  - name: desc
-    locator: GENERO
+    locator: item.name
   - name: stop
-    locator: HORA_FIN
+    locator: item.endDate
+    time-format: o
       
 channel-parameters:
   tve.es:
-    channelId: TVE-CODE
+    channelId: TVE
   movistardeportes2.es:
-    channelId: USOP2-CODE
+    channelId: ARTHUR
   ligadecampeones.mplus.es:
-    channelId: CHAPIO-CODE
+    channelId: CHAPIO
   deportes.mplus.es:
-    channelId: CPDEP-CODE
+    channelId: CPDEP
   telesur.es:
-    channelId: TLESUR-CODE
-
-#channel-extract-rules:
-#  url: https://www.movistarplus.es/programacion-tv/?v=json  
-#  locator-strategy: jsonpath
-#  channel-name:
-#    locator: $.data.*~
-#  channel-param:
-#    locator: $.data.*.DATOS_CADENA.NOMBRE
+    channelId: TLESUR
+  movistargolf.es:
+    channelId: GOLF+

@@ -4,7 +4,7 @@ culture: bg-BG
 date-format: yyyy/MM/dd
 
 request:
-  debug: true
+  debug: false
   url: https://www.axn-bulgaria.com/programa/ajax/axnbg/data/listings/true/${date}
     
 programs:
@@ -39,12 +39,13 @@ elements:
     locator: .title a
     attribute: href
 
-program-details:
-  request:
-    url: https://www.axn-bulgaria.com${_detailsurl}
+# program-details:
+#   request:
+#     url: https://www.axn-bulgaria.com${_detailsurl}
   
-  elements:
-    - name: desc
-      locator: .pane-title + .pane-content p
+#   elements:
+#     - name: desc
+#       enabled: false
+#       locator: .pane-title + .pane-content p
 
 delay-between-requests: 500

@@ -1431,7 +1431,7 @@
   - united.cloud
   
 - id: ligadecampeones.mplus.es
-  enabled: true
+  enabled: false
   names:
   - name: M+ Liga de Campeones
     lang: es
@@ -1442,7 +1442,7 @@
   - movistarplus.es
   
 - id: deportes.mplus.es
-  enabled: true
+  enabled: false
   names:
   - name: M+ Deportes
     lang: es
@@ -1455,9 +1455,10 @@
 - id: ams.de
   enabled: true
   names:
-  - name: Auto Moto Sport
+  - name: Auto Motor Sport
     lang: en
-  - name: Auto Moto Sport HD
+  - name: Auto Motor Sport HD
+  - name: Auto Motor Sport 4K
     lang: en
   - name: AMS
     lang: en
