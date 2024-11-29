@@ -220,12 +220,12 @@
   - tv.dir.bg
   
 - id: bulgaria24.bg
-  enabled: false
+  enabled: true
   names:
   - name: България 24
-    lang: bg
+  - name: България 24 HD
+  - name: Bulgaria 24 HD
   - name: Bulgaria 24
-    lang: en
   groups: ["bg"]
   sources:
   - dnes.bg
@@ -1607,6 +1607,7 @@
   - name: The Voice HD
     lang: en
   sources:
+  - thevoice.bg
   - dnes.bg
 
 - id: citytv.bg
@@ -2429,6 +2430,15 @@
   - waltdisney.bg
   - dnes.bg
   - tv.dir.bg
+  
+- id: wildtv.com
+  enabled: true
+  names:
+  - name: Wild TV
+    lang: en
+  - name: Wild TV HD
+  sources:
+  - dnes.bg
 
 - id: 24kitchen.bg
   enabled: true
@@ -2470,6 +2480,14 @@
   - tv-programa.bg
   - dnes.bg
   - tv.dir.bg
+  
+- id: tv999.bg
+  enabled: true
+  names:
+  - name: TV 999
+  - name: TV 999 HD
+  sources:
+  - tv999.bg
   
 - id: crimeinvestigation.bg
   enabled: true

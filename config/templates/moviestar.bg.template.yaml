@@ -5,7 +5,7 @@ locator-strategy: jsonpath
 date-format: unix
 
 request:
-  debug: true
+  debug: false
   url: http://moviestar.bg/?rhc_action=get_calendar_events&post_type[]=events&start=${date}&end=${date.addDays(1).format(unix)}&rhc_shrink=0&view=agendaDay
   cache-priority: 3
   encoding: utf-8
