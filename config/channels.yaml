@@ -190,6 +190,7 @@
   groups: ["bg"]
   sources:
   - dnes.bg
+  - start.bg
   - tv.dir.bg
   
 - id: codehealth.bg
@@ -227,8 +228,8 @@
     lang: en
   groups: ["bg"]
   sources:
-  - dnes.bg
   - start.bg
+  - dnes.bg
   - tv.dir.bg
   
 - id: bulgaria24.bg
@@ -240,6 +241,7 @@
   - name: Bulgaria 24
   groups: ["bg"]
   sources:
+  - start.bg
   - dnes.bg
   - tv.dir.bg
   
@@ -255,6 +257,7 @@
     lang: en
   groups: ["bg"]
   sources:
+  - start.bg
   - dnes.bg
   - tv.dir.bg
   
@@ -267,6 +270,7 @@
     lang: en
   groups: ["bg"]
   sources:
+  - start.bg
   - dnes.bg
   - tv.dir.bg
   
@@ -325,6 +329,7 @@
     lang: en
   groups: ["bg"]
   sources:
+  - start.bg
   - dnes.bg
   
 - id: sedemosmi.tv
@@ -542,6 +547,7 @@
   - name: Arena HD
   sources:
   - tv-programa.bg
+  - start.bg
 
 - id: diema.bg
   enabled: true
@@ -594,6 +600,7 @@
     lang: en
   sources:
   - axn.bg
+  - start.bg
   - dnes.bg
   
 - id: axnwhite.bg
@@ -755,6 +762,7 @@
   sources:
   - nova.bg
   - dnes.bg
+  - start.bg
 
 - id: diemasport.bg
   enabled: true
@@ -771,6 +779,7 @@
   - diemaextra.bg
   - nova.bg
   - dnes.bg
+  - start.bg
 
 - id: diemasport2.bg
   enabled: true
@@ -787,6 +796,7 @@
   - diemaextra.bg
   - nova.bg
   - dnes.bg
+  - start.bg
 
 - id: diemasport3.bg
   enabled: true
@@ -803,6 +813,7 @@
   - diemaextra.bg
   - nova.bg
   - dnes.bg
+  - start.bg
   
 - id: ring.bg
   enabled: true
@@ -820,6 +831,7 @@
   - btv.bg
   - dnes.bg
   - tv.dir.bg
+  - start.bg
 
 - id: maxsport1.bg
   enabled: true
@@ -910,6 +922,7 @@
   sources:
   - dnes.bg
   - tv.dir.bg
+  - start.bg
 
 - id: eurosport2.bg
   enabled: true
@@ -921,6 +934,7 @@
   sources:
   - dnes.bg
   - tv.dir.bg
+  - start.bg
 
 - id: arenasport1.sr
   enabled: false
@@ -1621,6 +1635,7 @@
   sources:
   - thevoice.bg
   - dnes.bg
+  - start.bg
 
 - id: citytv.bg
   days-ahead: 1
@@ -1631,6 +1646,16 @@
     lang: en
   sources:
   - city.bg
+
+- id: boxtv.bg
+  days-ahead: 1
+  enabled: true
+  names:
+  - name: BOX
+  - name: BOX HD
+    lang: en
+  sources:
+  - start.bg
 
 - id: magictv.bg
   days-ahead: 1
@@ -1658,6 +1683,7 @@
     lang: bg
   sources:
   - dnes.bg
+  - start.bg
   
 - id: planetatv.bg
   days-ahead: 1
@@ -1697,6 +1723,7 @@
     lang: en
   sources:
   - fentv.bg
+  - start.bg
   - dnes.bg
     
 - id: fenfolk.bg
@@ -1708,6 +1735,7 @@
   - name: Fen Folk TV
     lang: en
   sources:
+  - start.bg
   - dnes.bg
   
 - id: balkanika.bg
@@ -1721,6 +1749,7 @@
   - name: Balkanika
     lang: en
   sources:
+  - start.bg
   - dnes.bg
   
 - id: mezzo.tv
@@ -2479,6 +2508,7 @@
   sources:
   - tv-programa.bg
   - dnes.bg
+  - start.bg
   - tv.dir.bg
   
 - id: tlc.bg
@@ -2511,6 +2541,7 @@
     lang: en
   sources:
   - dnes.bg
+  - start.bg
   - tv.dir.bg
 
 - id: history.viasat.bg
@@ -2634,6 +2665,7 @@
   - name: Animal Planet HD
     lang: en
   sources:
+  - start.bg
   - dnes.bg
 
 - id: hobbylov.bg
@@ -2703,6 +2735,7 @@
   sources:
   - tv-programa.bg
   - dnes.bg
+  - start.bg
 
 - id: traveltv.bg
   enabled: true
@@ -2800,6 +2833,7 @@
     lang: en
   sources:
   - dnes.bg
+  - start.bg
   - tv.dir.bg
   
 - id: vidimoinevidimo.bg
@@ -2808,6 +2842,7 @@
   - name: Видимо и невидимо HD
   - name: Видимо и невидимо
   sources:
+  - start.bg
   - dnes.bg
   
 - id: bbcearth.com
@@ -2919,6 +2954,7 @@
     lang: en
   groups: [ "kids" ]
   sources:
+  - start.bg
   - dnes.bg
   
 - id: ekids.bg
@@ -2930,8 +2966,9 @@
     lang: en
   groups: [ "kids" ]
   sources:
-  - dnes.bg
+  - start.bg
   - tv-programa.bg
+  - dnes.bg
   
 - id: davincilearning.tv
   enabled: true
@@ -3859,3 +3896,11 @@
   - name: Luxe TV 4K
   sources:
   - yandex.ru
+  
+- id: ambience.tv
+  enabled: false
+  names:
+  - name: Ambience HD
+  - name: Ambience
+  sources:
+  - start.bg

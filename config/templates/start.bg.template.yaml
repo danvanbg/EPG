@@ -4,7 +4,7 @@ culture: bg-BG
 date-format: yyyy-MM-dd
 
 request:
-  url: https://www.start.bg/lenta/tv-programa//tv/show/channel/${channelId}/${date}/0
+  url: https://www.start.bg/lenta/tv-programa/tv/skat/${date}/0
 
 programs:
   locator: .tv-dlist > li
@@ -19,25 +19,25 @@ elements:
 
 channel-parameters:    
   bnt1.bg:
-    channelId: 11 
+    channelId: bnt
   btv.bg:
-    channelId: 15
+    channelId: btv
   nova.bg:
-    channelId: 70
+    channelId: nova%20tv
   bgonair.bg:
-    channelId: 115
+    channelId: bulgaria%20on%20air
   bloombergtv.bg:
-    channelId: 176
+    channelId: bloomberg%20tv%20bulgaria
   axn.bg:
-    channelId: 5
-  'Animal Planet':
-    channelId: 3
+    channelId: axn
+  animalplanet.bg:
+    channelId: animal%20planet
   alfatv.bg:
-    channelId: 2
+    channelId: alfa
   balkanika.bg:
-    channelId: 8
+    channelId: balkanika
   bnt2.bg:
-    channelId: 12
+    channelId: bnt2
   Boomerang:
     channelId: 14
   'bTV Action':
@@ -69,19 +69,19 @@ channel-parameters:
   'Da Vinci Learning':
     channelId: 34
   ekids.bg:
-    channelId: 35
+    channelId: e-kids
   evrokom.bg:
-    channelId: 37
-  Eurosport:
-    channelId: 40
-  'Eurosport 2':
-    channelId: 41
+    channelId: eurocom
+  eurosport1.bg:
+    channelId: eurosport
+  eurosport2:
+    channelId: eurosport%202
   'Viasat Explorer':
     channelId: 42
   'Extreme Sports':
     channelId: 43
-  'Fen TV':
-    channelId: 44
+  fentv.bg:
+    channelId: fen%20tv
   'Fox Life':
     channelId: 47
   'Fox Crime':
@@ -92,12 +92,14 @@ channel-parameters:
     channelId: 52
   'History Channel':
     channelId: 53
+  bulgaria24.bg:
+    channelId: bulgaria%2024
   'Хоби ТВ':
     channelId: 54
-  JimJam:
-    channelId: 55
-  MCM:
-    channelId: 58
+  jimjam.tv:
+    channelId: jimjam
+  mcm:
+    channelId: mcm
   MGM:
     channelId: 59
   'MTV Live HD':
@@ -108,29 +110,31 @@ channel-parameters:
     channelId: 67
   'National Geographic Wild':
     channelId: 68
-  'Nova Sport':
-    channelId: 69
-  ORT:
-    channelId: 73
+  novasport.bg:
+    channelId: nova%20sport
+  ort.ru:
+    channelId: ort
   planetatv.bg:
-    channelId: 74
+    channelId: planeta
   planetafolk.bg:
-    channelId: 75
+    channelId: planeta%20folk
   planetahd.bg.:
-    channelId: 76
-  Ring.BG:
-    channelId: 80
-  Skat:
+    channelId: planeta%20hd
+  planeta4k.bg.:
+    channelId: planeta%204k
+  ring.bg:
+    channelId: ring.bg
+  skat.bg:
     channelId: 87
   Telekabel:
     channelId: 93
-  'The Voice':
+  thevoice.bg:
     channelId: 94
   TLC:
     channelId: 95
   traveltv.bg:
     channelId: 96
-  'Travel Channel HD':
+  travelchannel.bg:
     channelId: 97
   'Travel Channel SD':
     channelId: 114
@@ -142,7 +146,7 @@ channel-parameters:
     channelId: 102
   'VH 1':
     channelId: 103
-  'Vivacom Arena':
+  vivacomarena.bg:
     channelId: 104
   'Fox Channel':
     channelId: 107
@@ -166,8 +170,8 @@ channel-parameters:
     channelId: 128
   'HBO HD':
     channelId: 129
-  'Box TV':
-    channelId: 130
+  boxtv.bg:
+    channelId: box%20tv
   'Disney Jr':
     channelId: 131
   Nickelodeon:
@@ -186,16 +190,16 @@ channel-parameters:
     channelId: 146
   'AXN White':
     channelId: 147
-  'Crime and Investigation':
-    channelId: 148
-  Moviestar:
-    channelId: 149
+  crimeandinvestigation.bg:
+    channelId: crime%20and%20investigation
+  moviestar.bg:
+    channelId: moviestar
   Первий:
     channelId: 150
   'Comedy Central Extra':
     channelId: 155
-  'Agro TV':
-    channelId: 162
+  agrotv.bg:
+    channelId: agro%20tv
   DocuBox:
     channelId: 163
   FightBox:
@@ -204,14 +208,14 @@ channel-parameters:
     channelId: 166
   'Viasat Nature/History HD':
     channelId: 168
-  TV1:
+  tv1.bg:
     channelId: 169
   Mezzo:
     channelId: 170
-  'Diema Sport':
-    channelId: 171
-  'Diema Sport 2':
-    channelId: 173
+  diemasport.bg:
+    channelId: diema%20sport
+  diemasport2.bg:
+    channelId: diema%20sport%202
   'Investigation Discovery Extra':
     channelId: 174
   'HBO 2':
@@ -268,16 +272,16 @@ channel-parameters:
     channelId: 225
   CLUBMTV:
     channelId: 226
-  'Fen Folk':
-    channelId: 227
+  fenfolk.bg:
+    channelId: fen%20folk
   planeta4k.bg:
     channelId: 231
   cinemania.bg:
     channelId: 233
   NovaNews:
     channelId: 234
-  'Love Nature':
-    channelId: 235
+  tv.lovenature.com:
+    channelId: love%20nature
   nostalgia.bg:
     channelId: 236
   '360 TuneBox':
@@ -286,20 +290,24 @@ channel-parameters:
     channelId: 238
   'Mezzo Live HD':
     channelId: 240
-  HGTV:
-    channelId: 241
+  hgtv.com:
+    channelId: hgtv
   'FilmBox Arthouse':
     channelId: 243
   GameToon:
     channelId: 244
-  'Diema Sport 3':
-    channelId: 249    
+  diemasport3.bg:
+    channelId: diema%20sport%203
+  ambience.tv:
+    channelId: ambience%20tv    
+  vidimoinevidimo.bg:
+    channelId: vidimo%20i%20nevidimo%20tv
 
-#channel-extract-rules:
-#  url: https://www.start.bg/lenta/tv-programa//tv/show/channel/11
-#  channel-name:
-#    locator: select.tv option
-#    attribute: text
-#  channel-param: 
-#    locator: select.tv option
-#    property: value
+channel-extract-rules:
+ url: https://www.start.bg/lenta/tv-programa/tv/show/index/
+ channel-name:
+   locator: .channel .name
+   attribute: text
+ channel-param: 
+   locator: .channel a
+   property: href

@@ -502,6 +502,10 @@
     <display-name>City TV</display-name>
     <display-name lang="en">City HD</display-name>
   </channel>
+  <channel id="boxtv.bg">
+    <display-name>BOX</display-name>
+    <display-name lang="en">BOX HD</display-name>
+  </channel>
   <channel id="planeta4k.bg">
     <display-name lang="en">Planeta 4K</display-name>
     <display-name lang="bg">Планета 4K</display-name>
@@ -2511,6 +2515,156 @@
   <programme start="20241204043000 +0200" channel="bgonair.bg">
     <title>Завърналите се с Петя Кертикова /п./</title>
   </programme>
+  <programme start="20241203053000 +0200" stop="20241203063000 +0200" channel="evrokom.bg">
+    <title lang="bg">"Здравословно" с водещ Христо Деянов (повторение)</title>
+  </programme>
+  <programme start="20241203063000 +0200" stop="20241203073000 +0200" channel="evrokom.bg">
+    <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
+  </programme>
+  <programme start="20241203073000 +0200" stop="20241203080000 +0200" channel="evrokom.bg">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241203080000 +0200" stop="20241203090000 +0200" channel="evrokom.bg">
+    <title lang="bg">"Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241203090000 +0200" stop="20241203100000 +0200" channel="evrokom.bg">
+    <title lang="bg">Ранни вести (избрани предавания)</title>
+  </programme>
+  <programme start="20241203100000 +0200" stop="20241203103000 +0200" channel="evrokom.bg">
+    <title lang="bg">Директно за младите... с водещ Росен Цветков</title>
+  </programme>
+  <programme start="20241203103000 +0200" stop="20241203104000 +0200" channel="evrokom.bg">
+    <title lang="bg">НОВИНИ - сутрешна емисия</title>
+  </programme>
+  <programme start="20241203104000 +0200" stop="20241203121500 +0200" channel="evrokom.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов</title>
+  </programme>
+  <programme start="20241203121500 +0200" stop="20241203123000 +0200" channel="evrokom.bg">
+    <title lang="bg">Китка народни песни</title>
+  </programme>
+  <programme start="20241203123000 +0200" stop="20241203124500 +0200" channel="evrokom.bg">
+    <title lang="bg">НОВИНИ - обедна емисия</title>
+  </programme>
+  <programme start="20241203124500 +0200" stop="20241203141500 +0200" channel="evrokom.bg">
+    <title lang="bg">"Ако зажалиш..." - стари градски песни с Бони Милчева</title>
+  </programme>
+  <programme start="20241203141500 +0200" stop="20241203153000 +0200" channel="evrokom.bg">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова (повторение)</title>
+  </programme>
+  <programme start="20241203153000 +0200" stop="20241203160000 +0200" channel="evrokom.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203160000 +0200" stop="20241203170000 +0200" channel="evrokom.bg">
+    <title lang="bg">"Общество и право" - с водещ адвокат Христиан Митев</title>
+  </programme>
+  <programme start="20241203170000 +0200" stop="20241203180000 +0200" channel="evrokom.bg">
+    <title lang="bg">"Час по България" (повторение)</title>
+  </programme>
+  <programme start="20241203180000 +0200" stop="20241203190000 +0200" channel="evrokom.bg">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване</title>
+  </programme>
+  <programme start="20241203190000 +0200" stop="20241203193000 +0200" channel="evrokom.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241203193000 +0200" stop="20241203195000 +0200" channel="evrokom.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241203195000 +0200" stop="20241203200000 +0200" channel="evrokom.bg">
+    <title lang="bg">Другата история</title>
+  </programme>
+  <programme start="20241203200000 +0200" stop="20241203220000 +0200" channel="evrokom.bg">
+    <title lang="bg">"От българско, по- българско" - с Галя Асенова</title>
+  </programme>
+  <programme start="20241203220000 +0200" stop="20241203223000 +0200" channel="evrokom.bg">
+    <title lang="bg">Късна емисия Новини, Другата история</title>
+  </programme>
+  <programme start="20241203223000 +0200" stop="20241204000000 +0200" channel="evrokom.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
+  </programme>
+  <programme start="20241204000000 +0200" stop="20241204002000 +0200" channel="evrokom.bg">
+    <title lang="bg">Новини. Прогноза за времето (повторение)</title>
+  </programme>
+  <programme start="20241204002000 +0200" stop="20241204003000 +0200" channel="evrokom.bg">
+    <title lang="bg">Другата история</title>
+  </programme>
+  <programme start="20241204003000 +0200" stop="20241204013000 +0200" channel="evrokom.bg">
+    <title lang="bg">Час по България - с водещ проф. Пламен Павлов (повторение)</title>
+  </programme>
+  <programme start="20241204013000 +0200" stop="20241204030000 +0200" channel="evrokom.bg">
+    <title lang="bg">Ако зажалиш - стари градски песни с Бони Милчева (повторение)</title>
+  </programme>
+  <programme start="20241204030000 +0200" stop="20241204040000 +0200" channel="evrokom.bg">
+    <title lang="bg">Гледна точка - с Александрина Димитрова (повторение)</title>
+  </programme>
+  <programme start="20241204040000 +0200" stop="20241204053000 +0200" channel="evrokom.bg">
+    <title lang="bg">"Разбулване" (повторение)</title>
+  </programme>
+  <programme start="20241204053000 +0200" stop="20241204063000 +0200" channel="evrokom.bg">
+    <title lang="bg">"Здравословно" с водещ Христо Деянов (повторение)</title>
+  </programme>
+  <programme start="20241204063000 +0200" stop="20241204073000 +0200" channel="evrokom.bg">
+    <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
+  </programme>
+  <programme start="20241204073000 +0200" stop="20241204080000 +0200" channel="evrokom.bg">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204090000 +0200" channel="evrokom.bg">
+    <title lang="bg">"Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204100000 +0200" channel="evrokom.bg">
+    <title lang="bg">Ранни вести (избрани предавания)</title>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204103000 +0200" channel="evrokom.bg">
+    <title lang="bg">Директно за младите... с водещ Росен Цветков</title>
+  </programme>
+  <programme start="20241204103000 +0200" stop="20241204104000 +0200" channel="evrokom.bg">
+    <title lang="bg">НОВИНИ - сутрешна емисия</title>
+  </programme>
+  <programme start="20241204104000 +0200" stop="20241204121500 +0200" channel="evrokom.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов</title>
+  </programme>
+  <programme start="20241204121500 +0200" stop="20241204123000 +0200" channel="evrokom.bg">
+    <title lang="bg">Китка народни песни</title>
+  </programme>
+  <programme start="20241204123000 +0200" stop="20241204124500 +0200" channel="evrokom.bg">
+    <title lang="bg">НОВИНИ - обедна емисия</title>
+  </programme>
+  <programme start="20241204124500 +0200" stop="20241204141500 +0200" channel="evrokom.bg">
+    <title lang="bg">"Ако зажалиш..." - стари градски песни с Бони Милчева</title>
+  </programme>
+  <programme start="20241204141500 +0200" stop="20241204153000 +0200" channel="evrokom.bg">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова (повторение)</title>
+  </programme>
+  <programme start="20241204153000 +0200" stop="20241204160000 +0200" channel="evrokom.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204170000 +0200" channel="evrokom.bg">
+    <title lang="bg">"Общество и право" - с водещ адвокат Христиан Митев</title>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204180000 +0200" channel="evrokom.bg">
+    <title lang="bg">"Час по България" (повторение)</title>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204190000 +0200" channel="evrokom.bg">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване</title>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204193000 +0200" channel="evrokom.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241204193000 +0200" stop="20241204195000 +0200" channel="evrokom.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241204195000 +0200" stop="20241204200000 +0200" channel="evrokom.bg">
+    <title lang="bg">Другата история</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204220000 +0200" channel="evrokom.bg">
+    <title lang="bg">"От българско, по- българско" - с Галя Асенова</title>
+  </programme>
+  <programme start="20241204220000 +0200" stop="20241204223000 +0200" channel="evrokom.bg">
+    <title lang="bg">Късна емисия Новини, Другата история</title>
+  </programme>
+  <programme start="20241204223000 +0200" stop="20241205000000 +0200" channel="evrokom.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
+  </programme>
   <programme start="20241203000000 +0200" stop="20241203005000 +0200" channel="codehealth.bg">
     <title>Парамедици - 7 епизод, 3 сезон (повторение)</title>
   </programme>
@@ -2636,6 +2790,234 @@
   </programme>
   <programme start="20241203233000 +0200" channel="codefashion.bg">
     <title>Fashion Party</title>
+  </programme>
+  <programme start="20241203163000 +0200" stop="20241203170000 +0200" channel="skat.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203170000 +0200" stop="20241203183000 +0200" channel="skat.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241203183000 +0200" stop="20241203190000 +0200" channel="skat.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241203190000 +0200" stop="20241203200000 +0200" channel="skat.bg">
+    <title lang="bg">Край Босфора с Любомир Желев (повторение)</title>
+  </programme>
+  <programme start="20241203200000 +0200" stop="20241203203000 +0200" channel="skat.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203203000 +0200" stop="20241203213000 +0200" channel="skat.bg">
+    <title lang="bg">"Дискусионно студио" - публицистично предаване с водещ Стоян Иванов</title>
+  </programme>
+  <programme start="20241203213000 +0200" stop="20241203223000 +0200" channel="skat.bg">
+    <title lang="bg">"Прокудени от бащин край" с водещ Стоян Райчевски</title>
+  </programme>
+  <programme start="20241203223000 +0200" stop="20241203230000 +0200" channel="skat.bg">
+    <title lang="bg">Късна емисия Новини</title>
+  </programme>
+  <programme start="20241203230000 +0200" stop="20241204000000 +0200" channel="skat.bg">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване (повторение)</title>
+  </programme>
+  <programme start="20241204000000 +0200" stop="20241204003000 +0200" channel="skat.bg">
+    <title lang="bg">Късни Новини. Прогноза за времето</title>
+  </programme>
+  <programme start="20241204003000 +0200" stop="20241204013000 +0200" channel="skat.bg">
+    <title lang="bg">Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241204013000 +0200" stop="20241204030000 +0200" channel="skat.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
+  </programme>
+  <programme start="20241204030000 +0200" stop="20241204033000 +0200" channel="skat.bg">
+    <title lang="bg">"Старият албум" разказите на Михаил Топалов (архив)</title>
+  </programme>
+  <programme start="20241204033000 +0200" stop="20241204040000 +0200" channel="skat.bg">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241204040000 +0200" stop="20241204050000 +0200" channel="skat.bg">
+    <title lang="bg">"Нови хоризонти" (повторение)</title>
+  </programme>
+  <programme start="20241204050000 +0200" stop="20241204053000 +0200" channel="skat.bg">
+    <title lang="bg">Документален филм / музика</title>
+  </programme>
+  <programme start="20241204053000 +0200" stop="20241204063000 +0200" channel="skat.bg">
+    <title lang="bg">"Прокудени от бащин край" (повторение)</title>
+  </programme>
+  <programme start="20241204063000 +0200" stop="20241204073000 +0200" channel="skat.bg">
+    <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
+  </programme>
+  <programme start="20241204073000 +0200" stop="20241204080000 +0200" channel="skat.bg">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204090000 +0200" channel="skat.bg">
+    <title lang="bg">Дискусионно студио (повторение)</title>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204100000 +0200" channel="skat.bg">
+    <title lang="bg">Ранни вести (избрани предавания)</title>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204103000 +0200" channel="skat.bg">
+    <title lang="bg">Директно за младите... - (повторение)</title>
+  </programme>
+  <programme start="20241204103000 +0200" stop="20241204111500 +0200" channel="skat.bg">
+    <title lang="bg">Съгласен ли си (повторение)</title>
+  </programme>
+  <programme start="20241204111500 +0200" stop="20241204120000 +0200" channel="skat.bg">
+    <title lang="bg">Старият албум - разказите на Михаил Топалов</title>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204123000 +0200" channel="skat.bg">
+    <title lang="bg">Прокудени от бащин край - 1 част (повторение)</title>
+  </programme>
+  <programme start="20241204123000 +0200" stop="20241204124000 +0200" channel="skat.bg">
+    <title lang="bg">НОВИНИ - обедна емисия</title>
+  </programme>
+  <programme start="20241204124000 +0200" stop="20241204130000 +0200" channel="skat.bg">
+    <title lang="bg">Прокудени от бащин край - 2 част (повторение)</title>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204140000 +0200" channel="skat.bg">
+    <title lang="bg">Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204160000 +0200" channel="skat.bg">
+    <title lang="bg">"От българско, по-българско" (повторение)</title>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204170000 +0200" channel="skat.bg">
+    <title lang="bg">"Общество и право" (повторение)</title>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204183000 +0200" channel="skat.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241204183000 +0200" stop="20241204190000 +0200" channel="skat.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204200000 +0200" channel="skat.bg">
+    <title lang="bg">"Прокудени от бащин край ..." с водещ Стоян Райчевски (повторение)</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204203000 +0200" channel="skat.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241204203000 +0200" stop="20241204213000 +0200" channel="skat.bg">
+    <title lang="bg">Дискусионно студио" - публицистично предаване с водещ Стоян Иванов</title>
+  </programme>
+  <programme start="20241204213000 +0200" stop="20241204223000 +0200" channel="skat.bg">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова</title>
+  </programme>
+  <programme start="20241204223000 +0200" stop="20241204230000 +0200" channel="skat.bg">
+    <title lang="bg">Късна емисия Новини</title>
+  </programme>
+  <programme start="20241204230000 +0200" stop="20241205000000 +0200" channel="skat.bg">
+    <title lang="bg">"Чист живот" - предаване за зависимости (повторение)</title>
+  </programme>
+  <programme start="20241203163000 +0200" stop="20241203170000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203170000 +0200" stop="20241203183000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241203183000 +0200" stop="20241203190000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241203190000 +0200" stop="20241203200000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Край Босфора с Любомир Желев (повторение)</title>
+  </programme>
+  <programme start="20241203200000 +0200" stop="20241203203000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203203000 +0200" stop="20241203213000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">"Дискусионно студио" - публицистично предаване с водещ Стоян Иванов</title>
+  </programme>
+  <programme start="20241203213000 +0200" stop="20241203223000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">"Прокудени от бащин край" с водещ Стоян Райчевски</title>
+  </programme>
+  <programme start="20241203223000 +0200" stop="20241203230000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Късна емисия Новини</title>
+  </programme>
+  <programme start="20241203230000 +0200" stop="20241204000000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване (повторение)</title>
+  </programme>
+  <programme start="20241204000000 +0200" stop="20241204003000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Късни Новини. Прогноза за времето</title>
+  </programme>
+  <programme start="20241204003000 +0200" stop="20241204013000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241204013000 +0200" stop="20241204030000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
+  </programme>
+  <programme start="20241204030000 +0200" stop="20241204033000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">"Старият албум" разказите на Михаил Топалов (архив)</title>
+  </programme>
+  <programme start="20241204033000 +0200" stop="20241204040000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241204040000 +0200" stop="20241204050000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">"Нови хоризонти" (повторение)</title>
+  </programme>
+  <programme start="20241204050000 +0200" stop="20241204053000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Документален филм / музика</title>
+  </programme>
+  <programme start="20241204053000 +0200" stop="20241204063000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">"Прокудени от бащин край" (повторение)</title>
+  </programme>
+  <programme start="20241204063000 +0200" stop="20241204073000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
+  </programme>
+  <programme start="20241204073000 +0200" stop="20241204080000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204090000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Дискусионно студио (повторение)</title>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204100000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Ранни вести (избрани предавания)</title>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204103000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Директно за младите... - (повторение)</title>
+  </programme>
+  <programme start="20241204103000 +0200" stop="20241204111500 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Съгласен ли си (повторение)</title>
+  </programme>
+  <programme start="20241204111500 +0200" stop="20241204120000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Старият албум - разказите на Михаил Топалов</title>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204123000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Прокудени от бащин край - 1 част (повторение)</title>
+  </programme>
+  <programme start="20241204123000 +0200" stop="20241204124000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">НОВИНИ - обедна емисия</title>
+  </programme>
+  <programme start="20241204124000 +0200" stop="20241204130000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Прокудени от бащин край - 2 част (повторение)</title>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204140000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204160000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">"От българско, по-българско" (повторение)</title>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204170000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">"Общество и право" (повторение)</title>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204183000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241204183000 +0200" stop="20241204190000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204200000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">"Прокудени от бащин край ..." с водещ Стоян Райчевски (повторение)</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204203000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241204203000 +0200" stop="20241204213000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Дискусионно студио" - публицистично предаване с водещ Стоян Иванов</title>
+  </programme>
+  <programme start="20241204213000 +0200" stop="20241204223000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова</title>
+  </programme>
+  <programme start="20241204223000 +0200" stop="20241204230000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">Късна емисия Новини</title>
+  </programme>
+  <programme start="20241204230000 +0200" stop="20241205000000 +0200" channel="bulgaria24.bg">
+    <title lang="bg">"Чист живот" - предаване за зависимости (повторение)</title>
   </programme>
   <programme start="20241203061500 +0200" stop="20241203070000 +0200" channel="alfatv.bg">
     <title>"Часът на пенсионера"</title>
@@ -2775,8 +3157,77 @@
   <programme start="20241204030000 +0200" stop="20241204032000 +0200" channel="alfatv.bg">
     <title>Новини</title>
   </programme>
-  <programme start="20241204032000 +0200" channel="alfatv.bg">
+  <programme start="20241204032000 +0200" stop="20241204050000 +0200" channel="alfatv.bg">
     <title>Архивите на Алфа</title>
+  </programme>
+  <programme start="20241204050000 +0200" stop="20241204053000 +0200" channel="alfatv.bg">
+    <title lang="bg">Документален филм / музика</title>
+  </programme>
+  <programme start="20241204053000 +0200" stop="20241204063000 +0200" channel="alfatv.bg">
+    <title lang="bg">"Прокудени от бащин край" (повторение)</title>
+  </programme>
+  <programme start="20241204063000 +0200" stop="20241204073000 +0200" channel="alfatv.bg">
+    <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
+  </programme>
+  <programme start="20241204073000 +0200" stop="20241204080000 +0200" channel="alfatv.bg">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204090000 +0200" channel="alfatv.bg">
+    <title lang="bg">Дискусионно студио (повторение)</title>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204100000 +0200" channel="alfatv.bg">
+    <title lang="bg">Ранни вести (избрани предавания)</title>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204103000 +0200" channel="alfatv.bg">
+    <title lang="bg">Директно за младите... - (повторение)</title>
+  </programme>
+  <programme start="20241204103000 +0200" stop="20241204111500 +0200" channel="alfatv.bg">
+    <title lang="bg">Съгласен ли си (повторение)</title>
+  </programme>
+  <programme start="20241204111500 +0200" stop="20241204120000 +0200" channel="alfatv.bg">
+    <title lang="bg">Старият албум - разказите на Михаил Топалов</title>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204123000 +0200" channel="alfatv.bg">
+    <title lang="bg">Прокудени от бащин край - 1 част (повторение)</title>
+  </programme>
+  <programme start="20241204123000 +0200" stop="20241204124000 +0200" channel="alfatv.bg">
+    <title lang="bg">НОВИНИ - обедна емисия</title>
+  </programme>
+  <programme start="20241204124000 +0200" stop="20241204130000 +0200" channel="alfatv.bg">
+    <title lang="bg">Прокудени от бащин край - 2 част (повторение)</title>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204140000 +0200" channel="alfatv.bg">
+    <title lang="bg">Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204160000 +0200" channel="alfatv.bg">
+    <title lang="bg">"От българско, по-българско" (повторение)</title>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204170000 +0200" channel="alfatv.bg">
+    <title lang="bg">"Общество и право" (повторение)</title>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204183000 +0200" channel="alfatv.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241204183000 +0200" stop="20241204190000 +0200" channel="alfatv.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204200000 +0200" channel="alfatv.bg">
+    <title lang="bg">"Прокудени от бащин край ..." с водещ Стоян Райчевски (повторение)</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204203000 +0200" channel="alfatv.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241204203000 +0200" stop="20241204213000 +0200" channel="alfatv.bg">
+    <title lang="bg">Дискусионно студио" - публицистично предаване с водещ Стоян Иванов</title>
+  </programme>
+  <programme start="20241204213000 +0200" stop="20241204223000 +0200" channel="alfatv.bg">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова</title>
+  </programme>
+  <programme start="20241204223000 +0200" stop="20241204230000 +0200" channel="alfatv.bg">
+    <title lang="bg">Късна емисия Новини</title>
+  </programme>
+  <programme start="20241204230000 +0200" stop="20241205000000 +0200" channel="alfatv.bg">
+    <title lang="bg">"Чист живот" - предаване за зависимости (повторение)</title>
   </programme>
   <programme start="20241203052500 +0200" stop="20241203053000 +0200" channel="agrotv.bg">
     <title>Борсова информация</title>
@@ -3096,8 +3547,77 @@
   <programme start="20241203232000 +0200" stop="20241203233500 +0200" channel="agrotv.bg">
     <title>Агротема</title>
   </programme>
-  <programme start="20241203233500 +0200" channel="agrotv.bg">
+  <programme start="20241203233500 +0200" stop="20241204050000 +0200" channel="agrotv.bg">
     <title>Агромаркет</title>
+  </programme>
+  <programme start="20241204050000 +0200" stop="20241204053000 +0200" channel="agrotv.bg">
+    <title lang="bg">Документален филм / музика</title>
+  </programme>
+  <programme start="20241204053000 +0200" stop="20241204063000 +0200" channel="agrotv.bg">
+    <title lang="bg">"Прокудени от бащин край" (повторение)</title>
+  </programme>
+  <programme start="20241204063000 +0200" stop="20241204073000 +0200" channel="agrotv.bg">
+    <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
+  </programme>
+  <programme start="20241204073000 +0200" stop="20241204080000 +0200" channel="agrotv.bg">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204090000 +0200" channel="agrotv.bg">
+    <title lang="bg">Дискусионно студио (повторение)</title>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204100000 +0200" channel="agrotv.bg">
+    <title lang="bg">Ранни вести (избрани предавания)</title>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204103000 +0200" channel="agrotv.bg">
+    <title lang="bg">Директно за младите... - (повторение)</title>
+  </programme>
+  <programme start="20241204103000 +0200" stop="20241204111500 +0200" channel="agrotv.bg">
+    <title lang="bg">Съгласен ли си (повторение)</title>
+  </programme>
+  <programme start="20241204111500 +0200" stop="20241204120000 +0200" channel="agrotv.bg">
+    <title lang="bg">Старият албум - разказите на Михаил Топалов</title>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204123000 +0200" channel="agrotv.bg">
+    <title lang="bg">Прокудени от бащин край - 1 част (повторение)</title>
+  </programme>
+  <programme start="20241204123000 +0200" stop="20241204124000 +0200" channel="agrotv.bg">
+    <title lang="bg">НОВИНИ - обедна емисия</title>
+  </programme>
+  <programme start="20241204124000 +0200" stop="20241204130000 +0200" channel="agrotv.bg">
+    <title lang="bg">Прокудени от бащин край - 2 част (повторение)</title>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204140000 +0200" channel="agrotv.bg">
+    <title lang="bg">Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204160000 +0200" channel="agrotv.bg">
+    <title lang="bg">"От българско, по-българско" (повторение)</title>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204170000 +0200" channel="agrotv.bg">
+    <title lang="bg">"Общество и право" (повторение)</title>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204183000 +0200" channel="agrotv.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241204183000 +0200" stop="20241204190000 +0200" channel="agrotv.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204200000 +0200" channel="agrotv.bg">
+    <title lang="bg">"Прокудени от бащин край ..." с водещ Стоян Райчевски (повторение)</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204203000 +0200" channel="agrotv.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241204203000 +0200" stop="20241204213000 +0200" channel="agrotv.bg">
+    <title lang="bg">Дискусионно студио" - публицистично предаване с водещ Стоян Иванов</title>
+  </programme>
+  <programme start="20241204213000 +0200" stop="20241204223000 +0200" channel="agrotv.bg">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова</title>
+  </programme>
+  <programme start="20241204223000 +0200" stop="20241204230000 +0200" channel="agrotv.bg">
+    <title lang="bg">Късна емисия Новини</title>
+  </programme>
+  <programme start="20241204230000 +0200" stop="20241205000000 +0200" channel="agrotv.bg">
+    <title lang="bg">"Чист живот" - предаване за зависимости (повторение)</title>
   </programme>
   <programme start="20241203120000 +0200" stop="20241203135500 +0200" channel="tvn.bg">
     <title>„Денят на майката (2010)“ – драма, ужаси, трилър.</title>
@@ -3143,6 +3663,120 @@
   </programme>
   <programme start="20241204214500 +0200" stop="20241205120000 +0200" channel="tvn.bg">
     <title>„Денят на майката (2010)“ – драма, ужаси, трилър.</title>
+  </programme>
+  <programme start="20241203163000 +0200" stop="20241203170000 +0200" channel="tv1.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203170000 +0200" stop="20241203183000 +0200" channel="tv1.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241203183000 +0200" stop="20241203190000 +0200" channel="tv1.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241203190000 +0200" stop="20241203200000 +0200" channel="tv1.bg">
+    <title lang="bg">Край Босфора с Любомир Желев (повторение)</title>
+  </programme>
+  <programme start="20241203200000 +0200" stop="20241203203000 +0200" channel="tv1.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203203000 +0200" stop="20241203213000 +0200" channel="tv1.bg">
+    <title lang="bg">"Дискусионно студио" - публицистично предаване с водещ Стоян Иванов</title>
+  </programme>
+  <programme start="20241203213000 +0200" stop="20241203223000 +0200" channel="tv1.bg">
+    <title lang="bg">"Прокудени от бащин край" с водещ Стоян Райчевски</title>
+  </programme>
+  <programme start="20241203223000 +0200" stop="20241203230000 +0200" channel="tv1.bg">
+    <title lang="bg">Късна емисия Новини</title>
+  </programme>
+  <programme start="20241203230000 +0200" stop="20241204000000 +0200" channel="tv1.bg">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване (повторение)</title>
+  </programme>
+  <programme start="20241204000000 +0200" stop="20241204003000 +0200" channel="tv1.bg">
+    <title lang="bg">Късни Новини. Прогноза за времето</title>
+  </programme>
+  <programme start="20241204003000 +0200" stop="20241204013000 +0200" channel="tv1.bg">
+    <title lang="bg">Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241204013000 +0200" stop="20241204030000 +0200" channel="tv1.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
+  </programme>
+  <programme start="20241204030000 +0200" stop="20241204033000 +0200" channel="tv1.bg">
+    <title lang="bg">"Старият албум" разказите на Михаил Топалов (архив)</title>
+  </programme>
+  <programme start="20241204033000 +0200" stop="20241204040000 +0200" channel="tv1.bg">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241204040000 +0200" stop="20241204050000 +0200" channel="tv1.bg">
+    <title lang="bg">"Нови хоризонти" (повторение)</title>
+  </programme>
+  <programme start="20241204050000 +0200" stop="20241204053000 +0200" channel="tv1.bg">
+    <title lang="bg">Документален филм / музика</title>
+  </programme>
+  <programme start="20241204053000 +0200" stop="20241204063000 +0200" channel="tv1.bg">
+    <title lang="bg">"Прокудени от бащин край" (повторение)</title>
+  </programme>
+  <programme start="20241204063000 +0200" stop="20241204073000 +0200" channel="tv1.bg">
+    <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
+  </programme>
+  <programme start="20241204073000 +0200" stop="20241204080000 +0200" channel="tv1.bg">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204090000 +0200" channel="tv1.bg">
+    <title lang="bg">Дискусионно студио (повторение)</title>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204100000 +0200" channel="tv1.bg">
+    <title lang="bg">Ранни вести (избрани предавания)</title>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204103000 +0200" channel="tv1.bg">
+    <title lang="bg">Директно за младите... - (повторение)</title>
+  </programme>
+  <programme start="20241204103000 +0200" stop="20241204111500 +0200" channel="tv1.bg">
+    <title lang="bg">Съгласен ли си (повторение)</title>
+  </programme>
+  <programme start="20241204111500 +0200" stop="20241204120000 +0200" channel="tv1.bg">
+    <title lang="bg">Старият албум - разказите на Михаил Топалов</title>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204123000 +0200" channel="tv1.bg">
+    <title lang="bg">Прокудени от бащин край - 1 част (повторение)</title>
+  </programme>
+  <programme start="20241204123000 +0200" stop="20241204124000 +0200" channel="tv1.bg">
+    <title lang="bg">НОВИНИ - обедна емисия</title>
+  </programme>
+  <programme start="20241204124000 +0200" stop="20241204130000 +0200" channel="tv1.bg">
+    <title lang="bg">Прокудени от бащин край - 2 част (повторение)</title>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204140000 +0200" channel="tv1.bg">
+    <title lang="bg">Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204160000 +0200" channel="tv1.bg">
+    <title lang="bg">"От българско, по-българско" (повторение)</title>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204170000 +0200" channel="tv1.bg">
+    <title lang="bg">"Общество и право" (повторение)</title>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204183000 +0200" channel="tv1.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241204183000 +0200" stop="20241204190000 +0200" channel="tv1.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204200000 +0200" channel="tv1.bg">
+    <title lang="bg">"Прокудени от бащин край ..." с водещ Стоян Райчевски (повторение)</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204203000 +0200" channel="tv1.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241204203000 +0200" stop="20241204213000 +0200" channel="tv1.bg">
+    <title lang="bg">Дискусионно студио" - публицистично предаване с водещ Стоян Иванов</title>
+  </programme>
+  <programme start="20241204213000 +0200" stop="20241204223000 +0200" channel="tv1.bg">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова</title>
+  </programme>
+  <programme start="20241204223000 +0200" stop="20241204230000 +0200" channel="tv1.bg">
+    <title lang="bg">Късна емисия Новини</title>
+  </programme>
+  <programme start="20241204230000 +0200" stop="20241205000000 +0200" channel="tv1.bg">
+    <title lang="bg">"Чист живот" - предаване за зависимости (повторение)</title>
   </programme>
   <programme start="20241203070500 +0200" stop="20241203080000 +0200" channel="sedemosmi.tv">
     <title lang="bg">Крум Савов LIVE (П)</title>
@@ -5400,6 +6034,156 @@
   <programme start="20241204230000 +0200" stop="20241205070000 +0200" channel="amc.bg">
     <title lang="bg">"Разкатаване" - екшън, 1998, САЩ/ Хонконг с Жан-Клод Ван Дам и Роб Шнайдер.</title>
   </programme>
+  <programme start="20241203053000 +0200" stop="20241203063000 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Здравословно" с водещ Христо Деянов (повторение)</title>
+  </programme>
+  <programme start="20241203063000 +0200" stop="20241203073000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
+  </programme>
+  <programme start="20241203073000 +0200" stop="20241203080000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241203080000 +0200" stop="20241203090000 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241203090000 +0200" stop="20241203100000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Ранни вести (избрани предавания)</title>
+  </programme>
+  <programme start="20241203100000 +0200" stop="20241203103000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Директно за младите... с водещ Росен Цветков</title>
+  </programme>
+  <programme start="20241203103000 +0200" stop="20241203104000 +0200" channel="nostalgia.bg">
+    <title lang="bg">НОВИНИ - сутрешна емисия</title>
+  </programme>
+  <programme start="20241203104000 +0200" stop="20241203121500 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов</title>
+  </programme>
+  <programme start="20241203121500 +0200" stop="20241203123000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Китка народни песни</title>
+  </programme>
+  <programme start="20241203123000 +0200" stop="20241203124500 +0200" channel="nostalgia.bg">
+    <title lang="bg">НОВИНИ - обедна емисия</title>
+  </programme>
+  <programme start="20241203124500 +0200" stop="20241203141500 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Ако зажалиш..." - стари градски песни с Бони Милчева</title>
+  </programme>
+  <programme start="20241203141500 +0200" stop="20241203153000 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова (повторение)</title>
+  </programme>
+  <programme start="20241203153000 +0200" stop="20241203160000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203160000 +0200" stop="20241203170000 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Общество и право" - с водещ адвокат Христиан Митев</title>
+  </programme>
+  <programme start="20241203170000 +0200" stop="20241203180000 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Час по България" (повторение)</title>
+  </programme>
+  <programme start="20241203180000 +0200" stop="20241203190000 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване</title>
+  </programme>
+  <programme start="20241203190000 +0200" stop="20241203193000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241203193000 +0200" stop="20241203195000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241203195000 +0200" stop="20241203200000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Другата история</title>
+  </programme>
+  <programme start="20241203200000 +0200" stop="20241203220000 +0200" channel="nostalgia.bg">
+    <title lang="bg">"От българско, по- българско" - с Галя Асенова</title>
+  </programme>
+  <programme start="20241203220000 +0200" stop="20241203223000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Късна емисия Новини, Другата история</title>
+  </programme>
+  <programme start="20241203223000 +0200" stop="20241204000000 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
+  </programme>
+  <programme start="20241204000000 +0200" stop="20241204002000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Новини. Прогноза за времето (повторение)</title>
+  </programme>
+  <programme start="20241204002000 +0200" stop="20241204003000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Другата история</title>
+  </programme>
+  <programme start="20241204003000 +0200" stop="20241204013000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Час по България - с водещ проф. Пламен Павлов (повторение)</title>
+  </programme>
+  <programme start="20241204013000 +0200" stop="20241204030000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Ако зажалиш - стари градски песни с Бони Милчева (повторение)</title>
+  </programme>
+  <programme start="20241204030000 +0200" stop="20241204040000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Гледна точка - с Александрина Димитрова (повторение)</title>
+  </programme>
+  <programme start="20241204040000 +0200" stop="20241204053000 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Разбулване" (повторение)</title>
+  </programme>
+  <programme start="20241204053000 +0200" stop="20241204063000 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Здравословно" с водещ Христо Деянов (повторение)</title>
+  </programme>
+  <programme start="20241204063000 +0200" stop="20241204073000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
+  </programme>
+  <programme start="20241204073000 +0200" stop="20241204080000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204090000 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204100000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Ранни вести (избрани предавания)</title>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204103000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Директно за младите... с водещ Росен Цветков</title>
+  </programme>
+  <programme start="20241204103000 +0200" stop="20241204104000 +0200" channel="nostalgia.bg">
+    <title lang="bg">НОВИНИ - сутрешна емисия</title>
+  </programme>
+  <programme start="20241204104000 +0200" stop="20241204121500 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов</title>
+  </programme>
+  <programme start="20241204121500 +0200" stop="20241204123000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Китка народни песни</title>
+  </programme>
+  <programme start="20241204123000 +0200" stop="20241204124500 +0200" channel="nostalgia.bg">
+    <title lang="bg">НОВИНИ - обедна емисия</title>
+  </programme>
+  <programme start="20241204124500 +0200" stop="20241204141500 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Ако зажалиш..." - стари градски песни с Бони Милчева</title>
+  </programme>
+  <programme start="20241204141500 +0200" stop="20241204153000 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова (повторение)</title>
+  </programme>
+  <programme start="20241204153000 +0200" stop="20241204160000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204170000 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Общество и право" - с водещ адвокат Христиан Митев</title>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204180000 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Час по България" (повторение)</title>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204190000 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване</title>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204193000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241204193000 +0200" stop="20241204195000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241204195000 +0200" stop="20241204200000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Другата история</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204220000 +0200" channel="nostalgia.bg">
+    <title lang="bg">"От българско, по- българско" - с Галя Асенова</title>
+  </programme>
+  <programme start="20241204220000 +0200" stop="20241204223000 +0200" channel="nostalgia.bg">
+    <title lang="bg">Късна емисия Новини, Другата история</title>
+  </programme>
+  <programme start="20241204223000 +0200" stop="20241205000000 +0200" channel="nostalgia.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
+  </programme>
   <programme start="20241203014000 +0200" stop="20241203031000 +0200" channel="vijuprimiere.ru">
     <title lang="ru">Выжить в Калахари</title>
   </programme>
@@ -6367,7 +7151,7 @@
     <title>ПРЯКО, Купа на Краля: Европа - Лас Палмас</title>
   </programme>
   <programme start="20241204001500 +0200" stop="20241204020000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига 2: Ейбар - Картахена</title>
+    <title>Ла Лига: Севиля - Осасуна</title>
   </programme>
   <programme start="20241204020000 +0200" stop="20241204040000 +0200" channel="maxsport4.bg">
     <title>Ла Лига: Майорка - Валенсия</title>
@@ -11268,6 +12052,99 @@
   <programme start="20241203180000 +0200" channel="citytv.bg">
     <title lang="bg">CITY HITS</title>
   </programme>
+  <programme start="20241203163000 +0200" stop="20241203170000 +0200" channel="boxtv.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203170000 +0200" stop="20241203183000 +0200" channel="boxtv.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241203183000 +0200" stop="20241203190000 +0200" channel="boxtv.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241203190000 +0200" stop="20241203200000 +0200" channel="boxtv.bg">
+    <title lang="bg">Край Босфора с Любомир Желев (повторение)</title>
+  </programme>
+  <programme start="20241203200000 +0200" stop="20241203203000 +0200" channel="boxtv.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203203000 +0200" stop="20241203213000 +0200" channel="boxtv.bg">
+    <title lang="bg">"Дискусионно студио" - публицистично предаване с водещ Стоян Иванов</title>
+  </programme>
+  <programme start="20241203213000 +0200" stop="20241203223000 +0200" channel="boxtv.bg">
+    <title lang="bg">"Прокудени от бащин край" с водещ Стоян Райчевски</title>
+  </programme>
+  <programme start="20241203223000 +0200" stop="20241203230000 +0200" channel="boxtv.bg">
+    <title lang="bg">Късна емисия Новини</title>
+  </programme>
+  <programme start="20241203230000 +0200" channel="boxtv.bg">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване (повторение)</title>
+  </programme>
+  <programme start="20241203053000 +0200" stop="20241203063000 +0200" channel="planeta4k.bg">
+    <title lang="bg">"Здравословно" с водещ Христо Деянов (повторение)</title>
+  </programme>
+  <programme start="20241203063000 +0200" stop="20241203073000 +0200" channel="planeta4k.bg">
+    <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
+  </programme>
+  <programme start="20241203073000 +0200" stop="20241203080000 +0200" channel="planeta4k.bg">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241203080000 +0200" stop="20241203090000 +0200" channel="planeta4k.bg">
+    <title lang="bg">"Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241203090000 +0200" stop="20241203100000 +0200" channel="planeta4k.bg">
+    <title lang="bg">Ранни вести (избрани предавания)</title>
+  </programme>
+  <programme start="20241203100000 +0200" stop="20241203103000 +0200" channel="planeta4k.bg">
+    <title lang="bg">Директно за младите... с водещ Росен Цветков</title>
+  </programme>
+  <programme start="20241203103000 +0200" stop="20241203104000 +0200" channel="planeta4k.bg">
+    <title lang="bg">НОВИНИ - сутрешна емисия</title>
+  </programme>
+  <programme start="20241203104000 +0200" stop="20241203121500 +0200" channel="planeta4k.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов</title>
+  </programme>
+  <programme start="20241203121500 +0200" stop="20241203123000 +0200" channel="planeta4k.bg">
+    <title lang="bg">Китка народни песни</title>
+  </programme>
+  <programme start="20241203123000 +0200" stop="20241203124500 +0200" channel="planeta4k.bg">
+    <title lang="bg">НОВИНИ - обедна емисия</title>
+  </programme>
+  <programme start="20241203124500 +0200" stop="20241203141500 +0200" channel="planeta4k.bg">
+    <title lang="bg">"Ако зажалиш..." - стари градски песни с Бони Милчева</title>
+  </programme>
+  <programme start="20241203141500 +0200" stop="20241203153000 +0200" channel="planeta4k.bg">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова (повторение)</title>
+  </programme>
+  <programme start="20241203153000 +0200" stop="20241203160000 +0200" channel="planeta4k.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203160000 +0200" stop="20241203170000 +0200" channel="planeta4k.bg">
+    <title lang="bg">"Общество и право" - с водещ адвокат Христиан Митев</title>
+  </programme>
+  <programme start="20241203170000 +0200" stop="20241203180000 +0200" channel="planeta4k.bg">
+    <title lang="bg">"Час по България" (повторение)</title>
+  </programme>
+  <programme start="20241203180000 +0200" stop="20241203190000 +0200" channel="planeta4k.bg">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване</title>
+  </programme>
+  <programme start="20241203190000 +0200" stop="20241203193000 +0200" channel="planeta4k.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241203193000 +0200" stop="20241203195000 +0200" channel="planeta4k.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241203195000 +0200" stop="20241203200000 +0200" channel="planeta4k.bg">
+    <title lang="bg">Другата история</title>
+  </programme>
+  <programme start="20241203200000 +0200" stop="20241203220000 +0200" channel="planeta4k.bg">
+    <title lang="bg">"От българско, по- българско" - с Галя Асенова</title>
+  </programme>
+  <programme start="20241203220000 +0200" stop="20241203223000 +0200" channel="planeta4k.bg">
+    <title lang="bg">Късна емисия Новини, Другата история</title>
+  </programme>
+  <programme start="20241203223000 +0200" channel="planeta4k.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
+  </programme>
   <programme start="20241203000000 +0200" stop="20241203001000 +0200" channel="planetatv.bg">
     <title lang="bg">"Картини от България" - музикална импресия</title>
   </programme>
@@ -11483,6 +12360,60 @@
   </programme>
   <programme start="20241203170000 +0200" stop="20241203171500 +0200" channel="fentv.bg">
     <title>Телепазар - телепазар</title>
+  </programme>
+  <programme start="20241203163000 +0200" stop="20241203170000 +0200" channel="fenfolk.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203170000 +0200" stop="20241203183000 +0200" channel="fenfolk.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241203183000 +0200" stop="20241203190000 +0200" channel="fenfolk.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241203190000 +0200" stop="20241203200000 +0200" channel="fenfolk.bg">
+    <title lang="bg">Край Босфора с Любомир Желев (повторение)</title>
+  </programme>
+  <programme start="20241203200000 +0200" stop="20241203203000 +0200" channel="fenfolk.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203203000 +0200" stop="20241203213000 +0200" channel="fenfolk.bg">
+    <title lang="bg">"Дискусионно студио" - публицистично предаване с водещ Стоян Иванов</title>
+  </programme>
+  <programme start="20241203213000 +0200" stop="20241203223000 +0200" channel="fenfolk.bg">
+    <title lang="bg">"Прокудени от бащин край" с водещ Стоян Райчевски</title>
+  </programme>
+  <programme start="20241203223000 +0200" stop="20241203230000 +0200" channel="fenfolk.bg">
+    <title lang="bg">Късна емисия Новини</title>
+  </programme>
+  <programme start="20241203230000 +0200" channel="fenfolk.bg">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване (повторение)</title>
+  </programme>
+  <programme start="20241203163000 +0200" stop="20241203170000 +0200" channel="balkanika.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203170000 +0200" stop="20241203183000 +0200" channel="balkanika.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241203183000 +0200" stop="20241203190000 +0200" channel="balkanika.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241203190000 +0200" stop="20241203200000 +0200" channel="balkanika.bg">
+    <title lang="bg">Край Босфора с Любомир Желев (повторение)</title>
+  </programme>
+  <programme start="20241203200000 +0200" stop="20241203203000 +0200" channel="balkanika.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203203000 +0200" stop="20241203213000 +0200" channel="balkanika.bg">
+    <title lang="bg">"Дискусионно студио" - публицистично предаване с водещ Стоян Иванов</title>
+  </programme>
+  <programme start="20241203213000 +0200" stop="20241203223000 +0200" channel="balkanika.bg">
+    <title lang="bg">"Прокудени от бащин край" с водещ Стоян Райчевски</title>
+  </programme>
+  <programme start="20241203223000 +0200" stop="20241203230000 +0200" channel="balkanika.bg">
+    <title lang="bg">Късна емисия Новини</title>
+  </programme>
+  <programme start="20241203230000 +0200" channel="balkanika.bg">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване (повторение)</title>
   </programme>
   <programme start="20241203000800 +0200" stop="20241203014400 +0200" channel="mezzo.tv">
     <title lang="bg">Classic Archive - Teresa Berganza - "Teresa Berganza (mezzo-soprano)F?lix Lavilla, Gerald Moore (piano)Orchestre Philharmonique de l'ORTF, Serge Baudo, Eugen...</title>
@@ -25587,6 +26518,156 @@
   <programme start="20241204233000 +0200" stop="20241204235500 +0200" channel="tv999.bg">
     <title>Добавки - Сосове</title>
   </programme>
+  <programme start="20241203053000 +0200" stop="20241203063000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Здравословно" с водещ Христо Деянов (повторение)</title>
+  </programme>
+  <programme start="20241203063000 +0200" stop="20241203073000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
+  </programme>
+  <programme start="20241203073000 +0200" stop="20241203080000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241203080000 +0200" stop="20241203090000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241203090000 +0200" stop="20241203100000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Ранни вести (избрани предавания)</title>
+  </programme>
+  <programme start="20241203100000 +0200" stop="20241203103000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Директно за младите... с водещ Росен Цветков</title>
+  </programme>
+  <programme start="20241203103000 +0200" stop="20241203104000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">НОВИНИ - сутрешна емисия</title>
+  </programme>
+  <programme start="20241203104000 +0200" stop="20241203121500 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов</title>
+  </programme>
+  <programme start="20241203121500 +0200" stop="20241203123000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Китка народни песни</title>
+  </programme>
+  <programme start="20241203123000 +0200" stop="20241203124500 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">НОВИНИ - обедна емисия</title>
+  </programme>
+  <programme start="20241203124500 +0200" stop="20241203141500 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Ако зажалиш..." - стари градски песни с Бони Милчева</title>
+  </programme>
+  <programme start="20241203141500 +0200" stop="20241203153000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова (повторение)</title>
+  </programme>
+  <programme start="20241203153000 +0200" stop="20241203160000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203160000 +0200" stop="20241203170000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Общество и право" - с водещ адвокат Христиан Митев</title>
+  </programme>
+  <programme start="20241203170000 +0200" stop="20241203180000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Час по България" (повторение)</title>
+  </programme>
+  <programme start="20241203180000 +0200" stop="20241203190000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване</title>
+  </programme>
+  <programme start="20241203190000 +0200" stop="20241203193000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241203193000 +0200" stop="20241203195000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241203195000 +0200" stop="20241203200000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Другата история</title>
+  </programme>
+  <programme start="20241203200000 +0200" stop="20241203220000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"От българско, по- българско" - с Галя Асенова</title>
+  </programme>
+  <programme start="20241203220000 +0200" stop="20241203223000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Късна емисия Новини, Другата история</title>
+  </programme>
+  <programme start="20241203223000 +0200" stop="20241204000000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
+  </programme>
+  <programme start="20241204000000 +0200" stop="20241204002000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Новини. Прогноза за времето (повторение)</title>
+  </programme>
+  <programme start="20241204002000 +0200" stop="20241204003000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Другата история</title>
+  </programme>
+  <programme start="20241204003000 +0200" stop="20241204013000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Час по България - с водещ проф. Пламен Павлов (повторение)</title>
+  </programme>
+  <programme start="20241204013000 +0200" stop="20241204030000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Ако зажалиш - стари градски песни с Бони Милчева (повторение)</title>
+  </programme>
+  <programme start="20241204030000 +0200" stop="20241204040000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Гледна точка - с Александрина Димитрова (повторение)</title>
+  </programme>
+  <programme start="20241204040000 +0200" stop="20241204053000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Разбулване" (повторение)</title>
+  </programme>
+  <programme start="20241204053000 +0200" stop="20241204063000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Здравословно" с водещ Христо Деянов (повторение)</title>
+  </programme>
+  <programme start="20241204063000 +0200" stop="20241204073000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
+  </programme>
+  <programme start="20241204073000 +0200" stop="20241204080000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204090000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204100000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Ранни вести (избрани предавания)</title>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204103000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Директно за младите... с водещ Росен Цветков</title>
+  </programme>
+  <programme start="20241204103000 +0200" stop="20241204104000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">НОВИНИ - сутрешна емисия</title>
+  </programme>
+  <programme start="20241204104000 +0200" stop="20241204121500 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов</title>
+  </programme>
+  <programme start="20241204121500 +0200" stop="20241204123000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Китка народни песни</title>
+  </programme>
+  <programme start="20241204123000 +0200" stop="20241204124500 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">НОВИНИ - обедна емисия</title>
+  </programme>
+  <programme start="20241204124500 +0200" stop="20241204141500 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Ако зажалиш..." - стари градски песни с Бони Милчева</title>
+  </programme>
+  <programme start="20241204141500 +0200" stop="20241204153000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова (повторение)</title>
+  </programme>
+  <programme start="20241204153000 +0200" stop="20241204160000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204170000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Общество и право" - с водещ адвокат Христиан Митев</title>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204180000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Час по България" (повторение)</title>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204190000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване</title>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204193000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241204193000 +0200" stop="20241204195000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241204195000 +0200" stop="20241204200000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Другата история</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204220000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"От българско, по- българско" - с Галя Асенова</title>
+  </programme>
+  <programme start="20241204220000 +0200" stop="20241204223000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">Късна емисия Новини, Другата история</title>
+  </programme>
+  <programme start="20241204223000 +0200" stop="20241205000000 +0200" channel="crimeinvestigation.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
+  </programme>
   <programme start="20241203005500 +0200" stop="20241203015500 +0200" channel="history.viasat.bg">
     <title>Тайни нацистки бази:Гърнзи: Лудостта с острова на Хитлер. Сезон: 1 Епизод: 1</title>
   </programme>
@@ -28941,6 +30022,270 @@
   <programme start="20241204233700 +0200" stop="20241205000000 +0200" channel="tvt.bg">
     <title>Потопът в Черно море, 1 част - Крайбрежни истории</title>
   </programme>
+  <programme start="20241203053000 +0200" stop="20241203063000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Здравословно" с водещ Христо Деянов (повторение)</title>
+  </programme>
+  <programme start="20241203063000 +0200" stop="20241203073000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
+  </programme>
+  <programme start="20241203073000 +0200" stop="20241203080000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241203080000 +0200" stop="20241203090000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241203090000 +0200" stop="20241203100000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Ранни вести (избрани предавания)</title>
+  </programme>
+  <programme start="20241203100000 +0200" stop="20241203103000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Директно за младите... с водещ Росен Цветков</title>
+  </programme>
+  <programme start="20241203103000 +0200" stop="20241203104000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">НОВИНИ - сутрешна емисия</title>
+  </programme>
+  <programme start="20241203104000 +0200" stop="20241203121500 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов</title>
+  </programme>
+  <programme start="20241203121500 +0200" stop="20241203123000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Китка народни песни</title>
+  </programme>
+  <programme start="20241203123000 +0200" stop="20241203124500 +0200" channel="tv.lovenature.com">
+    <title lang="bg">НОВИНИ - обедна емисия</title>
+  </programme>
+  <programme start="20241203124500 +0200" stop="20241203141500 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Ако зажалиш..." - стари градски песни с Бони Милчева</title>
+  </programme>
+  <programme start="20241203141500 +0200" stop="20241203153000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова (повторение)</title>
+  </programme>
+  <programme start="20241203153000 +0200" stop="20241203160000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203160000 +0200" stop="20241203170000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Общество и право" - с водещ адвокат Христиан Митев</title>
+  </programme>
+  <programme start="20241203170000 +0200" stop="20241203180000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Час по България" (повторение)</title>
+  </programme>
+  <programme start="20241203180000 +0200" stop="20241203190000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване</title>
+  </programme>
+  <programme start="20241203190000 +0200" stop="20241203193000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241203193000 +0200" stop="20241203195000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241203195000 +0200" stop="20241203200000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Другата история</title>
+  </programme>
+  <programme start="20241203200000 +0200" stop="20241203220000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"От българско, по- българско" - с Галя Асенова</title>
+  </programme>
+  <programme start="20241203220000 +0200" stop="20241203223000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Късна емисия Новини, Другата история</title>
+  </programme>
+  <programme start="20241203223000 +0200" stop="20241204000000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
+  </programme>
+  <programme start="20241204000000 +0200" stop="20241204002000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Новини. Прогноза за времето (повторение)</title>
+  </programme>
+  <programme start="20241204002000 +0200" stop="20241204003000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Другата история</title>
+  </programme>
+  <programme start="20241204003000 +0200" stop="20241204013000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Час по България - с водещ проф. Пламен Павлов (повторение)</title>
+  </programme>
+  <programme start="20241204013000 +0200" stop="20241204030000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Ако зажалиш - стари градски песни с Бони Милчева (повторение)</title>
+  </programme>
+  <programme start="20241204030000 +0200" stop="20241204040000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Гледна точка - с Александрина Димитрова (повторение)</title>
+  </programme>
+  <programme start="20241204040000 +0200" stop="20241204053000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Разбулване" (повторение)</title>
+  </programme>
+  <programme start="20241204053000 +0200" stop="20241204063000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Здравословно" с водещ Христо Деянов (повторение)</title>
+  </programme>
+  <programme start="20241204063000 +0200" stop="20241204073000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
+  </programme>
+  <programme start="20241204073000 +0200" stop="20241204080000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204090000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204100000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Ранни вести (избрани предавания)</title>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204103000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Директно за младите... с водещ Росен Цветков</title>
+  </programme>
+  <programme start="20241204103000 +0200" stop="20241204104000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">НОВИНИ - сутрешна емисия</title>
+  </programme>
+  <programme start="20241204104000 +0200" stop="20241204121500 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов</title>
+  </programme>
+  <programme start="20241204121500 +0200" stop="20241204123000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Китка народни песни</title>
+  </programme>
+  <programme start="20241204123000 +0200" stop="20241204124500 +0200" channel="tv.lovenature.com">
+    <title lang="bg">НОВИНИ - обедна емисия</title>
+  </programme>
+  <programme start="20241204124500 +0200" stop="20241204141500 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Ако зажалиш..." - стари градски песни с Бони Милчева</title>
+  </programme>
+  <programme start="20241204141500 +0200" stop="20241204153000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова (повторение)</title>
+  </programme>
+  <programme start="20241204153000 +0200" stop="20241204160000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204170000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Общество и право" - с водещ адвокат Христиан Митев</title>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204180000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Час по България" (повторение)</title>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204190000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване</title>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204193000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241204193000 +0200" stop="20241204195000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241204195000 +0200" stop="20241204200000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Другата история</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204220000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"От българско, по- българско" - с Галя Асенова</title>
+  </programme>
+  <programme start="20241204220000 +0200" stop="20241204223000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">Късна емисия Новини, Другата история</title>
+  </programme>
+  <programme start="20241204223000 +0200" stop="20241205000000 +0200" channel="tv.lovenature.com">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
+  </programme>
+  <programme start="20241203163000 +0200" stop="20241203170000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203170000 +0200" stop="20241203183000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241203183000 +0200" stop="20241203190000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241203190000 +0200" stop="20241203200000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Край Босфора с Любомир Желев (повторение)</title>
+  </programme>
+  <programme start="20241203200000 +0200" stop="20241203203000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203203000 +0200" stop="20241203213000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">"Дискусионно студио" - публицистично предаване с водещ Стоян Иванов</title>
+  </programme>
+  <programme start="20241203213000 +0200" stop="20241203223000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">"Прокудени от бащин край" с водещ Стоян Райчевски</title>
+  </programme>
+  <programme start="20241203223000 +0200" stop="20241203230000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Късна емисия Новини</title>
+  </programme>
+  <programme start="20241203230000 +0200" stop="20241204000000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване (повторение)</title>
+  </programme>
+  <programme start="20241204000000 +0200" stop="20241204003000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Късни Новини. Прогноза за времето</title>
+  </programme>
+  <programme start="20241204003000 +0200" stop="20241204013000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241204013000 +0200" stop="20241204030000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
+  </programme>
+  <programme start="20241204030000 +0200" stop="20241204033000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">"Старият албум" разказите на Михаил Топалов (архив)</title>
+  </programme>
+  <programme start="20241204033000 +0200" stop="20241204040000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241204040000 +0200" stop="20241204050000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">"Нови хоризонти" (повторение)</title>
+  </programme>
+  <programme start="20241204050000 +0200" stop="20241204053000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Документален филм / музика</title>
+  </programme>
+  <programme start="20241204053000 +0200" stop="20241204063000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">"Прокудени от бащин край" (повторение)</title>
+  </programme>
+  <programme start="20241204063000 +0200" stop="20241204073000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
+  </programme>
+  <programme start="20241204073000 +0200" stop="20241204080000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204090000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Дискусионно студио (повторение)</title>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204100000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Ранни вести (избрани предавания)</title>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204103000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Директно за младите... - (повторение)</title>
+  </programme>
+  <programme start="20241204103000 +0200" stop="20241204111500 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Съгласен ли си (повторение)</title>
+  </programme>
+  <programme start="20241204111500 +0200" stop="20241204120000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Старият албум - разказите на Михаил Топалов</title>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204123000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Прокудени от бащин край - 1 част (повторение)</title>
+  </programme>
+  <programme start="20241204123000 +0200" stop="20241204124000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">НОВИНИ - обедна емисия</title>
+  </programme>
+  <programme start="20241204124000 +0200" stop="20241204130000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Прокудени от бащин край - 2 част (повторение)</title>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204140000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204160000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">"От българско, по-българско" (повторение)</title>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204170000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">"Общество и право" (повторение)</title>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204183000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241204183000 +0200" stop="20241204190000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204200000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">"Прокудени от бащин край ..." с водещ Стоян Райчевски (повторение)</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204203000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241204203000 +0200" stop="20241204213000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Дискусионно студио" - публицистично предаване с водещ Стоян Иванов</title>
+  </programme>
+  <programme start="20241204213000 +0200" stop="20241204223000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова</title>
+  </programme>
+  <programme start="20241204223000 +0200" stop="20241204230000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">Късна емисия Новини</title>
+  </programme>
+  <programme start="20241204230000 +0200" stop="20241205000000 +0200" channel="vidimoinevidimo.bg">
+    <title lang="bg">"Чист живот" - предаване за зависимости (повторение)</title>
+  </programme>
   <programme start="20241203040000 +0200" stop="20241203043000 +0200" channel="fashion.tv">
     <title>Swimwear</title>
   </programme>
@@ -32018,6 +33363,120 @@
   </programme>
   <programme start="20241204234500 +0200" stop="20241205004000 +0200" channel="nick.tv">
     <title lang="bg">Барбароните - Това е невероятното завръщане на най-забавното семейство на света!Барбароните! За тях всеки следващ ден е ново и неповторимо...</title>
+  </programme>
+  <programme start="20241203163000 +0200" stop="20241203170000 +0200" channel="jimjam.tv">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203170000 +0200" stop="20241203183000 +0200" channel="jimjam.tv">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241203183000 +0200" stop="20241203190000 +0200" channel="jimjam.tv">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241203190000 +0200" stop="20241203200000 +0200" channel="jimjam.tv">
+    <title lang="bg">Край Босфора с Любомир Желев (повторение)</title>
+  </programme>
+  <programme start="20241203200000 +0200" stop="20241203203000 +0200" channel="jimjam.tv">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241203203000 +0200" stop="20241203213000 +0200" channel="jimjam.tv">
+    <title lang="bg">"Дискусионно студио" - публицистично предаване с водещ Стоян Иванов</title>
+  </programme>
+  <programme start="20241203213000 +0200" stop="20241203223000 +0200" channel="jimjam.tv">
+    <title lang="bg">"Прокудени от бащин край" с водещ Стоян Райчевски</title>
+  </programme>
+  <programme start="20241203223000 +0200" stop="20241203230000 +0200" channel="jimjam.tv">
+    <title lang="bg">Късна емисия Новини</title>
+  </programme>
+  <programme start="20241203230000 +0200" stop="20241204000000 +0200" channel="jimjam.tv">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване (повторение)</title>
+  </programme>
+  <programme start="20241204000000 +0200" stop="20241204003000 +0200" channel="jimjam.tv">
+    <title lang="bg">Късни Новини. Прогноза за времето</title>
+  </programme>
+  <programme start="20241204003000 +0200" stop="20241204013000 +0200" channel="jimjam.tv">
+    <title lang="bg">Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241204013000 +0200" stop="20241204030000 +0200" channel="jimjam.tv">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
+  </programme>
+  <programme start="20241204030000 +0200" stop="20241204033000 +0200" channel="jimjam.tv">
+    <title lang="bg">"Старият албум" разказите на Михаил Топалов (архив)</title>
+  </programme>
+  <programme start="20241204033000 +0200" stop="20241204040000 +0200" channel="jimjam.tv">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241204040000 +0200" stop="20241204050000 +0200" channel="jimjam.tv">
+    <title lang="bg">"Нови хоризонти" (повторение)</title>
+  </programme>
+  <programme start="20241204050000 +0200" stop="20241204053000 +0200" channel="jimjam.tv">
+    <title lang="bg">Документален филм / музика</title>
+  </programme>
+  <programme start="20241204053000 +0200" stop="20241204063000 +0200" channel="jimjam.tv">
+    <title lang="bg">"Прокудени от бащин край" (повторение)</title>
+  </programme>
+  <programme start="20241204063000 +0200" stop="20241204073000 +0200" channel="jimjam.tv">
+    <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
+  </programme>
+  <programme start="20241204073000 +0200" stop="20241204080000 +0200" channel="jimjam.tv">
+    <title lang="bg">Новини</title>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204090000 +0200" channel="jimjam.tv">
+    <title lang="bg">Дискусионно студио (повторение)</title>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204100000 +0200" channel="jimjam.tv">
+    <title lang="bg">Ранни вести (избрани предавания)</title>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204103000 +0200" channel="jimjam.tv">
+    <title lang="bg">Директно за младите... - (повторение)</title>
+  </programme>
+  <programme start="20241204103000 +0200" stop="20241204111500 +0200" channel="jimjam.tv">
+    <title lang="bg">Съгласен ли си (повторение)</title>
+  </programme>
+  <programme start="20241204111500 +0200" stop="20241204120000 +0200" channel="jimjam.tv">
+    <title lang="bg">Старият албум - разказите на Михаил Топалов</title>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204123000 +0200" channel="jimjam.tv">
+    <title lang="bg">Прокудени от бащин край - 1 част (повторение)</title>
+  </programme>
+  <programme start="20241204123000 +0200" stop="20241204124000 +0200" channel="jimjam.tv">
+    <title lang="bg">НОВИНИ - обедна емисия</title>
+  </programme>
+  <programme start="20241204124000 +0200" stop="20241204130000 +0200" channel="jimjam.tv">
+    <title lang="bg">Прокудени от бащин край - 2 част (повторение)</title>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204140000 +0200" channel="jimjam.tv">
+    <title lang="bg">Дискусионно студио" (повторение)</title>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204160000 +0200" channel="jimjam.tv">
+    <title lang="bg">"От българско, по-българско" (повторение)</title>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204170000 +0200" channel="jimjam.tv">
+    <title lang="bg">"Общество и право" (повторение)</title>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204183000 +0200" channel="jimjam.tv">
+    <title lang="bg">Фолклорни ритми</title>
+  </programme>
+  <programme start="20241204183000 +0200" stop="20241204190000 +0200" channel="jimjam.tv">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204200000 +0200" channel="jimjam.tv">
+    <title lang="bg">"Прокудени от бащин край ..." с водещ Стоян Райчевски (повторение)</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204203000 +0200" channel="jimjam.tv">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20241204203000 +0200" stop="20241204213000 +0200" channel="jimjam.tv">
+    <title lang="bg">Дискусионно студио" - публицистично предаване с водещ Стоян Иванов</title>
+  </programme>
+  <programme start="20241204213000 +0200" stop="20241204223000 +0200" channel="jimjam.tv">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова</title>
+  </programme>
+  <programme start="20241204223000 +0200" stop="20241204230000 +0200" channel="jimjam.tv">
+    <title lang="bg">Късна емисия Новини</title>
+  </programme>
+  <programme start="20241204230000 +0200" stop="20241205000000 +0200" channel="jimjam.tv">
+    <title lang="bg">"Чист живот" - предаване за зависимости (повторение)</title>
   </programme>
   <programme start="20241203073000 +0200" stop="20241203080000 +0200" channel="ekids.bg">
     <title lang="bg">Маша и Мечока - анимационен сериал</title>
@@ -45099,7 +46558,13 @@
   <programme start="20241203180000 +0200" stop="20241203204500 +0200" channel="cnnturk.tr">
     <title>Ana Haber</title>
   </programme>
-  <programme start="20241203204500 +0200" channel="cnnturk.tr">
+  <programme start="20241203204500 +0200" stop="20241203110000 +0200" channel="cnnturk.tr">
+    <title>Ne Oluyor?</title>
+  </programme>
+  <programme start="20241203110000 +0200" stop="20241203194500 +0200" channel="cnnturk.tr">
+    <title>Gün Ortası</title>
+  </programme>
+  <programme start="20241203194500 +0200" channel="cnnturk.tr">
     <title>Ne Oluyor?</title>
   </programme>
   <programme start="20241203011500 +0200" stop="20241203035000 +0200" channel="kanal7.tr">
