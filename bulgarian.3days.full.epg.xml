@@ -63,6 +63,10 @@
     <display-name lang="en">Code Health</display-name>
     <display-name lang="en">Code Health HD</display-name>
   </channel>
+  <channel id="codefashion.bg">
+    <display-name lang="en">Code Fashion</display-name>
+    <display-name lang="en">Code Fashion HD</display-name>
+  </channel>
   <channel id="skat.bg">
     <display-name lang="bg">Скат</display-name>
     <display-name lang="bg">СКАТ</display-name>
@@ -3066,6 +3070,108 @@
     <title>ФБР – сериал, сезон 1</title>
     <desc>Елитният отряд на нюйоркския офис на ФБР използва всички свои таланти, интелект и технически умения при разплитането на сериозни случаи, за да може Ню Йорк и страната да са сигурно място.</desc>
   </programme>
+  <programme start="20241203054500 +0200" stop="20241203061500 +0200" channel="bgonair.bg">
+    <title>Колела - автомобилно предаване с Константин Томов /п./</title>
+  </programme>
+  <programme start="20241203061500 +0200" stop="20241203071500 +0200" channel="bgonair.bg">
+    <title>Опорни хора - изповедите на значимите за обществото пред Ганиела Ангелова /п./</title>
+  </programme>
+  <programme start="20241203071500 +0200" stop="20241203080000 +0200" channel="bgonair.bg">
+    <title>Денят ON AIR - новините с коментар с Ганиела Ангелова /п./</title>
+  </programme>
+  <programme start="20241203080000 +0200" stop="20241203081500 +0200" channel="bgonair.bg">
+    <title>Телепазарен прозорец</title>
+  </programme>
+  <programme start="20241203081500 +0200" stop="20241203091500 +0200" channel="bgonair.bg">
+    <title>Брюксел 1 - предаване за българските теми в европейския дневен ред с Милена Милотинова /п./</title>
+  </programme>
+  <programme start="20241203091500 +0200" stop="20241203093000 +0200" channel="bgonair.bg">
+    <title>Телепазарен прозорец</title>
+  </programme>
+  <programme start="20241203093000 +0200" stop="20241203113000 +0200" channel="bgonair.bg">
+    <title>България сутрин - важните неща рано сутрин с Мария Константинова и Виктор Дремсизов</title>
+  </programme>
+  <programme start="20241203113000 +0200" stop="20241203114500 +0200" channel="bgonair.bg">
+    <title>Телепазарен прозорец</title>
+  </programme>
+  <programme start="20241203114500 +0200" stop="20241203124500 +0200" channel="bgonair.bg">
+    <title>Червената планета - док.филм</title>
+  </programme>
+  <programme start="20241203124500 +0200" stop="20241203130000 +0200" channel="bgonair.bg">
+    <title>Телепазарен прозорец</title>
+  </programme>
+  <programme start="20241203130000 +0200" stop="20241203133000 +0200" channel="bgonair.bg">
+    <title>Питай доктора - док.филм</title>
+  </programme>
+  <programme start="20241203133000 +0200" stop="20241203140000 +0200" channel="bgonair.bg">
+    <title>Новините ON AIR</title>
+  </programme>
+  <programme start="20241203140000 +0200" stop="20241203141500 +0200" channel="bgonair.bg">
+    <title>Телепазарен прозорец</title>
+  </programme>
+  <programme start="20241203141500 +0200" stop="20241203144500 +0200" channel="bgonair.bg">
+    <title>Операция "Тяхната История" - предаване с Росен Петров /п./</title>
+  </programme>
+  <programme start="20241203144500 +0200" stop="20241203151500 +0200" channel="bgonair.bg">
+    <title>Историите ON AIR с Миглена Георгиева</title>
+  </programme>
+  <programme start="20241203151500 +0200" stop="20241203153000 +0200" channel="bgonair.bg">
+    <title>Телепазарен прозорец</title>
+  </programme>
+  <programme start="20241203153000 +0200" stop="20241203154500 +0200" channel="bgonair.bg">
+    <title>Новините ON AIR</title>
+  </programme>
+  <programme start="20241203154500 +0200" stop="20241203160000 +0200" channel="bgonair.bg">
+    <title>Телепазарен прозорец</title>
+  </programme>
+  <programme start="20241203160000 +0200" stop="20241203163000 +0200" channel="bgonair.bg">
+    <title>Промяната - док. Филм на DW</title>
+  </programme>
+  <programme start="20241203163000 +0200" stop="20241203165000 +0200" channel="bgonair.bg">
+    <title>Великите - док.филм</title>
+  </programme>
+  <programme start="20241203165000 +0200" stop="20241203175000 +0200" channel="bgonair.bg">
+    <title>Money.bg - икономиката, която ни засяга с Георги Минев /п./</title>
+  </programme>
+  <programme start="20241203175000 +0200" stop="20241203183000 +0200" channel="bgonair.bg">
+    <title>Директно - актуално ток шоу с Димитър Абрашев</title>
+  </programme>
+  <programme start="20241203183000 +0200" stop="20241203191500 +0200" channel="bgonair.bg">
+    <title>Новините ON AIR</title>
+  </programme>
+  <programme start="20241203191500 +0200" stop="20241203203000 +0200" channel="bgonair.bg">
+    <title>Денят ON AIR - новините с коментар с Ганиела Ангелова</title>
+  </programme>
+  <programme start="20241203203000 +0200" stop="20241203213000 +0200" channel="bgonair.bg">
+    <title>Отдел "Загадки" - сериал, драма</title>
+  </programme>
+  <programme start="20241203213000 +0200" stop="20241203220000 +0200" channel="bgonair.bg">
+    <title>Новините ON AIR</title>
+  </programme>
+  <programme start="20241203220000 +0200" stop="20241203230000 +0200" channel="bgonair.bg">
+    <title>Операция История - предаване с Росен Петров /п./</title>
+  </programme>
+  <programme start="20241203230000 +0200" stop="20241204001000 +0200" channel="bgonair.bg">
+    <title>Денят ON AIR - новините с коментар с Ганиела Ангелова /п./</title>
+  </programme>
+  <programme start="20241204001000 +0200" stop="20241204003000 +0200" channel="bgonair.bg">
+    <title>Новините ON AIR /п./</title>
+  </programme>
+  <programme start="20241204003000 +0200" stop="20241204010000 +0200" channel="bgonair.bg">
+    <title>Директно - актуално ток шоу с Димитър Абрашев /п./</title>
+  </programme>
+  <programme start="20241204010000 +0200" stop="20241204030000 +0200" channel="bgonair.bg">
+    <title>България сутрин - важните неща рано сутрин с Мария Константинова и Виктор Дремсизов /п./</title>
+  </programme>
+  <programme start="20241204030000 +0200" stop="20241204033000 +0200" channel="bgonair.bg">
+    <title>Новините ON AIR /п./</title>
+  </programme>
+  <programme start="20241204033000 +0200" stop="20241204043000 +0200" channel="bgonair.bg">
+    <title>Опорни хора - изповедите на значимите за обществото пред Ганиела Ангелова /п./</title>
+  </programme>
+  <programme start="20241204043000 +0200" channel="bgonair.bg">
+    <title>Завърналите се с Петя Кертикова /п./</title>
+  </programme>
   <programme start="20241203000000 +0200" stop="20241203005000 +0200" channel="codehealth.bg">
     <title>Парамедици - 7 епизод, 3 сезон (повторение)</title>
     <desc>Австралийски риалити сериал за Парамедици, който спасяват живот в надпревара с времето.</desc>
@@ -3205,6 +3311,495 @@
   <programme start="20241203234500 +0200" channel="codehealth.bg">
     <title>Здравни рубрики</title>
     <desc>Рубрики, в които показваме специалисти, които споделят своя опит, клиники, естетични и козметични процедури, както и разработването и внедряването на иновативни технологии в медицината.</desc>
+  </programme>
+  <programme start="20241203000000 +0200" stop="20241203020000 +0200" channel="codefashion.bg">
+    <title>Fashion Events Night</title>
+    <desc>Предавания стари сезони, ревюта, награди, репортажи, събития</desc>
+  </programme>
+  <programme start="20241203020000 +0200" stop="20241203033000 +0200" channel="codefashion.bg">
+    <title>Fashion Show Night</title>
+    <desc>Ревюта и модни тенденции от последните сезони</desc>
+  </programme>
+  <programme start="20241203033000 +0200" stop="20241203050000 +0200" channel="codefashion.bg">
+    <title>Fashion Report</title>
+    <desc>Модни репортажи от събития</desc>
+  </programme>
+  <programme start="20241203050000 +0200" stop="20241203063000 +0200" channel="codefashion.bg">
+    <title>Fashion Catwalk</title>
+    <desc>Ревюта и модни тенденции от последните сезони</desc>
+  </programme>
+  <programme start="20241203063000 +0200" stop="20241203074500 +0200" channel="codefashion.bg">
+    <title>Fashion Report</title>
+    <desc>Code Fashion TV отразява светски, модни и лайфстайл събития.</desc>
+  </programme>
+  <programme start="20241203074500 +0200" stop="20241203233000 +0200" channel="codefashion.bg">
+    <title>Fashion Lifesyle с Джуджи – (повторение)</title>
+  </programme>
+  <programme start="20241203233000 +0200" channel="codefashion.bg">
+    <title>Fashion Party</title>
+    <desc>В студиото на Code Fashion TV при телевизионната водеща Джуджи ще гостуват популярни личности.</desc>
+  </programme>
+  <programme start="20241203061500 +0200" stop="20241203070000 +0200" channel="alfatv.bg">
+    <title>"Часът на пенсионера"</title>
+  </programme>
+  <programme start="20241203070000 +0200" stop="20241203073000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203073000 +0200" stop="20241203080000 +0200" channel="alfatv.bg">
+    <title>Документален филм</title>
+  </programme>
+  <programme start="20241203080000 +0200" stop="20241203081000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203081000 +0200" stop="20241203090000 +0200" channel="alfatv.bg">
+    <title>Архивите на Алфа</title>
+  </programme>
+  <programme start="20241203090000 +0200" stop="20241203100000 +0200" channel="alfatv.bg">
+    <title>"Добро утро, българи"</title>
+  </programme>
+  <programme start="20241203100000 +0200" stop="20241203103000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203103000 +0200" stop="20241203104500 +0200" channel="alfatv.bg">
+    <title>Актуално</title>
+  </programme>
+  <programme start="20241203104500 +0200" stop="20241203110000 +0200" channel="alfatv.bg">
+    <title>Телепазар</title>
+  </programme>
+  <programme start="20241203110000 +0200" stop="20241203113000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203113000 +0200" stop="20241203114500 +0200" channel="alfatv.bg">
+    <title>Актуално</title>
+  </programme>
+  <programme start="20241203114500 +0200" stop="20241203120000 +0200" channel="alfatv.bg">
+    <title>Телепазар</title>
+  </programme>
+  <programme start="20241203120000 +0200" stop="20241203124500 +0200" channel="alfatv.bg">
+    <title>"Новините в 12"</title>
+  </programme>
+  <programme start="20241203124500 +0200" stop="20241203130000 +0200" channel="alfatv.bg">
+    <title>Телепазар</title>
+  </programme>
+  <programme start="20241203130000 +0200" stop="20241203133000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203133000 +0200" stop="20241203134500 +0200" channel="alfatv.bg">
+    <title>Актуално</title>
+  </programme>
+  <programme start="20241203134500 +0200" stop="20241203140000 +0200" channel="alfatv.bg">
+    <title>Телепазар</title>
+  </programme>
+  <programme start="20241203140000 +0200" stop="20241203143000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203143000 +0200" stop="20241203150000 +0200" channel="alfatv.bg">
+    <title>Актуално</title>
+  </programme>
+  <programme start="20241203150000 +0200" stop="20241203153000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203153000 +0200" stop="20241203154500 +0200" channel="alfatv.bg">
+    <title>Актуално</title>
+  </programme>
+  <programme start="20241203154500 +0200" stop="20241203160000 +0200" channel="alfatv.bg">
+    <title>Телепазар</title>
+  </programme>
+  <programme start="20241203160000 +0200" stop="20241203163000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203163000 +0200" stop="20241203170000 +0200" channel="alfatv.bg">
+    <title>Актуално</title>
+  </programme>
+  <programme start="20241203170000 +0200" stop="20241203171000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203171000 +0200" stop="20241203172500 +0200" channel="alfatv.bg">
+    <title>Телепазар</title>
+  </programme>
+  <programme start="20241203172500 +0200" stop="20241203180000 +0200" channel="alfatv.bg">
+    <title>Актуално</title>
+  </programme>
+  <programme start="20241203180000 +0200" stop="20241203183000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203183000 +0200" stop="20241203190000 +0200" channel="alfatv.bg">
+    <title>Актуално</title>
+  </programme>
+  <programme start="20241203190000 +0200" stop="20241203193000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203193000 +0200" stop="20241203200000 +0200" channel="alfatv.bg">
+    <title>Актуално</title>
+  </programme>
+  <programme start="20241203200000 +0200" stop="20241203203000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203203000 +0200" stop="20241203210000 +0200" channel="alfatv.bg">
+    <title>Актуално</title>
+  </programme>
+  <programme start="20241203210000 +0200" stop="20241203213000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203213000 +0200" stop="20241203220000 +0200" channel="alfatv.bg">
+    <title>Актуално</title>
+  </programme>
+  <programme start="20241203220000 +0200" stop="20241203223000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203223000 +0200" stop="20241203230000 +0200" channel="alfatv.bg">
+    <title>Актуално</title>
+  </programme>
+  <programme start="20241203230000 +0200" stop="20241203233000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203233000 +0200" stop="20241204000000 +0200" channel="alfatv.bg">
+    <title>Актуално</title>
+  </programme>
+  <programme start="20241204000000 +0200" stop="20241204003000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241204003000 +0200" stop="20241204010000 +0200" channel="alfatv.bg">
+    <title>Актуално</title>
+  </programme>
+  <programme start="20241204010000 +0200" stop="20241204013000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241204013000 +0200" stop="20241204020000 +0200" channel="alfatv.bg">
+    <title>Документален филм</title>
+  </programme>
+  <programme start="20241204020000 +0200" stop="20241204022000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241204022000 +0200" stop="20241204030000 +0200" channel="alfatv.bg">
+    <title>Актуално</title>
+  </programme>
+  <programme start="20241204030000 +0200" stop="20241204032000 +0200" channel="alfatv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241204032000 +0200" channel="alfatv.bg">
+    <title>Архивите на Алфа</title>
+  </programme>
+  <programme start="20241203052500 +0200" stop="20241203053000 +0200" channel="agrotv.bg">
+    <title>Борсова информация</title>
+  </programme>
+  <programme start="20241203053000 +0200" stop="20241203053500 +0200" channel="agrotv.bg">
+    <title>Агрокоментар</title>
+  </programme>
+  <programme start="20241203053500 +0200" stop="20241203054500 +0200" channel="agrotv.bg">
+    <title>Агротема</title>
+  </programme>
+  <programme start="20241203054500 +0200" stop="20241203055000 +0200" channel="agrotv.bg">
+    <title>История на храните - п.</title>
+  </programme>
+  <programme start="20241203055000 +0200" stop="20241203060000 +0200" channel="agrotv.bg">
+    <title>Музикална пауза</title>
+  </programme>
+  <programme start="20241203060000 +0200" stop="20241203061000 +0200" channel="agrotv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203061000 +0200" stop="20241203064000 +0200" channel="agrotv.bg">
+    <title>Зоологика - п</title>
+  </programme>
+  <programme start="20241203064000 +0200" stop="20241203064500 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето</title>
+  </programme>
+  <programme start="20241203064500 +0200" stop="20241203065000 +0200" channel="agrotv.bg">
+    <title>История на храните</title>
+  </programme>
+  <programme start="20241203065000 +0200" stop="20241203070000 +0200" channel="agrotv.bg">
+    <title>Музикална пауза</title>
+  </programme>
+  <programme start="20241203070000 +0200" stop="20241203071000 +0200" channel="agrotv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203071000 +0200" stop="20241203071500 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето и агропрогноза</title>
+  </programme>
+  <programme start="20241203071500 +0200" stop="20241203072000 +0200" channel="agrotv.bg">
+    <title>Агрокоментар</title>
+  </programme>
+  <programme start="20241203072000 +0200" stop="20241203073000 +0200" channel="agrotv.bg">
+    <title>Агротема</title>
+  </programme>
+  <programme start="20241203073000 +0200" stop="20241203080000 +0200" channel="agrotv.bg">
+    <title>Агрофорум - повт.</title>
+  </programme>
+  <programme start="20241203080000 +0200" stop="20241203081000 +0200" channel="agrotv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203081000 +0200" stop="20241203081500 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето и агропрогноза</title>
+  </programme>
+  <programme start="20241203081500 +0200" stop="20241203082000 +0200" channel="agrotv.bg">
+    <title>Борсова информация</title>
+  </programme>
+  <programme start="20241203082000 +0200" stop="20241203083000 +0200" channel="agrotv.bg">
+    <title>Агротема</title>
+  </programme>
+  <programme start="20241203083000 +0200" stop="20241203090000 +0200" channel="agrotv.bg">
+    <title>Ключът към успеха - Агрозона - повт.</title>
+  </programme>
+  <programme start="20241203090000 +0200" stop="20241203091500 +0200" channel="agrotv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203091500 +0200" stop="20241203092000 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето и агропрогноза</title>
+  </programme>
+  <programme start="20241203092000 +0200" stop="20241203092500 +0200" channel="agrotv.bg">
+    <title>Борсова информация</title>
+  </programme>
+  <programme start="20241203092500 +0200" stop="20241203093500 +0200" channel="agrotv.bg">
+    <title>Агротема</title>
+  </programme>
+  <programme start="20241203093500 +0200" stop="20241203094000 +0200" channel="agrotv.bg">
+    <title>История на храните - повт.</title>
+  </programme>
+  <programme start="20241203094000 +0200" stop="20241203100000 +0200" channel="agrotv.bg">
+    <title>Агромаркет</title>
+  </programme>
+  <programme start="20241203100000 +0200" stop="20241203101000 +0200" channel="agrotv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203101000 +0200" stop="20241203101500 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето и агропрогноза</title>
+  </programme>
+  <programme start="20241203101500 +0200" stop="20241203102000 +0200" channel="agrotv.bg">
+    <title>Борсова информация</title>
+  </programme>
+  <programme start="20241203102000 +0200" stop="20241203103000 +0200" channel="agrotv.bg">
+    <title>Агротема</title>
+  </programme>
+  <programme start="20241203103000 +0200" stop="20241203110000 +0200" channel="agrotv.bg">
+    <title>Агрофорум - повт.</title>
+  </programme>
+  <programme start="20241203110000 +0200" stop="20241203111500 +0200" channel="agrotv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203111500 +0200" stop="20241203112500 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето и агропрогноза</title>
+  </programme>
+  <programme start="20241203112500 +0200" stop="20241203113000 +0200" channel="agrotv.bg">
+    <title>Борсова информация</title>
+  </programme>
+  <programme start="20241203113000 +0200" stop="20241203113500 +0200" channel="agrotv.bg">
+    <title>Агрокоментар</title>
+  </programme>
+  <programme start="20241203113500 +0200" stop="20241203115000 +0200" channel="agrotv.bg">
+    <title>Агротема</title>
+  </programme>
+  <programme start="20241203115000 +0200" stop="20241203115500 +0200" channel="agrotv.bg">
+    <title>История на храните - повт.</title>
+  </programme>
+  <programme start="20241203115500 +0200" stop="20241203120000 +0200" channel="agrotv.bg">
+    <title>Музикална пауза</title>
+  </programme>
+  <programme start="20241203120000 +0200" stop="20241203121500 +0200" channel="agrotv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203121500 +0200" stop="20241203122500 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето и агропрогноза</title>
+  </programme>
+  <programme start="20241203122500 +0200" stop="20241203123000 +0200" channel="agrotv.bg">
+    <title>Борсова информация</title>
+  </programme>
+  <programme start="20241203123000 +0200" stop="20241203123500 +0200" channel="agrotv.bg">
+    <title>Агрокоментар</title>
+  </programme>
+  <programme start="20241203123500 +0200" stop="20241203124500 +0200" channel="agrotv.bg">
+    <title>Агротема</title>
+  </programme>
+  <programme start="20241203124500 +0200" stop="20241203125000 +0200" channel="agrotv.bg">
+    <title>История на храните - повт.</title>
+  </programme>
+  <programme start="20241203125000 +0200" stop="20241203130000 +0200" channel="agrotv.bg">
+    <title>Музикална пауза</title>
+  </programme>
+  <programme start="20241203130000 +0200" stop="20241203131500 +0200" channel="agrotv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203131500 +0200" stop="20241203132500 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето и агропрогноза</title>
+  </programme>
+  <programme start="20241203132500 +0200" stop="20241203133000 +0200" channel="agrotv.bg">
+    <title>Борсова информация</title>
+  </programme>
+  <programme start="20241203133000 +0200" stop="20241203133500 +0200" channel="agrotv.bg">
+    <title>Агрокоментар</title>
+  </programme>
+  <programme start="20241203133500 +0200" stop="20241203134500 +0200" channel="agrotv.bg">
+    <title>Агротема</title>
+  </programme>
+  <programme start="20241203134500 +0200" stop="20241203135000 +0200" channel="agrotv.bg">
+    <title>История на храните - повт.</title>
+  </programme>
+  <programme start="20241203135000 +0200" stop="20241203140000 +0200" channel="agrotv.bg">
+    <title>Музикална пауза</title>
+  </programme>
+  <programme start="20241203140000 +0200" stop="20241203141500 +0200" channel="agrotv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203141500 +0200" stop="20241203142500 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето и агропрогноза</title>
+  </programme>
+  <programme start="20241203142500 +0200" stop="20241203143000 +0200" channel="agrotv.bg">
+    <title>Борсова информация</title>
+  </programme>
+  <programme start="20241203143000 +0200" stop="20241203143500 +0200" channel="agrotv.bg">
+    <title>Агрокоментар</title>
+  </programme>
+  <programme start="20241203143500 +0200" stop="20241203145000 +0200" channel="agrotv.bg">
+    <title>Агротема</title>
+  </programme>
+  <programme start="20241203145000 +0200" stop="20241203145500 +0200" channel="agrotv.bg">
+    <title>История на храните - повт.</title>
+  </programme>
+  <programme start="20241203145500 +0200" stop="20241203150000 +0200" channel="agrotv.bg">
+    <title>Музикална пауза</title>
+  </programme>
+  <programme start="20241203150000 +0200" stop="20241203151000 +0200" channel="agrotv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203151000 +0200" stop="20241203155000 +0200" channel="agrotv.bg">
+    <title>БРЮКСЕЛ В ПРЕВОД - повторение</title>
+  </programme>
+  <programme start="20241203155000 +0200" stop="20241203155500 +0200" channel="agrotv.bg">
+    <title>История на храните - повт.</title>
+  </programme>
+  <programme start="20241203155500 +0200" stop="20241203160000 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето и агропрогноза</title>
+  </programme>
+  <programme start="20241203160000 +0200" stop="20241203161000 +0200" channel="agrotv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203161000 +0200" stop="20241203161500 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето и агропрогноза</title>
+  </programme>
+  <programme start="20241203161500 +0200" stop="20241203162000 +0200" channel="agrotv.bg">
+    <title>Агрокоментар</title>
+  </programme>
+  <programme start="20241203162000 +0200" stop="20241203163000 +0200" channel="agrotv.bg">
+    <title>Агротема</title>
+  </programme>
+  <programme start="20241203163000 +0200" stop="20241203170000 +0200" channel="agrotv.bg">
+    <title>Агрофорум - повт.</title>
+  </programme>
+  <programme start="20241203170000 +0200" stop="20241203171000 +0200" channel="agrotv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203171000 +0200" stop="20241203171500 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето и агропрогноза</title>
+  </programme>
+  <programme start="20241203171500 +0200" stop="20241203172000 +0200" channel="agrotv.bg">
+    <title>Борсова информация</title>
+  </programme>
+  <programme start="20241203172000 +0200" stop="20241203173000 +0200" channel="agrotv.bg">
+    <title>Агротема</title>
+  </programme>
+  <programme start="20241203173000 +0200" stop="20241203173500 +0200" channel="agrotv.bg">
+    <title>История на храните - повт.</title>
+  </programme>
+  <programme start="20241203173500 +0200" stop="20241203180000 +0200" channel="agrotv.bg">
+    <title>Агромаркет</title>
+  </programme>
+  <programme start="20241203180000 +0200" stop="20241203182500 +0200" channel="agrotv.bg">
+    <title>Ранна емисия новини</title>
+  </programme>
+  <programme start="20241203182500 +0200" stop="20241203183500 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето и агропрогноза</title>
+  </programme>
+  <programme start="20241203183500 +0200" stop="20241203184000 +0200" channel="agrotv.bg">
+    <title>Борсова информация</title>
+  </programme>
+  <programme start="20241203184000 +0200" stop="20241203184500 +0200" channel="agrotv.bg">
+    <title>Агрокоментар</title>
+  </programme>
+  <programme start="20241203184500 +0200" stop="20241203185500 +0200" channel="agrotv.bg">
+    <title>Агротема</title>
+  </programme>
+  <programme start="20241203185500 +0200" stop="20241203190000 +0200" channel="agrotv.bg">
+    <title>История на храните - повт.</title>
+  </programme>
+  <programme start="20241203190000 +0200" stop="20241203191000 +0200" channel="agrotv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203191000 +0200" stop="20241203191500 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето и агропрогноза</title>
+  </programme>
+  <programme start="20241203191500 +0200" stop="20241203192000 +0200" channel="agrotv.bg">
+    <title>Борсова информация</title>
+  </programme>
+  <programme start="20241203192000 +0200" stop="20241203192500 +0200" channel="agrotv.bg">
+    <title>Агрокоментар</title>
+  </programme>
+  <programme start="20241203192500 +0200" stop="20241203194000 +0200" channel="agrotv.bg">
+    <title>Агротема</title>
+  </programme>
+  <programme start="20241203194000 +0200" stop="20241203200000 +0200" channel="agrotv.bg">
+    <title>Агромаркет</title>
+  </programme>
+  <programme start="20241203200000 +0200" stop="20241203200500 +0200" channel="agrotv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203200500 +0200" stop="20241203201000 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето и агропрогноза</title>
+  </programme>
+  <programme start="20241203201000 +0200" stop="20241203201500 +0200" channel="agrotv.bg">
+    <title>Агрокоментар</title>
+  </programme>
+  <programme start="20241203201500 +0200" stop="20241203203000 +0200" channel="agrotv.bg">
+    <title>Агротема</title>
+  </programme>
+  <programme start="20241203203000 +0200" stop="20241203210000 +0200" channel="agrotv.bg">
+    <title>Централна емисия новини</title>
+  </programme>
+  <programme start="20241203210000 +0200" stop="20241203211000 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето и агропрогноза</title>
+  </programme>
+  <programme start="20241203211000 +0200" stop="20241203211500 +0200" channel="agrotv.bg">
+    <title>Борсова информация</title>
+  </programme>
+  <programme start="20241203211500 +0200" stop="20241203212000 +0200" channel="agrotv.bg">
+    <title>Агрокоментар</title>
+  </programme>
+  <programme start="20241203212000 +0200" stop="20241203213000 +0200" channel="agrotv.bg">
+    <title>Агротема</title>
+  </programme>
+  <programme start="20241203213000 +0200" stop="20241203215000 +0200" channel="agrotv.bg">
+    <title>Телепазарен прозорец - Бизнес новини</title>
+  </programme>
+  <programme start="20241203215000 +0200" stop="20241203220000 +0200" channel="agrotv.bg">
+    <title>История на храните</title>
+  </programme>
+  <programme start="20241203220000 +0200" stop="20241203220500 +0200" channel="agrotv.bg">
+    <title>Новини</title>
+  </programme>
+  <programme start="20241203220500 +0200" stop="20241203221000 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето и агропрогноза</title>
+  </programme>
+  <programme start="20241203221000 +0200" stop="20241203221500 +0200" channel="agrotv.bg">
+    <title>Борсова информация</title>
+  </programme>
+  <programme start="20241203221500 +0200" stop="20241203223000 +0200" channel="agrotv.bg">
+    <title>Агротема</title>
+  </programme>
+  <programme start="20241203223000 +0200" stop="20241203230000 +0200" channel="agrotv.bg">
+    <title>Късна емисия новини</title>
+  </programme>
+  <programme start="20241203230000 +0200" stop="20241203231000 +0200" channel="agrotv.bg">
+    <title>Прогноза за времето и агропрогноза</title>
+  </programme>
+  <programme start="20241203231000 +0200" stop="20241203231500 +0200" channel="agrotv.bg">
+    <title>Борсова информация</title>
+  </programme>
+  <programme start="20241203231500 +0200" stop="20241203232000 +0200" channel="agrotv.bg">
+    <title>Агрокоментар</title>
+  </programme>
+  <programme start="20241203232000 +0200" stop="20241203233500 +0200" channel="agrotv.bg">
+    <title>Агротема</title>
+  </programme>
+  <programme start="20241203233500 +0200" channel="agrotv.bg">
+    <title>Агромаркет</title>
   </programme>
   <programme start="20241203120000 +0200" stop="20241203135500 +0200" channel="tvn.bg">
     <title>„Денят на майката (2010)“ – драма, ужаси, трилър.</title>

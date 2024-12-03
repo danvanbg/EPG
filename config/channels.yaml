@@ -203,6 +203,18 @@
   sources:
   - codehealth.bg
   - dnes.bg
+    
+- id: codefashion.bg
+  enabled: true
+  days-ahead: 1
+  names:
+  - name: Code Fashion
+    lang: en
+  - name: Code Fashion HD
+    lang: en
+  groups: ["bg"]
+  sources:
+  - codefashion.bg
   
 - id: skat.bg
   enabled: true
