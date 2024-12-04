@@ -506,6 +506,7 @@
   - name: Filmbox HD
     lang: en
   sources:
+  - tv-programa.bg
   - dnes.bg
   
 - id: filmboxextra.com
@@ -589,9 +590,10 @@
     lang: en
   sources:
   - nova.bg
-  - dnes.bg
   - tv-programa.bg
   - tv.dir.bg
+  - dnes.bg
+  - start.bg
   
 - id: axn.bg
   enabled: true
@@ -2238,6 +2240,7 @@
   - name: Euronews BG M
     lang: en
   sources:
+  - start.bg
   - dnes.bg
 
 - id: news.nova.bg
@@ -2480,6 +2483,7 @@
   - name: Wild TV HD
   sources:
   - dnes.bg
+  # - wildtv.ca/schedule
 
 - id: 24kitchen.bg
   enabled: true
@@ -2977,8 +2981,9 @@
     lang: en
   groups: [ "kids" ]
   sources:
-  - dnes.bg
+  - start.bg
   - tv.dir.bg
+  - dnes.bg
   
 - id: cartoonito.bg
   enabled: true
@@ -3001,6 +3006,7 @@
     lang: en
   groups: [ "kids" ]
   sources:
+  - start.bg
   - dnes.bg
   - tv.dir.bg
   

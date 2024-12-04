@@ -42,7 +42,7 @@ elements:
     required: true
     locator-strategy: xpath
     locator: //title[contains(text(),"${date.format(dd.MM)}")]
-    debug: true
+    debug: false
 
   - name: start
     debug: false
