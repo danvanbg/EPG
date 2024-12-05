@@ -1541,7 +1541,7 @@
 ### MUSIC ###
 #############
 
-- id: iconcerts.stingray.com
+- id: iconcert.stingray.com
   enabled: true
   names:
   - name: iConcerts
@@ -1699,6 +1699,7 @@
   - name: Planeta LQ
     lang: en
   sources:
+  - start.bg
   - tv-programa.bg
   - dnes.bg
 
@@ -1711,6 +1712,7 @@
   - name: Планета Фолк
     lang: bg
   sources:
+  - start.bg
   - dnes.bg
   
 - id: fentv.bg
