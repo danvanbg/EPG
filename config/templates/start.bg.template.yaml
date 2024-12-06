@@ -48,8 +48,8 @@ channel-parameters:
     channelId: 18
   'bTV Lady':
     channelId: 19
-  'Cartoon Network':
-    channelId: 20
+  cartoonnetwork.tv:
+    channelId: cartoon%20network
   Cinemax:
     channelId: 21
   'Cinemax 2':
@@ -66,8 +66,8 @@ channel-parameters:
     channelId: 31
   'Disney Channel':
     channelId: 32
-  'Da Vinci Learning':
-    channelId: 34
+  davincilearning.tv:
+    channelId: da%20vinci%20learning
   ekids.bg:
     channelId: e-kids
   evrokom.bg:
@@ -156,12 +156,12 @@ channel-parameters:
     channelId: 113
   'CBS Reality':
     channelId: 117
-  'ТВ Европа':
-    channelId: 121
+  tvevropa.bg:
+    channelId: tv%20evropa
   'Охота и рыбалка':
     channelId: 122
-  'Kino Nova':
-    channelId: 123
+  kinonova.bg:
+    channelId: kino%20nova
   'Food Network HD':
     channelId: 126
   NickHD:

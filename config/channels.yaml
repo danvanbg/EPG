@@ -469,8 +469,8 @@
   - name: Cinemania
   - name: Cinemania HD
   sources:
+  - cinemania.bg
   - tv-programa.bg
-  - start.bg
 
 - id: epicdrama.bg
   enabled: true
@@ -682,6 +682,7 @@
   - name: Nostalgia HD
     lang: en
   sources:
+  - nostalgia.bg
   - dnes.bg
   - start.bg
   
@@ -2282,6 +2283,7 @@
   sources:
   - uksky.com
   - tvtoday.de
+  - tv24.co.uk
   - tv.sms.cz
   - tvplus.com.tr
   
@@ -2399,6 +2401,7 @@
   - name: NHK World
     lang: en
   sources:
+  - tv24.co.uk
   - uksky.com
   - tv.sms.cz
   - programtv.onet.pl
@@ -2411,6 +2414,7 @@
   - name: Sky News
     lang: en
   sources:
+  - tv24.co.uk
   - tv.sms.cz
   - uksky.com
   - programtv.onet.pl
@@ -2659,9 +2663,9 @@
   - name: Food Network HD
     lang: en
   sources:
-  - dnes.bg
-  - tv.dir.bg
   - tv-programa.bg
+  - tv.dir.bg
+  - dnes.bg
   
 - id: animalplanet.bg
   enabled: true
@@ -2694,9 +2698,9 @@
   - name: Хоби ТВ
     lang: bg
   sources:
-  - dnes.bg
-  - tv.dir.bg
   - tv-programa.bg
+  - tv.dir.bg
+  - dnes.bg
   
 - id: hobbyhd.bg
   enabled: false
@@ -2721,7 +2725,7 @@
   - dnes.bg
   - ohotarybalka.tv
   
-- id: travelxp.tv
+- id: travelxp.eu
   enabled: true
   names:
   - name: Travel XP
@@ -2729,7 +2733,7 @@
   - name: Travel XP HD
     lang: en
   sources:
-  - dnes.bg
+  - tv24.co.uk
   
 - id: travelchannel.bg
   enabled: true

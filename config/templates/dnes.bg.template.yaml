@@ -81,20 +81,20 @@ channel-parameters:
     channelId: STAR Channel
   foodnetwork.bg:
     channelId: FoodNetwork
-  fentv.bg:
-    channelId: 11144
-  fenfolk.bg:
-    channelId: 11262
-  balkanika.bg:
-    channelId: 11122
+  # fentv.bg:
+  #   channelId: 11144
+  # fenfolk.bg:
+  #   channelId: 11262
+  # balkanika.bg:
+  #   channelId: 11122
   foxlife.bg:
     channelId: STAR Life
   foxcrime.bg:
     channelId: STAR Crime
-  fashion.tv:
-    channelId: 11090
+  # fashion.tv:
+  #   channelId: 11090
   novasport.bg:
-    channelId: 5820
+    channelId: NovaSport
   natgeowild.bg:
     channelId: NatGeoWild
   natgeo.bg:
@@ -105,28 +105,28 @@ channel-parameters:
     channelId: Eurosport2
   evrokom.bg:
     channelId: Eurocom
-  extremesportschannel.com:
-    channelId: 11089
+  # extremesportschannel.com:
+  #   channelId: 11089
   ekids.bg:
     channelId: EKids
   cnninternational.com:
     channelId: CNN
-  cinemax1.bg:
-    channelId: 11118
-  cinemax2.bg:
-    channelId: 11116
-  jimjam.tv:
-    channelId: 11094
-  MGM:
-    channelId: 11152
-  mtvhits.com:
-    channelId: 11097
-  mtvlive.com:
-    channelId: 11098
-  mcm.fr:
-    channelId: 11105
-  utilisima:
-    channelId: 11115
+  # cinemax1.bg:
+  #   channelId: 11118
+  # cinemax2.bg:
+  #   channelId: 11116
+  # jimjam.tv:
+  #   channelId: 11094
+  # MGM:
+  #   channelId: 11152
+  # mtvhits.com:
+  #   channelId: 11097
+  # mtvlive.com:
+  #   channelId: 11098
+  # mcm.fr:
+  #   channelId: 11105
+  # utilisima:
+  #   channelId: 11115
   planetafolk.bg:
     channelId: PlanetaFolk
   planeta4k.bg:
@@ -135,8 +135,6 @@ channel-parameters:
     channelId: TheVoice
   tyankovfolk.bg:
     channelId: TiankovFolk
-  Telekabel:
-    channelId: 11140
   tv1000.bg:
     channelId: TV1000
   tlc.bg:
@@ -217,7 +215,7 @@ channel-parameters:
     channelId: 11278
   nostalgia.bg:
     channelId: 11279
-  iconcerts.stingray.com:
+  iconcert.stingray.com:
     channelId: 11282
   mezzolive.mezzo.tv:
     channelId: 11283
@@ -257,7 +255,7 @@ channel-parameters:
     channelId: 24kitchen
   Bulgaria24.bg:
     channelId: Bulgaria24
-  wildtv.bg:
+  wildtv.com:
     channelId: WildTV
   BBC1.bg:
     channelId: BBC1

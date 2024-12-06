@@ -42,3 +42,5 @@ channel-parameters:
     channelId: bbc-news
   discoveryscience.com:
     channelId: discovery-science
+  travelxp.com:
+    channelId: travelxp
