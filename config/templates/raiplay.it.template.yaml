@@ -3,7 +3,6 @@ id: raiplay.it
 enabled: true
 version: 1.0
 author: Hristo Genev
-locator-strategy: jsonpath
 date-format: dd-MM-yyyy
 
 request:
@@ -11,6 +10,7 @@ request:
     
 programs:
   locator: events[:]
+  locator-strategy: jsonpath
 
 elements:
   - name: start

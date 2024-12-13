@@ -56,9 +56,9 @@ channel-parameters:
     channelId: 22
   CNN:
     channelId: 23
-  'Diema Family':
+  diemafamily.bg':
     channelId: 26
-  Diema:
+  diema.bg:
     channelId: 27
   'Discovery Channel':
     channelId: 29
@@ -172,7 +172,7 @@ channel-parameters:
     channelId: 129
   boxtv.bg:
     channelId: box%20tv
-  'Disney Jr':
+  disneyjunior.bg:
     channelId: 131
   Nickelodeon:
     channelId: 132
@@ -228,11 +228,11 @@ channel-parameters:
     channelId: 191
   'EPIC Drama':
     channelId: 195
-  'FilmBox Basic':
+  filmbox.com:
     channelId: 196
-  'FilmBox Extra':
+  filmboxextra.com:
     channelId: 197
-  'FilmBox Plus':
+  filmboxstars.com:
     channelId: 198
   'EDGE Sport':
     channelId: 200
@@ -302,6 +302,12 @@ channel-parameters:
     channelId: ambience%20tv    
   vidimoinevidimo.bg:
     channelId: vidimo%20i%20nevidimo%20tv
+  iconcert.stingray.com:
+    channelId: iconcerts
+  kanal4.bg:
+    channelId: 269
+  kitchen.tv:
+    channelId: 270
 
 channel-extract-rules:
  url: https://www.start.bg/lenta/tv-programa/tv/show/index/

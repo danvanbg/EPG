@@ -1,14 +1,14 @@
 ---
 author: Hristo Genev
 timezone: utc
-locator-strategy: jsonpath
 date-format: yyyyMMdd
 
 request:
   url: https://awk.epgsky.com/hawk/linear/schedule/${date}/${channelId}  
+  debug: true
     
 programs:
-  debug: false
+  locator-strategy: jsonpath
   locator: $.schedule[0].events[:]
 
 elements:

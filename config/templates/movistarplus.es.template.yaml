@@ -2,7 +2,6 @@
 version: 1.0
 author: Hristo Genev
 timezone: Europe/Madrid
-locator-strategy: jsonpath
 date-format: yyyy-MM-dd
 
 request:
@@ -18,6 +17,7 @@ request:
     
 programs:
   debug: false
+  locator-strategy: jsonpath
   locator: $.itemListElement[:]
 
 elements:

@@ -3,7 +3,6 @@ version: 1.0
 author: Hristo Genev
 culture: sr-Latn-RS
 timezone: UTC
-locator-strategy: jsonpath
 date-format: yyyy-MM-dd
 
 request:
@@ -13,6 +12,7 @@ request:
     Referer: https://mts.rs/oec/epg
 
 programs:
+  locator-strategy: jsonpath
   locator: $.channels[0].items[:]
 
 elements:

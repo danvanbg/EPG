@@ -507,7 +507,7 @@
     lang: en
   sources:
   - tv-programa.bg
-  - dnes.bg
+  - start.bg
   
 - id: filmboxextra.com
   enabled: true
@@ -518,7 +518,7 @@
     lang: en
   sources:
   - tv-programa.bg
-  - dnes.bg
+  - start.bg
   
 - id: filmboxstars.com
   enabled: true
@@ -529,7 +529,7 @@
     lang: en
   sources:
   - tv-programa.bg
-  - dnes.bg
+  - start.bg
   
 
 - id: kanal4.bg
@@ -539,6 +539,7 @@
     lang: bg
   - name: Канал 4 HD
   sources:
+  - start.bg
   - dnes.bg
 
 - id: vivacomarena.bg
@@ -562,6 +563,7 @@
     lang: en
   sources:
   - nova.bg
+  - start.bg
   - dnes.bg
 
 - id: diemafamily.bg
@@ -576,6 +578,7 @@
   sources:
   - nova.bg
   - dnes.bg
+  - start.bg
 
 - id: kinonova.bg
   enabled: true
@@ -817,6 +820,18 @@
   - nova.bg
   - dnes.bg
   - start.bg
+  
+- id: fightclub.diemasport.bg
+  enabled: false
+  increment: false
+  names:
+  - name: Fight Club
+  - name: Fight Club HD
+  - name: Fight Club 4K
+  - name: Fight Club LQ
+  groups: ["sport"]
+  sources:
+  - diemaextra.bg
   
 - id: ring.bg
   enabled: true
@@ -1550,9 +1565,8 @@
   - name: iConcerts HD
     lang: en
   sources:
-  - dnes.bg
   - programtv.onet.pl
-  - telestar.fr
+  - start.bg
   
 - id: mtv80s.com
   enabled: true
@@ -2327,6 +2341,7 @@
   - name: BBC Worldnews
     lang: en
   sources:
+  - tv24.co.uk
   - uksky.com
   - tv.sms.cz
   
@@ -2508,6 +2523,7 @@
   - name: Kitchen TV HD
   sources:
   - mts.rs
+  - start.bg
   
 - id: hgtv.com
   enabled: true
@@ -3038,6 +3054,7 @@
   sources:
   - disney.bg
   - dnes.bg
+  - start.bg
   
 - id: karusel.tv
   enabled: true
