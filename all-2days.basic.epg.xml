@@ -528,6 +528,10 @@
     <display-name lang="en">Planeta Folk</display-name>
     <display-name lang="bg">Планета Фолк</display-name>
   </channel>
+  <channel id="dstv.bg">
+    <display-name>DSTV</display-name>
+    <display-name>DSTV HD</display-name>
+  </channel>
   <channel id="fentv.bg">
     <display-name lang="en">Фен ТВ</display-name>
     <display-name lang="en">Fen TV</display-name>
@@ -815,6 +819,10 @@
   <channel id="24kitchen.bg">
     <display-name lang="en">24 Kitchen</display-name>
     <display-name lang="en">24 Kitchen HD</display-name>
+  </channel>
+  <channel id="soulandpepper.tv">
+    <display-name>Soul and Pepper HD</display-name>
+    <display-name>Soul and Pepper</display-name>
   </channel>
   <channel id="kitchen.tv">
     <display-name>Kitchen TV</display-name>
@@ -13482,18 +13490,6 @@
   <programme start="20241215233000 +0200" stop="20241216000000 +0200" channel="fueltv.com">
     <title lang="bg">Drive Thru Europe</title>
   </programme>
-  <programme start="20241214141500 +0200" stop="20241214153000 +0200" channel="iconcert.stingray.com">
-    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова (повторение)</title>
-  </programme>
-  <programme start="20241214153000 +0200" stop="20241214160000 +0200" channel="iconcert.stingray.com">
-    <title lang="bg">Документален филм</title>
-  </programme>
-  <programme start="20241214160000 +0200" stop="20241214170000 +0200" channel="iconcert.stingray.com">
-    <title lang="bg">"Общество и право" - с водещ адвокат Христиан Митев</title>
-  </programme>
-  <programme start="20241214170000 +0200" stop="20241214180000 +0200" channel="iconcert.stingray.com">
-    <title lang="bg">"Час по България" (повторение)</title>
-  </programme>
   <programme start="20241214180000 +0200" stop="20241214190000 +0200" channel="iconcert.stingray.com">
     <title lang="bg">"Видимо и невидимо" - публицистично предаване</title>
   </programme>
@@ -13530,20 +13526,8 @@
   <programme start="20241215030000 +0200" stop="20241215040000 +0200" channel="iconcert.stingray.com">
     <title lang="bg">Гледна точка - с Александрина Димитрова (повторение)</title>
   </programme>
-  <programme start="20241215040000 +0200" stop="20241215141500 +0200" channel="iconcert.stingray.com">
+  <programme start="20241215040000 +0200" stop="20241215180000 +0200" channel="iconcert.stingray.com">
     <title lang="bg">"Разбулване" (повторение)</title>
-  </programme>
-  <programme start="20241215141500 +0200" stop="20241215153000 +0200" channel="iconcert.stingray.com">
-    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова (повторение)</title>
-  </programme>
-  <programme start="20241215153000 +0200" stop="20241215160000 +0200" channel="iconcert.stingray.com">
-    <title lang="bg">Документален филм</title>
-  </programme>
-  <programme start="20241215160000 +0200" stop="20241215170000 +0200" channel="iconcert.stingray.com">
-    <title lang="bg">"Общество и право" - с водещ адвокат Христиан Митев</title>
-  </programme>
-  <programme start="20241215170000 +0200" stop="20241215180000 +0200" channel="iconcert.stingray.com">
-    <title lang="bg">"Час по България" (повторение)</title>
   </programme>
   <programme start="20241215180000 +0200" stop="20241215190000 +0200" channel="iconcert.stingray.com">
     <title lang="bg">"Видимо и невидимо" - публицистично предаване</title>
@@ -14129,6 +14113,45 @@
   </programme>
   <programme start="20241214223000 +0200" channel="planetafolk.bg">
     <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
+  </programme>
+  <programme start="20241214080000 +0200" stop="20241214100000 +0200" channel="dstv.bg">
+    <title>� ��������� � ���  - ���� ��� ������ � ��������a, �������a � ��������a</title>
+  </programme>
+  <programme start="20241214100000 +0200" stop="20241214110000 +0200" channel="dstv.bg">
+    <title>� ������� ��� ���� �����  - ��� ���� � ���� �� ������ � ������</title>
+  </programme>
+  <programme start="20241214110000 +0200" stop="20241214113000 +0200" channel="dstv.bg">
+    <title>� ��������� � ��������� �������</title>
+  </programme>
+  <programme start="20241214113000 +0200" stop="20241214120000 +0200" channel="dstv.bg">
+    <title>� ������  � ���� �����������</title>
+  </programme>
+  <programme start="20241214120000 +0200" stop="20241214130000 +0200" channel="dstv.bg">
+    <title>� ���� ����  - ������� �� ��, ��������� � ����a</title>
+  </programme>
+  <programme start="20241214130000 +0200" stop="20241214150000 +0200" channel="dstv.bg">
+    <title>� ������ �������  - ����������� ���������</title>
+  </programme>
+  <programme start="20241214150000 +0200" stop="20241214160000 +0200" channel="dstv.bg">
+    <title>� �������� �� ������  - ���� �� ��������� ����, ����� � �������� ���� ���-���� �������</title>
+  </programme>
+  <programme start="20241214160000 +0200" stop="20241214170000 +0200" channel="dstv.bg">
+    <title>� �Made in ��������� - ��������� ������</title>
+  </programme>
+  <programme start="20241214170000 +0200" stop="20241214173000 +0200" channel="dstv.bg">
+    <title>- ��������� � ��������� �������</title>
+  </programme>
+  <programme start="20241214173000 +0200" stop="20241214180000 +0200" channel="dstv.bg">
+    <title>� �������� � ������  - ��������� ���-���� (��-�������� � ��������� �������)</title>
+  </programme>
+  <programme start="20241214180000 +0200" stop="20241214183000 +0200" channel="dstv.bg">
+    <title>� �������� ����� ����� - ����� ������� � ��� ����</title>
+  </programme>
+  <programme start="20241214183000 +0200" stop="20241214190000 +0200" channel="dstv.bg">
+    <title>� �Pop rules�  - �������� � �� ���</title>
+  </programme>
+  <programme start="20241214190000 +0200" channel="dstv.bg">
+    <title>� ���������  - ������������� ���</title>
   </programme>
   <programme start="20241214000000 +0200" stop="20241214050000 +0200" channel="fentv.bg">
     <title>Твоята музика - твоята музикамузикален микс с хитовете на ФЕН ТВ</title>
@@ -25245,624 +25268,6 @@
   <programme start="20241215054500 +0200" stop="20241216060000 +0200" channel="france24.fr">
     <title>Une semaine en France</title>
   </programme>
-  <programme start="20241214060000 +0200" stop="20241214061500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241214061500 +0200" stop="20241214063000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE IN DEPTH</title>
-  </programme>
-  <programme start="20241214063000 +0200" stop="20241214064500 +0200" channel="nhkworld.com">
-    <title>DEEPER LOOK</title>
-  </programme>
-  <programme start="20241214064500 +0200" stop="20241214065500 +0200" channel="nhkworld.com">
-    <title>Dig More Japan</title>
-  </programme>
-  <programme start="20241214065500 +0200" stop="20241214070000 +0200" channel="nhkworld.com">
-    <title>The Seasons of Yamato</title>
-  </programme>
-  <programme start="20241214070000 +0200" stop="20241214071500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241214071500 +0200" stop="20241214073000 +0200" channel="nhkworld.com">
-    <title>Direct Talk</title>
-  </programme>
-  <programme start="20241214073000 +0200" stop="20241214080000 +0200" channel="nhkworld.com">
-    <title>Journeys in Japan</title>
-  </programme>
-  <programme start="20241214080000 +0200" stop="20241214083000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE ASIA 24</title>
-  </programme>
-  <programme start="20241214083000 +0200" stop="20241214090000 +0200" channel="nhkworld.com">
-    <title>Dining with the Chef</title>
-  </programme>
-  <programme start="20241214090000 +0200" stop="20241214093000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE ASIA 24</title>
-  </programme>
-  <programme start="20241214093000 +0200" stop="20241214100000 +0200" channel="nhkworld.com">
-    <title>Document 72 Hours</title>
-  </programme>
-  <programme start="20241214100000 +0200" stop="20241214101400 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241214101400 +0200" stop="20241214101500 +0200" channel="nhkworld.com">
-    <title>NL Bridge</title>
-  </programme>
-  <programme start="20241214101500 +0200" stop="20241214102300 +0200" channel="nhkworld.com">
-    <title>NEWSLINE BIZ</title>
-  </programme>
-  <programme start="20241214102300 +0200" stop="20241214103000 +0200" channel="nhkworld.com">
-    <title>JAPAN FROM ABOVE: UP CLOSE</title>
-  </programme>
-  <programme start="20241214103000 +0200" stop="20241214104500 +0200" channel="nhkworld.com">
-    <title>DEEPER LOOK</title>
-  </programme>
-  <programme start="20241214104500 +0200" stop="20241214110000 +0200" channel="nhkworld.com">
-    <title>BOSAI: Science that Can Save Your Life</title>
-  </programme>
-  <programme start="20241214110000 +0200" stop="20241214111400 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241214111400 +0200" stop="20241214111500 +0200" channel="nhkworld.com">
-    <title>NL Bridge</title>
-  </programme>
-  <programme start="20241214111500 +0200" stop="20241214113000 +0200" channel="nhkworld.com">
-    <title>Direct Talk</title>
-  </programme>
-  <programme start="20241214113000 +0200" stop="20241214120000 +0200" channel="nhkworld.com">
-    <title>Medical Frontiers</title>
-  </programme>
-  <programme start="20241214120000 +0200" stop="20241214121700 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241214121700 +0200" stop="20241214121800 +0200" channel="nhkworld.com">
-    <title>NL Bridge</title>
-  </programme>
-  <programme start="20241214121800 +0200" stop="20241214123000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE BIZ</title>
-  </programme>
-  <programme start="20241214123000 +0200" stop="20241214130000 +0200" channel="nhkworld.com">
-    <title>Journeys in Japan</title>
-  </programme>
-  <programme start="20241214130000 +0200" stop="20241214132700 +0200" channel="nhkworld.com">
-    <title>NEWSROOM TOKYO</title>
-  </programme>
-  <programme start="20241214132700 +0200" stop="20241214134000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE IN DEPTH</title>
-  </programme>
-  <programme start="20241214134000 +0200" stop="20241214135500 +0200" channel="nhkworld.com">
-    <title>Direct Talk</title>
-  </programme>
-  <programme start="20241214135500 +0200" stop="20241214140000 +0200" channel="nhkworld.com">
-    <title>Ukiyoe EDO-LIFE: Will Sparks Fly?</title>
-  </programme>
-  <programme start="20241214140000 +0200" stop="20241214143000 +0200" channel="nhkworld.com">
-    <title>NEWSROOM TOKYO</title>
-  </programme>
-  <programme start="20241214143000 +0200" stop="20241214150000 +0200" channel="nhkworld.com">
-    <title>Dining with the Chef</title>
-  </programme>
-  <programme start="20241214150000 +0200" stop="20241214151500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241214151500 +0200" stop="20241214153000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE IN DEPTH</title>
-  </programme>
-  <programme start="20241214153000 +0200" stop="20241214160000 +0200" channel="nhkworld.com">
-    <title>Document 72 Hours</title>
-  </programme>
-  <programme start="20241214160000 +0200" stop="20241214161500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241214161500 +0200" stop="20241214163000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE IN DEPTH</title>
-  </programme>
-  <programme start="20241214163000 +0200" stop="20241214170000 +0200" channel="nhkworld.com">
-    <title>Science View</title>
-  </programme>
-  <programme start="20241214170000 +0200" stop="20241214171500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241214171500 +0200" stop="20241214173000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE IN DEPTH</title>
-  </programme>
-  <programme start="20241214173000 +0200" stop="20241214180000 +0200" channel="nhkworld.com">
-    <title>Journeys in Japan</title>
-  </programme>
-  <programme start="20241214180000 +0200" stop="20241214181500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241214181500 +0200" stop="20241214183000 +0200" channel="nhkworld.com">
-    <title>Direct Talk</title>
-  </programme>
-  <programme start="20241214183000 +0200" stop="20241214184500 +0200" channel="nhkworld.com">
-    <title>DEEPER LOOK</title>
-  </programme>
-  <programme start="20241214184500 +0200" stop="20241214185500 +0200" channel="nhkworld.com">
-    <title>Dig More Japan</title>
-  </programme>
-  <programme start="20241214185500 +0200" stop="20241214190000 +0200" channel="nhkworld.com">
-    <title>The Seasons of Yamato</title>
-  </programme>
-  <programme start="20241214190000 +0200" stop="20241214191500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241214191500 +0200" stop="20241214193000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE IN DEPTH</title>
-  </programme>
-  <programme start="20241214193000 +0200" stop="20241214200000 +0200" channel="nhkworld.com">
-    <title>Dining with the Chef</title>
-  </programme>
-  <programme start="20241214200000 +0200" stop="20241214202700 +0200" channel="nhkworld.com">
-    <title>NEWSROOM TOKYO</title>
-  </programme>
-  <programme start="20241214202700 +0200" stop="20241214204000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE IN DEPTH</title>
-  </programme>
-  <programme start="20241214204000 +0200" stop="20241214205500 +0200" channel="nhkworld.com">
-    <title>Direct Talk</title>
-  </programme>
-  <programme start="20241214205500 +0200" stop="20241214210000 +0200" channel="nhkworld.com">
-    <title>Ukiyoe EDO-LIFE: Will Sparks Fly?</title>
-  </programme>
-  <programme start="20241214210000 +0200" stop="20241214213000 +0200" channel="nhkworld.com">
-    <title>BIZ STREAM</title>
-  </programme>
-  <programme start="20241214213000 +0200" stop="20241214220000 +0200" channel="nhkworld.com">
-    <title>Document 72 Hours</title>
-  </programme>
-  <programme start="20241214220000 +0200" stop="20241214221800 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241214221800 +0200" stop="20241214223000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE BIZ</title>
-  </programme>
-  <programme start="20241214223000 +0200" stop="20241214230000 +0200" channel="nhkworld.com">
-    <title>Science View</title>
-  </programme>
-  <programme start="20241214230000 +0200" stop="20241214231800 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241214231800 +0200" stop="20241214233000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE BIZ</title>
-  </programme>
-  <programme start="20241214233000 +0200" stop="20241215000000 +0200" channel="nhkworld.com">
-    <title>Journeys in Japan</title>
-  </programme>
-  <programme start="20241215000000 +0200" stop="20241215001800 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215001800 +0200" stop="20241215003000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE BIZ</title>
-  </programme>
-  <programme start="20241215003000 +0200" stop="20241215010000 +0200" channel="nhkworld.com">
-    <title>Dining with the Chef</title>
-  </programme>
-  <programme start="20241215010000 +0200" stop="20241215011500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215011500 +0200" stop="20241215012000 +0200" channel="nhkworld.com">
-    <title>Ukiyoe EDO-LIFE: Will Sparks Fly?</title>
-  </programme>
-  <programme start="20241215012000 +0200" stop="20241215012500 +0200" channel="nhkworld.com">
-    <title>Time-lapse Japan</title>
-  </programme>
-  <programme start="20241215012500 +0200" stop="20241215013000 +0200" channel="nhkworld.com">
-    <title>JAPAN FROM ABOVE: UP CLOSE</title>
-  </programme>
-  <programme start="20241215013000 +0200" stop="20241215014500 +0200" channel="nhkworld.com">
-    <title>DEEPER LOOK</title>
-  </programme>
-  <programme start="20241215014500 +0200" stop="20241215015500 +0200" channel="nhkworld.com">
-    <title>Dig More Japan</title>
-  </programme>
-  <programme start="20241215015500 +0200" stop="20241215020000 +0200" channel="nhkworld.com">
-    <title>The Seasons of Yamato</title>
-  </programme>
-  <programme start="20241215020000 +0200" stop="20241215021500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215021500 +0200" stop="20241215023000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE IN DEPTH</title>
-  </programme>
-  <programme start="20241215023000 +0200" stop="20241215030000 +0200" channel="nhkworld.com">
-    <title>Dive in Tokyo</title>
-  </programme>
-  <programme start="20241215030000 +0200" stop="20241215031500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215031500 +0200" stop="20241215033000 +0200" channel="nhkworld.com">
-    <title>Direct Talk</title>
-  </programme>
-  <programme start="20241215033000 +0200" stop="20241215034500 +0200" channel="nhkworld.com">
-    <title>NINJA TRUTH</title>
-  </programme>
-  <programme start="20241215034500 +0200" stop="20241215035500 +0200" channel="nhkworld.com">
-    <title>Magical Japanese</title>
-  </programme>
-  <programme start="20241215035500 +0200" stop="20241215040000 +0200" channel="nhkworld.com">
-    <title>Core Kyoto mini</title>
-  </programme>
-  <programme start="20241215040000 +0200" stop="20241215041500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215041500 +0200" stop="20241215043000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE IN DEPTH</title>
-  </programme>
-  <programme start="20241215043000 +0200" stop="20241215050000 +0200" channel="nhkworld.com">
-    <title>FRONTRUNNERS</title>
-  </programme>
-  <programme start="20241215050000 +0200" stop="20241215051500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215051500 +0200" stop="20241215053000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE IN DEPTH</title>
-  </programme>
-  <programme start="20241215053000 +0200" stop="20241215060000 +0200" channel="nhkworld.com">
-    <title>Science View</title>
-  </programme>
-  <programme start="20241215060000 +0200" stop="20241215061500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215061500 +0200" stop="20241215063000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE IN DEPTH</title>
-  </programme>
-  <programme start="20241215063000 +0200" stop="20241215064500 +0200" channel="nhkworld.com">
-    <title>DEEPER LOOK</title>
-  </programme>
-  <programme start="20241215064500 +0200" stop="20241215065500 +0200" channel="nhkworld.com">
-    <title>Dig More Japan</title>
-  </programme>
-  <programme start="20241215065500 +0200" stop="20241215070000 +0200" channel="nhkworld.com">
-    <title>The Seasons of Yamato</title>
-  </programme>
-  <programme start="20241215070000 +0200" stop="20241215071500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215071500 +0200" stop="20241215073000 +0200" channel="nhkworld.com">
-    <title>Direct Talk</title>
-  </programme>
-  <programme start="20241215073000 +0200" stop="20241215080000 +0200" channel="nhkworld.com">
-    <title>Journeys in Japan</title>
-  </programme>
-  <programme start="20241215080000 +0200" stop="20241215083000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE ASIA 24</title>
-  </programme>
-  <programme start="20241215083000 +0200" stop="20241215090000 +0200" channel="nhkworld.com">
-    <title>Dining with the Chef</title>
-  </programme>
-  <programme start="20241215090000 +0200" stop="20241215093000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE ASIA 24</title>
-  </programme>
-  <programme start="20241215093000 +0200" stop="20241215100000 +0200" channel="nhkworld.com">
-    <title>Document 72 Hours</title>
-  </programme>
-  <programme start="20241215100000 +0200" stop="20241215101400 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215101400 +0200" stop="20241215101500 +0200" channel="nhkworld.com">
-    <title>NL Bridge</title>
-  </programme>
-  <programme start="20241215101500 +0200" stop="20241215102300 +0200" channel="nhkworld.com">
-    <title>NEWSLINE BIZ</title>
-  </programme>
-  <programme start="20241215102300 +0200" stop="20241215103000 +0200" channel="nhkworld.com">
-    <title>JAPAN FROM ABOVE: UP CLOSE</title>
-  </programme>
-  <programme start="20241215103000 +0200" stop="20241215104500 +0200" channel="nhkworld.com">
-    <title>DEEPER LOOK</title>
-  </programme>
-  <programme start="20241215104500 +0200" stop="20241215110000 +0200" channel="nhkworld.com">
-    <title>BOSAI: Science that Can Save Your Life</title>
-  </programme>
-  <programme start="20241215110000 +0200" stop="20241215111400 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215111400 +0200" stop="20241215111500 +0200" channel="nhkworld.com">
-    <title>NL Bridge</title>
-  </programme>
-  <programme start="20241215111500 +0200" stop="20241215113000 +0200" channel="nhkworld.com">
-    <title>Direct Talk</title>
-  </programme>
-  <programme start="20241215113000 +0200" stop="20241215120000 +0200" channel="nhkworld.com">
-    <title>Medical Frontiers</title>
-  </programme>
-  <programme start="20241215120000 +0200" stop="20241215121700 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215121700 +0200" stop="20241215121800 +0200" channel="nhkworld.com">
-    <title>NL Bridge</title>
-  </programme>
-  <programme start="20241215121800 +0200" stop="20241215123000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE BIZ</title>
-  </programme>
-  <programme start="20241215123000 +0200" stop="20241215130000 +0200" channel="nhkworld.com">
-    <title>Journeys in Japan</title>
-  </programme>
-  <programme start="20241215130000 +0200" stop="20241215132700 +0200" channel="nhkworld.com">
-    <title>NEWSROOM TOKYO</title>
-  </programme>
-  <programme start="20241215132700 +0200" stop="20241215134000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE IN DEPTH</title>
-  </programme>
-  <programme start="20241215134000 +0200" stop="20241215135500 +0200" channel="nhkworld.com">
-    <title>Direct Talk</title>
-  </programme>
-  <programme start="20241215135500 +0200" stop="20241215140000 +0200" channel="nhkworld.com">
-    <title>Ukiyoe EDO-LIFE: Will Sparks Fly?</title>
-  </programme>
-  <programme start="20241215140000 +0200" stop="20241215143000 +0200" channel="nhkworld.com">
-    <title>NEWSROOM TOKYO</title>
-  </programme>
-  <programme start="20241215143000 +0200" stop="20241215150000 +0200" channel="nhkworld.com">
-    <title>Dining with the Chef</title>
-  </programme>
-  <programme start="20241215150000 +0200" stop="20241215151500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215151500 +0200" stop="20241215153000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE IN DEPTH</title>
-  </programme>
-  <programme start="20241215153000 +0200" stop="20241215160000 +0200" channel="nhkworld.com">
-    <title>Document 72 Hours</title>
-  </programme>
-  <programme start="20241215160000 +0200" stop="20241215161500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215161500 +0200" stop="20241215163000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE IN DEPTH</title>
-  </programme>
-  <programme start="20241215163000 +0200" stop="20241215170000 +0200" channel="nhkworld.com">
-    <title>Science View</title>
-  </programme>
-  <programme start="20241215170000 +0200" stop="20241215171500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215171500 +0200" stop="20241215173000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE IN DEPTH</title>
-  </programme>
-  <programme start="20241215173000 +0200" stop="20241215180000 +0200" channel="nhkworld.com">
-    <title>Journeys in Japan</title>
-  </programme>
-  <programme start="20241215180000 +0200" stop="20241215181500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215181500 +0200" stop="20241215183000 +0200" channel="nhkworld.com">
-    <title>Direct Talk</title>
-  </programme>
-  <programme start="20241215183000 +0200" stop="20241215184500 +0200" channel="nhkworld.com">
-    <title>DEEPER LOOK</title>
-  </programme>
-  <programme start="20241215184500 +0200" stop="20241215185500 +0200" channel="nhkworld.com">
-    <title>Dig More Japan</title>
-  </programme>
-  <programme start="20241215185500 +0200" stop="20241215190000 +0200" channel="nhkworld.com">
-    <title>The Seasons of Yamato</title>
-  </programme>
-  <programme start="20241215190000 +0200" stop="20241215191500 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215191500 +0200" stop="20241215193000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE IN DEPTH</title>
-  </programme>
-  <programme start="20241215193000 +0200" stop="20241215200000 +0200" channel="nhkworld.com">
-    <title>Dining with the Chef</title>
-  </programme>
-  <programme start="20241215200000 +0200" stop="20241215202700 +0200" channel="nhkworld.com">
-    <title>NEWSROOM TOKYO</title>
-  </programme>
-  <programme start="20241215202700 +0200" stop="20241215204000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE IN DEPTH</title>
-  </programme>
-  <programme start="20241215204000 +0200" stop="20241215205500 +0200" channel="nhkworld.com">
-    <title>Direct Talk</title>
-  </programme>
-  <programme start="20241215205500 +0200" stop="20241215210000 +0200" channel="nhkworld.com">
-    <title>Ukiyoe EDO-LIFE: Will Sparks Fly?</title>
-  </programme>
-  <programme start="20241215210000 +0200" stop="20241215213000 +0200" channel="nhkworld.com">
-    <title>BIZ STREAM</title>
-  </programme>
-  <programme start="20241215213000 +0200" stop="20241215220000 +0200" channel="nhkworld.com">
-    <title>Document 72 Hours</title>
-  </programme>
-  <programme start="20241215220000 +0200" stop="20241215221800 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215221800 +0200" stop="20241215223000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE BIZ</title>
-  </programme>
-  <programme start="20241215223000 +0200" stop="20241215230000 +0200" channel="nhkworld.com">
-    <title>Science View</title>
-  </programme>
-  <programme start="20241215230000 +0200" stop="20241215231800 +0200" channel="nhkworld.com">
-    <title>NHK NEWSLINE</title>
-  </programme>
-  <programme start="20241215231800 +0200" stop="20241215233000 +0200" channel="nhkworld.com">
-    <title>NEWSLINE BIZ</title>
-  </programme>
-  <programme start="20241215233000 +0200" stop="20241216000000 +0200" channel="nhkworld.com">
-    <title>Journeys in Japan</title>
-  </programme>
-  <programme start="20241214110000 +0200" stop="20241214113000 +0200" channel="skynews.uk">
-    <title>Breakfast with Kay Burley</title>
-  </programme>
-  <programme start="20241214113000 +0200" stop="20241214120000 +0200" channel="skynews.uk">
-    <title>Breakfast with Kay Burley</title>
-  </programme>
-  <programme start="20241214120000 +0200" stop="20241214123000 +0200" channel="skynews.uk">
-    <title>Sky News Today with Wilfred Frost</title>
-  </programme>
-  <programme start="20241214123000 +0200" stop="20241214130000 +0200" channel="skynews.uk">
-    <title>Sky News Today with Wilfred Frost</title>
-  </programme>
-  <programme start="20241214130000 +0200" stop="20241214133000 +0200" channel="skynews.uk">
-    <title>Sky News Today with Wilfred Frost</title>
-  </programme>
-  <programme start="20241214133000 +0200" stop="20241214140000 +0200" channel="skynews.uk">
-    <title>Business Live</title>
-  </programme>
-  <programme start="20241214140000 +0200" stop="20241214143000 +0200" channel="skynews.uk">
-    <title>Sky News Today with Jayne Secker</title>
-  </programme>
-  <programme start="20241214143000 +0200" stop="20241214150000 +0200" channel="skynews.uk">
-    <title>Sky News Today with Saima Mohsin</title>
-  </programme>
-  <programme start="20241214150000 +0200" stop="20241214153000 +0200" channel="skynews.uk">
-    <title>Sky News Today with Jayne Secker</title>
-  </programme>
-  <programme start="20241214153000 +0200" stop="20241214160000 +0200" channel="skynews.uk">
-    <title>Sky News Today with Jayne Secker</title>
-  </programme>
-  <programme start="20241214160000 +0200" stop="20241214163000 +0200" channel="skynews.uk">
-    <title>Sky News with Kamali Melbourne</title>
-  </programme>
-  <programme start="20241214163000 +0200" stop="20241214170000 +0200" channel="skynews.uk">
-    <title>Sky News with Kamali Melbourne</title>
-  </programme>
-  <programme start="20241214170000 +0200" stop="20241214173000 +0200" channel="skynews.uk">
-    <title>Sky News with Kamali Melbourne</title>
-  </programme>
-  <programme start="20241214173000 +0200" stop="20241214180000 +0200" channel="skynews.uk">
-    <title>Sky News with Kamali Melbourne</title>
-  </programme>
-  <programme start="20241214180000 +0200" stop="20241214183000 +0200" channel="skynews.uk">
-    <title>Sky News with Kamali Melbourne</title>
-  </programme>
-  <programme start="20241214183000 +0200" stop="20241214190000 +0200" channel="skynews.uk">
-    <title>Business Live</title>
-  </programme>
-  <programme start="20241214190000 +0200" stop="20241214193000 +0200" channel="skynews.uk">
-    <title>The News Hour With Mark Austin</title>
-  </programme>
-  <programme start="20241214193000 +0200" stop="20241214200000 +0200" channel="skynews.uk">
-    <title>The News Hour With Mark Austin</title>
-  </programme>
-  <programme start="20241214200000 +0200" stop="20241214203000 +0200" channel="skynews.uk">
-    <title>The News Hour With Mark Austin</title>
-  </programme>
-  <programme start="20241214203000 +0200" stop="20241214210000 +0200" channel="skynews.uk">
-    <title>The News Hour With Mark Austin</title>
-  </programme>
-  <programme start="20241214210000 +0200" stop="20241214213000 +0200" channel="skynews.uk">
-    <title>Politics Hub With Sophy Ridge</title>
-  </programme>
-  <programme start="20241214213000 +0200" stop="20241214220000 +0200" channel="skynews.uk">
-    <title>Politics Hub With Sophy Ridge</title>
-  </programme>
-  <programme start="20241214220000 +0200" stop="20241214223000 +0200" channel="skynews.uk">
-    <title>UK Tonight With Sarah-Jane Mee</title>
-  </programme>
-  <programme start="20241214223000 +0200" stop="20241214230000 +0200" channel="skynews.uk">
-    <title>UK Tonight With Sarah-Jane Mee</title>
-  </programme>
-  <programme start="20241214230000 +0200" stop="20241214233000 +0200" channel="skynews.uk">
-    <title>The World with Yalda Hakim</title>
-  </programme>
-  <programme start="20241214233000 +0200" stop="20241215000000 +0200" channel="skynews.uk">
-    <title>The World with Yalda Hakim</title>
-  </programme>
-  <programme start="20241215000000 +0200" stop="20241215003000 +0200" channel="skynews.uk">
-    <title>News at 10 with Anna Botting</title>
-  </programme>
-  <programme start="20241215003000 +0200" stop="20241215010000 +0200" channel="skynews.uk">
-    <title>Press Preview</title>
-  </programme>
-  <programme start="20241215010000 +0200" stop="20241215013000 +0200" channel="skynews.uk">
-    <title>News &amp; Press Preview</title>
-  </programme>
-  <programme start="20241215013000 +0200" stop="20241215020000 +0200" channel="skynews.uk">
-    <title>Press Preview</title>
-  </programme>
-  <programme start="20241215020000 +0200" stop="20241215030000 +0200" channel="skynews.uk">
-    <title>Sky News</title>
-  </programme>
-  <programme start="20241215030000 +0200" stop="20241215040000 +0200" channel="skynews.uk">
-    <title>Sky News</title>
-  </programme>
-  <programme start="20241215040000 +0200" stop="20241215050000 +0200" channel="skynews.uk">
-    <title>Sky News</title>
-  </programme>
-  <programme start="20241215050000 +0200" stop="20241215110000 +0200" channel="skynews.uk">
-    <title>Sky News</title>
-  </programme>
-  <programme start="20241215110000 +0200" stop="20241215113000 +0200" channel="skynews.uk">
-    <title>Breakfast with Kay Burley</title>
-  </programme>
-  <programme start="20241215113000 +0200" stop="20241215120000 +0200" channel="skynews.uk">
-    <title>Breakfast with Kay Burley</title>
-  </programme>
-  <programme start="20241215120000 +0200" stop="20241215123000 +0200" channel="skynews.uk">
-    <title>Sky News Today with Wilfred Frost</title>
-  </programme>
-  <programme start="20241215123000 +0200" stop="20241215130000 +0200" channel="skynews.uk">
-    <title>Sky News Today with Wilfred Frost</title>
-  </programme>
-  <programme start="20241215130000 +0200" stop="20241215133000 +0200" channel="skynews.uk">
-    <title>Sky News Today with Wilfred Frost</title>
-  </programme>
-  <programme start="20241215133000 +0200" stop="20241215140000 +0200" channel="skynews.uk">
-    <title>Business Live</title>
-  </programme>
-  <programme start="20241215140000 +0200" stop="20241215143000 +0200" channel="skynews.uk">
-    <title>Sky News Today with Jayne Secker</title>
-  </programme>
-  <programme start="20241215143000 +0200" stop="20241215150000 +0200" channel="skynews.uk">
-    <title>Sky News Today with Saima Mohsin</title>
-  </programme>
-  <programme start="20241215150000 +0200" stop="20241215153000 +0200" channel="skynews.uk">
-    <title>Sky News Today with Jayne Secker</title>
-  </programme>
-  <programme start="20241215153000 +0200" stop="20241215160000 +0200" channel="skynews.uk">
-    <title>Sky News Today with Jayne Secker</title>
-  </programme>
-  <programme start="20241215160000 +0200" stop="20241215163000 +0200" channel="skynews.uk">
-    <title>Sky News with Kamali Melbourne</title>
-  </programme>
-  <programme start="20241215163000 +0200" stop="20241215170000 +0200" channel="skynews.uk">
-    <title>Sky News with Kamali Melbourne</title>
-  </programme>
-  <programme start="20241215170000 +0200" stop="20241215173000 +0200" channel="skynews.uk">
-    <title>Sky News with Kamali Melbourne</title>
-  </programme>
-  <programme start="20241215173000 +0200" stop="20241215180000 +0200" channel="skynews.uk">
-    <title>Sky News with Kamali Melbourne</title>
-  </programme>
-  <programme start="20241215180000 +0200" stop="20241215183000 +0200" channel="skynews.uk">
-    <title>Sky News with Kamali Melbourne</title>
-  </programme>
-  <programme start="20241215183000 +0200" stop="20241215190000 +0200" channel="skynews.uk">
-    <title>Business Live</title>
-  </programme>
-  <programme start="20241215190000 +0200" stop="20241215193000 +0200" channel="skynews.uk">
-    <title>The News Hour With Mark Austin</title>
-  </programme>
-  <programme start="20241215193000 +0200" stop="20241215200000 +0200" channel="skynews.uk">
-    <title>The News Hour With Mark Austin</title>
-  </programme>
-  <programme start="20241215200000 +0200" stop="20241215203000 +0200" channel="skynews.uk">
-    <title>The News Hour With Mark Austin</title>
-  </programme>
-  <programme start="20241215203000 +0200" stop="20241215210000 +0200" channel="skynews.uk">
-    <title>The News Hour With Mark Austin</title>
-  </programme>
-  <programme start="20241215210000 +0200" stop="20241215213000 +0200" channel="skynews.uk">
-    <title>Politics Hub With Sophy Ridge</title>
-  </programme>
-  <programme start="20241215213000 +0200" stop="20241215220000 +0200" channel="skynews.uk">
-    <title>Politics Hub With Sophy Ridge</title>
-  </programme>
-  <programme start="20241215220000 +0200" stop="20241215223000 +0200" channel="skynews.uk">
-    <title>UK Tonight With Sarah-Jane Mee</title>
-  </programme>
-  <programme start="20241215223000 +0200" stop="20241215230000 +0200" channel="skynews.uk">
-    <title>UK Tonight With Sarah-Jane Mee</title>
-  </programme>
-  <programme start="20241215230000 +0200" stop="20241215233000 +0200" channel="skynews.uk">
-    <title>The World with Yalda Hakim</title>
-  </programme>
-  <programme start="20241215233000 +0200" stop="20241216000000 +0200" channel="skynews.uk">
-    <title>The World with Yalda Hakim</title>
-  </programme>
   <programme start="20241214061500 +0200" stop="20241214070000 +0200" channel="cctv4.com">
     <title>TV Drama</title>
   </programme>
@@ -27650,6 +27055,171 @@
   </programme>
   <programme start="20241215234500 +0200" stop="20241216000500 +0200" channel="24kitchen.bg">
     <title>Виетнам с Люк Нгуен</title>
+  </programme>
+  <programme start="20241214065400 +0200" stop="20241214072400 +0200" channel="soulandpepper.tv">
+    <title>Красота в кухнята с Преслава</title>
+  </programme>
+  <programme start="20241214072400 +0200" stop="20241214075400 +0200" channel="soulandpepper.tv">
+    <title>Лекият път към вкуса - специално издание</title>
+  </programme>
+  <programme start="20241214075400 +0200" stop="20241214082500 +0200" channel="soulandpepper.tv">
+    <title>Стрийт Фууд: ХроНики и Гери</title>
+  </programme>
+  <programme start="20241214082500 +0200" stop="20241214085400 +0200" channel="soulandpepper.tv">
+    <title>Добре опечени истории с Николай Красимиров</title>
+  </programme>
+  <programme start="20241214085400 +0200" stop="20241214092500 +0200" channel="soulandpepper.tv">
+    <title>Комбинирай с Ани</title>
+  </programme>
+  <programme start="20241214092500 +0200" stop="20241214095400 +0200" channel="soulandpepper.tv">
+    <title>Сладки красоти със Силвия</title>
+  </programme>
+  <programme start="20241214095400 +0200" stop="20241214102400 +0200" channel="soulandpepper.tv">
+    <title>ТЕЛЕШОП</title>
+  </programme>
+  <programme start="20241214102400 +0200" stop="20241214105400 +0200" channel="soulandpepper.tv">
+    <title>Храна по мярка с Лора и Стоян</title>
+  </programme>
+  <programme start="20241214105400 +0200" stop="20241214115400 +0200" channel="soulandpepper.tv">
+    <title>Chef Talent - детско кулинарно състезание</title>
+  </programme>
+  <programme start="20241214115400 +0200" stop="20241214122400 +0200" channel="soulandpepper.tv">
+    <title>Лекият път към вкуса с Елена Петрелийска</title>
+  </programme>
+  <programme start="20241214122400 +0200" stop="20241214125500 +0200" channel="soulandpepper.tv">
+    <title>Красота в кухнята с Преслава</title>
+  </programme>
+  <programme start="20241214125500 +0200" stop="20241214135400 +0200" channel="soulandpepper.tv">
+    <title>Chef Talent - детско кулинарно състезание</title>
+  </programme>
+  <programme start="20241214135400 +0200" stop="20241214142400 +0200" channel="soulandpepper.tv">
+    <title>Сладки красоти със Силвия</title>
+  </programme>
+  <programme start="20241214142400 +0200" stop="20241214145500 +0200" channel="soulandpepper.tv">
+    <title>Добре опечени истории</title>
+  </programme>
+  <programme start="20241214145500 +0200" stop="20241214152400 +0200" channel="soulandpepper.tv">
+    <title>Красота в кухнята с Преслава</title>
+  </programme>
+  <programme start="20241214152400 +0200" stop="20241214155400 +0200" channel="soulandpepper.tv">
+    <title>Комбинирай с Ани</title>
+  </programme>
+  <programme start="20241214155400 +0200" stop="20241214162500 +0200" channel="soulandpepper.tv">
+    <title>Beauty and the Feast с Айлин</title>
+  </programme>
+  <programme start="20241214162500 +0200" stop="20241214165400 +0200" channel="soulandpepper.tv">
+    <title>ТЕЛЕШОП</title>
+  </programme>
+  <programme start="20241214165400 +0200" stop="20241214172400 +0200" channel="soulandpepper.tv">
+    <title>Стрийт Фууд: ХроНики и Гери</title>
+  </programme>
+  <programme start="20241214172400 +0200" stop="20241214175400 +0200" channel="soulandpepper.tv">
+    <title>Лекият път към вкуса с Елена Петрелийска</title>
+  </programme>
+  <programme start="20241214175400 +0200" stop="20241214182400 +0200" channel="soulandpepper.tv">
+    <title>Комбинирай с Ани</title>
+  </programme>
+  <programme start="20241214182400 +0200" stop="20241214192400 +0200" channel="soulandpepper.tv">
+    <title>Chef Talent - детско кулинарно състезание</title>
+  </programme>
+  <programme start="20241214192400 +0200" stop="20241214195500 +0200" channel="soulandpepper.tv">
+    <title>Сладки красоти със Силвия</title>
+  </programme>
+  <programme start="20241214195500 +0200" stop="20241214205400 +0200" channel="soulandpepper.tv">
+    <title>ПРЕМИЕРА: Chef Talent - специално издание</title>
+  </programme>
+  <programme start="20241214205400 +0200" stop="20241214212400 +0200" channel="soulandpepper.tv">
+    <title>Лекият път към вкуса - специално издание</title>
+  </programme>
+  <programme start="20241214212400 +0200" stop="20241214222300 +0200" channel="soulandpepper.tv">
+    <title>Chef Talent - детско кулинарно състезание</title>
+  </programme>
+  <programme start="20241214222300 +0200" stop="20241214232300 +0200" channel="soulandpepper.tv">
+    <title>Ястие на годината</title>
+  </programme>
+  <programme start="20241214232300 +0200" stop="20241215065400 +0200" channel="soulandpepper.tv">
+    <title>Лекият път към вкуса с Елена Петрелийска</title>
+  </programme>
+  <programme start="20241215065400 +0200" stop="20241215072400 +0200" channel="soulandpepper.tv">
+    <title>Красота в кухнята с Преслава</title>
+  </programme>
+  <programme start="20241215072400 +0200" stop="20241215075400 +0200" channel="soulandpepper.tv">
+    <title>Лекият път към вкуса - специално издание</title>
+  </programme>
+  <programme start="20241215075400 +0200" stop="20241215082500 +0200" channel="soulandpepper.tv">
+    <title>Стрийт Фууд: ХроНики и Гери</title>
+  </programme>
+  <programme start="20241215082500 +0200" stop="20241215092500 +0200" channel="soulandpepper.tv">
+    <title>Chef Talent - детско кулинарно състезание</title>
+  </programme>
+  <programme start="20241215092500 +0200" stop="20241215095400 +0200" channel="soulandpepper.tv">
+    <title>Сладки красоти със Силвия</title>
+  </programme>
+  <programme start="20241215095400 +0200" stop="20241215102400 +0200" channel="soulandpepper.tv">
+    <title>ТЕЛЕШОП</title>
+  </programme>
+  <programme start="20241215102400 +0200" stop="20241215112400 +0200" channel="soulandpepper.tv">
+    <title>ПРЕМИЕРА: Chef Talent - специално издание</title>
+  </programme>
+  <programme start="20241215112400 +0200" stop="20241215115400 +0200" channel="soulandpepper.tv">
+    <title>Лекият път към вкуса</title>
+  </programme>
+  <programme start="20241215115400 +0200" stop="20241215122400 +0200" channel="soulandpepper.tv">
+    <title>Комбинирай с Ани</title>
+  </programme>
+  <programme start="20241215122400 +0200" stop="20241215125500 +0200" channel="soulandpepper.tv">
+    <title>Chef Talent - детско кулинарно състезание</title>
+  </programme>
+  <programme start="20241215125500 +0200" stop="20241215135400 +0200" channel="soulandpepper.tv">
+    <title>Позабравеният вкус с Александър</title>
+  </programme>
+  <programme start="20241215135400 +0200" stop="20241215142400 +0200" channel="soulandpepper.tv">
+    <title>Beauty and the Feast с Айлин - еп. 11</title>
+  </programme>
+  <programme start="20241215142400 +0200" stop="20241215145500 +0200" channel="soulandpepper.tv">
+    <title>Храна по мярка с Лора и Стоян</title>
+  </programme>
+  <programme start="20241215145500 +0200" stop="20241215155400 +0200" channel="soulandpepper.tv">
+    <title>Chef Talent - детско кулинарно състезание</title>
+  </programme>
+  <programme start="20241215155400 +0200" stop="20241215162500 +0200" channel="soulandpepper.tv">
+    <title>Сладки красоти със Силвия</title>
+  </programme>
+  <programme start="20241215162500 +0200" stop="20241215165400 +0200" channel="soulandpepper.tv">
+    <title>ТЕЛЕШОП</title>
+  </programme>
+  <programme start="20241215165400 +0200" stop="20241215172400 +0200" channel="soulandpepper.tv">
+    <title>Добре опечени истории</title>
+  </programme>
+  <programme start="20241215172400 +0200" stop="20241215175400 +0200" channel="soulandpepper.tv">
+    <title>Красота в кухнята с Преслава</title>
+  </programme>
+  <programme start="20241215175400 +0200" stop="20241215182400 +0200" channel="soulandpepper.tv">
+    <title>Комбинирай с Ани</title>
+  </programme>
+  <programme start="20241215182400 +0200" stop="20241215195500 +0200" channel="soulandpepper.tv">
+    <title>Стрийт Фууд: ХроНики и Гери</title>
+  </programme>
+  <programme start="20241215195500 +0200" stop="20241215202300 +0200" channel="soulandpepper.tv">
+    <title>Ястие на годината</title>
+  </programme>
+  <programme start="20241215202300 +0200" stop="20241215205400 +0200" channel="soulandpepper.tv">
+    <title>Позабравеният вкус с Александър</title>
+  </programme>
+  <programme start="20241215205400 +0200" stop="20241215212400 +0200" channel="soulandpepper.tv">
+    <title>Храна по мярка с Лора и Стоян</title>
+  </programme>
+  <programme start="20241215212400 +0200" stop="20241215215400 +0200" channel="soulandpepper.tv">
+    <title>Сладки красоти със Силвия</title>
+  </programme>
+  <programme start="20241215215400 +0200" stop="20241215222300 +0200" channel="soulandpepper.tv">
+    <title>Комбинирай с Ани</title>
+  </programme>
+  <programme start="20241215222300 +0200" stop="20241215232300 +0200" channel="soulandpepper.tv">
+    <title>Chef Talent - детско кулинарно състезание</title>
+  </programme>
+  <programme start="20241215232300 +0200" stop="20241216065400 +0200" channel="soulandpepper.tv">
+    <title>Лекият път към вкуса - специално издание</title>
   </programme>
   <programme start="20241214000000 +0200" stop="20241214020000 +0200" channel="kitchen.tv">
     <title>RAS Televizija</title>
@@ -52810,132 +52380,132 @@
     <title>Futuro24</title>
   </programme>
   <programme start="20241214050000 +0200" stop="20241214060000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241214060000 +0200" stop="20241214070000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 2-я серия</title>
   </programme>
   <programme start="20241214070000 +0200" stop="20241214080000 +0200" channel="luxe.tv">
-    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241214080000 +0200" stop="20241214090000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 3-я серия</title>
   </programme>
   <programme start="20241214090000 +0200" stop="20241214100000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241214100000 +0200" stop="20241214110000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 4-я серия</title>
   </programme>
   <programme start="20241214110000 +0200" stop="20241214120000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241214120000 +0200" stop="20241214130000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241214130000 +0200" stop="20241214140000 +0200" channel="luxe.tv">
-    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
+    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241214140000 +0200" stop="20241214150000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 2-я серия</title>
   </programme>
   <programme start="20241214150000 +0200" stop="20241214160000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241214160000 +0200" stop="20241214170000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 3-я серия</title>
   </programme>
   <programme start="20241214170000 +0200" stop="20241214180000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241214180000 +0200" stop="20241214190000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 4-я серия</title>
   </programme>
   <programme start="20241214190000 +0200" stop="20241214200000 +0200" channel="luxe.tv">
-    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241214200000 +0200" stop="20241214210000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241214210000 +0200" stop="20241214220000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241214220000 +0200" stop="20241214230000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 2-я серия</title>
   </programme>
   <programme start="20241214230000 +0200" stop="20241215000000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241215000000 +0200" stop="20241215010000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 3-я серия</title>
   </programme>
   <programme start="20241215010000 +0200" stop="20241215020000 +0200" channel="luxe.tv">
-    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241215020000 +0200" stop="20241215030000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 4-я серия</title>
   </programme>
   <programme start="20241215030000 +0200" stop="20241215040000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241215040000 +0200" stop="20241215050000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241215050000 +0200" stop="20241215060000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241215060000 +0200" stop="20241215070000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 2-я серия</title>
   </programme>
   <programme start="20241215070000 +0200" stop="20241215080000 +0200" channel="luxe.tv">
-    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241215080000 +0200" stop="20241215090000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 3-я серия</title>
   </programme>
   <programme start="20241215090000 +0200" stop="20241215100000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241215100000 +0200" stop="20241215110000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 4-я серия</title>
   </programme>
   <programme start="20241215110000 +0200" stop="20241215120000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241215120000 +0200" stop="20241215130000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241215130000 +0200" stop="20241215140000 +0200" channel="luxe.tv">
-    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
+    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241215140000 +0200" stop="20241215150000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 2-я серия</title>
   </programme>
   <programme start="20241215150000 +0200" stop="20241215160000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241215160000 +0200" stop="20241215170000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 3-я серия</title>
   </programme>
   <programme start="20241215170000 +0200" stop="20241215180000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241215180000 +0200" stop="20241215190000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 4-я серия</title>
   </programme>
   <programme start="20241215190000 +0200" stop="20241215200000 +0200" channel="luxe.tv">
-    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241215200000 +0200" stop="20241215210000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241215210000 +0200" stop="20241215220000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241215220000 +0200" stop="20241215230000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 2-я серия</title>
   </programme>
   <programme start="20241215230000 +0200" stop="20241216000000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
   </programme>
 </tv>

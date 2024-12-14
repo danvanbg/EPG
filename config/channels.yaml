@@ -1756,6 +1756,15 @@
   - start.bg
   - dnes.bg
   
+- id: dstv.bg
+  days-ahead: 1
+  enabled: true
+  names:
+  - name: DSTV
+  - name: DSTV HD
+  sources:
+  - dstv.bg
+  
 - id: fentv.bg
   days-ahead: 1
   enabled: true
@@ -2357,6 +2366,7 @@
   sources:
   - tvguide.co.uk
   - programtv.onet.pl
+  - tvsporedi.si
   
 - id: bbcworldnews.com
   enabled: true
@@ -2369,6 +2379,7 @@
   sources:
   - tv24.co.uk
   - uksky.com
+  - tvsporedi.si
   - tv.sms.cz
   
 - id: trtworld.com
@@ -2544,6 +2555,14 @@
     lang: en
   sources:
   - waltdisney.bg
+  
+- id: soulandpepper.tv
+  enabled: true
+  names:
+  - name: Soul and Pepper HD
+  - name: Soul and Pepper
+  sources:
+  - soulandpepper.tv
   
 - id: kitchen.tv
   enabled: true
@@ -2978,7 +2997,7 @@
   groups: [ "kids" ]
   sources:
   - tv-programa.bg
-  - dnes.bg
+  - start.bg
   - tv.dir.bg
   
 - id: nicktoons.tv
@@ -2990,6 +3009,7 @@
   groups: [ "kids" ]
   sources:
   - tv-programa.bg
+  - start.bg
 
 - id: nick.tv
   enabled: true
@@ -3000,7 +3020,7 @@
   groups: [ "kids" ]
   sources:
   - tv-programa.bg
-  - dnes.bg
+  - start.bg
   - tv.dir.bg
   
 - id: jimjam.tv
