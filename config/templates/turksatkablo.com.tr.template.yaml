@@ -1,11 +1,11 @@
 ﻿---
 id: turksatkablo.com.tr
-enabled: true
 version: 1.0
 author: Hristo Genev
 date-format: epoch
 
 request:
+  http-timeout: 60
   url: https://www.turksatkablo.com.tr/userUpload/EPG/b.json?_=${date} 
     
 programs:

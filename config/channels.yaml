@@ -1550,6 +1550,7 @@
   groups: ["sport"]
   sources:
   - tv.dir.bg
+  - start.bg
   - dnes.bg
 
   
@@ -1565,8 +1566,19 @@
   - name: iConcerts HD
     lang: en
   sources:
+  - tvsporedi.si
   - programtv.onet.pl
   - start.bg
+  
+- id: mtveurope.com
+  enabled: true
+  days-ahead: 1
+  names:
+  - name: MTV
+  - name: MTV HD
+  sources:
+  - tvsporedi.si
+  - programtv.onet.pl
   
 - id: mtv80s.com
   enabled: true
@@ -1577,6 +1589,7 @@
   - name: MTV 80’s
     lang: en
   sources:
+  - tvsporedi.si
   - dnes.bg
   - programtv.onet.pl
   
@@ -1589,6 +1602,7 @@
   - name: MTV 90’s
     lang: en
   sources:
+  - tvsporedi.si
   - dnes.bg
   - programtv.onet.pl
 
@@ -1603,6 +1617,7 @@
   - name: VH1
     lang: en
   sources:
+  - tvsporedi.si
   - programtv.onet.pl
 
 
@@ -1615,6 +1630,7 @@
   - name: Club MTV HD
     lang: en
   sources:
+  - tvsporedi.si
   - dnes.bg
   - programtv.onet.pl
   
@@ -1625,9 +1641,9 @@
   - name: MTV Hits
     lang: en
   sources:
-  - dnes.bg
-  - tv.dir.bg
+  - tvsporedi.si
   - programtv.onet.pl
+  - tv.dir.bg
 
 - id: mtvlive.com
   days-ahead: 1
@@ -1638,6 +1654,7 @@
   - name: MTV Live HD
     lang: en
   sources:
+  - tvsporedi.si
   - dnes.bg
   - tv.dir.bg
   - programtv.onet.pl
@@ -2387,6 +2404,7 @@
   - tv.sms.cz
   - tvplus.com.tr
   - tvtoday.de
+  - tvsporedi.si
   
 - id: france24.fr
   enabled: true
@@ -2396,6 +2414,7 @@
     lang: en
   sources:
   - tvtoday.de
+  - tvsporedi.si
   
 - id: russiatoday.com
   enabled: false
@@ -2460,6 +2479,7 @@
   sources:
   - mts.rs
   - programtv.onet.pl
+  - tvsporedi.si
   
 - id: arirang.tv
   enabled: true
@@ -2759,6 +2779,7 @@
     lang: en
   sources:
   - tv24.co.uk
+  - tvsporedi.si
   
 - id: travelchannel.bg
   enabled: true
@@ -3584,6 +3605,7 @@
   groups: [ "oth" ]
   sources:
     - tvplus.com.tr
+    - tvsporedi.si
 
 - id: tve.es
   enabled: true
@@ -3654,6 +3676,7 @@
     lang: en
   groups: [ "xxx" ]
   sources:
+  - tvsporedi.si
   - programtv.onet.pl
   
 - id: hustlertv.com
@@ -3663,6 +3686,7 @@
     lang: en
   groups: [ "xxx" ]
   sources:
+  - tvsporedi.si
   - programtv.onet.pl
   
 - id: redlighttv.com
@@ -3681,6 +3705,7 @@
     lang: en
   groups: [ "xxx" ]
   sources:
+  - tvsporedi.si
   - programtv.onet.pl
   
 - id: brazzers.eu
@@ -3825,6 +3850,7 @@
   groups: [ "fr" ]
   sources:
   - ouest-france.fr
+  - tvsporedi.si
   
 - id: arte.fr
   enabled: true
@@ -3933,6 +3959,7 @@
   - name: Luxe TV HD
   - name: Luxe TV 4K
   sources:
+  - sporedi.tv
   - yandex.ru
   
 - id: ambience.tv

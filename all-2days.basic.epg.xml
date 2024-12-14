@@ -470,6 +470,10 @@
     <display-name lang="en">iConcerts</display-name>
     <display-name lang="en">iConcerts HD</display-name>
   </channel>
+  <channel id="mtveurope.com">
+    <display-name>MTV</display-name>
+    <display-name>MTV HD</display-name>
+  </channel>
   <channel id="mtv80s.com">
     <display-name lang="en">MTV 80s</display-name>
     <display-name lang="en">MTV 80’s</display-name>
@@ -8459,164 +8463,131 @@
   <programme start="20241215220000 +0200" stop="20241216080000 +0200" channel="ring.bg">
     <title>– Световно първенство по вдигане на тежести, мъже до 109+ кг, запис</title>
   </programme>
-  <programme start="20241214073000 +0200" stop="20241214093000 +0200" channel="maxsport1.bg">
-    <title>Евролига: Барселона - Олимпия Милано</title>
-  </programme>
   <programme start="20241214093000 +0200" stop="20241214113000 +0200" channel="maxsport1.bg">
-    <title>Волейбол - Шампионска лига: Веро Волей Милано - Калцит Камник</title>
+    <title>Волейбол: Тренто - Сада Крузейро Световно клубно първенство 2024г.</title>
   </programme>
-  <programme start="20241214113000 +0200" stop="20241214143000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Голф: Alfred Dunhill Championship</title>
-  </programme>
-  <programme start="20241214143000 +0200" stop="20241214163000 +0200" channel="maxsport1.bg">
+  <programme start="20241214113000 +0200" stop="20241214163000 +0200" channel="maxsport1.bg">
     <title>ПРЯКО, Голф: Alfred Dunhill Championship</title>
   </programme>
   <programme start="20241214163000 +0200" stop="20241214183000 +0200" channel="maxsport1.bg">
-    <title>Волейбол: Лубе Чивитанова - Ал Ахли</title>
+    <title>Волейбол: Лубе Чивитанова - Ал Ахли Световно клубно първенство 2024г.</title>
   </programme>
   <programme start="20241214183000 +0200" stop="20241214203000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Волейбол:</title>
+    <title>ПРЯКО, Волейбол: Световно клубно първенство 2024г., първи полуфинал</title>
   </programme>
   <programme start="20241214203000 +0200" stop="20241214210000 +0200" channel="maxsport1.bg">
-    <title>NFL: Обзор 14 кръг</title>
+    <title>NFL: Обзор 14 кръг Обзор 14 кръг</title>
   </programme>
   <programme start="20241214210000 +0200" stop="20241214220000 +0200" channel="maxsport1.bg">
-    <title>Скорост на Макс</title>
+    <title>"Скорост на Макс" Токшоу</title>
   </programme>
   <programme start="20241214220000 +0200" stop="20241215000000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Волейбол:</title>
+    <title>ПРЯКО, Волейбол: Световно клубно първенство 2024г., втори полуфинал</title>
   </programme>
-  <programme start="20241215000000 +0200" stop="20241215020000 +0200" channel="maxsport1.bg">
-    <title>Евролига: Цървена Звезда - Олимпиакос</title>
+  <programme start="20241215000000 +0200" stop="20241215030000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, NHL: Торонто Мейпъл Лийфс - Бъфало Сейбърс Торонто Мейпъл Лийфс - Бъфало Сейбърс</title>
   </programme>
-  <programme start="20241215020000 +0200" stop="20241215023000 +0200" channel="maxsport1.bg">
-    <title>Trans World Sport</title>
+  <programme start="20241215030000 +0200" stop="20241215040000 +0200" channel="maxsport1.bg">
+    <title>"Скорост на Макс" Токшоу</title>
   </programme>
-  <programme start="20241215023000 +0200" stop="20241215033000 +0200" channel="maxsport1.bg">
-    <title>ATP: Обзор на сезона</title>
-  </programme>
-  <programme start="20241215033000 +0200" stop="20241215063000 +0200" channel="maxsport1.bg">
-    <title>Nascar Cup Series: Състезание в Канзас Сити</title>
-  </programme>
-  <programme start="20241215063000 +0200" stop="20241215073000 +0200" channel="maxsport1.bg">
-    <title>Nascar Cup Series: Състезание в Канзас Сити</title>
-  </programme>
-  <programme start="20241215073000 +0200" stop="20241215093000 +0200" channel="maxsport1.bg">
-    <title>Волейбол:</title>
+  <programme start="20241215040000 +0200" stop="20241215093000 +0200" channel="maxsport1.bg">
+    <title>Nascar Cup Series: Състезание в Южна Каролина Състезание в Южна Каролина</title>
   </programme>
   <programme start="20241215093000 +0200" stop="20241215113000 +0200" channel="maxsport1.bg">
-    <title>Волейбол:</title>
+    <title>Волейбол: Световно клубно първенство 2024г., втори полуфинал</title>
   </programme>
-  <programme start="20241215113000 +0200" stop="20241215143000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Голф: Alfred Dunhill Championship</title>
-  </programme>
-  <programme start="20241215143000 +0200" stop="20241215163000 +0200" channel="maxsport1.bg">
+  <programme start="20241215113000 +0200" stop="20241215163000 +0200" channel="maxsport1.bg">
     <title>ПРЯКО, Голф: Alfred Dunhill Championship</title>
   </programme>
   <programme start="20241215163000 +0200" stop="20241215183000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Волейбол:</title>
+    <title>ПРЯКО, Волейбол: Световно клубно първенство 2024г., среща за трето място</title>
   </programme>
   <programme start="20241215183000 +0200" stop="20241215193000 +0200" channel="maxsport1.bg">
     <title>Trans World Sport</title>
   </programme>
   <programme start="20241215193000 +0200" stop="20241215213000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Волейбол:</title>
+    <title>ПРЯКО, Волейбол: Световно клубно първенство 2024г., финал</title>
   </programme>
   <programme start="20241215213000 +0200" stop="20241215233000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Волейбол - Серия А1: Модена - Пиаченца</title>
+    <title>ПРЯКО, Волейбол - Серия А1: Модена - Пиаченца Модена - Пиаченца</title>
   </programme>
   <programme start="20241215233000 +0200" stop="20241216000000 +0200" channel="maxsport1.bg">
-    <title>Евролига: Обзор 15 кръг</title>
-  </programme>
-  <programme start="20241214060000 +0200" stop="20241214090000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Cage Warriors 182: Галавечер от Сан Диего</title>
+    <title>Евролига: Обзор 15 кръг Обзор 15 кръг</title>
   </programme>
   <programme start="20241214090000 +0200" stop="20241214110000 +0200" channel="maxsport2.bg">
-    <title>Волейбол - СуперЛига: Левски - Локомотив Авиа</title>
+    <title>Волейбол - СуперЛига: Левски - Локомотив Авиа 10 кръг Левски - Локомотив Авиа</title>
   </programme>
   <programme start="20241214110000 +0200" stop="20241214131500 +0200" channel="maxsport2.bg">
-    <title>Волейбол: Лубе Чивитанова - Ал Ахли</title>
+    <title>Волейбол: Лубе Чивитанова - Ал Ахли Световно клубно първенство 2024г.</title>
   </programme>
   <programme start="20241214131500 +0200" stop="20241214151500 +0200" channel="maxsport2.bg">
-    <title>Евролига: Цървена Звезда - Олимпиакос</title>
+    <title>Евролига: Цървена Звезда - Олимпиакос 15 кръг Цървена Звезда - Олимпиакос</title>
   </programme>
   <programme start="20241214151500 +0200" stop="20241214171500 +0200" channel="maxsport2.bg">
-    <title>NHL: Каролина Хърикейнс - Отава Сенатърс</title>
+    <title>NHL: Каролина Хърикейнс - Отава Сенатърс Каролина Хърикейнс - Отава Сенатърс</title>
   </programme>
   <programme start="20241214171500 +0200" stop="20241214181500 +0200" channel="maxsport2.bg">
-    <title>Световен рали шампионат: Обзор на сезона</title>
+    <title>Световен рали шампионат 2: Обзор на сезона Обзор на сезона</title>
   </programme>
   <programme start="20241214181500 +0200" stop="20241214184500 +0200" channel="maxsport2.bg">
-    <title>Удар със стик</title>
+    <title>"Удар със стик" 61 епизод</title>
   </programme>
   <programme start="20241214184500 +0200" stop="20241214190000 +0200" channel="maxsport2.bg">
     <title>ПРЯКО, Студио "Волейбол"</title>
   </programme>
   <programme start="20241214190000 +0200" stop="20241214210000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Волейбол - СуперЛига: Нефтохимик - Монтана</title>
+    <title>ПРЯКО, Волейбол - СуперЛига: Нефтохимик - Монтана 10 кръг Нефтохимик - Монтана</title>
   </programme>
   <programme start="20241214210000 +0200" stop="20241214230000 +0200" channel="maxsport2.bg">
-    <title>NHL: Ванкувър Кенъкс - Флорида Пантърс</title>
+    <title>NHL: Ванкувър Кенъкс - Флорида Пантърс Ванкувър Кенъкс - Флорида Пантърс</title>
   </programme>
-  <programme start="20241214230000 +0200" stop="20241215020000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, NHL: Едмънтън Ойлърс - Вегас Голдън Найтс</title>
+  <programme start="20241214230000 +0200" stop="20241215023000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, NHL: Едмънтън Ойлърс - Вегас Голдън Найтс Едмънтън Ойлърс - Вегас Голдън Найтс</title>
   </programme>
-  <programme start="20241215020000 +0200" stop="20241215050000 +0200" channel="maxsport2.bg">
-    <title>UFC 310: Пантожа срещу Асакура</title>
-  </programme>
-  <programme start="20241215050000 +0200" stop="20241215080000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, UFC Fight Night: Ковингтън срещу Бъкли</title>
-  </programme>
-  <programme start="20241215080000 +0200" stop="20241215101500 +0200" channel="maxsport2.bg">
-    <title>Евролига: Барселона - Олимпия Милано</title>
+  <programme start="20241215023000 +0200" stop="20241215101500 +0200" channel="maxsport2.bg">
+    <title>UFC Fight Night: Ковингтън срещу Бъкли Колби Ковингтън срещу Йоакин Бъкли</title>
   </programme>
   <programme start="20241215101500 +0200" stop="20241215123000 +0200" channel="maxsport2.bg">
-    <title>Волейбол - СуперЛига: Нефтохимик - Монтана</title>
+    <title>Волейбол - СуперЛига: Нефтохимик - Монтана 10 кръг Нефтохимик - Монтана</title>
   </programme>
   <programme start="20241215123000 +0200" stop="20241215130000 +0200" channel="maxsport2.bg">
     <title>ПРЯКО, Студио "Баскетбол"</title>
   </programme>
   <programme start="20241215130000 +0200" stop="20241215150000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Национална баскетболна лига: Спартак - Рилски Спортист</title>
+    <title>ПРЯКО, Национална баскетболна лига: Спартак - Рилски Спортист Спартак - Рилски Спортист</title>
   </programme>
   <programme start="20241215150000 +0200" stop="20241215151500 +0200" channel="maxsport2.bg">
     <title>ПРЯКО, Студио "Баскетбол"</title>
   </programme>
   <programme start="20241215151500 +0200" stop="20241215160000 +0200" channel="maxsport2.bg">
-    <title>Trans World Sport</title>
+    <title>Trans World Sport 50 епизод</title>
   </programme>
   <programme start="20241215160000 +0200" stop="20241215180000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Серия А: Парма - Верона</title>
+    <title>ПРЯКО, Серия А: Парма - Верона 16 кръг</title>
   </programme>
   <programme start="20241215180000 +0200" stop="20241215190000 +0200" channel="maxsport2.bg">
-    <title>Удар със стик</title>
+    <title>"Удар със стик" 62 епизод</title>
   </programme>
   <programme start="20241215190000 +0200" stop="20241215193000 +0200" channel="maxsport2.bg">
-    <title>Евролига: Обзор 15 кръг</title>
+    <title>Евролига: Обзор 15 кръг 15 кръг Обзор 15 кръг</title>
   </programme>
   <programme start="20241215193000 +0200" stop="20241215200000 +0200" channel="maxsport2.bg">
-    <title>NFL: Обзор 14 кръг</title>
+    <title>NFL: Обзор 14 кръг 14 кръг Обзор 14 кръг</title>
   </programme>
-  <programme start="20241215200000 +0200" stop="20241215230000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, NFL: Хюстън Тексънс - Маями Долфинс</title>
+  <programme start="20241215200000 +0200" stop="20241215232000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, NFL: Хюстън Тексънс - Маями Долфинс 15 кръг Хюстън Тексънс - Маями Долфинс</title>
   </programme>
-  <programme start="20241215230000 +0200" stop="20241215232000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, NFL: Хюстън Тексънс - Маями Долфинс</title>
-  </programme>
-  <programme start="20241215232000 +0200" stop="20241216022000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, NFL: Детройт Лайънс - Бъфало Билс</title>
-  </programme>
-  <programme start="20241214063000 +0200" stop="20241214073000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Лига Европа и Лига на конференциите: Обзор на кръга</title>
+  <programme start="20241215232000 +0200" stop="20241216013000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, NFL: Детройт Лайънс - Бъфало Билс 15 кръг Детройт Лайънс - Бъфало Билс</title>
   </programme>
   <programme start="20241214073000 +0200" stop="20241214093000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Лига на конференциите: Астана - Челси</title>
+    <title>УЕФА Лига на конференциите: Астана - Челси Пети кръг</title>
   </programme>
   <programme start="20241214093000 +0200" stop="20241214113000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Лига Европа: ПАОК - Ференцварош</title>
+    <title>УЕФА Лига Европа: ПАОК - Ференцварош Шести кръг</title>
   </programme>
   <programme start="20241214113000 +0200" stop="20241214133000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Лига Европа: Аякс - Лацио</title>
+    <title>УЕФА Лига Европа: Аякс - Лацио Шести кръг</title>
   </programme>
   <programme start="20241214133000 +0200" stop="20241214153000 +0200" channel="maxsport3.bg">
     <title>Серия А: Емполи - Торино</title>
@@ -8645,23 +8616,20 @@
   <programme start="20241214234500 +0200" stop="20241215000000 +0200" channel="maxsport3.bg">
     <title>ПРЯКО, Студио "Футбол"</title>
   </programme>
-  <programme start="20241215000000 +0200" stop="20241215020000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Шампионска лига: Жирона - Ливърпул</title>
+  <programme start="20241215000000 +0200" stop="20241215010000 +0200" channel="maxsport3.bg">
+    <title>"УЕФА Лига Европа и Лига на конференциите" Магазинно предаване</title>
   </programme>
-  <programme start="20241215020000 +0200" stop="20241215040000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Удинезе - Наполи</title>
+  <programme start="20241215010000 +0200" stop="20241215030000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Комо - Рома</title>
   </programme>
-  <programme start="20241215040000 +0200" stop="20241215060000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Ювентус - Венеция</title>
-  </programme>
-  <programme start="20241215060000 +0200" stop="20241215080000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Каляри - Аталанта</title>
+  <programme start="20241215030000 +0200" stop="20241215080000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Милан - Дженоа</title>
   </programme>
   <programme start="20241215080000 +0200" stop="20241215100000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Лига Европа: Лион - Айнтрахт Франкфурт</title>
+    <title>УЕФА Лига Европа: Лион - Айнтрахт Франкфурт Шести кръг</title>
   </programme>
   <programme start="20241215100000 +0200" stop="20241215110000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Лига Европа и Лига на конференциите: Обзор на кръга</title>
+    <title>УЕФА Лига Европа и Лига на конференциите: Обзор на кръга Обзор на кръга</title>
   </programme>
   <programme start="20241215110000 +0200" stop="20241215130000 +0200" channel="maxsport3.bg">
     <title>Серия А: Удинезе - Наполи</title>
@@ -13514,251 +13482,158 @@
   <programme start="20241215233000 +0200" stop="20241216000000 +0200" channel="fueltv.com">
     <title lang="bg">Drive Thru Europe</title>
   </programme>
-  <programme start="20241214001000 +0200" stop="20241214010000 +0200" channel="iconcert.stingray.com">
-    <title>Dragon Ball, odc. 74</title>
+  <programme start="20241214141500 +0200" stop="20241214153000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова (повторение)</title>
   </programme>
-  <programme start="20241214010000 +0200" stop="20241214014000 +0200" channel="iconcert.stingray.com">
-    <title>Dragon Ball, odc. 75</title>
+  <programme start="20241214153000 +0200" stop="20241214160000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">Документален филм</title>
   </programme>
-  <programme start="20241214014000 +0200" stop="20241214023000 +0200" channel="iconcert.stingray.com">
-    <title>World Trigger, odc. 37</title>
+  <programme start="20241214160000 +0200" stop="20241214170000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">"Общество и право" - с водещ адвокат Христиан Митев</title>
   </programme>
-  <programme start="20241214023000 +0200" stop="20241214031500 +0200" channel="iconcert.stingray.com">
-    <title>World Trigger, odc. 1</title>
+  <programme start="20241214170000 +0200" stop="20241214180000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">"Час по България" (повторение)</title>
   </programme>
-  <programme start="20241214031500 +0200" stop="20241214035500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Marvel's Spider-Man Miles Morales, część 10</title>
+  <programme start="20241214180000 +0200" stop="20241214190000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване</title>
   </programme>
-  <programme start="20241214035500 +0200" stop="20241214043000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Life is Strange: True Colors, część 6</title>
+  <programme start="20241214190000 +0200" stop="20241214193000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">Фолклорни ритми</title>
   </programme>
-  <programme start="20241214043000 +0200" stop="20241214052000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Command and Conquer Remastered, część 4</title>
+  <programme start="20241214193000 +0200" stop="20241214195000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
   </programme>
-  <programme start="20241214052000 +0200" stop="20241214055000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Legion Samobójców: Śmierć Lidze Sprawiedliwości, część 7</title>
+  <programme start="20241214195000 +0200" stop="20241214200000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">Другата история</title>
   </programme>
-  <programme start="20241214055000 +0200" stop="20241214063000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: The Last of Us Part 2, część 7</title>
+  <programme start="20241214200000 +0200" stop="20241214220000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">"От българско, по- българско" - с Галя Асенова</title>
   </programme>
-  <programme start="20241214063000 +0200" stop="20241214065000 +0200" channel="iconcert.stingray.com">
-    <title>Let's Replay: Crossout, część 5</title>
+  <programme start="20241214220000 +0200" stop="20241214223000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">Късна емисия Новини, Другата история</title>
   </programme>
-  <programme start="20241214065000 +0200" stop="20241214071000 +0200" channel="iconcert.stingray.com">
-    <title>Let's Replay: The Artful Escape</title>
+  <programme start="20241214223000 +0200" stop="20241215000000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
   </programme>
-  <programme start="20241214071000 +0200" stop="20241214074000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Solar Ash, część 21</title>
+  <programme start="20241215000000 +0200" stop="20241215002000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">Новини. Прогноза за времето (повторение)</title>
   </programme>
-  <programme start="20241214074000 +0200" stop="20241214081500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Solar Ash, część 22</title>
+  <programme start="20241215002000 +0200" stop="20241215003000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">Другата история</title>
   </programme>
-  <programme start="20241214081500 +0200" stop="20241214084500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Solar Ash, część 23</title>
+  <programme start="20241215003000 +0200" stop="20241215013000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">Час по България - с водещ проф. Пламен Павлов (повторение)</title>
   </programme>
-  <programme start="20241214084500 +0200" stop="20241214091500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Solar Ash, część 24</title>
+  <programme start="20241215013000 +0200" stop="20241215030000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">Ако зажалиш - стари градски песни с Бони Милчева (повторение)</title>
   </programme>
-  <programme start="20241214091500 +0200" stop="20241214095000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Need For Speed: Unbound, część 1</title>
+  <programme start="20241215030000 +0200" stop="20241215040000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">Гледна точка - с Александрина Димитрова (повторение)</title>
   </programme>
-  <programme start="20241214095000 +0200" stop="20241214102000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Need For Speed: Unbound, część 2</title>
+  <programme start="20241215040000 +0200" stop="20241215141500 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">"Разбулване" (повторение)</title>
   </programme>
-  <programme start="20241214102000 +0200" stop="20241214105500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Need For Speed: Unbound, część 3</title>
+  <programme start="20241215141500 +0200" stop="20241215153000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">"Гледна точка" - с водещ Александрина Димитрова (повторение)</title>
   </programme>
-  <programme start="20241214105500 +0200" stop="20241214112500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Need For Speed: Unbound, część 4</title>
+  <programme start="20241215153000 +0200" stop="20241215160000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">Документален филм</title>
   </programme>
-  <programme start="20241214112500 +0200" stop="20241214115500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Need For Speed: Unbound, część 5</title>
+  <programme start="20241215160000 +0200" stop="20241215170000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">"Общество и право" - с водещ адвокат Христиан Митев</title>
   </programme>
-  <programme start="20241214115500 +0200" stop="20241214123500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Need For Speed: Unbound, część 6</title>
+  <programme start="20241215170000 +0200" stop="20241215180000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">"Час по България" (повторение)</title>
   </programme>
-  <programme start="20241214123500 +0200" stop="20241214130500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Monster Hunter: Rise, część 1</title>
+  <programme start="20241215180000 +0200" stop="20241215190000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">"Видимо и невидимо" - публицистично предаване</title>
   </programme>
-  <programme start="20241214130500 +0200" stop="20241214133500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Monster Hunter: Rise, część 2</title>
+  <programme start="20241215190000 +0200" stop="20241215193000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">Фолклорни ритми</title>
   </programme>
-  <programme start="20241214133500 +0200" stop="20241214141000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Monster Hunter: Rise, część 3</title>
+  <programme start="20241215193000 +0200" stop="20241215195000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">Новини - централна информационна емисия на ТВ "СКАТ"</title>
   </programme>
-  <programme start="20241214141000 +0200" stop="20241214144000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Monster Hunter: Rise, część 4</title>
+  <programme start="20241215195000 +0200" stop="20241215200000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">Другата история</title>
   </programme>
-  <programme start="20241214144000 +0200" stop="20241214151000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Monster Hunter: Rise, część 5</title>
+  <programme start="20241215200000 +0200" stop="20241215220000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">"От българско, по- българско" - с Галя Асенова</title>
   </programme>
-  <programme start="20241214151000 +0200" stop="20241214154000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Monster Hunter: Rise, część 6</title>
+  <programme start="20241215220000 +0200" stop="20241215223000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">Късна емисия Новини, Другата история</title>
   </programme>
-  <programme start="20241214154000 +0200" stop="20241214160500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Two Point Campus, część 1</title>
+  <programme start="20241215223000 +0200" stop="20241216000000 +0200" channel="iconcert.stingray.com">
+    <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
   </programme>
-  <programme start="20241214160500 +0200" stop="20241214163500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Two Point Campus, część 2</title>
+  <programme start="20241214042000 +0200" stop="20241214070000 +0200" channel="mtveurope.com">
+    <title>M is for Music</title>
   </programme>
-  <programme start="20241214163500 +0200" stop="20241214170500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Two Point Campus, część 3</title>
+  <programme start="20241214070000 +0200" stop="20241214103000 +0200" channel="mtveurope.com">
+    <title>M is for Music</title>
   </programme>
-  <programme start="20241214170500 +0200" stop="20241214174500 +0200" channel="iconcert.stingray.com">
-    <title>World of Tanks Gametoon Arena 2: 3. kwalifikacje, część 2</title>
+  <programme start="20241214103000 +0200" stop="20241214111000 +0200" channel="mtveurope.com">
+    <title>Teen Mom OG 8, odc. 11: Handle with Care</title>
   </programme>
-  <programme start="20241214174500 +0200" stop="20241214180000 +0200" channel="iconcert.stingray.com">
-    <title>Mistrzostwa Dziennikarzy Digital Motorsport 2021</title>
+  <programme start="20241214111000 +0200" stop="20241214115500 +0200" channel="mtveurope.com">
+    <title>Teen Mom OG 8, odc. 12: The Weight of the World</title>
   </programme>
-  <programme start="20241214180000 +0200" stop="20241214185500 +0200" channel="iconcert.stingray.com">
-    <title>Dragon Ball, odc. 70</title>
+  <programme start="20241214115500 +0200" stop="20241214124000 +0200" channel="mtveurope.com">
+    <title>Teen Mom OG 8, odc. 13: Decisions, Decisions</title>
   </programme>
-  <programme start="20241214185500 +0200" stop="20241214193500 +0200" channel="iconcert.stingray.com">
-    <title>Dragon Ball, odc. 71</title>
+  <programme start="20241214124000 +0200" stop="20241214132500 +0200" channel="mtveurope.com">
+    <title>Catfish: The TV Show 8, odc. 3: Sparkayla &amp; Maritha</title>
   </programme>
-  <programme start="20241214193500 +0200" stop="20241214201000 +0200" channel="iconcert.stingray.com">
-    <title>Dragon Ball, odc. 72</title>
+  <programme start="20241214132500 +0200" stop="20241214141000 +0200" channel="mtveurope.com">
+    <title>Catfish: The TV Show 8, odc. 4: Jesus &amp; Alexis</title>
   </programme>
-  <programme start="20241214201000 +0200" stop="20241214204000 +0200" channel="iconcert.stingray.com">
-    <title>World Trigger, odc. 33</title>
+  <programme start="20241214141000 +0200" stop="20241214145000 +0200" channel="mtveurope.com">
+    <title>Dallas Cowboys Cheerleaders 11, odc. 5: Big Surprises</title>
   </programme>
-  <programme start="20241214204000 +0200" stop="20241214211500 +0200" channel="iconcert.stingray.com">
-    <title>World Trigger, odc. 34</title>
+  <programme start="20241214145000 +0200" stop="20241214153000 +0200" channel="mtveurope.com">
+    <title>Dallas Cowboys Cheerleaders 11, odc. 6: Dance Intervention</title>
   </programme>
-  <programme start="20241214211500 +0200" stop="20241214214500 +0200" channel="iconcert.stingray.com">
-    <title>World Trigger, odc. 35</title>
+  <programme start="20241214153000 +0200" stop="20241214155000 +0200" channel="mtveurope.com">
+    <title>Ridiculousness 32, odc. 27: Sterling and Nina Agdal XI</title>
   </programme>
-  <programme start="20241214214500 +0200" stop="20241214222000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Lego Gwiezdne Wojny: Saga Skywalkerów, część 1</title>
+  <programme start="20241214155000 +0200" stop="20241214161000 +0200" channel="mtveurope.com">
+    <title>Ridiculousness 32, odc. 29: Sterling and Lolo Wood XI</title>
   </programme>
-  <programme start="20241214222000 +0200" stop="20241214225500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Lego Gwiezdne Wojny: Saga Skywalkerów, część 2</title>
+  <programme start="20241214161000 +0200" stop="20241214165500 +0200" channel="mtveurope.com">
+    <title>Help! I'm in a Secret Relationship! 2, odc. 18: Joe &amp; Phi</title>
   </programme>
-  <programme start="20241214225500 +0200" stop="20241214232500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Lego Gwiezdne Wojny: Saga Skywalkerów, część 3</title>
+  <programme start="20241214165500 +0200" stop="20241214174500 +0200" channel="mtveurope.com">
+    <title>Catfish: The TV Show 7, odc. 24: Shakinah &amp; Chris</title>
   </programme>
-  <programme start="20241214232500 +0200" stop="20241215000000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Lego Gwiezdne Wojny: Saga Skywalkerów, część 4</title>
+  <programme start="20241214174500 +0200" stop="20241214183000 +0200" channel="mtveurope.com">
+    <title>Catfish: The TV Show 7, odc. 30: Kristina &amp; Faith</title>
   </programme>
-  <programme start="20241215000000 +0200" stop="20241215020000 +0200" channel="iconcert.stingray.com">
-    <title>Irlandzki numer</title>
+  <programme start="20241214183000 +0200" stop="20241214191000 +0200" channel="mtveurope.com">
+    <title>Catfish: The TV Show 7, odc. 13: Angel &amp; Jordan</title>
   </programme>
-  <programme start="20241215020000 +0200" stop="20241215031500 +0200" channel="iconcert.stingray.com">
-    <title>World of Tanks Gametoon Arena 2: 3. kwalifikacje, część 3</title>
+  <programme start="20241214191000 +0200" stop="20241214200000 +0200" channel="mtveurope.com">
+    <title>Catfish: The TV Show 7, odc. 38: Tristyn &amp; Lara</title>
   </programme>
-  <programme start="20241215031500 +0200" stop="20241215041500 +0200" channel="iconcert.stingray.com">
-    <title>World of Tanks Gametoon Arena 2: 4. kwalifikacje, część 1</title>
+  <programme start="20241214200000 +0200" stop="20241214204500 +0200" channel="mtveurope.com">
+    <title>Catfish: The TV Show 8, odc. 3: Sparkayla &amp; Maritha</title>
   </programme>
-  <programme start="20241215041500 +0200" stop="20241215044500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Black Myth Wukong, część 1</title>
+  <programme start="20241214204500 +0200" stop="20241214213000 +0200" channel="mtveurope.com">
+    <title>Caught In The Act: Unfaithful 2, odc. 9: Dropping All Kinds of Eggplants</title>
   </programme>
-  <programme start="20241215044500 +0200" stop="20241215051500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Black Myth Wukong, część 2</title>
+  <programme start="20241214213000 +0200" stop="20241214215000 +0200" channel="mtveurope.com">
+    <title>Ridiculousness 27, odc. 33: Chanel and Sterling DXLII</title>
   </programme>
-  <programme start="20241215051500 +0200" stop="20241215054000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Black Myth Wukong, część 3</title>
+  <programme start="20241214215000 +0200" stop="20241214221500 +0200" channel="mtveurope.com">
+    <title>Ridiculousness 27, odc. 34: Chanel and Sterling DXLIII</title>
   </programme>
-  <programme start="20241215054000 +0200" stop="20241215061000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Black Myth Wukong, część 4</title>
+  <programme start="20241214221500 +0200" stop="20241214224000 +0200" channel="mtveurope.com">
+    <title>Ridiculousness 27, odc. 36: Chanel and Sterling DXLV</title>
   </programme>
-  <programme start="20241215061000 +0200" stop="20241215064000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Black Myth Wukong, część 5</title>
+  <programme start="20241214224000 +0200" stop="20241214230000 +0200" channel="mtveurope.com">
+    <title>Ridiculousness 27, odc. 38: Julian Edelman</title>
   </programme>
-  <programme start="20241215064000 +0200" stop="20241215070500 +0200" channel="iconcert.stingray.com">
-    <title>Pixel Heaven 2021</title>
-  </programme>
-  <programme start="20241215070500 +0200" stop="20241215073500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Lego 2k Drive, część 21</title>
-  </programme>
-  <programme start="20241215073500 +0200" stop="20241215080500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Lego 2k Drive, część 22</title>
-  </programme>
-  <programme start="20241215080500 +0200" stop="20241215084000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Lego 2k Drive, część 23</title>
-  </programme>
-  <programme start="20241215084000 +0200" stop="20241215091500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Lego 2k Drive, część 24</title>
-  </programme>
-  <programme start="20241215091500 +0200" stop="20241215095000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: House Flipper 2, część 6</title>
-  </programme>
-  <programme start="20241215095000 +0200" stop="20241215102000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: House Flipper 2, część 7</title>
-  </programme>
-  <programme start="20241215102000 +0200" stop="20241215105000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: House Flipper 2, część 8</title>
-  </programme>
-  <programme start="20241215105000 +0200" stop="20241215112000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: House Flipper 2, część 9</title>
-  </programme>
-  <programme start="20241215112000 +0200" stop="20241215115000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: House Flipper 2, część 10</title>
-  </programme>
-  <programme start="20241215115000 +0200" stop="20241215122000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Hogwart's Legacy, część 1</title>
-  </programme>
-  <programme start="20241215122000 +0200" stop="20241215125000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Hogwart's Legacy, część 2</title>
-  </programme>
-  <programme start="20241215125000 +0200" stop="20241215132000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Hogwarts Legacy, część 3</title>
-  </programme>
-  <programme start="20241215132000 +0200" stop="20241215135000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Hogwarts Legacy, część 4</title>
-  </programme>
-  <programme start="20241215135000 +0200" stop="20241215141500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Hogwarts Legacy, część 5</title>
-  </programme>
-  <programme start="20241215141500 +0200" stop="20241215145000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Hogwarts Legacy, część 6</title>
-  </programme>
-  <programme start="20241215145000 +0200" stop="20241215153500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: No Man's Sky, część 6</title>
-  </programme>
-  <programme start="20241215153500 +0200" stop="20241215162000 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: No Man's Sky, część 7</title>
-  </programme>
-  <programme start="20241215162000 +0200" stop="20241215170500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: No Man's Sky, część 8</title>
-  </programme>
-  <programme start="20241215170500 +0200" stop="20241215173500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Cooking Simulator, część 1</title>
-  </programme>
-  <programme start="20241215173500 +0200" stop="20241215180500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Cooking Simulator, część 2</title>
-  </programme>
-  <programme start="20241215180500 +0200" stop="20241215184500 +0200" channel="iconcert.stingray.com">
-    <title>Dragon Ball, odc. 73</title>
-  </programme>
-  <programme start="20241215184500 +0200" stop="20241215192000 +0200" channel="iconcert.stingray.com">
-    <title>Dragon Ball, odc. 74</title>
-  </programme>
-  <programme start="20241215192000 +0200" stop="20241215200000 +0200" channel="iconcert.stingray.com">
-    <title>Dragon Ball, odc. 75</title>
-  </programme>
-  <programme start="20241215200000 +0200" stop="20241215203000 +0200" channel="iconcert.stingray.com">
-    <title>World Trigger, odc. 36</title>
-  </programme>
-  <programme start="20241215203000 +0200" stop="20241215210000 +0200" channel="iconcert.stingray.com">
-    <title>World Trigger, odc. 37</title>
-  </programme>
-  <programme start="20241215210000 +0200" stop="20241215213000 +0200" channel="iconcert.stingray.com">
-    <title>World Trigger, odc. 1</title>
-  </programme>
-  <programme start="20241215213000 +0200" stop="20241215220500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Lego Gwiezdne Wojny: Saga Skywalkerów, część 5</title>
-  </programme>
-  <programme start="20241215220500 +0200" stop="20241215223500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Lego Gwiezdne Wojny: Saga Skywalkerów, część 6</title>
-  </programme>
-  <programme start="20241215223500 +0200" stop="20241215230500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: Lego Gwiezdne Wojny: Saga Skywalkerów, część 7</title>
-  </programme>
-  <programme start="20241215230500 +0200" stop="20241215233500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: The Artful Escape, część 5</title>
-  </programme>
-  <programme start="20241215233500 +0200" stop="20241216000500 +0200" channel="iconcert.stingray.com">
-    <title>Stream Nation: The Artful Escape, część 6</title>
+  <programme start="20241214230000 +0200" channel="mtveurope.com">
+    <title>The Challenge 40, odc. 13</title>
   </programme>
   <programme start="20241214040000 +0200" stop="20241214080000 +0200" channel="mtv80s.com">
     <title>I Want My MTV 80s!</title>
@@ -13767,19 +13642,19 @@
     <title>I Want My MTV 80s!</title>
   </programme>
   <programme start="20241214110000 +0200" stop="20241214160000 +0200" channel="mtv80s.com">
-    <title>Jason Donovan's Especially For</title>
+    <title>Madonna x MJ x Whitney x Prince!</title>
   </programme>
   <programme start="20241214160000 +0200" stop="20241214170000 +0200" channel="mtv80s.com">
-    <title>Let's Hear It For The Girls!</title>
+    <title>Christmas In The 80s!</title>
   </programme>
   <programme start="20241214170000 +0200" stop="20241214220000 +0200" channel="mtv80s.com">
-    <title>Andrew Ridgeley Presents 50</title>
+    <title>Jason Donovan's Especially For</title>
   </programme>
   <programme start="20241214220000 +0200" stop="20241214230000 +0200" channel="mtv80s.com">
     <title>I Want My MTV 80s!</title>
   </programme>
   <programme start="20241214230000 +0200" channel="mtv80s.com">
-    <title>Madonna x MJ x Whitney x Prince!</title>
+    <title>Top 50 Greatest 80s Hits At Xmas!</title>
   </programme>
   <programme start="20241214050000 +0200" stop="20241214080000 +0200" channel="mtv90s.com">
     <title>Ultimate 90s Playlist!</title>
@@ -13788,16 +13663,19 @@
     <title>Girl Power Hour!</title>
   </programme>
   <programme start="20241214090000 +0200" stop="20241214120000 +0200" channel="mtv90s.com">
-    <title>Mmm Bop! Perfect Pop</title>
+    <title>Smells Like... The 90s!</title>
   </programme>
-  <programme start="20241214120000 +0200" stop="20241214160000 +0200" channel="mtv90s.com">
-    <title>Top 50 Biggest Albums Of The 90s!</title>
+  <programme start="20241214120000 +0200" stop="20241214150000 +0200" channel="mtv90s.com">
+    <title>Boys vs Girls: 90s Hits!</title>
+  </programme>
+  <programme start="20241214150000 +0200" stop="20241214160000 +0200" channel="mtv90s.com">
+    <title>Alternative Nation!</title>
   </programme>
   <programme start="20241214160000 +0200" stop="20241214190000 +0200" channel="mtv90s.com">
-    <title>2 For 1: 90s Double Drop!</title>
+    <title>Mmm Bop! Perfect Pop</title>
   </programme>
   <programme start="20241214190000 +0200" stop="20241214220000 +0200" channel="mtv90s.com">
-    <title>MTV 90s @ The Movies!</title>
+    <title>Non-Stop Europop!</title>
   </programme>
   <programme start="20241214220000 +0200" stop="20241214230000 +0200" channel="mtv90s.com">
     <title>Alternative Nation!</title>
@@ -13805,14 +13683,17 @@
   <programme start="20241214230000 +0200" channel="mtv90s.com">
     <title>Ultimate 90s Playlist!</title>
   </programme>
-  <programme start="20241214050000 +0200" stop="20241214150000 +0200" channel="mtv00s.com">
-    <title>Non-Stop Y2Ks!</title>
+  <programme start="20241214040000 +0200" stop="20241214050000 +0200" channel="mtv00s.com">
+    <title>Chill-out Zone</title>
   </programme>
-  <programme start="20241214150000 +0200" stop="20241214230000 +0200" channel="mtv00s.com">
-    <title>Crazy in Love!</title>
+  <programme start="20241214050000 +0200" stop="20241214210000 +0200" channel="mtv00s.com">
+    <title>Euro Chart Of The Decade! Top 40</title>
   </programme>
-  <programme start="20241214230000 +0200" channel="mtv00s.com">
-    <title>Get the Party Started!</title>
+  <programme start="20241214210000 +0200" stop="20241214220000 +0200" channel="mtv00s.com">
+    <title>Rap &amp; R'n'B Jamz</title>
+  </programme>
+  <programme start="20241214220000 +0200" channel="mtv00s.com">
+    <title>Hits Don't Lie</title>
   </programme>
   <programme start="20241214080000 +0200" stop="20241214130000 +0200" channel="clubmtv.com">
     <title>100% Party Tunes!</title>
@@ -13820,143 +13701,47 @@
   <programme start="20241214130000 +0200" stop="20241214140000 +0200" channel="clubmtv.com">
     <title>Reload! Club Classics</title>
   </programme>
-  <programme start="20241214140000 +0200" stop="20241214160000 +0200" channel="clubmtv.com">
+  <programme start="20241214140000 +0200" stop="20241214190000 +0200" channel="clubmtv.com">
     <title>Big Tunes!</title>
-  </programme>
-  <programme start="20241214160000 +0200" stop="20241214190000 +0200" channel="clubmtv.com">
-    <title>50 Biggest Dance Hits Of 2024!</title>
   </programme>
   <programme start="20241214190000 +0200" stop="20241214200000 +0200" channel="clubmtv.com">
     <title>Ultimate Rap &amp; RnB</title>
   </programme>
-  <programme start="20241214200000 +0200" channel="clubmtv.com">
-    <title>100% Party Tunes!</title>
+  <programme start="20241214200000 +0200" stop="20241214210000 +0200" channel="clubmtv.com">
+    <title>Big Tunes!</title>
+  </programme>
+  <programme start="20241214210000 +0200" channel="clubmtv.com">
+    <title>50 Biggest Dance Hits Of 2024!</title>
+  </programme>
+  <programme start="20241214040000 +0200" stop="20241214060000 +0200" channel="mtvhits.com">
+    <title>Today's Top Hits</title>
   </programme>
   <programme start="20241214060000 +0200" stop="20241214080000 +0200" channel="mtvhits.com">
-    <title lang="bg">Снукър: "Шотландия оупън", финал, повторение</title>
+    <title>Non-Stop Hits!</title>
   </programme>
-  <programme start="20241214080000 +0200" stop="20241214090000 +0200" channel="mtvhits.com">
-    <title lang="bg">Сноуборд: Световна купа в Кареца, паралелен гигантски слалом, мъже и жени, повторение</title>
+  <programme start="20241214080000 +0200" stop="20241214100000 +0200" channel="mtvhits.com">
+    <title>Today's Top Hits</title>
   </programme>
-  <programme start="20241214090000 +0200" stop="20241214093000 +0200" channel="mtvhits.com">
-    <title lang="bg">Сноуборд: Световна купа в Кортина д`Ампецо, паралелен гигантски слалом, мъже и жени, повторение</title>
+  <programme start="20241214100000 +0200" stop="20241214155500 +0200" channel="mtvhits.com">
+    <title>Worldwide Hits!</title>
   </programme>
-  <programme start="20241214093000 +0200" stop="20241214100000 +0200" channel="mtvhits.com">
-    <title lang="bg">Сноуборд: Световна купа в Червиния, сноуборд крос, мъже и жени, повторение</title>
+  <programme start="20241214155500 +0200" stop="20241214170500 +0200" channel="mtvhits.com">
+    <title>MTV Top 20</title>
   </programme>
-  <programme start="20241214100000 +0200" stop="20241214110000 +0200" channel="mtvhits.com">
-    <title lang="bg">Фрийстайл ски: Световна купа в Ароса, ски крос, мъже и жени, повторение</title>
+  <programme start="20241214170500 +0200" stop="20241214180000 +0200" channel="mtvhits.com">
+    <title>Worldwide Hits!</title>
   </programme>
-  <programme start="20241214110000 +0200" stop="20241214120000 +0200" channel="mtvhits.com">
-    <title lang="bg">Ски скокове: Световна купа в Титизее Нойщадт, голяма шанца, мъже, повторение</title>
+  <programme start="20241214180000 +0200" stop="20241214200000 +0200" channel="mtvhits.com">
+    <title>Biggest Hits of 2024!</title>
   </programme>
-  <programme start="20241214120000 +0200" stop="20241214123000 +0200" channel="mtvhits.com">
-    <title lang="bg">Биатлон: Световна купа в Хохфилцен, спринт, мъже, повторение</title>
+  <programme start="20241214200000 +0200" stop="20241214213500 +0200" channel="mtvhits.com">
+    <title>2024 MTV EMAs</title>
   </programme>
-  <programme start="20241214123000 +0200" stop="20241214130000 +0200" channel="mtvhits.com">
-    <title lang="bg">Биатлон: Световна купа в Хохфилцен, преследване, мъже, повторение</title>
+  <programme start="20241214213500 +0200" stop="20241214220000 +0200" channel="mtvhits.com">
+    <title>Today's Top Hits</title>
   </programme>
-  <programme start="20241214130000 +0200" stop="20241214140000 +0200" channel="mtvhits.com">
-    <title lang="bg">Биатлон: Световна купа в Хохфилцен, щафета, мъже, повторение</title>
-  </programme>
-  <programme start="20241214140000 +0200" stop="20241214150000 +0200" channel="mtvhits.com">
-    <title lang="bg">Виртуален автомобилизъм: Световни серии в Амстердам, обзор</title>
-  </programme>
-  <programme start="20241214150000 +0200" stop="20241214153000 +0200" channel="mtvhits.com">
-    <title lang="bg">Формула 1 на вода: Световен шампионат в ОАЕ, обзор</title>
-  </programme>
-  <programme start="20241214153000 +0200" stop="20241214170000 +0200" channel="mtvhits.com">
-    <title lang="bg">Снукър: "Шотландия оупън", финал, повторение</title>
-  </programme>
-  <programme start="20241214170000 +0200" stop="20241214180000 +0200" channel="mtvhits.com">
-    <title lang="bg">Колоездене на писта: Шампионска лига, обзор</title>
-  </programme>
-  <programme start="20241214180000 +0200" stop="20241214183000 +0200" channel="mtvhits.com">
-    <title lang="bg">Биатлон: Световна купа в Хохфилцен, спринт, жени, повторение</title>
-  </programme>
-  <programme start="20241214183000 +0200" stop="20241214190000 +0200" channel="mtvhits.com">
-    <title lang="bg">Биатлон: Световна купа в Хохфилцен, преследване, жени, повторение</title>
-  </programme>
-  <programme start="20241214190000 +0200" stop="20241214200000 +0200" channel="mtvhits.com">
-    <title lang="bg">Биатлон: Световна купа в Хохфилцен, щафета, жени, повторение</title>
-  </programme>
-  <programme start="20241214200000 +0200" stop="20241214210000 +0200" channel="mtvhits.com">
-    <title lang="bg">Ски алпийски дисциплини: Световна купа в Бийвър Крийк, супер Г, жени, повторение</title>
-  </programme>
-  <programme start="20241214210000 +0200" stop="20241214213000 +0200" channel="mtvhits.com">
-    <title lang="bg">Ски алпийски дисциплини: Световна купа във Вал д`Изер, първи манш, слалом, мъже, повторение</title>
-  </programme>
-  <programme start="20241214213000 +0200" stop="20241214220000 +0200" channel="mtvhits.com">
-    <title lang="bg">Ски алпийски дисциплини: Световна купа във Вал д`Изер, втори манш, слалом, мъже, повторение</title>
-  </programme>
-  <programme start="20241214220000 +0200" stop="20241214230000 +0200" channel="mtvhits.com">
-    <title lang="bg">Ски скокове: Световна купа в Титизее Нойщадт, голяма шанца, мъже, повторение</title>
-  </programme>
-  <programme start="20241214230000 +0200" channel="mtvhits.com">
-    <title lang="bg">Ски скокове: Световна купа в Жангжиаку, малка шанца, жени, повторение</title>
-  </programme>
-  <programme start="20241214060000 +0200" stop="20241214080000 +0200" channel="mtvlive.com">
-    <title lang="bg">Снукър: "Шотландия оупън", финал, повторение</title>
-  </programme>
-  <programme start="20241214080000 +0200" stop="20241214090000 +0200" channel="mtvlive.com">
-    <title lang="bg">Сноуборд: Световна купа в Кареца, паралелен гигантски слалом, мъже и жени, повторение</title>
-  </programme>
-  <programme start="20241214090000 +0200" stop="20241214093000 +0200" channel="mtvlive.com">
-    <title lang="bg">Сноуборд: Световна купа в Кортина д`Ампецо, паралелен гигантски слалом, мъже и жени, повторение</title>
-  </programme>
-  <programme start="20241214093000 +0200" stop="20241214100000 +0200" channel="mtvlive.com">
-    <title lang="bg">Сноуборд: Световна купа в Червиния, сноуборд крос, мъже и жени, повторение</title>
-  </programme>
-  <programme start="20241214100000 +0200" stop="20241214110000 +0200" channel="mtvlive.com">
-    <title lang="bg">Фрийстайл ски: Световна купа в Ароса, ски крос, мъже и жени, повторение</title>
-  </programme>
-  <programme start="20241214110000 +0200" stop="20241214120000 +0200" channel="mtvlive.com">
-    <title lang="bg">Ски скокове: Световна купа в Титизее Нойщадт, голяма шанца, мъже, повторение</title>
-  </programme>
-  <programme start="20241214120000 +0200" stop="20241214123000 +0200" channel="mtvlive.com">
-    <title lang="bg">Биатлон: Световна купа в Хохфилцен, спринт, мъже, повторение</title>
-  </programme>
-  <programme start="20241214123000 +0200" stop="20241214130000 +0200" channel="mtvlive.com">
-    <title lang="bg">Биатлон: Световна купа в Хохфилцен, преследване, мъже, повторение</title>
-  </programme>
-  <programme start="20241214130000 +0200" stop="20241214140000 +0200" channel="mtvlive.com">
-    <title lang="bg">Биатлон: Световна купа в Хохфилцен, щафета, мъже, повторение</title>
-  </programme>
-  <programme start="20241214140000 +0200" stop="20241214150000 +0200" channel="mtvlive.com">
-    <title lang="bg">Виртуален автомобилизъм: Световни серии в Амстердам, обзор</title>
-  </programme>
-  <programme start="20241214150000 +0200" stop="20241214153000 +0200" channel="mtvlive.com">
-    <title lang="bg">Формула 1 на вода: Световен шампионат в ОАЕ, обзор</title>
-  </programme>
-  <programme start="20241214153000 +0200" stop="20241214170000 +0200" channel="mtvlive.com">
-    <title lang="bg">Снукър: "Шотландия оупън", финал, повторение</title>
-  </programme>
-  <programme start="20241214170000 +0200" stop="20241214180000 +0200" channel="mtvlive.com">
-    <title lang="bg">Колоездене на писта: Шампионска лига, обзор</title>
-  </programme>
-  <programme start="20241214180000 +0200" stop="20241214183000 +0200" channel="mtvlive.com">
-    <title lang="bg">Биатлон: Световна купа в Хохфилцен, спринт, жени, повторение</title>
-  </programme>
-  <programme start="20241214183000 +0200" stop="20241214190000 +0200" channel="mtvlive.com">
-    <title lang="bg">Биатлон: Световна купа в Хохфилцен, преследване, жени, повторение</title>
-  </programme>
-  <programme start="20241214190000 +0200" stop="20241214200000 +0200" channel="mtvlive.com">
-    <title lang="bg">Биатлон: Световна купа в Хохфилцен, щафета, жени, повторение</title>
-  </programme>
-  <programme start="20241214200000 +0200" stop="20241214210000 +0200" channel="mtvlive.com">
-    <title lang="bg">Ски алпийски дисциплини: Световна купа в Бийвър Крийк, супер Г, жени, повторение</title>
-  </programme>
-  <programme start="20241214210000 +0200" stop="20241214213000 +0200" channel="mtvlive.com">
-    <title lang="bg">Ски алпийски дисциплини: Световна купа във Вал д`Изер, първи манш, слалом, мъже, повторение</title>
-  </programme>
-  <programme start="20241214213000 +0200" stop="20241214220000 +0200" channel="mtvlive.com">
-    <title lang="bg">Ски алпийски дисциплини: Световна купа във Вал д`Изер, втори манш, слалом, мъже, повторение</title>
-  </programme>
-  <programme start="20241214220000 +0200" stop="20241214230000 +0200" channel="mtvlive.com">
-    <title lang="bg">Ски скокове: Световна купа в Титизее Нойщадт, голяма шанца, мъже, повторение</title>
-  </programme>
-  <programme start="20241214230000 +0200" channel="mtvlive.com">
-    <title lang="bg">Ски скокове: Световна купа в Жангжиаку, малка шанца, жени, повторение</title>
+  <programme start="20241214220000 +0200" channel="mtvhits.com">
+    <title>Andrew Ridgeley Presents 50 Christmas Classics!</title>
   </programme>
   <programme start="20241214000000 +0200" stop="20241214100000 +0200" channel="thevoice.bg">
     <title lang="bg">WE LOVE MUSIC</title>
@@ -25459,6 +25244,444 @@
   </programme>
   <programme start="20241215054500 +0200" stop="20241216060000 +0200" channel="france24.fr">
     <title>Une semaine en France</title>
+  </programme>
+  <programme start="20241214060000 +0200" stop="20241214061500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241214061500 +0200" stop="20241214063000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE IN DEPTH</title>
+  </programme>
+  <programme start="20241214063000 +0200" stop="20241214064500 +0200" channel="nhkworld.com">
+    <title>DEEPER LOOK</title>
+  </programme>
+  <programme start="20241214064500 +0200" stop="20241214065500 +0200" channel="nhkworld.com">
+    <title>Dig More Japan</title>
+  </programme>
+  <programme start="20241214065500 +0200" stop="20241214070000 +0200" channel="nhkworld.com">
+    <title>The Seasons of Yamato</title>
+  </programme>
+  <programme start="20241214070000 +0200" stop="20241214071500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241214071500 +0200" stop="20241214073000 +0200" channel="nhkworld.com">
+    <title>Direct Talk</title>
+  </programme>
+  <programme start="20241214073000 +0200" stop="20241214080000 +0200" channel="nhkworld.com">
+    <title>Journeys in Japan</title>
+  </programme>
+  <programme start="20241214080000 +0200" stop="20241214083000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE ASIA 24</title>
+  </programme>
+  <programme start="20241214083000 +0200" stop="20241214090000 +0200" channel="nhkworld.com">
+    <title>Dining with the Chef</title>
+  </programme>
+  <programme start="20241214090000 +0200" stop="20241214093000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE ASIA 24</title>
+  </programme>
+  <programme start="20241214093000 +0200" stop="20241214100000 +0200" channel="nhkworld.com">
+    <title>Document 72 Hours</title>
+  </programme>
+  <programme start="20241214100000 +0200" stop="20241214101400 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241214101400 +0200" stop="20241214101500 +0200" channel="nhkworld.com">
+    <title>NL Bridge</title>
+  </programme>
+  <programme start="20241214101500 +0200" stop="20241214102300 +0200" channel="nhkworld.com">
+    <title>NEWSLINE BIZ</title>
+  </programme>
+  <programme start="20241214102300 +0200" stop="20241214103000 +0200" channel="nhkworld.com">
+    <title>JAPAN FROM ABOVE: UP CLOSE</title>
+  </programme>
+  <programme start="20241214103000 +0200" stop="20241214104500 +0200" channel="nhkworld.com">
+    <title>DEEPER LOOK</title>
+  </programme>
+  <programme start="20241214104500 +0200" stop="20241214110000 +0200" channel="nhkworld.com">
+    <title>BOSAI: Science that Can Save Your Life</title>
+  </programme>
+  <programme start="20241214110000 +0200" stop="20241214111400 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241214111400 +0200" stop="20241214111500 +0200" channel="nhkworld.com">
+    <title>NL Bridge</title>
+  </programme>
+  <programme start="20241214111500 +0200" stop="20241214113000 +0200" channel="nhkworld.com">
+    <title>Direct Talk</title>
+  </programme>
+  <programme start="20241214113000 +0200" stop="20241214120000 +0200" channel="nhkworld.com">
+    <title>Medical Frontiers</title>
+  </programme>
+  <programme start="20241214120000 +0200" stop="20241214121700 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241214121700 +0200" stop="20241214121800 +0200" channel="nhkworld.com">
+    <title>NL Bridge</title>
+  </programme>
+  <programme start="20241214121800 +0200" stop="20241214123000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE BIZ</title>
+  </programme>
+  <programme start="20241214123000 +0200" stop="20241214130000 +0200" channel="nhkworld.com">
+    <title>Journeys in Japan</title>
+  </programme>
+  <programme start="20241214130000 +0200" stop="20241214132700 +0200" channel="nhkworld.com">
+    <title>NEWSROOM TOKYO</title>
+  </programme>
+  <programme start="20241214132700 +0200" stop="20241214134000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE IN DEPTH</title>
+  </programme>
+  <programme start="20241214134000 +0200" stop="20241214135500 +0200" channel="nhkworld.com">
+    <title>Direct Talk</title>
+  </programme>
+  <programme start="20241214135500 +0200" stop="20241214140000 +0200" channel="nhkworld.com">
+    <title>Ukiyoe EDO-LIFE: Will Sparks Fly?</title>
+  </programme>
+  <programme start="20241214140000 +0200" stop="20241214143000 +0200" channel="nhkworld.com">
+    <title>NEWSROOM TOKYO</title>
+  </programme>
+  <programme start="20241214143000 +0200" stop="20241214150000 +0200" channel="nhkworld.com">
+    <title>Dining with the Chef</title>
+  </programme>
+  <programme start="20241214150000 +0200" stop="20241214151500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241214151500 +0200" stop="20241214153000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE IN DEPTH</title>
+  </programme>
+  <programme start="20241214153000 +0200" stop="20241214160000 +0200" channel="nhkworld.com">
+    <title>Document 72 Hours</title>
+  </programme>
+  <programme start="20241214160000 +0200" stop="20241214161500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241214161500 +0200" stop="20241214163000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE IN DEPTH</title>
+  </programme>
+  <programme start="20241214163000 +0200" stop="20241214170000 +0200" channel="nhkworld.com">
+    <title>Science View</title>
+  </programme>
+  <programme start="20241214170000 +0200" stop="20241214171500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241214171500 +0200" stop="20241214173000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE IN DEPTH</title>
+  </programme>
+  <programme start="20241214173000 +0200" stop="20241214180000 +0200" channel="nhkworld.com">
+    <title>Journeys in Japan</title>
+  </programme>
+  <programme start="20241214180000 +0200" stop="20241214181500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241214181500 +0200" stop="20241214183000 +0200" channel="nhkworld.com">
+    <title>Direct Talk</title>
+  </programme>
+  <programme start="20241214183000 +0200" stop="20241214184500 +0200" channel="nhkworld.com">
+    <title>DEEPER LOOK</title>
+  </programme>
+  <programme start="20241214184500 +0200" stop="20241214185500 +0200" channel="nhkworld.com">
+    <title>Dig More Japan</title>
+  </programme>
+  <programme start="20241214185500 +0200" stop="20241214190000 +0200" channel="nhkworld.com">
+    <title>The Seasons of Yamato</title>
+  </programme>
+  <programme start="20241214190000 +0200" stop="20241214191500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241214191500 +0200" stop="20241214193000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE IN DEPTH</title>
+  </programme>
+  <programme start="20241214193000 +0200" stop="20241214200000 +0200" channel="nhkworld.com">
+    <title>Dining with the Chef</title>
+  </programme>
+  <programme start="20241214200000 +0200" stop="20241214202700 +0200" channel="nhkworld.com">
+    <title>NEWSROOM TOKYO</title>
+  </programme>
+  <programme start="20241214202700 +0200" stop="20241214204000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE IN DEPTH</title>
+  </programme>
+  <programme start="20241214204000 +0200" stop="20241214205500 +0200" channel="nhkworld.com">
+    <title>Direct Talk</title>
+  </programme>
+  <programme start="20241214205500 +0200" stop="20241214210000 +0200" channel="nhkworld.com">
+    <title>Ukiyoe EDO-LIFE: Will Sparks Fly?</title>
+  </programme>
+  <programme start="20241214210000 +0200" stop="20241214213000 +0200" channel="nhkworld.com">
+    <title>BIZ STREAM</title>
+  </programme>
+  <programme start="20241214213000 +0200" stop="20241214220000 +0200" channel="nhkworld.com">
+    <title>Document 72 Hours</title>
+  </programme>
+  <programme start="20241214220000 +0200" stop="20241214221800 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241214221800 +0200" stop="20241214223000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE BIZ</title>
+  </programme>
+  <programme start="20241214223000 +0200" stop="20241214230000 +0200" channel="nhkworld.com">
+    <title>Science View</title>
+  </programme>
+  <programme start="20241214230000 +0200" stop="20241214231800 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241214231800 +0200" stop="20241214233000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE BIZ</title>
+  </programme>
+  <programme start="20241214233000 +0200" stop="20241215000000 +0200" channel="nhkworld.com">
+    <title>Journeys in Japan</title>
+  </programme>
+  <programme start="20241215000000 +0200" stop="20241215001800 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215001800 +0200" stop="20241215003000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE BIZ</title>
+  </programme>
+  <programme start="20241215003000 +0200" stop="20241215010000 +0200" channel="nhkworld.com">
+    <title>Dining with the Chef</title>
+  </programme>
+  <programme start="20241215010000 +0200" stop="20241215011500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215011500 +0200" stop="20241215012000 +0200" channel="nhkworld.com">
+    <title>Ukiyoe EDO-LIFE: Will Sparks Fly?</title>
+  </programme>
+  <programme start="20241215012000 +0200" stop="20241215012500 +0200" channel="nhkworld.com">
+    <title>Time-lapse Japan</title>
+  </programme>
+  <programme start="20241215012500 +0200" stop="20241215013000 +0200" channel="nhkworld.com">
+    <title>JAPAN FROM ABOVE: UP CLOSE</title>
+  </programme>
+  <programme start="20241215013000 +0200" stop="20241215014500 +0200" channel="nhkworld.com">
+    <title>DEEPER LOOK</title>
+  </programme>
+  <programme start="20241215014500 +0200" stop="20241215015500 +0200" channel="nhkworld.com">
+    <title>Dig More Japan</title>
+  </programme>
+  <programme start="20241215015500 +0200" stop="20241215020000 +0200" channel="nhkworld.com">
+    <title>The Seasons of Yamato</title>
+  </programme>
+  <programme start="20241215020000 +0200" stop="20241215021500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215021500 +0200" stop="20241215023000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE IN DEPTH</title>
+  </programme>
+  <programme start="20241215023000 +0200" stop="20241215030000 +0200" channel="nhkworld.com">
+    <title>Dive in Tokyo</title>
+  </programme>
+  <programme start="20241215030000 +0200" stop="20241215031500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215031500 +0200" stop="20241215033000 +0200" channel="nhkworld.com">
+    <title>Direct Talk</title>
+  </programme>
+  <programme start="20241215033000 +0200" stop="20241215034500 +0200" channel="nhkworld.com">
+    <title>NINJA TRUTH</title>
+  </programme>
+  <programme start="20241215034500 +0200" stop="20241215035500 +0200" channel="nhkworld.com">
+    <title>Magical Japanese</title>
+  </programme>
+  <programme start="20241215035500 +0200" stop="20241215040000 +0200" channel="nhkworld.com">
+    <title>Core Kyoto mini</title>
+  </programme>
+  <programme start="20241215040000 +0200" stop="20241215041500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215041500 +0200" stop="20241215043000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE IN DEPTH</title>
+  </programme>
+  <programme start="20241215043000 +0200" stop="20241215050000 +0200" channel="nhkworld.com">
+    <title>FRONTRUNNERS</title>
+  </programme>
+  <programme start="20241215050000 +0200" stop="20241215051500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215051500 +0200" stop="20241215053000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE IN DEPTH</title>
+  </programme>
+  <programme start="20241215053000 +0200" stop="20241215060000 +0200" channel="nhkworld.com">
+    <title>Science View</title>
+  </programme>
+  <programme start="20241215060000 +0200" stop="20241215061500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215061500 +0200" stop="20241215063000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE IN DEPTH</title>
+  </programme>
+  <programme start="20241215063000 +0200" stop="20241215064500 +0200" channel="nhkworld.com">
+    <title>DEEPER LOOK</title>
+  </programme>
+  <programme start="20241215064500 +0200" stop="20241215065500 +0200" channel="nhkworld.com">
+    <title>Dig More Japan</title>
+  </programme>
+  <programme start="20241215065500 +0200" stop="20241215070000 +0200" channel="nhkworld.com">
+    <title>The Seasons of Yamato</title>
+  </programme>
+  <programme start="20241215070000 +0200" stop="20241215071500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215071500 +0200" stop="20241215073000 +0200" channel="nhkworld.com">
+    <title>Direct Talk</title>
+  </programme>
+  <programme start="20241215073000 +0200" stop="20241215080000 +0200" channel="nhkworld.com">
+    <title>Journeys in Japan</title>
+  </programme>
+  <programme start="20241215080000 +0200" stop="20241215083000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE ASIA 24</title>
+  </programme>
+  <programme start="20241215083000 +0200" stop="20241215090000 +0200" channel="nhkworld.com">
+    <title>Dining with the Chef</title>
+  </programme>
+  <programme start="20241215090000 +0200" stop="20241215093000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE ASIA 24</title>
+  </programme>
+  <programme start="20241215093000 +0200" stop="20241215100000 +0200" channel="nhkworld.com">
+    <title>Document 72 Hours</title>
+  </programme>
+  <programme start="20241215100000 +0200" stop="20241215101400 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215101400 +0200" stop="20241215101500 +0200" channel="nhkworld.com">
+    <title>NL Bridge</title>
+  </programme>
+  <programme start="20241215101500 +0200" stop="20241215102300 +0200" channel="nhkworld.com">
+    <title>NEWSLINE BIZ</title>
+  </programme>
+  <programme start="20241215102300 +0200" stop="20241215103000 +0200" channel="nhkworld.com">
+    <title>JAPAN FROM ABOVE: UP CLOSE</title>
+  </programme>
+  <programme start="20241215103000 +0200" stop="20241215104500 +0200" channel="nhkworld.com">
+    <title>DEEPER LOOK</title>
+  </programme>
+  <programme start="20241215104500 +0200" stop="20241215110000 +0200" channel="nhkworld.com">
+    <title>BOSAI: Science that Can Save Your Life</title>
+  </programme>
+  <programme start="20241215110000 +0200" stop="20241215111400 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215111400 +0200" stop="20241215111500 +0200" channel="nhkworld.com">
+    <title>NL Bridge</title>
+  </programme>
+  <programme start="20241215111500 +0200" stop="20241215113000 +0200" channel="nhkworld.com">
+    <title>Direct Talk</title>
+  </programme>
+  <programme start="20241215113000 +0200" stop="20241215120000 +0200" channel="nhkworld.com">
+    <title>Medical Frontiers</title>
+  </programme>
+  <programme start="20241215120000 +0200" stop="20241215121700 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215121700 +0200" stop="20241215121800 +0200" channel="nhkworld.com">
+    <title>NL Bridge</title>
+  </programme>
+  <programme start="20241215121800 +0200" stop="20241215123000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE BIZ</title>
+  </programme>
+  <programme start="20241215123000 +0200" stop="20241215130000 +0200" channel="nhkworld.com">
+    <title>Journeys in Japan</title>
+  </programme>
+  <programme start="20241215130000 +0200" stop="20241215132700 +0200" channel="nhkworld.com">
+    <title>NEWSROOM TOKYO</title>
+  </programme>
+  <programme start="20241215132700 +0200" stop="20241215134000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE IN DEPTH</title>
+  </programme>
+  <programme start="20241215134000 +0200" stop="20241215135500 +0200" channel="nhkworld.com">
+    <title>Direct Talk</title>
+  </programme>
+  <programme start="20241215135500 +0200" stop="20241215140000 +0200" channel="nhkworld.com">
+    <title>Ukiyoe EDO-LIFE: Will Sparks Fly?</title>
+  </programme>
+  <programme start="20241215140000 +0200" stop="20241215143000 +0200" channel="nhkworld.com">
+    <title>NEWSROOM TOKYO</title>
+  </programme>
+  <programme start="20241215143000 +0200" stop="20241215150000 +0200" channel="nhkworld.com">
+    <title>Dining with the Chef</title>
+  </programme>
+  <programme start="20241215150000 +0200" stop="20241215151500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215151500 +0200" stop="20241215153000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE IN DEPTH</title>
+  </programme>
+  <programme start="20241215153000 +0200" stop="20241215160000 +0200" channel="nhkworld.com">
+    <title>Document 72 Hours</title>
+  </programme>
+  <programme start="20241215160000 +0200" stop="20241215161500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215161500 +0200" stop="20241215163000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE IN DEPTH</title>
+  </programme>
+  <programme start="20241215163000 +0200" stop="20241215170000 +0200" channel="nhkworld.com">
+    <title>Science View</title>
+  </programme>
+  <programme start="20241215170000 +0200" stop="20241215171500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215171500 +0200" stop="20241215173000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE IN DEPTH</title>
+  </programme>
+  <programme start="20241215173000 +0200" stop="20241215180000 +0200" channel="nhkworld.com">
+    <title>Journeys in Japan</title>
+  </programme>
+  <programme start="20241215180000 +0200" stop="20241215181500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215181500 +0200" stop="20241215183000 +0200" channel="nhkworld.com">
+    <title>Direct Talk</title>
+  </programme>
+  <programme start="20241215183000 +0200" stop="20241215184500 +0200" channel="nhkworld.com">
+    <title>DEEPER LOOK</title>
+  </programme>
+  <programme start="20241215184500 +0200" stop="20241215185500 +0200" channel="nhkworld.com">
+    <title>Dig More Japan</title>
+  </programme>
+  <programme start="20241215185500 +0200" stop="20241215190000 +0200" channel="nhkworld.com">
+    <title>The Seasons of Yamato</title>
+  </programme>
+  <programme start="20241215190000 +0200" stop="20241215191500 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215191500 +0200" stop="20241215193000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE IN DEPTH</title>
+  </programme>
+  <programme start="20241215193000 +0200" stop="20241215200000 +0200" channel="nhkworld.com">
+    <title>Dining with the Chef</title>
+  </programme>
+  <programme start="20241215200000 +0200" stop="20241215202700 +0200" channel="nhkworld.com">
+    <title>NEWSROOM TOKYO</title>
+  </programme>
+  <programme start="20241215202700 +0200" stop="20241215204000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE IN DEPTH</title>
+  </programme>
+  <programme start="20241215204000 +0200" stop="20241215205500 +0200" channel="nhkworld.com">
+    <title>Direct Talk</title>
+  </programme>
+  <programme start="20241215205500 +0200" stop="20241215210000 +0200" channel="nhkworld.com">
+    <title>Ukiyoe EDO-LIFE: Will Sparks Fly?</title>
+  </programme>
+  <programme start="20241215210000 +0200" stop="20241215213000 +0200" channel="nhkworld.com">
+    <title>BIZ STREAM</title>
+  </programme>
+  <programme start="20241215213000 +0200" stop="20241215220000 +0200" channel="nhkworld.com">
+    <title>Document 72 Hours</title>
+  </programme>
+  <programme start="20241215220000 +0200" stop="20241215221800 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215221800 +0200" stop="20241215223000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE BIZ</title>
+  </programme>
+  <programme start="20241215223000 +0200" stop="20241215230000 +0200" channel="nhkworld.com">
+    <title>Science View</title>
+  </programme>
+  <programme start="20241215230000 +0200" stop="20241215231800 +0200" channel="nhkworld.com">
+    <title>NHK NEWSLINE</title>
+  </programme>
+  <programme start="20241215231800 +0200" stop="20241215233000 +0200" channel="nhkworld.com">
+    <title>NEWSLINE BIZ</title>
+  </programme>
+  <programme start="20241215233000 +0200" stop="20241216000000 +0200" channel="nhkworld.com">
+    <title>Journeys in Japan</title>
   </programme>
   <programme start="20241214110000 +0200" stop="20241214113000 +0200" channel="skynews.uk">
     <title>Breakfast with Kay Burley</title>
@@ -46899,193 +47122,184 @@
     <title>Luxury Girl Vol.10</title>
   </programme>
   <programme start="20241214043000 +0200" stop="20241214060000 +0200" channel="hustlerhd.com">
-    <title>10 Best: 3Ways, Groupsex &amp; More, odc. 2</title>
+    <title>Hot &amp; Busty Broads Ride Rods</title>
   </programme>
   <programme start="20241214060000 +0200" stop="20241214073000 +0200" channel="hustlerhd.com">
-    <title>Worshipping Lez MILF Tatas</title>
+    <title>Horny &amp; Busty Lesbians Lick Pink</title>
   </programme>
   <programme start="20241214073000 +0200" stop="20241214090000 +0200" channel="hustlerhd.com">
-    <title>Hot Teens Creamed &amp; Facialed</title>
-  </programme>
-  <programme start="20241214090000 +0200" stop="20241214103000 +0200" channel="hustlerhd.com">
-    <title>MILFs Bend Over For Boning</title>
-  </programme>
-  <programme start="20241214103000 +0200" stop="20241214120000 +0200" channel="hustlerhd.com">
-    <title>Yes! Bust On B-Cup Blondes</title>
-  </programme>
-  <programme start="20241214120000 +0200" stop="20241214133000 +0200" channel="hustlerhd.com">
-    <title>Licking Experienced Lesbian Lovers</title>
-  </programme>
-  <programme start="20241214133000 +0200" stop="20241214150000 +0200" channel="hustlerhd.com">
     <title>Pristine Amateur Plows</title>
   </programme>
-  <programme start="20241214150000 +0200" stop="20241214163000 +0200" channel="hustlerhd.com">
-    <title>Watch Your Wife Rock My Boner!</title>
-  </programme>
-  <programme start="20241214163000 +0200" stop="20241214180000 +0200" channel="hustlerhd.com">
-    <title>Lonely &amp; Horny 18YO Babes</title>
-  </programme>
-  <programme start="20241214180000 +0200" stop="20241214193000 +0200" channel="hustlerhd.com">
+  <programme start="20241214090000 +0200" stop="20241214103000 +0200" channel="hustlerhd.com">
     <title>Latina MILF Creampies!</title>
   </programme>
+  <programme start="20241214103000 +0200" stop="20241214120000 +0200" channel="hustlerhd.com">
+    <title>DP University</title>
+  </programme>
+  <programme start="20241214120000 +0200" stop="20241214133000 +0200" channel="hustlerhd.com">
+    <title>Rich MILFs Classy Buttsex</title>
+  </programme>
+  <programme start="20241214133000 +0200" stop="20241214150000 +0200" channel="hustlerhd.com">
+    <title>GroupSex-Greedy Gym-Bunnys</title>
+  </programme>
+  <programme start="20241214150000 +0200" stop="20241214163000 +0200" channel="hustlerhd.com">
+    <title>DD MILFs Split Lips Over Thick Sticks</title>
+  </programme>
+  <programme start="20241214163000 +0200" stop="20241214180000 +0200" channel="hustlerhd.com">
+    <title>Flawless Ebony Real Estate Agent Sex</title>
+  </programme>
+  <programme start="20241214180000 +0200" stop="20241214193000 +0200" channel="hustlerhd.com">
+    <title>International Wife Seductions</title>
+  </programme>
   <programme start="20241214193000 +0200" stop="20241214210000 +0200" channel="hustlerhd.com">
-    <title>Finally 18: Stepsisters Squirt On Rod</title>
-  </programme>
-  <programme start="20241214210000 +0200" stop="20241214223000 +0200" channel="hustlerhd.com">
-    <title>DD Babes Ride Really Big Dongs</title>
-  </programme>
-  <programme start="20241214223000 +0200" stop="20241215043000 +0200" channel="hustlerhd.com">
-    <title>3Ways: Wives Shared</title>
-  </programme>
-  <programme start="20241215043000 +0200" stop="20241215060000 +0200" channel="hustlerhd.com">
-    <title>Naughty &amp; Busty Lesbian MILFs Screw!</title>
-  </programme>
-  <programme start="20241215060000 +0200" stop="20241215073000 +0200" channel="hustlerhd.com">
-    <title>Squeeze Huge Boobs!</title>
-  </programme>
-  <programme start="20241215073000 +0200" stop="20241215090000 +0200" channel="hustlerhd.com">
-    <title>19YO Nannys Shafted By The Boss</title>
-  </programme>
-  <programme start="20241215090000 +0200" stop="20241215103000 +0200" channel="hustlerhd.com">
-    <title>Mature Pinks Fingered &amp; Goo-Glazed</title>
-  </programme>
-  <programme start="20241215103000 +0200" stop="20241215120000 +0200" channel="hustlerhd.com">
-    <title>Threesomes: 2 Chicks Worship 1 Stick</title>
-  </programme>
-  <programme start="20241215120000 +0200" stop="20241215133000 +0200" channel="hustlerhd.com">
-    <title>Lesbo Affairs: Natural Babes</title>
-  </programme>
-  <programme start="20241215133000 +0200" stop="20241215150000 +0200" channel="hustlerhd.com">
-    <title>Naked DD Wives: 30, Dirty &amp; Flirty</title>
-  </programme>
-  <programme start="20241215150000 +0200" stop="20241215163000 +0200" channel="hustlerhd.com">
-    <title>Seed-Covered Petite Babes</title>
-  </programme>
-  <programme start="20241215163000 +0200" stop="20241215180000 +0200" channel="hustlerhd.com">
-    <title>3Way Stacked MILFs &amp; Hung Studs</title>
-  </programme>
-  <programme start="20241215180000 +0200" stop="20241215193000 +0200" channel="hustlerhd.com">
-    <title>Raunchy A-Cup Public Sex</title>
-  </programme>
-  <programme start="20241215193000 +0200" stop="20241215210000 +0200" channel="hustlerhd.com">
-    <title>21YOs Tap Stepmom Slots</title>
-  </programme>
-  <programme start="20241215210000 +0200" stop="20241215223000 +0200" channel="hustlerhd.com">
-    <title>Young Anal 18YOs Railed &amp; Squirting</title>
-  </programme>
-  <programme start="20241215223000 +0200" stop="20241216000000 +0200" channel="hustlerhd.com">
-    <title>4Way Spouse Swapping Swingers, odc. 2</title>
-  </programme>
-  <programme start="20241215000000 +0200" stop="20241215013000 +0200" channel="hustlerhd.com">
     <title>Hot 20YO Nymphos Thrust By Hard Rods</title>
   </programme>
-  <programme start="20241215013000 +0200" stop="20241215030000 +0200" channel="hustlerhd.com">
+  <programme start="20241214210000 +0200" stop="20241214223000 +0200" channel="hustlerhd.com">
     <title>10 Best: Horny &amp; Busty MILFs</title>
   </programme>
-  <programme start="20241215030000 +0200" stop="20241216043000 +0200" channel="hustlerhd.com">
-    <title>Petite Chicks Split By Mondo-Meat</title>
+  <programme start="20241214223000 +0200" stop="20241215000000 +0200" channel="hustlerhd.com">
+    <title>19YO Asian Students Suck For A's</title>
   </programme>
-  <programme start="20241214000000 +0200" stop="20241214013000 +0200" channel="hustlertv.com">
-    <title>First Creampies!</title>
+  <programme start="20241215000000 +0200" stop="20241215013000 +0200" channel="hustlerhd.com">
+    <title>18YO Stepsisters Eager To Ride Dongs</title>
   </programme>
-  <programme start="20241214013000 +0200" stop="20241214030000 +0200" channel="hustlertv.com">
-    <title>Over-30 MILFs Ride Black Bones</title>
+  <programme start="20241215013000 +0200" stop="20241215030000 +0200" channel="hustlerhd.com">
+    <title>Lana Rhoades 21YO Superstar SexAddict</title>
   </programme>
-  <programme start="20241214030000 +0200" stop="20241214043000 +0200" channel="hustlertv.com">
-    <title>Lustful Sensuality</title>
+  <programme start="20241215030000 +0200" stop="20241215043000 +0200" channel="hustlerhd.com">
+    <title>Worshipping Lez MILF Tatas</title>
+  </programme>
+  <programme start="20241215043000 +0200" stop="20241215060000 +0200" channel="hustlerhd.com">
+    <title>Hot &amp; Busty Broads Ride Rods</title>
+  </programme>
+  <programme start="20241215060000 +0200" stop="20241215073000 +0200" channel="hustlerhd.com">
+    <title>Horny &amp; Busty Lesbians Lick Pink</title>
+  </programme>
+  <programme start="20241215073000 +0200" stop="20241215090000 +0200" channel="hustlerhd.com">
+    <title>Pristine Amateur Plows</title>
+  </programme>
+  <programme start="20241215090000 +0200" stop="20241215103000 +0200" channel="hustlerhd.com">
+    <title>Latina MILF Creampies!</title>
+  </programme>
+  <programme start="20241215103000 +0200" stop="20241215120000 +0200" channel="hustlerhd.com">
+    <title>DP University</title>
+  </programme>
+  <programme start="20241215120000 +0200" stop="20241215133000 +0200" channel="hustlerhd.com">
+    <title>Rich MILFs Classy Buttsex</title>
+  </programme>
+  <programme start="20241215133000 +0200" stop="20241215150000 +0200" channel="hustlerhd.com">
+    <title>GroupSex-Greedy Gym-Bunnys</title>
+  </programme>
+  <programme start="20241215150000 +0200" stop="20241215163000 +0200" channel="hustlerhd.com">
+    <title>DD MILFs Split Lips Over Thick Sticks</title>
+  </programme>
+  <programme start="20241215163000 +0200" stop="20241215180000 +0200" channel="hustlerhd.com">
+    <title>Flawless Ebony Real Estate Agent Sex</title>
+  </programme>
+  <programme start="20241215180000 +0200" stop="20241215193000 +0200" channel="hustlerhd.com">
+    <title>International Wife Seductions</title>
+  </programme>
+  <programme start="20241215193000 +0200" stop="20241215210000 +0200" channel="hustlerhd.com">
+    <title>Hot 20YO Nymphos Thrust By Hard Rods</title>
+  </programme>
+  <programme start="20241215210000 +0200" stop="20241215223000 +0200" channel="hustlerhd.com">
+    <title>10 Best: Horny &amp; Busty MILFs</title>
+  </programme>
+  <programme start="20241215223000 +0200" stop="20241216000000 +0200" channel="hustlerhd.com">
+    <title>19YO Asian Students Suck For A's</title>
   </programme>
   <programme start="20241214043000 +0200" stop="20241214060000 +0200" channel="hustlertv.com">
-    <title>Wives Eager For Creampies</title>
+    <title>18YO Stepsis Lesbians Lick Pink</title>
   </programme>
   <programme start="20241214060000 +0200" stop="20241214063000 +0200" channel="hustlertv.com">
-    <title>Squirting Asians</title>
+    <title>Just Legal Pinks</title>
   </programme>
   <programme start="20241214063000 +0200" stop="20241214080000 +0200" channel="hustlertv.com">
-    <title>18YO Nymphos Ride Massive Rods</title>
+    <title>Rub My Huge Lubed MILF Boobs</title>
   </programme>
   <programme start="20241214080000 +0200" stop="20241214093000 +0200" channel="hustlertv.com">
-    <title>3Way Honeys vs Enormous Rods</title>
+    <title>19YO Temptresses Take Massive Wood</title>
   </programme>
   <programme start="20241214093000 +0200" stop="20241214110000 +0200" channel="hustlertv.com">
-    <title>Petite &amp; Pink-Pumped</title>
-  </programme>
-  <programme start="20241214110000 +0200" stop="20241214123000 +0200" channel="hustlertv.com">
     <title>MILF Maids Anally-Polish Black Pole, odc. 2</title>
   </programme>
+  <programme start="20241214110000 +0200" stop="20241214123000 +0200" channel="hustlertv.com">
+    <title>Join Our Threesome!</title>
+  </programme>
   <programme start="20241214123000 +0200" stop="20241214140000 +0200" channel="hustlertv.com">
-    <title>Police GroupSex: Makeout Like Bandits</title>
+    <title>Seed-Soaked Wife Pinks</title>
   </programme>
   <programme start="20241214140000 +0200" stop="20241214153000 +0200" channel="hustlertv.com">
-    <title>Lesbian Grandmas Teaching Teens</title>
+    <title>Interracial Anal Slams</title>
   </programme>
   <programme start="20241214153000 +0200" stop="20241214170000 +0200" channel="hustlertv.com">
-    <title>10'' Bones Pump Oiled, Natural Babes</title>
+    <title>3Way: 1 Dong vs 2 Petite Pairs &amp; More</title>
   </programme>
   <programme start="20241214170000 +0200" stop="20241214183000 +0200" channel="hustlertv.com">
-    <title>Juicy-Jugged Wives Lick Shaft Clean</title>
+    <title>Prime DD MILFs Pleased</title>
   </programme>
   <programme start="20241214183000 +0200" stop="20241214200000 +0200" channel="hustlertv.com">
-    <title>Over-20 Petites Like 10'' Dongs</title>
+    <title>Yes! Plow College Pink!</title>
   </programme>
   <programme start="20241214200000 +0200" stop="20241214213000 +0200" channel="hustlertv.com">
-    <title>Young Wives Straddle Studs</title>
+    <title>Suburban Wives Flirt For A Spurt</title>
   </programme>
   <programme start="20241214213000 +0200" stop="20241214230000 +0200" channel="hustlertv.com">
-    <title>Petite 18YO Pinks!</title>
+    <title>12'' Black Shaft Spreads Tight Pink</title>
   </programme>
   <programme start="20241214230000 +0200" stop="20241215000000 +0200" channel="hustlertv.com">
-    <title>18YOs Lick Lez Stepmoms' Hot Slots</title>
+    <title>Groupsex For Lusty, Stunning Tourists</title>
   </programme>
   <programme start="20241215000000 +0200" stop="20241215013000 +0200" channel="hustlertv.com">
-    <title>12'' Black Shaft Spreads Tight Pink</title>
+    <title>I Seduced My Hung Professor!</title>
   </programme>
   <programme start="20241215013000 +0200" stop="20241215030000 +0200" channel="hustlertv.com">
     <title>Ravishing MILFs Crave Black Sticks</title>
   </programme>
   <programme start="20241215030000 +0200" stop="20241215043000 +0200" channel="hustlertv.com">
-    <title>Stacked Babes Ride Huge Hogs</title>
+    <title>3Way Honeys vs Enormous Rods</title>
   </programme>
   <programme start="20241215043000 +0200" stop="20241215060000 +0200" channel="hustlertv.com">
-    <title>19YO Rod For Busty StepMILF</title>
+    <title>18YO Stepsis Lesbians Lick Pink</title>
   </programme>
   <programme start="20241215060000 +0200" stop="20241215063000 +0200" channel="hustlertv.com">
-    <title>Cute Stepdaughter Affairs</title>
+    <title>Just Legal Pinks</title>
   </programme>
   <programme start="20241215063000 +0200" stop="20241215080000 +0200" channel="hustlertv.com">
-    <title>First Creampies!</title>
+    <title>Rub My Huge Lubed MILF Boobs</title>
   </programme>
   <programme start="20241215080000 +0200" stop="20241215093000 +0200" channel="hustlertv.com">
-    <title>Natural-Breast Beauties Banged</title>
+    <title>19YO Temptresses Take Massive Wood</title>
   </programme>
   <programme start="20241215093000 +0200" stop="20241215110000 +0200" channel="hustlertv.com">
-    <title>Sensual Massage Hotties Ride Rods</title>
+    <title>MILF Maids Anally-Polish Black Pole, odc. 2</title>
   </programme>
   <programme start="20241215110000 +0200" stop="20241215123000 +0200" channel="hustlertv.com">
-    <title>Glasses Gals Grind For Orgasms</title>
+    <title>Join Our Threesome!</title>
   </programme>
   <programme start="20241215123000 +0200" stop="20241215140000 +0200" channel="hustlertv.com">
-    <title>Gaped Anal MILFs' Interracial Trysts</title>
+    <title>Seed-Soaked Wife Pinks</title>
   </programme>
   <programme start="20241215140000 +0200" stop="20241215153000 +0200" channel="hustlertv.com">
-    <title>Mother-Daughter Exchange Club, odc. 64</title>
+    <title>Interracial Anal Slams</title>
   </programme>
   <programme start="20241215153000 +0200" stop="20241215170000 +0200" channel="hustlertv.com">
-    <title>French Orgy Club</title>
-  </programme>
-  <programme start="20241215170000 +0200" stop="20241215183000 +0200" channel="hustlertv.com">
-    <title>25CM For Sweet Petites</title>
-  </programme>
-  <programme start="20241215183000 +0200" stop="20241215200000 +0200" channel="hustlertv.com">
-    <title>MILF Butts Bounce With Each Thrust</title>
-  </programme>
-  <programme start="20241215200000 +0200" stop="20241215213000 +0200" channel="hustlertv.com">
     <title>3Way: 1 Dong vs 2 Petite Pairs &amp; More</title>
   </programme>
+  <programme start="20241215170000 +0200" stop="20241215183000 +0200" channel="hustlertv.com">
+    <title>Prime DD MILFs Pleased</title>
+  </programme>
+  <programme start="20241215183000 +0200" stop="20241215200000 +0200" channel="hustlertv.com">
+    <title>Yes! Plow College Pink!</title>
+  </programme>
+  <programme start="20241215200000 +0200" stop="20241215213000 +0200" channel="hustlertv.com">
+    <title>Suburban Wives Flirt For A Spurt</title>
+  </programme>
   <programme start="20241215213000 +0200" stop="20241215230000 +0200" channel="hustlertv.com">
-    <title>Unfaithful Married MILFs</title>
+    <title>12'' Black Shaft Spreads Tight Pink</title>
   </programme>
   <programme start="20241215230000 +0200" stop="20241216000000 +0200" channel="hustlertv.com">
-    <title>Mom-In-Law's Mega Juggs!</title>
+    <title>Groupsex For Lusty, Stunning Tourists</title>
   </programme>
   <programme start="20241214040000 +0200" stop="20241214052200 +0200" channel="redlighttv.com">
     <title>Black For Second</title>
@@ -47222,59 +47436,62 @@
   <programme start="20241215033200 +0200" stop="20241216051900 +0200" channel="redlighttv.com">
     <title>Raee</title>
   </programme>
-  <programme start="20241214060000 +0200" stop="20241214082500 +0200" channel="private.tv">
-    <title>The Best Of Anny Aurora</title>
+  <programme start="20241214060000 +0200" stop="20241214080000 +0200" channel="private.tv">
+    <title>Lenys Hardcore Angels</title>
   </programme>
-  <programme start="20241214082500 +0200" stop="20241214110000 +0200" channel="private.tv">
-    <title>Hausfrau Holidays 2</title>
+  <programme start="20241214080000 +0200" stop="20241214103000 +0200" channel="private.tv">
+    <title>Trip Of My Life</title>
   </programme>
-  <programme start="20241214110000 +0200" stop="20241214131000 +0200" channel="private.tv">
-    <title>Cuckold Stories</title>
+  <programme start="20241214103000 +0200" stop="20241214125000 +0200" channel="private.tv">
+    <title>Teens Do It Better</title>
   </programme>
-  <programme start="20241214131000 +0200" stop="20241214153500 +0200" channel="private.tv">
-    <title>Anal Loving Teenagers 10</title>
+  <programme start="20241214125000 +0200" stop="20241214150500 +0200" channel="private.tv">
+    <title>Red Hot Latinas</title>
   </programme>
-  <programme start="20241214153500 +0200" stop="20241214174000 +0200" channel="private.tv">
-    <title>Sexy Horny And Homeless</title>
+  <programme start="20241214150500 +0200" stop="20241214172000 +0200" channel="private.tv">
+    <title>College Whores</title>
   </programme>
-  <programme start="20241214174000 +0200" stop="20241214200000 +0200" channel="private.tv">
-    <title>Bubble Butts</title>
+  <programme start="20241214172000 +0200" stop="20241214192500 +0200" channel="private.tv">
+    <title>Fuck Palace</title>
   </programme>
-  <programme start="20241214200000 +0200" stop="20241214220500 +0200" channel="private.tv">
-    <title>Millenials Fuck Better</title>
+  <programme start="20241214192500 +0200" stop="20241214212000 +0200" channel="private.tv">
+    <title>Private Nurses 2</title>
   </programme>
-  <programme start="20241214220500 +0200" stop="20241215060000 +0200" channel="private.tv">
-    <title>Forever Young: Wie können wir das Altern stoppen?</title>
+  <programme start="20241214212000 +0200" stop="20241215000000 +0200" channel="private.tv">
+    <title>The Best Of Lana Roy</title>
   </programme>
-  <programme start="20241215060000 +0200" stop="20241215082500 +0200" channel="private.tv">
-    <title>My Kinky Diary</title>
+  <programme start="20241215000000 +0200" stop="20241215015500 +0200" channel="private.tv">
+    <title>Porn Influencers 6</title>
   </programme>
-  <programme start="20241215082500 +0200" stop="20241215105000 +0200" channel="private.tv">
-    <title>The Best Of Gina Gerson</title>
+  <programme start="20241215015500 +0200" stop="20241215040000 +0200" channel="private.tv">
+    <title>Cheating With Black Cocks 4</title>
   </programme>
-  <programme start="20241215105000 +0200" stop="20241215125500 +0200" channel="private.tv">
-    <title>Anal Loving Teenagers 5</title>
+  <programme start="20241215040000 +0200" stop="20241215060000 +0200" channel="private.tv">
+    <title>Traders In The City</title>
   </programme>
-  <programme start="20241215125500 +0200" stop="20241215152500 +0200" channel="private.tv">
-    <title>Private Castings New Generation</title>
+  <programme start="20241215060000 +0200" stop="20241215080000 +0200" channel="private.tv">
+    <title>Lenys Hardcore Angels</title>
   </programme>
-  <programme start="20241215152500 +0200" stop="20241215172000 +0200" channel="private.tv">
-    <title>Irresistible Young Ladies</title>
+  <programme start="20241215080000 +0200" stop="20241215103000 +0200" channel="private.tv">
+    <title>Trip Of My Life</title>
+  </programme>
+  <programme start="20241215103000 +0200" stop="20241215125000 +0200" channel="private.tv">
+    <title>Teens Do It Better</title>
+  </programme>
+  <programme start="20241215125000 +0200" stop="20241215150500 +0200" channel="private.tv">
+    <title>Red Hot Latinas</title>
+  </programme>
+  <programme start="20241215150500 +0200" stop="20241215172000 +0200" channel="private.tv">
+    <title>College Whores</title>
   </programme>
   <programme start="20241215172000 +0200" stop="20241215192500 +0200" channel="private.tv">
-    <title>Russian Teen Ass 2</title>
+    <title>Fuck Palace</title>
   </programme>
-  <programme start="20241215192500 +0200" stop="20241215212500 +0200" channel="private.tv">
-    <title>Private Pussy Mansion</title>
+  <programme start="20241215192500 +0200" stop="20241215212000 +0200" channel="private.tv">
+    <title>Private Nurses 2</title>
   </programme>
-  <programme start="20241215212500 +0200" stop="20241216000000 +0200" channel="private.tv">
-    <title>Share My Girlfriend</title>
-  </programme>
-  <programme start="20241215000000 +0200" stop="20241215023000 +0200" channel="private.tv">
-    <title>Groupsex Is The Best 4</title>
-  </programme>
-  <programme start="20241215023000 +0200" stop="20241216060000 +0200" channel="private.tv">
-    <title>Best Of The Year 2023</title>
+  <programme start="20241215212000 +0200" stop="20241216000000 +0200" channel="private.tv">
+    <title>The Best Of Lana Roy</title>
   </programme>
   <programme start="20241214041400 +0200" stop="20241214043600 +0200" channel="brazzers.eu">
     <title>Sneaking Around With The Sister-In-Law (+18)</title>
@@ -52593,132 +52810,132 @@
     <title>Futuro24</title>
   </programme>
   <programme start="20241214050000 +0200" stop="20241214060000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
   </programme>
   <programme start="20241214060000 +0200" stop="20241214070000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 2-я серия</title>
+    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
   </programme>
   <programme start="20241214070000 +0200" stop="20241214080000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
   <programme start="20241214080000 +0200" stop="20241214090000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 3-я серия</title>
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
   </programme>
   <programme start="20241214090000 +0200" stop="20241214100000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
+    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
   </programme>
   <programme start="20241214100000 +0200" stop="20241214110000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 4-я серия</title>
+    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
   </programme>
   <programme start="20241214110000 +0200" stop="20241214120000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
   </programme>
   <programme start="20241214120000 +0200" stop="20241214130000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 1-я серия</title>
+    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
   </programme>
   <programme start="20241214130000 +0200" stop="20241214140000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Mongolia"</title>
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
   <programme start="20241214140000 +0200" stop="20241214150000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 2-я серия</title>
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
   </programme>
   <programme start="20241214150000 +0200" stop="20241214160000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
   </programme>
   <programme start="20241214160000 +0200" stop="20241214170000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 3-я серия</title>
+    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
   </programme>
   <programme start="20241214170000 +0200" stop="20241214180000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
   </programme>
   <programme start="20241214180000 +0200" stop="20241214190000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 4-я серия</title>
+    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
   </programme>
   <programme start="20241214190000 +0200" stop="20241214200000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
   <programme start="20241214200000 +0200" stop="20241214210000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 1-я серия</title>
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
   </programme>
   <programme start="20241214210000 +0200" stop="20241214220000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Mongolia"</title>
+    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
   </programme>
   <programme start="20241214220000 +0200" stop="20241214230000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 2-я серия</title>
+    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
   </programme>
-  <programme start="20241214230000 +0200" stop="20241215050000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20241215050000 +0200" stop="20241215060000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20241215060000 +0200" stop="20241215070000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 3-я серия</title>
-  </programme>
-  <programme start="20241215070000 +0200" stop="20241215080000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20241215080000 +0200" stop="20241215090000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 4-я серия</title>
-  </programme>
-  <programme start="20241215090000 +0200" stop="20241215100000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20241215100000 +0200" stop="20241215110000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20241215110000 +0200" stop="20241215120000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20241215120000 +0200" stop="20241215130000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20241215130000 +0200" stop="20241215140000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20241215140000 +0200" stop="20241215150000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 3-я серия</title>
-  </programme>
-  <programme start="20241215150000 +0200" stop="20241215160000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20241215160000 +0200" stop="20241215170000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 4-я серия</title>
-  </programme>
-  <programme start="20241215170000 +0200" stop="20241215180000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20241215180000 +0200" stop="20241215190000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20241215190000 +0200" stop="20241215200000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20241215200000 +0200" stop="20241215210000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20241215210000 +0200" stop="20241215220000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20241215220000 +0200" stop="20241215230000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 3-я серия</title>
-  </programme>
-  <programme start="20241215230000 +0200" stop="20241216000000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
+  <programme start="20241214230000 +0200" stop="20241215000000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
   </programme>
   <programme start="20241215000000 +0200" stop="20241215010000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 3-я серия</title>
+    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
   </programme>
   <programme start="20241215010000 +0200" stop="20241215020000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
   <programme start="20241215020000 +0200" stop="20241215030000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 4-я серия</title>
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
   </programme>
   <programme start="20241215030000 +0200" stop="20241215040000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
   </programme>
-  <programme start="20241215040000 +0200" stop="20241216050000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Week. Сезон 5. 1-я серия</title>
+  <programme start="20241215040000 +0200" stop="20241215050000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+  </programme>
+  <programme start="20241215050000 +0200" stop="20241215060000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+  </programme>
+  <programme start="20241215060000 +0200" stop="20241215070000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+  </programme>
+  <programme start="20241215070000 +0200" stop="20241215080000 +0200" channel="luxe.tv">
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
+  </programme>
+  <programme start="20241215080000 +0200" stop="20241215090000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
+  </programme>
+  <programme start="20241215090000 +0200" stop="20241215100000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+  </programme>
+  <programme start="20241215100000 +0200" stop="20241215110000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+  </programme>
+  <programme start="20241215110000 +0200" stop="20241215120000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+  </programme>
+  <programme start="20241215120000 +0200" stop="20241215130000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+  </programme>
+  <programme start="20241215130000 +0200" stop="20241215140000 +0200" channel="luxe.tv">
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
+  </programme>
+  <programme start="20241215140000 +0200" stop="20241215150000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
+  </programme>
+  <programme start="20241215150000 +0200" stop="20241215160000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+  </programme>
+  <programme start="20241215160000 +0200" stop="20241215170000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+  </programme>
+  <programme start="20241215170000 +0200" stop="20241215180000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+  </programme>
+  <programme start="20241215180000 +0200" stop="20241215190000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+  </programme>
+  <programme start="20241215190000 +0200" stop="20241215200000 +0200" channel="luxe.tv">
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
+  </programme>
+  <programme start="20241215200000 +0200" stop="20241215210000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
+  </programme>
+  <programme start="20241215210000 +0200" stop="20241215220000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "March"</title>
+  </programme>
+  <programme start="20241215220000 +0200" stop="20241215230000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+  </programme>
+  <programme start="20241215230000 +0200" stop="20241216000000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
   </programme>
 </tv>
