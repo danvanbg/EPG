@@ -1664,6 +1664,15 @@
   sources:
   - city.bg
 
+- id: bgmusic.tv
+  days-ahead: 1
+  enabled: true
+  names:
+  - name: BG Music
+  - name: BG Music HD
+  sources:
+  - bgmusic.tv
+
 - id: boxtv.bg
   days-ahead: 1
   enabled: true
