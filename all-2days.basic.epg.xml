@@ -8720,137 +8720,170 @@
   <programme start="20241216220000 +0200" stop="20241217000000 +0200" channel="ring.bg">
     <title>– ПРЯКО: Нидерландия, Ередивизи: Фейенорд – Хераклес, 16.кр</title>
   </programme>
-  <programme start="20241215093000 +0200" stop="20241215113000 +0200" channel="maxsport1.bg">
-    <title>Волейбол: Световно клубно първенство 2024г., втори полуфинал</title>
+  <programme start="20241215073000 +0200" stop="20241215093000 +0200" channel="maxsport1.bg">
+    <title>Волейбол:</title>
   </programme>
-  <programme start="20241215113000 +0200" stop="20241215163000 +0200" channel="maxsport1.bg">
+  <programme start="20241215093000 +0200" stop="20241215113000 +0200" channel="maxsport1.bg">
+    <title>Волейбол:</title>
+  </programme>
+  <programme start="20241215113000 +0200" stop="20241215143000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, Голф: Alfred Dunhill Championship</title>
+  </programme>
+  <programme start="20241215143000 +0200" stop="20241215163000 +0200" channel="maxsport1.bg">
     <title>ПРЯКО, Голф: Alfred Dunhill Championship</title>
   </programme>
   <programme start="20241215163000 +0200" stop="20241215183000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Волейбол: Световно клубно първенство 2024г., среща за трето място</title>
+    <title>ПРЯКО, Волейбол:</title>
   </programme>
   <programme start="20241215183000 +0200" stop="20241215193000 +0200" channel="maxsport1.bg">
     <title>Trans World Sport</title>
   </programme>
   <programme start="20241215193000 +0200" stop="20241215213000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Волейбол: Световно клубно първенство 2024г., финал</title>
+    <title>ПРЯКО, Волейбол:</title>
   </programme>
   <programme start="20241215213000 +0200" stop="20241215233000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Волейбол - Серия А1: Модена - Пиаченца Модена - Пиаченца</title>
+    <title>ПРЯКО, Волейбол - Серия А1: Модена - Пиаченца</title>
   </programme>
   <programme start="20241215233000 +0200" stop="20241216000000 +0200" channel="maxsport1.bg">
-    <title>Евролига: Обзор 15 кръг Обзор 15 кръг</title>
+    <title>Евролига: Обзор 15 кръг</title>
   </programme>
   <programme start="20241216000000 +0200" stop="20241216030000 +0200" channel="maxsport1.bg">
-    <title>Cage Warriors 182: Галавечер от Сан Диего</title>
+    <title>ПРЯКО, NHL: Торонто Мейпъл Лийфс - Бъфало Сейбърс</title>
   </programme>
-  <programme start="20241216030000 +0200" stop="20241216100000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Волейбол: Минас - Веро Волей Милано Световно клубно първенство 2024г., жени</title>
+  <programme start="20241216030000 +0200" stop="20241216040000 +0200" channel="maxsport1.bg">
+    <title>Скорост на Макс</title>
+  </programme>
+  <programme start="20241216040000 +0200" stop="20241216070000 +0200" channel="maxsport1.bg">
+    <title>Nascar Cup Series: Състезание в Южна Каролина</title>
+  </programme>
+  <programme start="20241216070000 +0200" stop="20241216080000 +0200" channel="maxsport1.bg">
+    <title>Nascar Cup Series: Състезание в Южна Каролина</title>
+  </programme>
+  <programme start="20241216080000 +0200" stop="20241216100000 +0200" channel="maxsport1.bg">
+    <title>Еврокупа: Гран Канария - Будучност</title>
   </programme>
   <programme start="20241216100000 +0200" stop="20241216120000 +0200" channel="maxsport1.bg">
-    <title>Волейбол - Шампионска лига: Веро Волей Милано - Калцит Камник Четвърти кръг, жени</title>
+    <title>Волейбол - Шампионска лига: Веро Волей Милано - Калцит Камник</title>
   </programme>
   <programme start="20241216120000 +0200" stop="20241216140000 +0200" channel="maxsport1.bg">
-    <title>Волейбол - Шампионска лига: Фенербахче - Вашаш Четвърти кръг, жени</title>
+    <title>Волейбол - Шампионска лига: Фенербахче - Вашаш</title>
   </programme>
-  <programme start="20241216140000 +0200" stop="20241216160000 +0200" channel="maxsport1.bg">
-    <title>Волейбол - Шампионска лига: Конелиано - Марица Пловдив Четвърти кръг, жени</title>
+  <programme start="20241216140000 +0200" stop="20241216153000 +0200" channel="maxsport1.bg">
+    <title>Волейбол - Шампионска лига: Конелиано - Марица Пловдив</title>
   </programme>
-  <programme start="20241216160000 +0200" stop="20241216180000 +0200" channel="maxsport1.bg">
-    <title>Евролига: Цървена Звезда - Олимпиакос Цървена Звезда - Олимпиакос</title>
+  <programme start="20241216153000 +0200" stop="20241216173000 +0200" channel="maxsport1.bg">
+    <title>Евролига: Цървена Звезда - Олимпиакос</title>
+  </programme>
+  <programme start="20241216173000 +0200" stop="20241216180000 +0200" channel="maxsport1.bg">
+    <title>ATP: "Историята на Рафаел Надал"</title>
   </programme>
   <programme start="20241216180000 +0200" stop="20241216200000 +0200" channel="maxsport1.bg">
-    <title>Волейбол: Световно клубно първенство 2024г., среща за трето място</title>
+    <title>Волейбол:</title>
   </programme>
   <programme start="20241216200000 +0200" stop="20241216220000 +0200" channel="maxsport1.bg">
-    <title>Волейбол: Световно клубно първенство 2024г., финал</title>
+    <title>Волейбол:</title>
   </programme>
   <programme start="20241216220000 +0200" stop="20241217000000 +0200" channel="maxsport1.bg">
-    <title>Волейбол - Серия А1: Модена - Пиаченца Модена - Пиаченца</title>
+    <title>Волейбол - Серия А1: Модена - Пиаченца</title>
+  </programme>
+  <programme start="20241215080000 +0200" stop="20241215101500 +0200" channel="maxsport2.bg">
+    <title>Евролига: Барселона - Олимпия Милано</title>
   </programme>
   <programme start="20241215101500 +0200" stop="20241215123000 +0200" channel="maxsport2.bg">
-    <title>Волейбол - СуперЛига: Нефтохимик - Монтана 10 кръг Нефтохимик - Монтана</title>
+    <title>Волейбол - СуперЛига: Нефтохимик - Монтана</title>
   </programme>
   <programme start="20241215123000 +0200" stop="20241215130000 +0200" channel="maxsport2.bg">
     <title>ПРЯКО, Студио "Баскетбол"</title>
   </programme>
   <programme start="20241215130000 +0200" stop="20241215150000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Национална баскетболна лига: Спартак - Рилски Спортист Спартак - Рилски Спортист</title>
+    <title>ПРЯКО, Национална баскетболна лига: Спартак - Рилски Спортист</title>
   </programme>
   <programme start="20241215150000 +0200" stop="20241215151500 +0200" channel="maxsport2.bg">
     <title>ПРЯКО, Студио "Баскетбол"</title>
   </programme>
   <programme start="20241215151500 +0200" stop="20241215160000 +0200" channel="maxsport2.bg">
-    <title>Trans World Sport 50 епизод</title>
+    <title>Trans World Sport</title>
   </programme>
   <programme start="20241215160000 +0200" stop="20241215180000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Серия А: Парма - Верона 16 кръг</title>
+    <title>ПРЯКО, Серия А: Парма - Верона</title>
   </programme>
   <programme start="20241215180000 +0200" stop="20241215190000 +0200" channel="maxsport2.bg">
-    <title>"Удар със стик" 62 епизод</title>
+    <title>Удар със стик</title>
   </programme>
   <programme start="20241215190000 +0200" stop="20241215193000 +0200" channel="maxsport2.bg">
-    <title>Евролига: Обзор 15 кръг 15 кръг Обзор 15 кръг</title>
+    <title>Евролига: Обзор 15 кръг</title>
   </programme>
   <programme start="20241215193000 +0200" stop="20241215200000 +0200" channel="maxsport2.bg">
-    <title>NFL: Обзор 14 кръг 14 кръг Обзор 14 кръг</title>
+    <title>NFL: Обзор 14 кръг</title>
   </programme>
-  <programme start="20241215200000 +0200" stop="20241215232000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, NFL: Хюстън Тексънс - Маями Долфинс 15 кръг Хюстън Тексънс - Маями Долфинс</title>
+  <programme start="20241215200000 +0200" stop="20241215230000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, NFL: Хюстън Тексънс - Маями Долфинс</title>
   </programme>
-  <programme start="20241215232000 +0200" stop="20241216013000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, NFL: Детройт Лайънс - Бъфало Билс 15 кръг Детройт Лайънс - Бъфало Билс</title>
+  <programme start="20241215230000 +0200" stop="20241215232000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, NFL: Хюстън Тексънс - Маями Долфинс</title>
   </programme>
-  <programme start="20241216013000 +0200" stop="20241216033000 +0200" channel="maxsport2.bg">
-    <title>NHL: Торонто Мейпъл Лийфс - Бъфало Сейбърс Торонто Мейпъл Лийфс - Бъфало Сейбърс</title>
+  <programme start="20241215232000 +0200" stop="20241216022000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, NFL: Детройт Лайънс - Бъфало Билс</title>
   </programme>
-  <programme start="20241216033000 +0200" stop="20241216060000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, NHL: Едмънтън Ойлърс - Флорида Пантърс Едмънтън Ойлърс - Флорида Пантърс</title>
+  <programme start="20241216022000 +0200" stop="20241216023000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, NFL: Детройт Лайънс - Бъфало Билс</title>
+  </programme>
+  <programme start="20241216023000 +0200" stop="20241216053000 +0200" channel="maxsport2.bg">
+    <title>UFC Fight Night: Ковингтън срещу Бъкли</title>
+  </programme>
+  <programme start="20241216053000 +0200" stop="20241216060000 +0200" channel="maxsport2.bg">
+    <title>Евролига: Обзор 15 кръг</title>
   </programme>
   <programme start="20241216060000 +0200" stop="20241216080000 +0200" channel="maxsport2.bg">
-    <title>Национална баскетболна лига: Спартак - Рилски Спортист Спартак - Рилски Спортист</title>
+    <title>Национална баскетболна лига: Спартак - Рилски Спортист</title>
   </programme>
-  <programme start="20241216080000 +0200" stop="20241216120000 +0200" channel="maxsport2.bg">
-    <title>Голф: Alfred Dunhill Championship 4 кръг</title>
+  <programme start="20241216080000 +0200" stop="20241216110000 +0200" channel="maxsport2.bg">
+    <title>Голф: Alfred Dunhill Championship</title>
+  </programme>
+  <programme start="20241216110000 +0200" stop="20241216120000 +0200" channel="maxsport2.bg">
+    <title>Голф: Alfred Dunhill Championship</title>
   </programme>
   <programme start="20241216120000 +0200" stop="20241216123000 +0200" channel="maxsport2.bg">
-    <title>Trans World Sport 50 епизод</title>
+    <title>Trans World Sport</title>
   </programme>
   <programme start="20241216123000 +0200" stop="20241216133000 +0200" channel="maxsport2.bg">
-    <title>Световен рали шампионат 2: Обзор на сезона Обзор на сезона</title>
+    <title>Световен рали шампионат: Обзор на сезона</title>
   </programme>
   <programme start="20241216133000 +0200" stop="20241216153000 +0200" channel="maxsport2.bg">
-    <title>Волейбол - СуперЛига: Левски - Локомотив Авиа 10 кръг Левски - Локомотив Авиа</title>
+    <title>Волейбол - СуперЛига: Левски - Локомотив Авиа</title>
   </programme>
   <programme start="20241216153000 +0200" stop="20241216173000 +0200" channel="maxsport2.bg">
-    <title>NHL: Едмънтън Ойлърс - Вегас Голдън Найтс Едмънтън Ойлърс - Вегас Голдън Найтс</title>
+    <title>NHL: Едмънтън Ойлърс - Вегас Голдън Найтс</title>
   </programme>
   <programme start="20241216173000 +0200" stop="20241216180000 +0200" channel="maxsport2.bg">
-    <title>"Удар със стик" 63 епизод</title>
+    <title>Удар със стик</title>
   </programme>
   <programme start="20241216180000 +0200" stop="20241216190000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, "Зона волей" Токшоу</title>
+    <title>ПРЯКО, "Зона волей"</title>
   </programme>
   <programme start="20241216190000 +0200" stop="20241216191500 +0200" channel="maxsport2.bg">
     <title>ПРЯКО, Студио "Баскетбол"</title>
   </programme>
   <programme start="20241216191500 +0200" stop="20241216213000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Национална баскетболна лига: Левски - Академик Пловдив Левски - Академик Пловдив</title>
+    <title>ПРЯКО, Национална баскетболна лига: Левски - Академик Пловдив</title>
   </programme>
   <programme start="20241216213000 +0200" stop="20241216223000 +0200" channel="maxsport2.bg">
-    <title>Moto GP: Обзор на сезона Обзор на сезона</title>
+    <title>Moto GP: Обзор на сезона</title>
   </programme>
   <programme start="20241216223000 +0200" stop="20241216233000 +0200" channel="maxsport2.bg">
-    <title>Moto 3 и 2: Обзор на сезона Обзор на сезона</title>
+    <title>Moto 3 и 2: Обзор на сезона</title>
   </programme>
   <programme start="20241216233000 +0200" stop="20241217013000 +0200" channel="maxsport2.bg">
-    <title>Волейбол: Световно клубно първенство 2024г., среща за трето място</title>
+    <title>Волейбол:</title>
+  </programme>
+  <programme start="20241215060000 +0200" stop="20241215080000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Каляри - Аталанта</title>
   </programme>
   <programme start="20241215080000 +0200" stop="20241215100000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Лига Европа: Лион - Айнтрахт Франкфурт Шести кръг</title>
+    <title>УЕФА Лига Европа: Лион - Айнтрахт Франкфурт</title>
   </programme>
   <programme start="20241215100000 +0200" stop="20241215110000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Лига Европа и Лига на конференциите: Обзор на кръга Обзор на кръга</title>
+    <title>УЕФА Лига Европа и Лига на конференциите: Обзор на кръга</title>
   </programme>
   <programme start="20241215110000 +0200" stop="20241215130000 +0200" channel="maxsport3.bg">
     <title>Серия А: Удинезе - Наполи</title>
@@ -8885,26 +8918,32 @@
   <programme start="20241215234500 +0200" stop="20241216000000 +0200" channel="maxsport3.bg">
     <title>ПРЯКО, Студио "Футбол"</title>
   </programme>
-  <programme start="20241216000000 +0200" stop="20241216020000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Удинезе - Наполи</title>
+  <programme start="20241216000000 +0200" stop="20241216010000 +0200" channel="maxsport3.bg">
+    <title>УЕФА Лига Европа и Лига на конференциите</title>
   </programme>
-  <programme start="20241216020000 +0200" stop="20241216040000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Ювентус - Венеция</title>
+  <programme start="20241216010000 +0200" stop="20241216030000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Комо - Рома</title>
   </programme>
-  <programme start="20241216040000 +0200" stop="20241216080000 +0200" channel="maxsport3.bg">
-    <title>Суперкарс 2024г.: Първо състезание в Батърст Първо състезание в Батърст</title>
+  <programme start="20241216030000 +0200" stop="20241216050000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Милан - Дженоа</title>
+  </programme>
+  <programme start="20241216050000 +0200" stop="20241216060000 +0200" channel="maxsport3.bg">
+    <title>УЕФА Лига Европа и Лига на конференциите</title>
+  </programme>
+  <programme start="20241216060000 +0200" stop="20241216080000 +0200" channel="maxsport3.bg">
+    <title>УЕФА Младежка Шампионска лига: Аталанта - Реал Мадрид</title>
   </programme>
   <programme start="20241216080000 +0200" stop="20241216100000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Лига Европа: Виктория Пилзен - Манчестър Юнайтед Шести кръг</title>
+    <title>УЕФА Лига Европа: Виктория Пилзен - Манчестър Юнайтед</title>
   </programme>
   <programme start="20241216100000 +0200" stop="20241216120000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Шампионска лига: Жирона - Ливърпул Шести кръг</title>
+    <title>УЕФА Шампионска лига: Жирона - Ливърпул</title>
   </programme>
   <programme start="20241216120000 +0200" stop="20241216123000 +0200" channel="maxsport3.bg">
-    <title>"УЕФА Шампионска лига" Магазинно предаване</title>
+    <title>УЕФА Шампионска лига</title>
   </programme>
   <programme start="20241216123000 +0200" stop="20241216133000 +0200" channel="maxsport3.bg">
-    <title>"УЕФА Лига Европа и Лига на конференциите" Магазинно предаване</title>
+    <title>УЕФА Лига Европа и Лига на конференциите</title>
   </programme>
   <programme start="20241216133000 +0200" stop="20241216153000 +0200" channel="maxsport3.bg">
     <title>Серия А: Удинезе - Наполи</title>
@@ -8926,6 +8965,9 @@
   </programme>
   <programme start="20241216234500 +0200" stop="20241217000000 +0200" channel="maxsport3.bg">
     <title>ПРЯКО, Студио "Футбол"</title>
+  </programme>
+  <programme start="20241215080000 +0200" stop="20241215083000 +0200" channel="maxsport4.bg">
+    <title>Trans World Sport</title>
   </programme>
   <programme start="20241215083000 +0200" stop="20241215103000 +0200" channel="maxsport4.bg">
     <title>Ла Лига: Валядолид - Валенсия</title>
@@ -8957,14 +8999,26 @@
   <programme start="20241215213000 +0200" stop="20241215220000 +0200" channel="maxsport4.bg">
     <title>ПРЯКО, Студио "Футбол"</title>
   </programme>
-  <programme start="20241215220000 +0200" stop="20241216013000 +0200" channel="maxsport4.bg">
+  <programme start="20241215220000 +0200" stop="20241216000000 +0200" channel="maxsport4.bg">
     <title>ПРЯКО, Ла Лига: Барселона - Леганес</title>
   </programme>
-  <programme start="20241216013000 +0200" stop="20241216041500 +0200" channel="maxsport4.bg">
-    <title>Голф: Fortinet Australian PGA Championship</title>
+  <programme start="20241216000000 +0200" stop="20241216001500 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, Студио "Футбол"</title>
   </programme>
-  <programme start="20241216041500 +0200" stop="20241216100000 +0200" channel="maxsport4.bg">
-    <title>Голф: Joburg Open</title>
+  <programme start="20241216001500 +0200" stop="20241216020000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Атлетико Мадрид - Хетафе</title>
+  </programme>
+  <programme start="20241216020000 +0200" stop="20241216040000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Алавес - Атлетик Билбао</title>
+  </programme>
+  <programme start="20241216040000 +0200" stop="20241216070000 +0200" channel="maxsport4.bg">
+    <title>Голф: Alfred Dunhill Championship</title>
+  </programme>
+  <programme start="20241216070000 +0200" stop="20241216080000 +0200" channel="maxsport4.bg">
+    <title>Голф: Alfred Dunhill Championship</title>
+  </programme>
+  <programme start="20241216080000 +0200" stop="20241216100000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Барселона - Леганес</title>
   </programme>
   <programme start="20241216100000 +0200" stop="20241216120000 +0200" channel="maxsport4.bg">
     <title>Ла Лига: Севиля - Селта</title>
@@ -8982,12 +9036,12 @@
     <title>Ла Лига: Атлетико Мадрид - Хетафе</title>
   </programme>
   <programme start="20241216200000 +0200" stop="20241216213000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, "Пред Стадиона" - спортно шоу "Пред Стадиона" - спортно шоу</title>
+    <title>ПРЯКО, "Пред Стадиона" - спортно шоу</title>
   </programme>
   <programme start="20241216213000 +0200" stop="20241216233000 +0200" channel="maxsport4.bg">
     <title>Купа на Краля: Касереньо - Атлетико Мадрид</title>
   </programme>
-  <programme start="20241216233000 +0200" stop="20241217000000 +0200" channel="maxsport4.bg">
+  <programme start="20241216233000 +0200" stop="20241217013000 +0200" channel="maxsport4.bg">
     <title>Ла Лига: Барселона - Леганес</title>
   </programme>
   <programme start="20241215060000 +0200" stop="20241215070000 +0200" channel="eurosport1.bg">
@@ -14572,6 +14626,60 @@
   </programme>
   <programme start="20241215180000 +0200" channel="citytv.bg">
     <title lang="bg">CITY HITS</title>
+  </programme>
+  <programme start="20241215000000 +0200" stop="20241215010000 +0200" channel="bgmusic.tv">
+    <title>BG HIP-HOP / R&amp;B</title>
+  </programme>
+  <programme start="20241215010000 +0200" stop="20241215040000 +0200" channel="bgmusic.tv">
+    <title>BG NIGHT PARTY</title>
+  </programme>
+  <programme start="20241215040000 +0200" stop="20241215070000 +0200" channel="bgmusic.tv">
+    <title>BG AFTER PARTY</title>
+  </programme>
+  <programme start="20241215070000 +0200" stop="20241215100000 +0200" channel="bgmusic.tv">
+    <title>BG ENERGY MIX</title>
+  </programme>
+  <programme start="20241215100000 +0200" stop="20241215101000 +0200" channel="bgmusic.tv">
+    <title>NEW BG MUSIC</title>
+  </programme>
+  <programme start="20241215101000 +0200" stop="20241215110000 +0200" channel="bgmusic.tv">
+    <title>BG ENERGY MIX</title>
+  </programme>
+  <programme start="20241215110000 +0200" stop="20241215130000 +0200" channel="bgmusic.tv">
+    <title>BG FEVER</title>
+  </programme>
+  <programme start="20241215130000 +0200" stop="20241215131000 +0200" channel="bgmusic.tv">
+    <title>NEW BG MUSIC</title>
+  </programme>
+  <programme start="20241215131000 +0200" stop="20241215160000 +0200" channel="bgmusic.tv">
+    <title>BG FEVER</title>
+  </programme>
+  <programme start="20241215160000 +0200" stop="20241215161500 +0200" channel="bgmusic.tv">
+    <title>NEW BG MUSIC</title>
+  </programme>
+  <programme start="20241215161500 +0200" stop="20241215170000 +0200" channel="bgmusic.tv">
+    <title>BG MUSIC TOP 20</title>
+  </programme>
+  <programme start="20241215170000 +0200" stop="20241215190000 +0200" channel="bgmusic.tv">
+    <title>BG PLAY</title>
+  </programme>
+  <programme start="20241215190000 +0200" stop="20241215191000 +0200" channel="bgmusic.tv">
+    <title>NEW BG MUSIC</title>
+  </programme>
+  <programme start="20241215191000 +0200" stop="20241215200000 +0200" channel="bgmusic.tv">
+    <title>BG MUSIC RELOAD</title>
+  </programme>
+  <programme start="20241215200000 +0200" stop="20241215220000 +0200" channel="bgmusic.tv">
+    <title>BG MUSIC SHAKER</title>
+  </programme>
+  <programme start="20241215220000 +0200" stop="20241215221000 +0200" channel="bgmusic.tv">
+    <title>NEW BG MUSIC</title>
+  </programme>
+  <programme start="20241215221000 +0200" stop="20241215230000 +0200" channel="bgmusic.tv">
+    <title>BG MUSIC SHAKER</title>
+  </programme>
+  <programme start="20241215230000 +0200" channel="bgmusic.tv">
+    <title>BG ROCK MUSIC</title>
   </programme>
   <programme start="20241215060000 +0200" stop="20241215070000 +0200" channel="boxtv.bg">
     <title lang="bg">"Общество и право" (повторение)</title>
@@ -31892,6 +32000,264 @@
   <programme start="20241216235500 +0200" stop="20241217002000 +0200" channel="ohotarybalka.ru">
     <title lang="ru">Таежная история. Сезон 2. 12-я серия - "Финальные таймени"</title>
   </programme>
+  <programme start="20241215060000 +0200" stop="20241215063000 +0200" channel="travelxp.eu">
+    <title>Great World Hotels - The Residence</title>
+  </programme>
+  <programme start="20241215063000 +0200" stop="20241215070000 +0200" channel="travelxp.eu">
+    <title>Backpack - Lisbon, Portgual</title>
+  </programme>
+  <programme start="20241215070000 +0200" stop="20241215073000 +0200" channel="travelxp.eu">
+    <title>10 Days Scotland - Series 1 Episode 2</title>
+  </programme>
+  <programme start="20241215073000 +0200" stop="20241215080000 +0200" channel="travelxp.eu">
+    <title>Xplore Sri Lanka - Galle</title>
+  </programme>
+  <programme start="20241215080000 +0200" stop="20241215083000 +0200" channel="travelxp.eu">
+    <title>Food Fact Fun - Taipei City</title>
+  </programme>
+  <programme start="20241215083000 +0200" stop="20241215090000 +0200" channel="travelxp.eu">
+    <title>Off the Grid - Libreville ,Gabon</title>
+  </programme>
+  <programme start="20241215090000 +0200" stop="20241215093000 +0200" channel="travelxp.eu">
+    <title>Great World Hotels - Closenberg</title>
+  </programme>
+  <programme start="20241215093000 +0200" stop="20241215100000 +0200" channel="travelxp.eu">
+    <title>Backpack - Sintra, Portgual</title>
+  </programme>
+  <programme start="20241215100000 +0200" stop="20241215103000 +0200" channel="travelxp.eu">
+    <title>10 Days Scotland - Series 1 Episode 3</title>
+  </programme>
+  <programme start="20241215103000 +0200" stop="20241215110000 +0200" channel="travelxp.eu">
+    <title>Xplore Thailand - Bangkok Part 1</title>
+  </programme>
+  <programme start="20241215110000 +0200" stop="20241215113000 +0200" channel="travelxp.eu">
+    <title>Food Fact Fun - Taichung, Taiwan</title>
+  </programme>
+  <programme start="20241215113000 +0200" stop="20241215114500 +0200" channel="travelxp.eu">
+    <title>Best From the Rest - Ethiopian Experiences</title>
+  </programme>
+  <programme start="20241215114500 +0200" stop="20241215120000 +0200" channel="travelxp.eu">
+    <title>Landmarks - Series 1 Episode 35: Currency Museum, Bengaluru</title>
+  </programme>
+  <programme start="20241215120000 +0200" stop="20241215123000 +0200" channel="travelxp.eu">
+    <title>City Breaks - Udaipur</title>
+  </programme>
+  <programme start="20241215123000 +0200" stop="20241215130000 +0200" channel="travelxp.eu">
+    <title>Backpack - Coimbra, Portgual</title>
+  </programme>
+  <programme start="20241215130000 +0200" stop="20241215133000 +0200" channel="travelxp.eu">
+    <title>10 Days Scotland - Series 1 Episode 4</title>
+  </programme>
+  <programme start="20241215133000 +0200" stop="20241215140000 +0200" channel="travelxp.eu">
+    <title>Xplore Thailand - Bangkok Part 2</title>
+  </programme>
+  <programme start="20241215140000 +0200" stop="20241215143000 +0200" channel="travelxp.eu">
+    <title>Food Fact Fun - Tainan</title>
+  </programme>
+  <programme start="20241215143000 +0200" stop="20241215150000 +0200" channel="travelxp.eu">
+    <title>XP Guide - Cesky Krum Lov</title>
+  </programme>
+  <programme start="20241215150000 +0200" stop="20241215153000 +0200" channel="travelxp.eu">
+    <title>City Breaks - Singapore</title>
+  </programme>
+  <programme start="20241215153000 +0200" stop="20241215160000 +0200" channel="travelxp.eu">
+    <title>Backpack - Porto, Portugal</title>
+  </programme>
+  <programme start="20241215160000 +0200" stop="20241215163000 +0200" channel="travelxp.eu">
+    <title>10 Days Scotland - Series 1 Episode 7: Inverness</title>
+  </programme>
+  <programme start="20241215163000 +0200" stop="20241215170000 +0200" channel="travelxp.eu">
+    <title>Xplore Thailand - Koh Samui</title>
+  </programme>
+  <programme start="20241215170000 +0200" stop="20241215173000 +0200" channel="travelxp.eu">
+    <title>Food Fact Fun - Yilan, Taiwan</title>
+  </programme>
+  <programme start="20241215173000 +0200" stop="20241215180000 +0200" channel="travelxp.eu">
+    <title>XP Guide - Amman</title>
+  </programme>
+  <programme start="20241215180000 +0200" stop="20241215183000 +0200" channel="travelxp.eu">
+    <title>World Heritage - The Sculptures of Khajuraho, India</title>
+  </programme>
+  <programme start="20241215183000 +0200" stop="20241215190000 +0200" channel="travelxp.eu">
+    <title>Backpack - Douro Valley, Portugal</title>
+  </programme>
+  <programme start="20241215190000 +0200" stop="20241215193000 +0200" channel="travelxp.eu">
+    <title>10 Days Scotland - Series 1 Episode 6</title>
+  </programme>
+  <programme start="20241215193000 +0200" stop="20241215200000 +0200" channel="travelxp.eu">
+    <title>Xplore Thailand - Phuket</title>
+  </programme>
+  <programme start="20241215200000 +0200" stop="20241215203000 +0200" channel="travelxp.eu">
+    <title>Xplore Sri Lanka - Colombo</title>
+  </programme>
+  <programme start="20241215203000 +0200" stop="20241215210000 +0200" channel="travelxp.eu">
+    <title>Food Fact Fun - Gouda</title>
+  </programme>
+  <programme start="20241215210000 +0200" stop="20241215213000 +0200" channel="travelxp.eu">
+    <title>Unwind - Park Hyatt, Maldives</title>
+  </programme>
+  <programme start="20241215213000 +0200" stop="20241215220000 +0200" channel="travelxp.eu">
+    <title>City Breaks - Samarkand, Uzbekistan</title>
+  </programme>
+  <programme start="20241215220000 +0200" stop="20241215223000 +0200" channel="travelxp.eu">
+    <title>Navratri The Nine Nights - Series 1 Episode 1</title>
+  </programme>
+  <programme start="20241215223000 +0200" stop="20241215230000 +0200" channel="travelxp.eu">
+    <title>Off the Grid - Loango National Park, Gabon</title>
+  </programme>
+  <programme start="20241215230000 +0200" stop="20241215233000 +0200" channel="travelxp.eu">
+    <title>Xplore Sri Lanka - Colombo</title>
+  </programme>
+  <programme start="20241215233000 +0200" stop="20241216000000 +0200" channel="travelxp.eu">
+    <title>Food Fact Fun - Gouda</title>
+  </programme>
+  <programme start="20241216000000 +0200" stop="20241216003000 +0200" channel="travelxp.eu">
+    <title>Unwind - Park Hyatt, Maldives</title>
+  </programme>
+  <programme start="20241216003000 +0200" stop="20241216010000 +0200" channel="travelxp.eu">
+    <title>City Breaks - Samarkand, Uzbekistan</title>
+  </programme>
+  <programme start="20241216010000 +0200" stop="20241216013000 +0200" channel="travelxp.eu">
+    <title>Navratri The Nine Nights - Series 1 Episode 1</title>
+  </programme>
+  <programme start="20241216013000 +0200" stop="20241216020000 +0200" channel="travelxp.eu">
+    <title>Off the Grid - Loango National Park, Gabon</title>
+  </programme>
+  <programme start="20241216020000 +0200" stop="20241216023000 +0200" channel="travelxp.eu">
+    <title>10 Days Scotland - Series 1 Episode 2</title>
+  </programme>
+  <programme start="20241216023000 +0200" stop="20241216030000 +0200" channel="travelxp.eu">
+    <title>Backpack - Lisbon, Portgual</title>
+  </programme>
+  <programme start="20241216030000 +0200" stop="20241216033000 +0200" channel="travelxp.eu">
+    <title>Xplore Sri Lanka - Galle</title>
+  </programme>
+  <programme start="20241216033000 +0200" stop="20241216040000 +0200" channel="travelxp.eu">
+    <title>Great World Hotels - The Residence</title>
+  </programme>
+  <programme start="20241216040000 +0200" stop="20241216043000 +0200" channel="travelxp.eu">
+    <title>Off the Grid - Lope National Park, Gabon</title>
+  </programme>
+  <programme start="20241216043000 +0200" stop="20241216050000 +0200" channel="travelxp.eu">
+    <title>Food Fact Fun - Dubai 2</title>
+  </programme>
+  <programme start="20241216050000 +0200" stop="20241216053000 +0200" channel="travelxp.eu">
+    <title>10 Days Scotland - Series 1 Episode 3</title>
+  </programme>
+  <programme start="20241216053000 +0200" stop="20241216060000 +0200" channel="travelxp.eu">
+    <title>Backpack - Sintra, Portgual</title>
+  </programme>
+  <programme start="20241216060000 +0200" stop="20241216063000 +0200" channel="travelxp.eu">
+    <title>Xplore Thailand - Bangkok Part 1</title>
+  </programme>
+  <programme start="20241216063000 +0200" stop="20241216070000 +0200" channel="travelxp.eu">
+    <title>Great World Hotels - Closenberg</title>
+  </programme>
+  <programme start="20241216070000 +0200" stop="20241216073000 +0200" channel="travelxp.eu">
+    <title>Off the Grid - Libreville ,Gabon</title>
+  </programme>
+  <programme start="20241216073000 +0200" stop="20241216080000 +0200" channel="travelxp.eu">
+    <title>Food Fact Fun - Taipei City</title>
+  </programme>
+  <programme start="20241216080000 +0200" stop="20241216083000 +0200" channel="travelxp.eu">
+    <title>10 Days Scotland - Series 1 Episode 4</title>
+  </programme>
+  <programme start="20241216083000 +0200" stop="20241216090000 +0200" channel="travelxp.eu">
+    <title>Backpack - Coimbra, Portgual</title>
+  </programme>
+  <programme start="20241216090000 +0200" stop="20241216093000 +0200" channel="travelxp.eu">
+    <title>Xplore Thailand - Bangkok Part 2</title>
+  </programme>
+  <programme start="20241216093000 +0200" stop="20241216100000 +0200" channel="travelxp.eu">
+    <title>City Breaks - Udaipur</title>
+  </programme>
+  <programme start="20241216100000 +0200" stop="20241216101500 +0200" channel="travelxp.eu">
+    <title>Best From the Rest - Ethiopian Experiences</title>
+  </programme>
+  <programme start="20241216101500 +0200" stop="20241216103000 +0200" channel="travelxp.eu">
+    <title>Landmarks - Series 1 Episode 35: Currency Museum, Bengaluru</title>
+  </programme>
+  <programme start="20241216103000 +0200" stop="20241216110000 +0200" channel="travelxp.eu">
+    <title>Food Fact Fun - Taichung, Taiwan</title>
+  </programme>
+  <programme start="20241216110000 +0200" stop="20241216113000 +0200" channel="travelxp.eu">
+    <title>10 Days Scotland - Series 1 Episode 7: Inverness</title>
+  </programme>
+  <programme start="20241216113000 +0200" stop="20241216120000 +0200" channel="travelxp.eu">
+    <title>Backpack - Porto, Portugal</title>
+  </programme>
+  <programme start="20241216120000 +0200" stop="20241216123000 +0200" channel="travelxp.eu">
+    <title>Xplore Thailand - Koh Samui</title>
+  </programme>
+  <programme start="20241216123000 +0200" stop="20241216130000 +0200" channel="travelxp.eu">
+    <title>City Breaks - Singapore</title>
+  </programme>
+  <programme start="20241216130000 +0200" stop="20241216133000 +0200" channel="travelxp.eu">
+    <title>XP Guide - Cesky Krum Lov</title>
+  </programme>
+  <programme start="20241216133000 +0200" stop="20241216140000 +0200" channel="travelxp.eu">
+    <title>Food Fact Fun - Tainan</title>
+  </programme>
+  <programme start="20241216140000 +0200" stop="20241216143000 +0200" channel="travelxp.eu">
+    <title>10 Days Scotland - Series 1 Episode 6</title>
+  </programme>
+  <programme start="20241216143000 +0200" stop="20241216150000 +0200" channel="travelxp.eu">
+    <title>Backpack - Douro Valley, Portugal</title>
+  </programme>
+  <programme start="20241216150000 +0200" stop="20241216153000 +0200" channel="travelxp.eu">
+    <title>Xplore Thailand - Phuket</title>
+  </programme>
+  <programme start="20241216153000 +0200" stop="20241216160000 +0200" channel="travelxp.eu">
+    <title>City Breaks - Udaipur</title>
+  </programme>
+  <programme start="20241216160000 +0200" stop="20241216163000 +0200" channel="travelxp.eu">
+    <title>XP Guide - Amman</title>
+  </programme>
+  <programme start="20241216163000 +0200" stop="20241216170000 +0200" channel="travelxp.eu">
+    <title>Food Fact Fun - Yilan, Taiwan</title>
+  </programme>
+  <programme start="20241216170000 +0200" stop="20241216173000 +0200" channel="travelxp.eu">
+    <title>City Breaks - Singapore</title>
+  </programme>
+  <programme start="20241216173000 +0200" stop="20241216180000 +0200" channel="travelxp.eu">
+    <title>Unwind - Park Hyatt, Maldives</title>
+  </programme>
+  <programme start="20241216180000 +0200" stop="20241216183000 +0200" channel="travelxp.eu">
+    <title>Xplore Sri Lanka - Colombo</title>
+  </programme>
+  <programme start="20241216183000 +0200" stop="20241216190000 +0200" channel="travelxp.eu">
+    <title>XP Guide - Amman</title>
+  </programme>
+  <programme start="20241216190000 +0200" stop="20241216193000 +0200" channel="travelxp.eu">
+    <title>Off the Grid - Loango National Park, Gabon</title>
+  </programme>
+  <programme start="20241216193000 +0200" stop="20241216200000 +0200" channel="travelxp.eu">
+    <title>Food Fact Fun - Gouda</title>
+  </programme>
+  <programme start="20241216200000 +0200" stop="20241216203000 +0200" channel="travelxp.eu">
+    <title>Xplore Sri Lanka - Kandy</title>
+  </programme>
+  <programme start="20241216203000 +0200" stop="20241216210000 +0200" channel="travelxp.eu">
+    <title>Food Fact Fun - Dubai 1</title>
+  </programme>
+  <programme start="20241216210000 +0200" stop="20241216213000 +0200" channel="travelxp.eu">
+    <title>World Heritage - The Sculptures of Khajuraho, India</title>
+  </programme>
+  <programme start="20241216213000 +0200" stop="20241216220000 +0200" channel="travelxp.eu">
+    <title>World Spas - Gaya Island Resort, Malaysia</title>
+  </programme>
+  <programme start="20241216220000 +0200" stop="20241216223000 +0200" channel="travelxp.eu">
+    <title>10 Days Scotland - Series 1 Episode 1</title>
+  </programme>
+  <programme start="20241216223000 +0200" stop="20241216230000 +0200" channel="travelxp.eu">
+    <title>Off the Grid - Monts De Cristal , Gabon</title>
+  </programme>
+  <programme start="20241216230000 +0200" stop="20241216233000 +0200" channel="travelxp.eu">
+    <title>Xplore Sri Lanka - Kandy</title>
+  </programme>
+  <programme start="20241216233000 +0200" stop="20241217000000 +0200" channel="travelxp.eu">
+    <title>Food Fact Fun - Dubai 1</title>
+  </programme>
   <programme start="20241215010000 +0200" stop="20241215020000 +0200" channel="travelchannel.bg">
     <title lang="bg">The Dead Files (Series 7): The Sacrifice - East Flat Rock, North Carolina (Episode 1) - Medium Amy Allen and retired homicide detective Steve DiSchiavi combine their unique skills to solve unexplained paranormal...</title>
   </programme>
@@ -37922,7 +38288,7 @@
   <programme start="20241216173000 +0200" stop="20241217002000 +0200" channel="cartoonito.bg">
     <title lang="bg">Шоуто на Том и Джери: Старо за ново - (Ep. 53) Спайк трудно излиза от колибата си и трябва да намали храната. Той нарежда на Том да крие пържолите му и да не му...</title>
   </programme>
-  <programme start="20241216120000 +0200" channel="cartoonito.bg">
+  <programme start="20241216120000 +0200" stop="20241217120000 +0200" channel="cartoonito.bg">
     <title lang="bg">Шоуто на Том и Джери: Детски работи - (Ep. 29) Том използва бебе коза, за да окоси ливадата на имението, но се оказва, че малкото иска да изяде всичко в...</title>
   </programme>
   <programme start="20241215050000 +0200" stop="20241215060000 +0200" channel="cartoonnetwork.tv">
@@ -54777,132 +55143,132 @@
     <title>Di là dal fiume e tra gli alberi</title>
   </programme>
   <programme start="20241215050000 +0200" stop="20241215060000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241215060000 +0200" stop="20241215070000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "April"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 3-я серия</title>
   </programme>
   <programme start="20241215070000 +0200" stop="20241215080000 +0200" channel="luxe.tv">
-    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241215080000 +0200" stop="20241215090000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 4-я серия</title>
   </programme>
   <programme start="20241215090000 +0200" stop="20241215100000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "April"</title>
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241215100000 +0200" stop="20241215110000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241215110000 +0200" stop="20241215120000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241215120000 +0200" stop="20241215130000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "April"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 2-я серия</title>
   </programme>
   <programme start="20241215130000 +0200" stop="20241215140000 +0200" channel="luxe.tv">
-    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241215140000 +0200" stop="20241215150000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 3-я серия</title>
   </programme>
   <programme start="20241215150000 +0200" stop="20241215160000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "April"</title>
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241215160000 +0200" stop="20241215170000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 4-я серия</title>
   </programme>
   <programme start="20241215170000 +0200" stop="20241215180000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241215180000 +0200" stop="20241215190000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "April"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241215190000 +0200" stop="20241215200000 +0200" channel="luxe.tv">
-    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
+    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241215200000 +0200" stop="20241215210000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 2-я серия</title>
   </programme>
   <programme start="20241215210000 +0200" stop="20241215220000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "April"</title>
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241215220000 +0200" stop="20241215230000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 3-я серия</title>
   </programme>
   <programme start="20241215230000 +0200" stop="20241216000000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241216000000 +0200" stop="20241216010000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "April"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 4-я серия</title>
   </programme>
   <programme start="20241216010000 +0200" stop="20241216020000 +0200" channel="luxe.tv">
-    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
+    <title lang="ru">Luxe. Spotlight. Сезон 49. 1-я серия</title>
   </programme>
   <programme start="20241216020000 +0200" stop="20241216030000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
+    <title lang="ru">Luxe. This Week. Сезон 49. 1-я серия</title>
   </programme>
   <programme start="20241216030000 +0200" stop="20241216040000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "April"</title>
+    <title lang="ru">Destination Special. Сезон 49. 1-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241216040000 +0200" stop="20241216050000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+    <title lang="ru">Luxe. This Week. Сезон 49. 2-я серия</title>
   </programme>
   <programme start="20241216050000 +0200" stop="20241216060000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241216060000 +0200" stop="20241216070000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "April"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 3-я серия</title>
   </programme>
   <programme start="20241216070000 +0200" stop="20241216080000 +0200" channel="luxe.tv">
-    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241216080000 +0200" stop="20241216090000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 4-я серия</title>
   </programme>
   <programme start="20241216090000 +0200" stop="20241216100000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "April"</title>
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241216100000 +0200" stop="20241216110000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241216110000 +0200" stop="20241216120000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241216120000 +0200" stop="20241216130000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "April"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 2-я серия</title>
   </programme>
   <programme start="20241216130000 +0200" stop="20241216140000 +0200" channel="luxe.tv">
-    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241216140000 +0200" stop="20241216150000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 3-я серия</title>
   </programme>
   <programme start="20241216150000 +0200" stop="20241216160000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "April"</title>
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241216160000 +0200" stop="20241216170000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 4-я серия</title>
   </programme>
   <programme start="20241216170000 +0200" stop="20241216180000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241216180000 +0200" stop="20241216190000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "April"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241216190000 +0200" stop="20241216200000 +0200" channel="luxe.tv">
-    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
+    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Mongolia"</title>
   </programme>
   <programme start="20241216200000 +0200" stop="20241216210000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 2-я серия</title>
   </programme>
   <programme start="20241216210000 +0200" stop="20241216220000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 2-я серия - "April"</title>
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20241216220000 +0200" stop="20241216230000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
+    <title lang="ru">Luxe. This Week. Сезон 5. 3-я серия</title>
   </programme>
   <programme start="20241216230000 +0200" stop="20241217000000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
   </programme>
 </tv>
