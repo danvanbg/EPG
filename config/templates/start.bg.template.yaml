@@ -40,32 +40,30 @@ channel-parameters:
     channelId: bnt2
   Boomerang:
     channelId: 14
-  'bTV Action':
-    channelId: 16
-  'bTV Cinema':
-    channelId: 17
-  'bTV Comedy':
-    channelId: 18
-  'bTV Lady':
-    channelId: 19
+  btvaction.bg:
+    channelId: btv action
+  btvcinema.bg:
+    channelId: btv cinema
+  btvcomedy.bg:
+    channelId: btv comedy
+  btvstory.bg:
+    channelId: btv lady
   cartoonnetwork.tv:
     channelId: cartoon%20network
-  Cinemax:
-    channelId: 21
-  'Cinemax 2':
-    channelId: 22
-  CNN:
-    channelId: 23
-  diemafamily.bg':
-    channelId: 26
+  cinemax1.bg:
+    channelId: cinemax
+  cinemax2.bg:
+    channelId: cinemax 2
+  cnninternational.com:
+    channelId: cnn
+  diemafamily.bg:
+    channelId: diema family
   diema.bg:
     channelId: 27
-  'Discovery Channel':
-    channelId: 29
-  'Discovery Science':
-    channelId: 31
-  'Disney Channel':
-    channelId: 32
+  discoverychannel.bg:
+    channelId: discovery channel
+  disneychannel.bg:
+    channelId: disney channel
   davincilearning.tv:
     channelId: da%20vinci%20learning
   ekids.bg:
@@ -76,19 +74,19 @@ channel-parameters:
     channelId: eurosport
   eurosport2:
     channelId: eurosport%202
-  'Viasat Explorer':
-    channelId: 42
-  'Extreme Sports':
-    channelId: 43
+  viasatexplorer.bg:
+    channelId: viasat explorer
+  extremesportschannel.com:
+    channelId: extreme sports
   fentv.bg:
     channelId: fen%20tv
-  'Fox Life':
+  starlife.bg:
     channelId: 47
-  'Fox Crime':
+  starcrime.bg:
     channelId: 48
-  HBO:
+  hbo.bg:
     channelId: 50
-  'Viasat History':
+  viasathistory.bg:
     channelId: 52
   'History Channel':
     channelId: 53
@@ -100,10 +98,10 @@ channel-parameters:
     channelId: jimjam
   mcm:
     channelId: mcm
-  MGM:
-    channelId: 59
-  'MTV Live HD':
-    channelId: 63
+  mgm:
+    channelId: mgm
+  mtvlive.com:
+    channelId: mtv%20live%20hd
   'Viasat Nature':
     channelId: 65
   'National Geographic':
@@ -164,8 +162,8 @@ channel-parameters:
     channelId: kino%20nova
   'Food Network HD':
     channelId: 126
-  NickHD:
-    channelId: 127
+  nick.tv:
+    channelId: nickhd
   'Eurosport HD':
     channelId: 128
   'HBO HD':
@@ -174,8 +172,8 @@ channel-parameters:
     channelId: box%20tv
   disneyjunior.bg:
     channelId: 131
-  Nickelodeon:
-    channelId: 132
+  nickelodeon.tv:
+    channelId: nickelodeon
   'Investigation Discovery':
     channelId: 137
   'Trace Sports':
@@ -184,8 +182,6 @@ channel-parameters:
     channelId: 140
   'National Geographic HD':
     channelId: 142
-  'bTV HD':
-    channelId: 143
   'AXN Black':
     channelId: 146
   'AXN White':
@@ -204,7 +200,7 @@ channel-parameters:
     channelId: 163
   FightBox:
     channelId: 164
-  'Fuel TV':
+  fueltv.com:
     channelId: 166
   'Viasat Nature/History HD':
     channelId: 168
@@ -262,8 +258,8 @@ channel-parameters:
     channelId: 216
   sedemosmi.tv:
     channelId: 217
-  NickToons:
-    channelId: 220
+  nicktoons.tv:
+    channelId: nicktoons
   'Film Plus HD':
     channelId: 221
   'MTV 80s':

@@ -5,7 +5,7 @@ culture: bg-BG
 date-format: list
 date-list: [ 0,1,2,3,4,5,6 ]
 
-# This property means there are only programs for a single week.
+# This single-week property means there are only programs for a single week.
 # Usually the weekly schedule is updated once a week every Monday.
 # So, if you grab on Monday you'll have program for 7 days, but if 
 # you grab on Sunday you will have programs only for 1 day since

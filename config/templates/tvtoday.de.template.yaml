@@ -153,7 +153,7 @@ channel-parameters:
     channelId: junio
   'CARTOON Network':
     channelId: c-net
-  'FIX & FOXI':
+  fixandfoxi.de:
     channelId: fftv
   orf1.au:
     channelId: orf1

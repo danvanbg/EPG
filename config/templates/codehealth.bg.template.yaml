@@ -27,23 +27,20 @@ single-week: true
 
 request:
   url: https://codehealthplay.bg/programa/${date}
-  
+  operations:
+    # We add this operation which will verify if the date is found in today's page
+    # If not found, it means the page has expired content so we'll skip grabbing it
+    - name: validate-text-exists
+      hook: after
+      arguments: [ "(${date.format(dd.MM)}) - Code Health TV" ]
+      on-failure: quit-daily-grabbing
+      debug: false
+
 programs:
   locator: .jet-listing-grid__item
   debug: false
 
 elements:
-
-  # We define this dummy element with property required=true. 
-  # We try to find a title element with title containing current day's date
-  # If it is not found, then most likely the program is not updated
-  # so we'll cancel the grabbing
-  - name: _stopGrabbingIfNotFound
-    required: true
-    locator-strategy: xpath
-    locator: //title[contains(text(),"${date.format(dd.MM)}")]
-    debug: false
-
   - name: start
     debug: false
     time-format: H:mm
