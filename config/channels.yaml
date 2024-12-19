@@ -1081,6 +1081,7 @@
   sources:
   - mojtv.hr
   - tvarenasport.com
+  - tvprofil.com
   
 - id: matchfutbol1.ru
   enabled: true
