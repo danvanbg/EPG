@@ -1814,6 +1814,7 @@
   - name: Mezzo
     lang: en
   sources:
+  - tvsporedi.si
   - tv-programa.bg
   - programtv.onet.pl
   - tvtoday.de
@@ -1828,6 +1829,7 @@
   - name: Mezzo Live HD
     lang: en
   sources:
+  - tvsporedi.si
   - programtv.onet.pl
 
 - id: deutschesmusik.de
@@ -3821,6 +3823,7 @@
   sources:
   - ouest-france.fr
   - programme-tv.net
+  - tvsporedi.si
   - telestar.fr
   
 - id: france3.fr
