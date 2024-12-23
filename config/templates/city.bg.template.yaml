@@ -25,6 +25,7 @@ elements:
 program-details:
   request:
     url: https://www.city.bg${detailsUrl}
+    cache-lifetime: -1
 
   elements:
     - name: desc

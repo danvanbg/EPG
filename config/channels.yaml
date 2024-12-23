@@ -2958,6 +2958,7 @@
   - name: Chasse et Peche
   - name: Chasse & Peche
   sources:
+  - programme-tv.net
   - ouest-france.fr
   - telestar.fr
   
@@ -3873,6 +3874,7 @@
   - name: TV5 Monde HD
   groups: [ "fr" ]
   sources:
+  - programme-tv.net
   - ouest-france.fr
   - tvsporedi.si
   
