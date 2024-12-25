@@ -1,58 +1,30 @@
 ---
 author: Hristo Genev
-culture: bg-BG
-
-# Use predefined list of date values instead of real dates
-date-format: list
-
-# The content of the predefined list of dates that will be used
-date-list: [ ponedelnik, vtornik, sryada, chetvartak, petuk, sabota, nedelya ]
-
-# The date-list-type can be absolute or relative. The default value if omitted is relative
-# Relative means, that values from date-list will be always used from the first value on
-# Absolute means, that values from date-list will be used as per the current day of the week index
-# i.e. if today is Tuesday (the second day of the week), the grabber will use the second value from the date-list.
-# when it starts grabbing programs for the 3-rd day of the week, the 3-rd value will be used and so forth.
-date-list-type: absolute
-
-# This property means there are only programs for a single week.
-# Usually the weekly schedule is updated once a week every Monday.
-# So, if you grab on Monday you'll have program for 7 days, but if 
-# you grab on Sunday you will have programs only for 1 day since
-# the programs for the other days will already be old and not updated yet.
-# When using this parameter, you tell the tool to grab only 
-# programs within this week. If you run the grabber on Sunday it will
-# only grab 1 day and it will ignore the setting days-ahead if it is more than 1
-single-week: true
+date-format: epoch
 
 request:
-  url: https://codehealthplay.bg/programa/${date}
+  url: https://codehealth.bg/wp-admin/admin-ajax.php
+  http-method: POST
+  body: action=extvs_get_schedule_simple&param_shortcode=%7B%22style%22%3A%222%22%2C%22fullcontent_in%22%3A%22collapse%22%2C%22show_image%22%3A%22show%22%2C%22channel%22%3A%22%22%2C%22slidesshow%22%3A%22%22%2C%22slidesscroll%22%3A%22%22%2C%22start_on%22%3A%22%22%2C%22before_today%22%3A%22%22%2C%22after_today%22%3A%22%22%2C%22list_dates%22%3A%22%22%2C%22order%22%3A%22DESC%22%2C%22orderby%22%3A%22date%22%2C%22meta_key%22%3A%22%22%2C%22meta_value%22%3A%22%22%2C%22order_channel%22%3A%22%22%2C%22class%22%3A%22%22%2C%22ID%22%3A%22ex-6610%22%7D&date=${date}&chanel=code-health
+  headers: 
+    Content-Type: application/x-www-form-urlencoded
+    Accept: application/json, text/javascript, */*; q=0.01
+    Referer: https://codehealth.bg/programa/
+    X-Requested-With: XMLHttpRequest
   operations:
-    # We add this operation which will verify if the date is found in today's page
-    # If not found, it means the page has expired content so we'll skip grabbing it
-    - name: validate-text-exists
+    - name: regex-unescape
       hook: after
-      arguments: [ "(${date.format(dd.MM)}) - Code Health TV" ]
-      on-failure: quit-daily-grabbing
-      debug: false
 
 programs:
-  locator: .jet-listing-grid__item
-  debug: false
+  locator-strategy: csspath
+  locator: tr
 
 elements:
-  - name: start
-    debug: false
-    time-format: H:mm
-    locator-strategy: xpath
-    locator: (div//div[@class="jet-listing-dynamic-field__content"])[1]
-
   - name: title
-    debug: false
-    locator-strategy: xpath
-    locator: (div//div[@class="jet-listing-dynamic-field__content"])[2]
+    locator: h3
+
+  - name: start
+    locator: span
 
   - name: desc
-    debug: false
-    locator-strategy: xpath
-    locator: (div//div[@class="jet-listing-dynamic-field__content"])[3]
+    locator: p
