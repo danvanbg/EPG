@@ -676,7 +676,9 @@
     lang: en
   sources:
   - tv.dir.bg
-  
+  - potv.bg
+ 
+ 
 - id: nostalgia.bg
   enabled: true
   names:
