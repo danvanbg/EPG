@@ -441,552 +441,6 @@
   <programme start="20250106230000 +0200" channel="novasport.bg">
     <title lang="bg">"Видимо и невидимо" - публицистично предаване (повторение)</title>
   </programme>
-  <programme start="20250103013000 +0200" stop="20250103073000 +0200" channel="diemasport.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250103073000 +0200" stop="20250103080000 +0200" channel="diemasport.bg">
-    <title>Дневник НБА, 69 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103080000 +0200" stop="20250103100000 +0200" channel="diemasport.bg">
-    <title>Берое - Ботев Враца, 18 кръг, Футбол: efbet Лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103100000 +0200" stop="20250103120000 +0200" channel="diemasport.bg">
-    <title>Ботев Враца - Левски, 17 кръг, Футбол: efbet Лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103120000 +0200" stop="20250103130000 +0200" channel="diemasport.bg">
-    <title>Най-доброто от Домът на футбола, 2 епизод, предаване за български футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103130000 +0200" stop="20250103150000 +0200" channel="diemasport.bg">
-    <title>Крумовград  - Арда, 2 кръг, Футбол: Sesame Купа на България 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103150000 +0200" stop="20250103170000 +0200" channel="diemasport.bg">
-    <title>Левски - Дунав, 2 кръг, Футбол: Sesame Купа на България 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103170000 +0200" stop="20250103190000 +0200" channel="diemasport.bg">
-    <title>Спартак Варна - ЦСКА, 2 кръг, Футбол: Sesame Купа на България 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103190000 +0200" stop="20250103210000 +0200" channel="diemasport.bg">
-    <title>ЦСКА 1948 - Лудогорец, 2 кръг, Футбол: Sesame Купа на България 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103210000 +0200" stop="20250103213000 +0200" channel="diemasport.bg">
-    <title>Дневник НБА, 70 епизод, предаване за американски баскетбол 2024/2025</title>
-  </programme>
-  <programme start="20250103213000 +0200" stop="20250104000000 +0200" channel="diemasport.bg">
-    <title>Индиана Пейсърс - Милуоки Бъкс, Баскетбол от НБА 2024/2025, /п/</title>
-  </programme>
-  <programme start="20250104000000 +0200" stop="20250104043000 +0200" channel="diemasport.bg">
-    <title>Бокс: Топ Ранк: Джейми Мунгуя - Бруно Сурас, Боксово събитие в Тихуана, Мексико, /n/</title>
-  </programme>
-  <programme start="20250104043000 +0200" stop="20250104071500 +0200" channel="diemasport.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250104071500 +0200" stop="20250104093000 +0200" channel="diemasport.bg">
-    <title>Марек - Монтана, 20 кръг, Футбол: Втора професионална лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104093000 +0200" stop="20250104113000 +0200" channel="diemasport.bg">
-    <title>Спартак Варна - Черно море, 9 кръг, Футбол: efbet Лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104113000 +0200" stop="20250104133000 +0200" channel="diemasport.bg">
-    <title>Ботев Враца - Славия, 14 кръг, Футбол: efbet Лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104133000 +0200" stop="20250104155500 +0200" channel="diemasport.bg">
-    <title>Индиана Пейсърс - Милуоки Бъкс, Баскетбол от НБА 2024/2025, /п/</title>
-  </programme>
-  <programme start="20250104155500 +0200" stop="20250104162500 +0200" channel="diemasport.bg">
-    <title>Дневник НБА, 70 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104162500 +0200" stop="20250104170000 +0200" channel="diemasport.bg">
-    <title>Студио "Висша лига", директно</title>
-  </programme>
-  <programme start="20250104170000 +0200" stop="20250104190000 +0200" channel="diemasport.bg">
-    <title>Астън Вила - Лестър Сити, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104190000 +0200" stop="20250104193000 +0200" channel="diemasport.bg">
-    <title>Дневник НБА, 71 епизод, предаване за американски баскетбол 2024/2025</title>
-  </programme>
-  <programme start="20250104193000 +0200" stop="20250104200000 +0200" channel="diemasport.bg">
-    <title>Студио "Лига 1 на Франция", директно</title>
-  </programme>
-  <programme start="20250104200000 +0200" stop="20250104215500 +0200" channel="diemasport.bg">
-    <title>Лил - Нант, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104215500 +0200" stop="20250104220000 +0200" channel="diemasport.bg">
-    <title>Студио "Лига 1 на Франция", директно</title>
-  </programme>
-  <programme start="20250104220000 +0200" stop="20250104235500 +0200" channel="diemasport.bg">
-    <title>Лион - Монпелие, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104235500 +0200" stop="20250105001500 +0200" channel="diemasport.bg">
-    <title>Студио "Лига 1 на Франция", директно</title>
-  </programme>
-  <programme start="20250105001500 +0200" stop="20250105051500 +0200" channel="diemasport.bg">
-    <title>ONE 26: Лий - Расулов, Бойно събитие в Банкок, Тайланд, /n/</title>
-  </programme>
-  <programme start="20250105051500 +0200" stop="20250105073000 +0200" channel="diemasport.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250105073000 +0200" stop="20250105093000 +0200" channel="diemasport.bg">
-    <title>Монтана - Пирин, 13 кръг, Футбол: Втора професионална лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250105093000 +0200" stop="20250105113000 +0200" channel="diemasport.bg">
-    <title>Лил - Нант, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /п/</title>
-  </programme>
-  <programme start="20250105113000 +0200" stop="20250105133000 +0200" channel="diemasport.bg">
-    <title>Лион - Монпелие, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /п/</title>
-  </programme>
-  <programme start="20250105133000 +0200" stop="20250105153000 +0200" channel="diemasport.bg">
-    <title>Гранада - Гран Канария, 15 кръг, Баскетбол: Лига Ендеса 2024/2025, директно</title>
-  </programme>
-  <programme start="20250105153000 +0200" stop="20250105163000 +0200" channel="diemasport.bg">
-    <title>Годината на Ботев Пловдив, 15 епизод, предаване за български футбол 2024, /n/</title>
-  </programme>
-  <programme start="20250105163000 +0200" stop="20250105170000 +0200" channel="diemasport.bg">
-    <title>Арда - Славия, класика от efbet Лига 2022/2023, /n/</title>
-  </programme>
-  <programme start="20250105170000 +0200" stop="20250105190000 +0200" channel="diemasport.bg">
-    <title>Волос - АЕК, 17 кръг, Футбол: Суперлига на Гърция 2024/2025, директно</title>
-  </programme>
-  <programme start="20250105190000 +0200" stop="20250105200000 +0200" channel="diemasport.bg">
-    <title>Годината на Лудогорец, 16 епизод, предаване за български футбол 2024, /n/</title>
-  </programme>
-  <programme start="20250105200000 +0200" stop="20250105203000 +0200" channel="diemasport.bg">
-    <title>Лудогорец - Локомотив Пловдив, класика от efbet Лига 2018/2019, /n/</title>
-  </programme>
-  <programme start="20250105203000 +0200" stop="20250105223000 +0200" channel="diemasport.bg">
-    <title>Панатинайкос - ПАОК, 17 кръг, Футбол: Суперлига на Гърция 2024/2025, директно</title>
-  </programme>
-  <programme start="20250105223000 +0200" stop="20250106003000 +0200" channel="diemasport.bg">
-    <title>Българският футбол през 2024: Обзор, 1 епизод, предаване за български футбол 2024, /n/</title>
-  </programme>
-  <programme start="20250106003000 +0200" stop="20250106013000 +0200" channel="diemasport.bg">
-    <title>Българският футбол през 2024: Обзор, 2 епизод, предаване за български футбол 2024, /n/</title>
-  </programme>
-  <programme start="20250106013000 +0200" stop="20250106023000 +0200" channel="diemasport.bg">
-    <title>Головете на efbet Лига 2024: част 1, 1 епизод, предаване за български футбол 2024, /n/</title>
-  </programme>
-  <programme start="20250106023000 +0200" stop="20250106033000 +0200" channel="diemasport.bg">
-    <title>Головете на efbet Лига 2024: част 2, 2 епизод, предаване за български футбол 2024, /n/</title>
-  </programme>
-  <programme start="20250106033000 +0200" stop="20250106063000 +0200" channel="diemasport.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250106063000 +0200" stop="20250106073000 +0200" channel="diemasport.bg">
-    <title>Годината на ЦСКА 1948, 13 епизод, предаване за български футбол 2024, /n/</title>
-  </programme>
-  <programme start="20250106073000 +0200" stop="20250106083000 +0200" channel="diemasport.bg">
-    <title>Годината на Локомотив София, 6 епизод, предаване за български футбол 2024, /n/</title>
-  </programme>
-  <programme start="20250106083000 +0200" stop="20250106103000 +0200" channel="diemasport.bg">
-    <title>Българският футбол през 2024: Обзор, предаване за български футбол, /n/</title>
-  </programme>
-  <programme start="20250106103000 +0200" stop="20250106130000 +0200" channel="diemasport.bg">
-    <title>Минесота Тимбъруулвс - Бостън Селтикс, Баскетбол от НБА 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106130000 +0200" stop="20250106153000 +0200" channel="diemasport.bg">
-    <title>Бруклин Нетс - Филаделфия Севънтисиксърс, Баскетбол от НБА 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106153000 +0200" stop="20250106180000 +0200" channel="diemasport.bg">
-    <title>Оклахома Сити Тъндър - Бостън Селтикс, Баскетбол от НБА 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106180000 +0200" stop="20250106200000 +0200" channel="diemasport.bg">
-    <title>Панетоликос - Олимпиакос, 17 кръг, Футбол: Суперлига на Гърция 2024/2025, директно</title>
-  </programme>
-  <programme start="20250106200000 +0200" stop="20250106203000 +0200" channel="diemasport.bg">
-    <title>Черно море - Спартак Варна, Първа професионална лига 2022/2023 - класика , /n/</title>
-  </programme>
-  <programme start="20250106203000 +0200" stop="20250106210000 +0200" channel="diemasport.bg">
-    <title>Дневник НБА, 72 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106210000 +0200" stop="20250106213000 +0200" channel="diemasport.bg">
-    <title>Дневник НБА, 73 епизод, предаване за американски баскетбол 2024/2025</title>
-  </programme>
-  <programme start="20250106213000 +0200" stop="20250106233000 +0200" channel="diemasport.bg">
-    <title>Баскония - Реал Мадрид, 15 кръг, Баскетбол: Лига Ендеса 2024/2025, директно</title>
-  </programme>
-  <programme start="20250106233000 +0200" channel="diemasport.bg">
-    <title>Българският футбол през 2024: Обзор (1 час), предаване за български футбол, /n/</title>
-  </programme>
-  <programme start="20250103033000 +0200" stop="20250103053000 +0200" channel="diemasport2.bg">
-    <title>Астън Вила - Брайтън &amp; Хоув Албиън, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103053000 +0200" stop="20250103070000 +0200" channel="diemasport2.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250103070000 +0200" stop="20250103090000 +0200" channel="diemasport2.bg">
-    <title>Брентфорд - Арсенал, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103090000 +0200" stop="20250103100000 +0200" channel="diemasport2.bg">
-    <title>Премиър Лийг Токшоу, 18 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103100000 +0200" stop="20250103120000 +0200" channel="diemasport2.bg">
-    <title>Уест Хям Юнайтед - Ливърпул, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103120000 +0200" stop="20250103123000 +0200" channel="diemasport2.bg">
-    <title>Да скъсаш мрежата, 19 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103123000 +0200" stop="20250103143000 +0200" channel="diemasport2.bg">
-    <title>Евертън - Нотингам Форест, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103143000 +0200" stop="20250103150000 +0200" channel="diemasport2.bg">
-    <title>Висша лига: Голямото интервю, 21 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103150000 +0200" stop="20250103170000 +0200" channel="diemasport2.bg">
-    <title>Фулъм - Борнемут, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103170000 +0200" stop="20250103173000 +0200" channel="diemasport2.bg">
-    <title>Истории от Висшата лига, 21 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103173000 +0200" stop="20250103193000 +0200" channel="diemasport2.bg">
-    <title>Тотнъм Хотспър - Уулвърхямптън Уондърърс, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103193000 +0200" stop="20250103213000 +0200" channel="diemasport2.bg">
-    <title>Лестър Сити - Манчестър Сити, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103213000 +0200" stop="20250103220000 +0200" channel="diemasport2.bg">
-    <title>Преди кръга във Висшата лига V1, 20 епизод, предаване за английски футбол 2024/2025</title>
-  </programme>
-  <programme start="20250103220000 +0200" stop="20250103230000 +0200" channel="diemasport2.bg">
-    <title>Обзор на кръга в английската Висша Лига, 19 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103230000 +0200" stop="20250104010000 +0200" channel="diemasport2.bg">
-    <title>Астън Вила - Брайтън &amp; Хоув Албиън, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104010000 +0200" stop="20250104030000 +0200" channel="diemasport2.bg">
-    <title>Ипсуич Таун - Челси, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104030000 +0200" stop="20250104050000 +0200" channel="diemasport2.bg">
-    <title>Валенсия - Лерида, 14 кръг, Баскетбол: Лига Ендеса 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104050000 +0200" stop="20250104073000 +0200" channel="diemasport2.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250104073000 +0200" stop="20250104080000 +0200" channel="diemasport2.bg">
-    <title>Карабао къп: Обзор на кръга, 6 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104080000 +0200" stop="20250104083000 +0200" channel="diemasport2.bg">
-    <title>Да скъсаш мрежата, 19 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104083000 +0200" stop="20250104090000 +0200" channel="diemasport2.bg">
-    <title>NBA Екшън, 13 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104090000 +0200" stop="20250104100000 +0200" channel="diemasport2.bg">
-    <title>Обзор на кръга в английската Висша Лига, 19 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104100000 +0200" stop="20250104103000 +0200" channel="diemasport2.bg">
-    <title>Висша лига: Голямото интервю, 21 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104103000 +0200" stop="20250104123000 +0200" channel="diemasport2.bg">
-    <title>Брентфорд - Арсенал, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104123000 +0200" stop="20250104133000 +0200" channel="diemasport2.bg">
-    <title>Премиър Лийг Токшоу, 18 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104133000 +0200" stop="20250104140000 +0200" channel="diemasport2.bg">
-    <title>Преди кръга във Висшата лига V1, 20 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104140000 +0200" stop="20250104143000 +0200" channel="diemasport2.bg">
-    <title>Студио "Висша лига и Чемпиъншип", директно</title>
-  </programme>
-  <programme start="20250104143000 +0200" stop="20250104162500 +0200" channel="diemasport2.bg">
-    <title>Тотнъм Хотспър - Нюкасъл Юнайтед, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104162500 +0200" stop="20250104170000 +0200" channel="diemasport2.bg">
-    <title>Студио "Висша лига и Чемпиъншип", директно</title>
-  </programme>
-  <programme start="20250104170000 +0200" stop="20250104185500 +0200" channel="diemasport2.bg">
-    <title>Манчестър Сити - Уест Хям Юнайтед, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104185500 +0200" stop="20250104193000 +0200" channel="diemasport2.bg">
-    <title>Студио "Висша лига", директно</title>
-  </programme>
-  <programme start="20250104193000 +0200" stop="20250104212500 +0200" channel="diemasport2.bg">
-    <title>Брайтън &amp; Хоув Албиън - Арсенал, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104212500 +0200" stop="20250104214500 +0200" channel="diemasport2.bg">
-    <title>Студио "Висша лига", директно</title>
-  </programme>
-  <programme start="20250104214500 +0200" stop="20250104234500 +0200" channel="diemasport2.bg">
-    <title>Саутхямптън - Брентфорд, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104234500 +0200" stop="20250105014500 +0200" channel="diemasport2.bg">
-    <title>Борнемут - Евертън, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250105014500 +0200" stop="20250105034500 +0200" channel="diemasport2.bg">
-    <title>Блекбърн Роувърс - Бърнли, 26 кръг, Футбол: Чемпиъншип 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250105034500 +0200" stop="20250105073000 +0200" channel="diemasport2.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250105073000 +0200" stop="20250105093000 +0200" channel="diemasport2.bg">
-    <title>Кристъл Палас - Челси, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250105093000 +0200" stop="20250105113000 +0200" channel="diemasport2.bg">
-    <title>Астън Вила - Лестър Сити, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250105113000 +0200" stop="20250105133000 +0200" channel="diemasport2.bg">
-    <title>Брайтън &amp; Хоув Албиън - Арсенал, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250105133000 +0200" stop="20250105153000 +0200" channel="diemasport2.bg">
-    <title>Барселона - Ховентут, 15 кръг, Баскетбол: Лига Ендеса 2024/2025, директно</title>
-  </programme>
-  <programme start="20250105153000 +0200" stop="20250105160000 +0200" channel="diemasport2.bg">
-    <title>Студио "Висша лига", директно</title>
-  </programme>
-  <programme start="20250105160000 +0200" stop="20250105175500 +0200" channel="diemasport2.bg">
-    <title>Фулъм - Ипсуич Таун, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
-  </programme>
-  <programme start="20250105175500 +0200" stop="20250105183000 +0200" channel="diemasport2.bg">
-    <title>Студио "Висша лига", директно</title>
-  </programme>
-  <programme start="20250105183000 +0200" stop="20250105202500 +0200" channel="diemasport2.bg">
-    <title>Ливърпул - Манчестър Юнайтед, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
-  </programme>
-  <programme start="20250105202500 +0200" stop="20250105210000 +0200" channel="diemasport2.bg">
-    <title>Студио "Висша лига", директно</title>
-  </programme>
-  <programme start="20250105210000 +0200" stop="20250105213000 +0200" channel="diemasport2.bg">
-    <title>NBA Екшън, 13 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250105213000 +0200" stop="20250105220000 +0200" channel="diemasport2.bg">
-    <title>Дневник НБА, 72 епизод, предаване за американски баскетбол 2024/2025</title>
-  </programme>
-  <programme start="20250105220000 +0200" stop="20250105223000 +0200" channel="diemasport2.bg">
-    <title>Студио "НБА", директно</title>
-  </programme>
-  <programme start="20250105223000 +0200" stop="20250106005500 +0200" channel="diemasport2.bg">
-    <title>Оклахома Сити Тъндър - Бостън Селтикс, Баскетбол от НБА 2024/2025, директно</title>
-  </programme>
-  <programme start="20250106005500 +0200" stop="20250106011500 +0200" channel="diemasport2.bg">
-    <title>Студио "НБА", директно</title>
-  </programme>
-  <programme start="20250106011500 +0200" stop="20250106031500 +0200" channel="diemasport2.bg">
-    <title>Барселона - Ховентут, 81 епизод, Баскетбол: Лига Ендеса 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106031500 +0200" stop="20250106063000 +0200" channel="diemasport2.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250106063000 +0200" stop="20250106083000 +0200" channel="diemasport2.bg">
-    <title>Фулъм - Ипсуич Таун, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106083000 +0200" stop="20250106103000 +0200" channel="diemasport2.bg">
-    <title>Борнемут - Евертън, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106103000 +0200" stop="20250106123000 +0200" channel="diemasport2.bg">
-    <title>Ливърпул - Манчестър Юнайтед, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106123000 +0200" stop="20250106143000 +0200" channel="diemasport2.bg">
-    <title>Кристъл Палас - Челси, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106143000 +0200" stop="20250106163000 +0200" channel="diemasport2.bg">
-    <title>Манчестър Сити - Уест Хям Юнайтед, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106163000 +0200" stop="20250106183000 +0200" channel="diemasport2.bg">
-    <title>Астън Вила - Лестър Сити, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106183000 +0200" stop="20250106203000 +0200" channel="diemasport2.bg">
-    <title>Тотнъм Хотспър - Нюкасъл Юнайтед, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106203000 +0200" stop="20250106213000 +0200" channel="diemasport2.bg">
-    <title>Неделен обзор на Английската висша лига, 20 епизод, предаване за английски футбол 2024/2025</title>
-  </programme>
-  <programme start="20250106213000 +0200" stop="20250106220000 +0200" channel="diemasport2.bg">
-    <title>Студио "Висша лига и Чемпиъншип", директно</title>
-  </programme>
-  <programme start="20250106220000 +0200" stop="20250106235500 +0200" channel="diemasport2.bg">
-    <title>Уулвърхямптън Уондърърс - Нотингам Форест, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
-  </programme>
-  <programme start="20250106235500 +0200" channel="diemasport2.bg">
-    <title>Студио "Висша лига и Чемпиъншип", директно</title>
-  </programme>
-  <programme start="20250103023000 +0200" stop="20250103050000 +0200" channel="diemasport3.bg">
-    <title>Минесота Тимбъруулвс - Бостън Селтикс, Баскетбол от НБА 2024/2025, директно</title>
-  </programme>
-  <programme start="20250103050000 +0200" stop="20250103072000 +0200" channel="diemasport3.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250103072000 +0200" stop="20250103091000 +0200" channel="diemasport3.bg">
-    <title>Айнтрахт Франкфурт - Бохум, 9 кръг, Футбол: Бундеслига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103091000 +0200" stop="20250103100000 +0200" channel="diemasport3.bg">
-    <title>Формула 1: Обзор на сезон 1999, предаване за Формула 1 , /n/</title>
-  </programme>
-  <programme start="20250103100000 +0200" stop="20250103103000 +0200" channel="diemasport3.bg">
-    <title>NBA Екшън, 13 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103103000 +0200" stop="20250103123000 +0200" channel="diemasport3.bg">
-    <title>Рио Бреоган - Манреса, 14 кръг, Баскетбол: Лига Ендеса 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103123000 +0200" stop="20250103143000 +0200" channel="diemasport3.bg">
-    <title>Тенерифе - Сарагоса, 14 кръг, Баскетбол: Лига Ендеса 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103143000 +0200" stop="20250103153000 +0200" channel="diemasport3.bg">
-    <title>Бундеслига: Обзор на полусезона, предаване за германски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103153000 +0200" stop="20250103180000 +0200" channel="diemasport3.bg">
-    <title>Минесота Тимбъруулвс - Бостън Селтикс, Баскетбол от НБА 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103180000 +0200" stop="20250103190000 +0200" channel="diemasport3.bg">
-    <title>Формула 1: Обзор на сезон 2024, предаване за Формула 1, част 1, /n/</title>
-  </programme>
-  <programme start="20250103190000 +0200" stop="20250103200000 +0200" channel="diemasport3.bg">
-    <title>Формула 1: Обзор на сезон 2024, предаване за Формула 1, част 2, /n/</title>
-  </programme>
-  <programme start="20250103200000 +0200" stop="20250103203000 +0200" channel="diemasport3.bg">
-    <title>Лига 1: Обзор на полусезона, предаване за френски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103203000 +0200" stop="20250103210000 +0200" channel="diemasport3.bg">
-    <title>Шоуто на Лига 1, 16 епизод, предаване за френски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103210000 +0200" stop="20250103213000 +0200" channel="diemasport3.bg">
-    <title>Лига 1: Преди кръга, 16 епизод, предаване за френски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103213000 +0200" stop="20250103220000 +0200" channel="diemasport3.bg">
-    <title>Студио "Лига 1 на Франция", директно</title>
-  </programme>
-  <programme start="20250103220000 +0200" stop="20250103235500 +0200" channel="diemasport3.bg">
-    <title>Ница - Рен, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, директно</title>
-  </programme>
-  <programme start="20250103235500 +0200" stop="20250104001500 +0200" channel="diemasport3.bg">
-    <title>Студио "Лига 1 на Франция", директно</title>
-  </programme>
-  <programme start="20250104001500 +0200" stop="20250104021500 +0200" channel="diemasport3.bg">
-    <title>Вердер Бремен - Байер Леверкузен, 8 кръг, Футбол: Бундеслига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104021500 +0200" stop="20250104041500 +0200" channel="diemasport3.bg">
-    <title>Фрайбург - Аугсбург, 7 кръг, Футбол: Бундеслига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104041500 +0200" stop="20250104061500 +0200" channel="diemasport3.bg">
-    <title>Борусия Мьонхенгладбах - Хайденхайм, 7 кръг, Футбол: Бундеслига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104061500 +0200" stop="20250104073000 +0200" channel="diemasport3.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250104073000 +0200" stop="20250104093000 +0200" channel="diemasport3.bg">
-    <title>Тенерифе - Сарагоса, 14 кръг, Баскетбол: Лига Ендеса 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104093000 +0200" stop="20250104120000 +0200" channel="diemasport3.bg">
-    <title>Минесота Тимбъруулвс - Бостън Селтикс, Баскетбол от НБА 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104120000 +0200" stop="20250104140000 +0200" channel="diemasport3.bg">
-    <title>Ница - Рен, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104140000 +0200" stop="20250104143000 +0200" channel="diemasport3.bg">
-    <title>Студио "Висша лига и Чемпиъншип", директно</title>
-  </programme>
-  <programme start="20250104143000 +0200" stop="20250104162500 +0200" channel="diemasport3.bg">
-    <title>Блекбърн Роувърс - Бърнли, 26 кръг, Футбол: Чемпиъншип 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104162500 +0200" stop="20250104170000 +0200" channel="diemasport3.bg">
-    <title>Студио "Висша лига и Чемпиъншип", директно</title>
-  </programme>
-  <programme start="20250104170000 +0200" stop="20250104190000 +0200" channel="diemasport3.bg">
-    <title>Кристъл Палас - Челси, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104190000 +0200" stop="20250104210000 +0200" channel="diemasport3.bg">
-    <title>Манреса - Мурсия, 15 кръг, Баскетбол: Лига Ендеса 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104210000 +0200" stop="20250104220000 +0200" channel="diemasport3.bg">
-    <title>Бундеслига: Обзор на полусезона, предаване за германски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104220000 +0200" stop="20250104223000 +0200" channel="diemasport3.bg">
-    <title>NBA Екшън, 13 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104223000 +0200" stop="20250105003000 +0200" channel="diemasport3.bg">
-    <title>Тенерифе - Билбао, 15 кръг, Баскетбол: Лига Ендеса 2024/2025, директно</title>
-  </programme>
-  <programme start="20250105003000 +0200" stop="20250105010000 +0200" channel="diemasport3.bg">
-    <title>Дневник НБА, 71 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250105010000 +0200" stop="20250105033000 +0200" channel="diemasport3.bg">
-    <title>Бруклин Нетс - Филаделфия Севънтисиксърс, Баскетбол от НБА 2024/2025, директно</title>
-  </programme>
-  <programme start="20250105033000 +0200" stop="20250105053000 +0200" channel="diemasport3.bg">
-    <title>Волфсбург - Вердер Бремен, 7 кръг, Футбол: Бундеслига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250105053000 +0200" stop="20250105063000 +0200" channel="diemasport3.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250105063000 +0200" stop="20250105083000 +0200" channel="diemasport3.bg">
-    <title>Манреса - Мурсия, Манреса - Мурсия</title>
-  </programme>
-  <programme start="20250105083000 +0200" stop="20250105110000 +0200" channel="diemasport3.bg">
-    <title>Минесота Тимбъруулвс - Бостън Селтикс, Баскетбол от НБА 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250105110000 +0200" stop="20250105130000 +0200" channel="diemasport3.bg">
-    <title>Тенерифе - Билбао, 15 кръг, Баскетбол: Лига Ендеса 2024/2025, директно</title>
-  </programme>
-  <programme start="20250105130000 +0200" stop="20250105153000 +0200" channel="diemasport3.bg">
-    <title>Бруклин Нетс - Филаделфия Севънтисиксърс, Баскетбол от НБА 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250105153000 +0200" stop="20250105160000 +0200" channel="diemasport3.bg">
-    <title>Студио "Лига 1 на Франция", директно</title>
-  </programme>
-  <programme start="20250105160000 +0200" stop="20250105175500 +0200" channel="diemasport3.bg">
-    <title>Ланс -Тулуза, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, директно</title>
-  </programme>
-  <programme start="20250105175500 +0200" stop="20250105181000 +0200" channel="diemasport3.bg">
-    <title>Студио "Лига 1 на Франция", директно</title>
-  </programme>
-  <programme start="20250105181000 +0200" stop="20250105183000 +0200" channel="diemasport3.bg">
-    <title>Студио "Турнир на шампионите", директно</title>
-  </programme>
-  <programme start="20250105183000 +0200" stop="20250105202500 +0200" channel="diemasport3.bg">
-    <title>Пари Сен Жермен - Монако, Футбол: Суперкупа на Франция 2024, директно</title>
-  </programme>
-  <programme start="20250105202500 +0200" stop="20250105211500 +0200" channel="diemasport3.bg">
-    <title>Студио "Турнир на шампионите", директно</title>
-  </programme>
-  <programme start="20250105211500 +0200" stop="20250105214500 +0200" channel="diemasport3.bg">
-    <title>Студио "Лига 1 на Франция", директно</title>
-  </programme>
-  <programme start="20250105214500 +0200" stop="20250105234000 +0200" channel="diemasport3.bg">
-    <title>Марсилия - Льо Авър, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, директно</title>
-  </programme>
-  <programme start="20250105234000 +0200" stop="20250106000000 +0200" channel="diemasport3.bg">
-    <title>Студио "Лига 1 на Франция", директно</title>
-  </programme>
-  <programme start="20250106000000 +0200" stop="20250106020000 +0200" channel="diemasport3.bg">
-    <title>Ланс -Тулуза, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106020000 +0200" stop="20250106040000 +0200" channel="diemasport3.bg">
-    <title>Пари Сен Жермен - Монако, Футбол: Суперкупа на Франция 2024, /n/</title>
-  </programme>
-  <programme start="20250106040000 +0200" stop="20250106070000 +0200" channel="diemasport3.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250106070000 +0200" stop="20250106090000 +0200" channel="diemasport3.bg">
-    <title>Ница - Рен, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106090000 +0200" stop="20250106110000 +0200" channel="diemasport3.bg">
-    <title>Ланс -Тулуза, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106110000 +0200" stop="20250106130000 +0200" channel="diemasport3.bg">
-    <title>Марсилия - Льо Авър, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106130000 +0200" stop="20250106150000 +0200" channel="diemasport3.bg">
-    <title>Лион - Монпелие, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106150000 +0200" stop="20250106170000 +0200" channel="diemasport3.bg">
-    <title>Лил - Нант, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106170000 +0200" stop="20250106190000 +0200" channel="diemasport3.bg">
-    <title>Пари Сен Жермен - Монако, Футбол: Суперкупа на Франция 2024, /n/</title>
-  </programme>
-  <programme start="20250106190000 +0200" stop="20250106193000 +0200" channel="diemasport3.bg">
-    <title>Обзор на кръга: Лига 1, 16 епизод, предаване за френски футбол 2024/2025</title>
-  </programme>
-  <programme start="20250106193000 +0200" stop="20250106213000 +0200" channel="diemasport3.bg">
-    <title>Тенерифе - Билбао, 15 кръг, Баскетбол: Лига Ендеса 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250106213000 +0200" stop="20250106220000 +0200" channel="diemasport3.bg">
-    <title>Студио "Висша лига и Чемпиъншип", директно</title>
-  </programme>
-  <programme start="20250106220000 +0200" stop="20250106235500 +0200" channel="diemasport3.bg">
-    <title>Куинс Парк Рейнджърс - Лутън Таун, 26 кръг, Футбол: Чемпиъншип 2024/2025, директно</title>
-  </programme>
-  <programme start="20250106235500 +0200" channel="diemasport3.bg">
-    <title>Студио "Висша лига и Чемпиъншип", директно</title>
-  </programme>
   <programme start="20250103000000 +0200" stop="20250103060000 +0200" channel="ring.bg">
     <title>– Шотландия, Висша лига /п./</title>
   </programme>
@@ -1115,588 +569,6 @@
   </programme>
   <programme start="20250106220000 +0200" channel="ring.bg">
     <title>– Бойни вечери</title>
-  </programme>
-  <programme start="20250103083000 +0200" stop="20250103103000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Бризбън Трети четвъртфинал</title>
-  </programme>
-  <programme start="20250103103000 +0200" stop="20250103113000 +0200" channel="maxsport1.bg">
-    <title>Световен рали шампионат 2: Обзор на сезона Обзор на сезона</title>
-  </programme>
-  <programme start="20250103113000 +0200" stop="20250103120000 +0200" channel="maxsport1.bg">
-    <title>Trans World Sport</title>
-  </programme>
-  <programme start="20250103120000 +0200" stop="20250103140000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Бризбън Четвърти четвъртфинал</title>
-  </programme>
-  <programme start="20250103140000 +0200" stop="20250103150000 +0200" channel="maxsport1.bg">
-    <title>"Спорна топка" Токшоу</title>
-  </programme>
-  <programme start="20250103150000 +0200" stop="20250103170000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Бризбън Първи четвъртфинал</title>
-  </programme>
-  <programme start="20250103170000 +0200" stop="20250103190000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Бризбън Втори четвъртфинал</title>
-  </programme>
-  <programme start="20250103190000 +0200" stop="20250103211500 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Бризбън Трети четвъртфинал</title>
-  </programme>
-  <programme start="20250103211500 +0200" stop="20250103231500 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Евролига: Париж - Барселона Париж - Барселона</title>
-  </programme>
-  <programme start="20250103231500 +0200" stop="20250104003000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Бризбън Четвърти четвъртфинал</title>
-  </programme>
-  <programme start="20250104003000 +0200" stop="20250104023000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Втори полуфинал, мъже</title>
-  </programme>
-  <programme start="20250104023000 +0200" stop="20250104043000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Втори полуфинал, жени</title>
-  </programme>
-  <programme start="20250104043000 +0200" stop="20250104090000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Втори полуфинал, смесени двойки</title>
-  </programme>
-  <programme start="20250104090000 +0200" stop="20250104093000 +0200" channel="maxsport1.bg">
-    <title>NFL: Обзор 17 кръг Обзор 17 кръг</title>
-  </programme>
-  <programme start="20250104093000 +0200" stop="20250104103000 +0200" channel="maxsport1.bg">
-    <title>"Зона волей" Токшоу</title>
-  </programme>
-  <programme start="20250104103000 +0200" stop="20250104123000 +0200" channel="maxsport1.bg">
-    <title>Евролига: Реал Мадрид - Байерн Мюнхен Реал Мадрид - Байерн Мюнхен</title>
-  </programme>
-  <programme start="20250104123000 +0200" stop="20250104143000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Бризбън Втори полуфинал</title>
-  </programme>
-  <programme start="20250104143000 +0200" stop="20250104163000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Първи полуфинал, мъже</title>
-  </programme>
-  <programme start="20250104163000 +0200" stop="20250104183000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Първи полуфинал, жени</title>
-  </programme>
-  <programme start="20250104183000 +0200" stop="20250104203000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Първи полуфинал, смесени двойки</title>
-  </programme>
-  <programme start="20250104203000 +0200" stop="20250104223000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Бризбън Първи полуфинал</title>
-  </programme>
-  <programme start="20250104223000 +0200" stop="20250105000000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Бризбън Втори полуфинал</title>
-  </programme>
-  <programme start="20250105000000 +0200" stop="20250105003000 +0200" channel="maxsport1.bg">
-    <title>Евролига: Обзор 19 кръг Обзор 19 кръг</title>
-  </programme>
-  <programme start="20250105003000 +0200" stop="20250105023000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Оукланд</title>
-  </programme>
-  <programme start="20250105023000 +0200" stop="20250105043000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Оукланд</title>
-  </programme>
-  <programme start="20250105043000 +0200" stop="20250105083000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Оукланд</title>
-  </programme>
-  <programme start="20250105083000 +0200" stop="20250105103000 +0200" channel="maxsport1.bg">
-    <title>Евролига: Фенербахче - Анадолу Ефес Фенербахче - Анадолу Ефес</title>
-  </programme>
-  <programme start="20250105103000 +0200" stop="20250105130000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Бризбън Финал</title>
-  </programme>
-  <programme start="20250105130000 +0200" stop="20250105150000 +0200" channel="maxsport1.bg">
-    <title>Евролига: Жалгирис - Олимпиакос Жалгирис - Олимпиакос</title>
-  </programme>
-  <programme start="20250105150000 +0200" stop="20250105170000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Финал, мъже</title>
-  </programme>
-  <programme start="20250105170000 +0200" stop="20250105190000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Финал, жени</title>
-  </programme>
-  <programme start="20250105190000 +0200" stop="20250105210000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Финал, смесени двойки</title>
-  </programme>
-  <programme start="20250105210000 +0200" stop="20250105230000 +0200" channel="maxsport1.bg">
-    <title>Волейбол - Серия А1: Лубе Чивитанова - Верона Лубе Чивитанова - Верона</title>
-  </programme>
-  <programme start="20250105230000 +0200" stop="20250106003000 +0200" channel="maxsport1.bg">
-    <title>Световен рали шампионат 2: Обзор на сезона Обзор на сезона</title>
-  </programme>
-  <programme start="20250106003000 +0200" stop="20250106023000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Оукланд</title>
-  </programme>
-  <programme start="20250106023000 +0200" stop="20250106043000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Оукланд</title>
-  </programme>
-  <programme start="20250106043000 +0200" stop="20250106073000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Оукланд</title>
-  </programme>
-  <programme start="20250106073000 +0200" stop="20250106090000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Оукланд</title>
-  </programme>
-  <programme start="20250106090000 +0200" stop="20250106113000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Финал, мъже</title>
-  </programme>
-  <programme start="20250106113000 +0200" stop="20250106133000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Финал, жени</title>
-  </programme>
-  <programme start="20250106133000 +0200" stop="20250106153000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Финал, смесени двойки</title>
-  </programme>
-  <programme start="20250106153000 +0200" stop="20250106160000 +0200" channel="maxsport1.bg">
-    <title>ATP: "Пътят към Джеда", първа част "Пътят към Джеда", първа част</title>
-  </programme>
-  <programme start="20250106160000 +0200" stop="20250106163000 +0200" channel="maxsport1.bg">
-    <title>ATP: "Пътят към Джеда", втора част "Пътят към Джеда", втора част</title>
-  </programme>
-  <programme start="20250106163000 +0200" stop="20250106183000 +0200" channel="maxsport1.bg">
-    <title>Евролига: Реал Мадрид - Байерн Мюнхен Реал Мадрид - Байерн Мюнхен</title>
-  </programme>
-  <programme start="20250106183000 +0200" stop="20250106190000 +0200" channel="maxsport1.bg">
-    <title>Евролига: Обзор 19 кръг Обзор 19 кръг</title>
-  </programme>
-  <programme start="20250106190000 +0200" stop="20250106200000 +0200" channel="maxsport1.bg">
-    <title>"Брейкпойнт" Тенис токшоу</title>
-  </programme>
-  <programme start="20250106200000 +0200" stop="20250106220000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Купа на Краля: Депортиво Минера - Реал Мадрид</title>
-  </programme>
-  <programme start="20250106220000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Бризбън Финал</title>
-  </programme>
-  <programme start="20250103080000 +0200" stop="20250103083000 +0200" channel="maxsport2.bg">
-    <title>Trans World Sport</title>
-  </programme>
-  <programme start="20250103083000 +0200" stop="20250103103000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Тенис: United Cup Четвъртфинал, мъже</title>
-  </programme>
-  <programme start="20250103103000 +0200" stop="20250103123000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Тенис: United Cup Четвъртфинал, жени</title>
-  </programme>
-  <programme start="20250103123000 +0200" stop="20250103143000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Тенис: United Cup Четвъртфинал, смесени двойки</title>
-  </programme>
-  <programme start="20250103143000 +0200" stop="20250103161500 +0200" channel="maxsport2.bg">
-    <title>Еврокупа: Гран Канария - Апоел Тел Авив Гран Канария - Апоел Тел Авив</title>
-  </programme>
-  <programme start="20250103161500 +0200" stop="20250103181500 +0200" channel="maxsport2.bg">
-    <title>Евролига: Жалгирис - Олимпиакос Жалгирис - Олимпиакос</title>
-  </programme>
-  <programme start="20250103181500 +0200" stop="20250103191500 +0200" channel="maxsport2.bg">
-    <title>"Удар със стик"</title>
-  </programme>
-  <programme start="20250103191500 +0200" stop="20250103194500 +0200" channel="maxsport2.bg">
-    <title>NFL: Обзор 17 кръг Обзор 17 кръг</title>
-  </programme>
-  <programme start="20250103194500 +0200" stop="20250103220000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Евролига: Фенербахче - Анадолу Ефес Фенербахче - Анадолу Ефес</title>
-  </programme>
-  <programme start="20250103220000 +0200" stop="20250104000000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Евролига: Реал Мадрид - Байерн Мюнхен Реал Мадрид - Байерн Мюнхен</title>
-  </programme>
-  <programme start="20250104000000 +0200" stop="20250104030000 +0200" channel="maxsport2.bg">
-    <title>NFL: Минесота Вайкингс - Грийн Бей Пакърс Минесота Вайкингс - Грийн Бей Пакърс</title>
-  </programme>
-  <programme start="20250104030000 +0200" stop="20250104073000 +0200" channel="maxsport2.bg">
-    <title>Волейбол - Купа Италия: Верона - Пиаченца Четвъртфинал</title>
-  </programme>
-  <programme start="20250104073000 +0200" stop="20250104080000 +0200" channel="maxsport2.bg">
-    <title>Trans World Sport</title>
-  </programme>
-  <programme start="20250104080000 +0200" stop="20250104083000 +0200" channel="maxsport2.bg">
-    <title>NFL: Обзор 17 кръг Обзор 17 кръг</title>
-  </programme>
-  <programme start="20250104083000 +0200" stop="20250104103000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Тенис: United Cup Втори полуфинал, мъже</title>
-  </programme>
-  <programme start="20250104103000 +0200" stop="20250104123000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Тенис: United Cup Втори полуфинал, жени</title>
-  </programme>
-  <programme start="20250104123000 +0200" stop="20250104143000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Тенис: United Cup Втори полуфинал, смесени двойки</title>
-  </programme>
-  <programme start="20250104143000 +0200" stop="20250104163000 +0200" channel="maxsport2.bg">
-    <title>Евролига: Реал Мадрид - Байерн Мюнхен Реал Мадрид - Байерн Мюнхен</title>
-  </programme>
-  <programme start="20250104163000 +0200" stop="20250104183000 +0200" channel="maxsport2.bg">
-    <title>NHL: Далас Старс - Отава Сенатърс Далас Старс - Отава Сенатърс</title>
-  </programme>
-  <programme start="20250104183000 +0200" stop="20250104190000 +0200" channel="maxsport2.bg">
-    <title>"Удар със стик"</title>
-  </programme>
-  <programme start="20250104190000 +0200" stop="20250104220000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, NHL: Вашингтон Кепитълс - Ню Йорк Рейнджърс Вашингтон Кепитълс - Ню Йорк Рейнджърс</title>
-  </programme>
-  <programme start="20250104220000 +0200" stop="20250105023000 +0200" channel="maxsport2.bg">
-    <title>Евролига: Фенербахче - Анадолу Ефес Фенербахче - Анадолу Ефес</title>
-  </programme>
-  <programme start="20250105023000 +0200" stop="20250105043000 +0200" channel="maxsport2.bg">
-    <title>Sesame Национална баскетболна лига: Рилски Спортист - Берое Рилски Спортист - Берое</title>
-  </programme>
-  <programme start="20250105043000 +0200" stop="20250105073000 +0200" channel="maxsport2.bg">
-    <title>Евролига: Обзор 19 кръг Обзор 19 кръг</title>
-  </programme>
-  <programme start="20250105073000 +0200" stop="20250105103000 +0200" channel="maxsport2.bg">
-    <title>NFL: Филаделфия Ийгълс - Далас Каубойс Филаделфия Ийгълс - Далас Каубойс</title>
-  </programme>
-  <programme start="20250105103000 +0200" stop="20250105123000 +0200" channel="maxsport2.bg">
-    <title>NHL: Далас Старс - Отава Сенатърс Далас Старс - Отава Сенатърс</title>
-  </programme>
-  <programme start="20250105123000 +0200" stop="20250105130000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Студио "Баскетбол"</title>
-  </programme>
-  <programme start="20250105130000 +0200" stop="20250105150000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Sesame Национална баскетболна лига: Рилски Спортист - Берое Рилски Спортист - Берое</title>
-  </programme>
-  <programme start="20250105150000 +0200" stop="20250105151500 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Студио "Баскетбол"</title>
-  </programme>
-  <programme start="20250105151500 +0200" stop="20250105162000 +0200" channel="maxsport2.bg">
-    <title>Trans World Sport</title>
-  </programme>
-  <programme start="20250105162000 +0200" stop="20250105183000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Волейбол - Серия А1: Лубе Чивитанова - Верона Лубе Чивитанова - Верона</title>
-  </programme>
-  <programme start="20250105183000 +0200" stop="20250105193000 +0200" channel="maxsport2.bg">
-    <title>"Удар със стик"</title>
-  </programme>
-  <programme start="20250105193000 +0200" stop="20250105200000 +0200" channel="maxsport2.bg">
-    <title>Евролига: Обзор 19 кръг Обзор 19 кръг</title>
-  </programme>
-  <programme start="20250105200000 +0200" stop="20250105232000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, NFL:</title>
-  </programme>
-  <programme start="20250105232000 +0200" stop="20250106013000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, NFL:</title>
-  </programme>
-  <programme start="20250106013000 +0200" stop="20250106023000 +0200" channel="maxsport2.bg">
-    <title>"Зона волей" Токшоу</title>
-  </programme>
-  <programme start="20250106023000 +0200" stop="20250106043000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, ATP 250: Аделаида</title>
-  </programme>
-  <programme start="20250106043000 +0200" stop="20250106080000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, ATP 250: Аделаида</title>
-  </programme>
-  <programme start="20250106080000 +0200" stop="20250106083000 +0200" channel="maxsport2.bg">
-    <title>Trans World Sport</title>
-  </programme>
-  <programme start="20250106083000 +0200" stop="20250106103000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, ATP 250: Аделаида</title>
-  </programme>
-  <programme start="20250106103000 +0200" stop="20250106123000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, ATP 250: Аделаида</title>
-  </programme>
-  <programme start="20250106123000 +0200" stop="20250106143000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, ATP 250: Аделаида</title>
-  </programme>
-  <programme start="20250106143000 +0200" stop="20250106150000 +0200" channel="maxsport2.bg">
-    <title>Trans World Sport</title>
-  </programme>
-  <programme start="20250106150000 +0200" stop="20250106153000 +0200" channel="maxsport2.bg">
-    <title>Евролига: Обзор 19 кръг Обзор 19 кръг</title>
-  </programme>
-  <programme start="20250106153000 +0200" stop="20250106173000 +0200" channel="maxsport2.bg">
-    <title>Sesame Национална баскетболна лига: Рилски Спортист - Берое Рилски Спортист - Берое</title>
-  </programme>
-  <programme start="20250106173000 +0200" stop="20250106180000 +0200" channel="maxsport2.bg">
-    <title>"Удар със стик"</title>
-  </programme>
-  <programme start="20250106180000 +0200" stop="20250106190000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, "Зона волей" Токшоу</title>
-  </programme>
-  <programme start="20250106190000 +0200" stop="20250106191500 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Студио "Баскетбол"</title>
-  </programme>
-  <programme start="20250106191500 +0200" stop="20250106213000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Sesame Национална баскетболна лига: Академик - Балкан Академик - Балкан</title>
-  </programme>
-  <programme start="20250106213000 +0200" stop="20250106233000 +0200" channel="maxsport2.bg">
-    <title>Волейбол - Серия А1: Модена - Тренто Модена - Тренто</title>
-  </programme>
-  <programme start="20250106233000 +0200" channel="maxsport2.bg">
-    <title>ATP 250: Аделаида</title>
-  </programme>
-  <programme start="20250103080000 +0200" stop="20250103100000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Ювентус - Фиорентина</title>
-  </programme>
-  <programme start="20250103100000 +0200" stop="20250103120000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Каляри - Интер</title>
-  </programme>
-  <programme start="20250103120000 +0200" stop="20250103123000 +0200" channel="maxsport3.bg">
-    <title>Серия А: "Екстра Калчо"</title>
-  </programme>
-  <programme start="20250103123000 +0200" stop="20250103143000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Наполи - Венеция</title>
-  </programme>
-  <programme start="20250103143000 +0200" stop="20250103163000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Милан - Рома</title>
-  </programme>
-  <programme start="20250103163000 +0200" stop="20250103183000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Шампионска лига: Байер Леверкузен - Интер Шести кръг</title>
-  </programme>
-  <programme start="20250103183000 +0200" stop="20250103203000 +0200" channel="maxsport3.bg">
-    <title>Супер Купа Италия: Интер - Аталанта Първи полуфинал за Суперкупата на Италия</title>
-  </programme>
-  <programme start="20250103203000 +0200" stop="20250103210000 +0200" channel="maxsport3.bg">
-    <title>Серия А: "Преди кръга"</title>
-  </programme>
-  <programme start="20250103210000 +0200" stop="20250103230000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Супер Купа Италия: Ювентус - Милан Втори полуфинал за Суперкупата на Италия</title>
-  </programme>
-  <programme start="20250103230000 +0200" stop="20250104000000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Лацио - Аталанта</title>
-  </programme>
-  <programme start="20250104000000 +0200" stop="20250104020000 +0200" channel="maxsport3.bg">
-    <title>Супер Купа Италия: Интер - Аталанта Първи полуфинал за Суперкупата на Италия</title>
-  </programme>
-  <programme start="20250104020000 +0200" stop="20250104040000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Венеция - Емполи</title>
-  </programme>
-  <programme start="20250104040000 +0200" stop="20250104080000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Фиорентина - Наполи</title>
-  </programme>
-  <programme start="20250104080000 +0200" stop="20250104100000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Наполи - Венеция</title>
-  </programme>
-  <programme start="20250104100000 +0200" stop="20250104110000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Обзор 18 кръг Обзор 18 кръг</title>
-  </programme>
-  <programme start="20250104110000 +0200" stop="20250104130000 +0200" channel="maxsport3.bg">
-    <title>Супер Купа Италия: Интер - Аталанта Първи полуфинал за Суперкупата на Италия</title>
-  </programme>
-  <programme start="20250104130000 +0200" stop="20250104150000 +0200" channel="maxsport3.bg">
-    <title>Супер Купа Италия: Ювентус - Милан Втори полуфинал за Суперкупата на Италия</title>
-  </programme>
-  <programme start="20250104150000 +0200" stop="20250104153000 +0200" channel="maxsport3.bg">
-    <title>Серия А: "Преди кръга"</title>
-  </programme>
-  <programme start="20250104153000 +0200" stop="20250104160000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250104160000 +0200" stop="20250104180000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Серия А: Венеция - Емполи</title>
-  </programme>
-  <programme start="20250104180000 +0200" stop="20250104183000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250104183000 +0200" stop="20250104190000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250104190000 +0200" stop="20250104210000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Серия А: Фиорентина - Наполи</title>
-  </programme>
-  <programme start="20250104210000 +0200" stop="20250104214500 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250104214500 +0200" stop="20250104234500 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Серия А: Верона - Удинезе</title>
-  </programme>
-  <programme start="20250104234500 +0200" stop="20250105000000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250105000000 +0200" stop="20250105020000 +0200" channel="maxsport3.bg">
-    <title>Супер Купа Италия: Ювентус - Милан Втори полуфинал за Суперкупата на Италия</title>
-  </programme>
-  <programme start="20250105020000 +0200" stop="20250105040000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Монца - Каляри</title>
-  </programme>
-  <programme start="20250105040000 +0200" stop="20250105080000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Лече - Дженоа</title>
-  </programme>
-  <programme start="20250105080000 +0200" stop="20250105100000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Венеция - Емполи</title>
-  </programme>
-  <programme start="20250105100000 +0200" stop="20250105110000 +0200" channel="maxsport3.bg">
-    <title>"Калчо мания" Токшоу</title>
-  </programme>
-  <programme start="20250105110000 +0200" stop="20250105130000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Фиорентина - Наполи</title>
-  </programme>
-  <programme start="20250105130000 +0200" stop="20250105133000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250105133000 +0200" stop="20250105153000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Серия А: Монца - Каляри</title>
-  </programme>
-  <programme start="20250105153000 +0200" stop="20250105160000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250105160000 +0200" stop="20250105180000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Серия А: Лече - Дженоа</title>
-  </programme>
-  <programme start="20250105180000 +0200" stop="20250105183000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250105183000 +0200" stop="20250105190000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250105190000 +0200" stop="20250105210000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Серия А: Торино - Парма</title>
-  </programme>
-  <programme start="20250105210000 +0200" stop="20250105214500 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250105214500 +0200" stop="20250105234500 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Серия А: Рома - Лацио</title>
-  </programme>
-  <programme start="20250105234500 +0200" stop="20250106010000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250106010000 +0200" stop="20250106030000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Торино - Парма</title>
-  </programme>
-  <programme start="20250106030000 +0200" stop="20250106080000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Фиорентина - Наполи</title>
-  </programme>
-  <programme start="20250106080000 +0200" stop="20250106100000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Фиорентина - Наполи</title>
-  </programme>
-  <programme start="20250106100000 +0200" stop="20250106120000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Монца - Каляри</title>
-  </programme>
-  <programme start="20250106120000 +0200" stop="20250106140000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Венеция - Емполи</title>
-  </programme>
-  <programme start="20250106140000 +0200" stop="20250106150000 +0200" channel="maxsport3.bg">
-    <title>Trans World Sport</title>
-  </programme>
-  <programme start="20250106150000 +0200" stop="20250106170000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Рома - Лацио</title>
-  </programme>
-  <programme start="20250106170000 +0200" stop="20250106190000 +0200" channel="maxsport3.bg">
-    <title>Супер Купа Италия: Интер - Аталанта Първи полуфинал за Суперкупата на Италия</title>
-  </programme>
-  <programme start="20250106190000 +0200" stop="20250106210000 +0200" channel="maxsport3.bg">
-    <title>Супер Купа Италия: Ювентус - Милан Втори полуфинал за Суперкупата на Италия</title>
-  </programme>
-  <programme start="20250106210000 +0200" stop="20250106230000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Супер Купа Италия: Финал за Суперкупата на Италия</title>
-  </programme>
-  <programme start="20250106230000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Лече - Дженоа</title>
-  </programme>
-  <programme start="20250103100000 +0200" stop="20250103120000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Майорка - Валенсия</title>
-  </programme>
-  <programme start="20250103120000 +0200" stop="20250103140000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Барселона - Лас Палмас</title>
-  </programme>
-  <programme start="20250103140000 +0200" stop="20250103160000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Валядолид - Атлетико Мадрид</title>
-  </programme>
-  <programme start="20250103160000 +0200" stop="20250103180000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Реал Мадрид - Хетафе</title>
-  </programme>
-  <programme start="20250103180000 +0200" stop="20250103200000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Реал Сосиедад - Бетис</title>
-  </programme>
-  <programme start="20250103200000 +0200" stop="20250103210000 +0200" channel="maxsport4.bg">
-    <title>"Пред Стадиона" - спортно шоу "Пред Стадиона" - спортно шоу</title>
-  </programme>
-  <programme start="20250103210000 +0200" stop="20250103213000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: "Светът на Ла Лига"</title>
-  </programme>
-  <programme start="20250103213000 +0200" stop="20250103220000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250103220000 +0200" stop="20250104003000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Ла Лига: Валенсия - Реал Мадрид</title>
-  </programme>
-  <programme start="20250104003000 +0200" stop="20250104010000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250104010000 +0200" stop="20250104041500 +0200" channel="maxsport4.bg">
-    <title>Голф: Genesis Championship</title>
-  </programme>
-  <programme start="20250104041500 +0200" stop="20250104100000 +0200" channel="maxsport4.bg">
-    <title>Голф: Challenge Tour Grand Final</title>
-  </programme>
-  <programme start="20250104100000 +0200" stop="20250104110000 +0200" channel="maxsport4.bg">
-    <title>"Пред Стадиона" - спортно шоу "Пред Стадиона" - спортно шоу</title>
-  </programme>
-  <programme start="20250104110000 +0200" stop="20250104130000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Валенсия - Райо Валекано</title>
-  </programme>
-  <programme start="20250104130000 +0200" stop="20250104150000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Леганес - Реал Сосиедад</title>
-  </programme>
-  <programme start="20250104150000 +0200" stop="20250104170000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Атлетико Мадрид - Севиля</title>
-  </programme>
-  <programme start="20250104170000 +0200" stop="20250104190000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Жирона - Реал Мадрид</title>
-  </programme>
-  <programme start="20250104190000 +0200" stop="20250104193000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: "Светът на Ла Лига"</title>
-  </programme>
-  <programme start="20250104193000 +0200" stop="20250104200000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250104200000 +0200" stop="20250104220000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Купа на Краля: Барбастро - Барселона</title>
-  </programme>
-  <programme start="20250104220000 +0200" stop="20250104223000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250104223000 +0200" stop="20250105000000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Купа на Краля: Марбея - Атлетико Мадрид</title>
-  </programme>
-  <programme start="20250105000000 +0200" stop="20250105044500 +0200" channel="maxsport4.bg">
-    <title>Голф: ABU DHABI HSBC CHAMPIONSHIP</title>
-  </programme>
-  <programme start="20250105044500 +0200" stop="20250105083000 +0200" channel="maxsport4.bg">
-    <title>Голф: DP World Tour Championship, Dubai</title>
-  </programme>
-  <programme start="20250105083000 +0200" stop="20250105103000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Тенис: United Cup Финал, мъже</title>
-  </programme>
-  <programme start="20250105103000 +0200" stop="20250105123000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Тенис: United Cup Финал, жени</title>
-  </programme>
-  <programme start="20250105123000 +0200" stop="20250105143000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Тенис: United Cup Финал, смесени двойки</title>
-  </programme>
-  <programme start="20250105143000 +0200" stop="20250105163000 +0200" channel="maxsport4.bg">
-    <title>Купа на Краля: Барбастро - Барселона</title>
-  </programme>
-  <programme start="20250105163000 +0200" stop="20250105183000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Купа на Краля: Понферадина - Реал Сосиедад</title>
-  </programme>
-  <programme start="20250105183000 +0200" stop="20250105203000 +0200" channel="maxsport4.bg">
-    <title>Купа на Краля: Марбея - Атлетико Мадрид</title>
-  </programme>
-  <programme start="20250105203000 +0200" stop="20250105210000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: "Светът на Ла Лига"</title>
-  </programme>
-  <programme start="20250105210000 +0200" stop="20250105220000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: "Най-добрите мачове" "Най-добрите мачове"</title>
-  </programme>
-  <programme start="20250105220000 +0200" stop="20250106013000 +0200" channel="maxsport4.bg">
-    <title>Купа на Краля: Понферадина - Реал Сосиедад</title>
-  </programme>
-  <programme start="20250106013000 +0200" stop="20250106040000 +0200" channel="maxsport4.bg">
-    <title>Голф: BMW Australian PGA Championship</title>
-  </programme>
-  <programme start="20250106040000 +0200" stop="20250106120000 +0200" channel="maxsport4.bg">
-    <title>Голф: ISPS HANDA Australian Open</title>
-  </programme>
-  <programme start="20250106120000 +0200" stop="20250106140000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Севиля - Селта</title>
-  </programme>
-  <programme start="20250106140000 +0200" stop="20250106160000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Райо Валекано - Реал Мадрид</title>
-  </programme>
-  <programme start="20250106160000 +0200" stop="20250106180000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Атлетико Мадрид - Хетафе</title>
-  </programme>
-  <programme start="20250106180000 +0200" stop="20250106200000 +0200" channel="maxsport4.bg">
-    <title>Купа на Краля: Барбастро - Барселона</title>
-  </programme>
-  <programme start="20250106200000 +0200" stop="20250106213000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, "Пред Стадиона" - спортно шоу "Пред Стадиона" - спортно шоу</title>
-  </programme>
-  <programme start="20250106213000 +0200" stop="20250106233000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Барселона - Леганес</title>
-  </programme>
-  <programme start="20250106233000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Валядолид - Валенсия</title>
   </programme>
   <programme start="20250103053000 +0200" stop="20250103063000 +0200" channel="eurosport1.bg">
     <title lang="bg">"Здравословно" с водещ Христо Деянов (повторение)</title>
@@ -3269,10 +2141,105 @@
     <icon src="https://ntvplus.ru//files/stv/f/7e/86/44/5/f7e864456c1a9182a1d6ef0a89844ddc65572731ed8a1ac958d164929edc7d71.jpg" />
     <desc>В эфире телеканала высший дивизион итальянской футбольной лиги, который считается одним из самых сильных…</desc>
   </programme>
-  <programme start="20250106045500 +0200" channel="matchfutbol1.ru">
+  <programme start="20250106045500 +0200" stop="20250106060000 +0200" channel="matchfutbol1.ru">
     <title lang="ru">Лионель Месси (12+)</title>
     <icon src="https://ntvplus.ru//files/stv/7/35/de/16/f/735de16f111bbd37168fb746ee550636ed159581b9629c0230beb85a63eaf15f.jpg" />
     <desc>Фильм, посвященный жизни и карьере знаменитого форварда "Барселоны".</desc>
+  </programme>
+  <programme start="20250106060000 +0200" stop="20250106060500 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106060500 +0200" stop="20250106080000 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Чемпионат Италии. "Торино" - "Парма" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/f/7e/86/44/5/f7e864456c1a9182a1d6ef0a89844ddc65572731ed8a1ac958d164929edc7d71.jpg" />
+    <desc>В эфире телеканала высший дивизион итальянской футбольной лиги, который считается одним из самых сильных…</desc>
+  </programme>
+  <programme start="20250106080000 +0200" stop="20250106080500 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106080500 +0200" stop="20250106100000 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Чемпионат Италии. "Рома" - "Лацио" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/f/7e/86/44/5/f7e864456c1a9182a1d6ef0a89844ddc65572731ed8a1ac958d164929edc7d71.jpg" />
+    <desc>В эфире телеканала высший дивизион итальянской футбольной лиги, который считается одним из самых сильных…</desc>
+  </programme>
+  <programme start="20250106100000 +0200" stop="20250106100500 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106100500 +0200" stop="20250106120000 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Чемпионат Италии. "Монца" - "Кальяри" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/f/7e/86/44/5/f7e864456c1a9182a1d6ef0a89844ddc65572731ed8a1ac958d164929edc7d71.jpg" />
+    <desc>В эфире телеканала высший дивизион итальянской футбольной лиги, который считается одним из самых сильных…</desc>
+  </programme>
+  <programme start="20250106120000 +0200" stop="20250106120500 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106120500 +0200" stop="20250106140000 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Чемпионат Италии. "Лечче" - "Дженоа" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/f/7e/86/44/5/f7e864456c1a9182a1d6ef0a89844ddc65572731ed8a1ac958d164929edc7d71.jpg" />
+    <desc>В эфире телеканала высший дивизион итальянской футбольной лиги, который считается одним из самых сильных…</desc>
+  </programme>
+  <programme start="20250106140000 +0200" stop="20250106140500 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106140500 +0200" stop="20250106160000 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Суперкубок Италии. 1/2 финала. Трансляция из Саудовской Аравии. "Интер" - "Аталанта" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/1/1b/75/da/7/11b75da71e81ae77b9a6fbbd90058276f16557afb262bc6cb8e8d371ab56f9ed.jpg" />
+    <desc>Футбольный турнир, проводимый в конце декабря. За победу в турнире борются победитель Серии А и…</desc>
+  </programme>
+  <programme start="20250106160000 +0200" stop="20250106160500 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106160500 +0200" stop="20250106180500 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Суперкубок Италии. 1/2 финала. Трансляция из Саудовской Аравии. "Ювентус" - "Милан" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/1/1b/75/da/7/11b75da71e81ae77b9a6fbbd90058276f16557afb262bc6cb8e8d371ab56f9ed.jpg" />
+    <desc>Футбольный турнир, проводимый в конце декабря. За победу в турнире борются победитель Серии А и…</desc>
+  </programme>
+  <programme start="20250106180500 +0200" stop="20250106181000 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106181000 +0200" stop="20250106201000 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Чемпионат Италии. "Рома" - "Лацио" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/f/7e/86/44/5/f7e864456c1a9182a1d6ef0a89844ddc65572731ed8a1ac958d164929edc7d71.jpg" />
+    <desc>В эфире телеканала высший дивизион итальянской футбольной лиги, который считается одним из самых сильных…</desc>
+  </programme>
+  <programme start="20250106201000 +0200" stop="20250106201500 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106201500 +0200" stop="20250106204500 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Третий тайм. Илья Вахания (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/d/64/b5/5c/f/d64b55cfcbbb651f456691ec4007174e6a9a9fd64f56a27314cd611ac9de3f10.jpg" />
+    <desc>Только самые актуальные новости, свежие инсайды и интересные подробности.</desc>
+  </programme>
+  <programme start="20250106204500 +0200" stop="20250106214500 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Чемпионат Италии. Обзор тура (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/f/7e/86/44/5/f7e864456c1a9182a1d6ef0a89844ddc65572731ed8a1ac958d164929edc7d71.jpg" />
+    <desc>Обзор высшего дивизиона итальянской футбольной лиги, который считается одним из самых сильных футбольных…</desc>
+  </programme>
+  <programme start="20250106214500 +0200" stop="20250106215000 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106215000 +0200" channel="matchfutbol1.ru">
+    <title lang="ru">Суперкубок Италии. Финал. Прямая трансляция из Саудовской Аравии</title>
+    <icon src="https://ntvplus.ru//files/stv/1/1b/75/da/7/11b75da71e81ae77b9a6fbbd90058276f16557afb262bc6cb8e8d371ab56f9ed.jpg" />
+    <desc>Футбольный турнир, проводимый в конце декабря. За победу в турнире борются победитель Серии А и…</desc>
   </programme>
   <programme start="20250103004500 +0200" stop="20250103005000 +0200" channel="matchfutbol2.ru">
     <title lang="ru">Новости футбола (0+)</title>
@@ -3539,8 +2506,68 @@
     <icon src="https://ntvplus.ru//files/stv/0/36/24/dd/4/03624dd494ee39adbe8105e45b698429a14f46ef3cfea840aafbd43c031d8afe.jpg" />
     <desc>Кубок Испании по футболу - ежегодный кубковый турнир по футболу, проводящийся для испанских профессиональных…</desc>
   </programme>
-  <programme start="20250106040000 +0200" channel="matchfutbol2.ru">
+  <programme start="20250106040000 +0200" stop="20250106060000 +0200" channel="matchfutbol2.ru">
     <title lang="ru">Кубок Испании. 1/16 финала. "Эльче" - "Лас-Пальмас" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/0/36/24/dd/4/03624dd494ee39adbe8105e45b698429a14f46ef3cfea840aafbd43c031d8afe.jpg" />
+    <desc>Кубок Испании по футболу - ежегодный кубковый турнир по футболу, проводящийся для испанских профессиональных…</desc>
+  </programme>
+  <programme start="20250106060000 +0200" stop="20250106080000 +0200" channel="matchfutbol2.ru">
+    <title lang="ru">Кубок Испании. 1/16 финала. "Понферрадина" - "Реал Сосьедад" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/0/36/24/dd/4/03624dd494ee39adbe8105e45b698429a14f46ef3cfea840aafbd43c031d8afe.jpg" />
+    <desc>Кубок Испании по футболу - ежегодный кубковый турнир по футболу, проводящийся для испанских профессиональных…</desc>
+  </programme>
+  <programme start="20250106080000 +0200" stop="20250106100000 +0200" channel="matchfutbol2.ru">
+    <title lang="ru">Чемпионат Испании. "Валенсия" - "Реал" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/8/10/46/84/f/8104684fda32cf4a854b82478914e4a4b85e664525aecb5845750b4c7151ccaf.jpg" />
+    <desc>Матч профессиональной футбольной лиги Испании, известной также как "Примера" или "Ла Лига". Чемпионат…</desc>
+  </programme>
+  <programme start="20250106100000 +0200" stop="20250106120000 +0200" channel="matchfutbol2.ru">
+    <title lang="ru">Кубок Испании. 1/16 финала. "Эльче" - "Лас-Пальмас" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/0/36/24/dd/4/03624dd494ee39adbe8105e45b698429a14f46ef3cfea840aafbd43c031d8afe.jpg" />
+    <desc>Кубок Испании по футболу - ежегодный кубковый турнир по футболу, проводящийся для испанских профессиональных…</desc>
+  </programme>
+  <programme start="20250106120000 +0200" stop="20250106140500 +0200" channel="matchfutbol2.ru">
+    <title lang="ru">Кубок Испании. 1/16 финала. "Понферрадина" - "Реал Сосьедад" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/0/36/24/dd/4/03624dd494ee39adbe8105e45b698429a14f46ef3cfea840aafbd43c031d8afe.jpg" />
+    <desc>Кубок Испании по футболу - ежегодный кубковый турнир по футболу, проводящийся для испанских профессиональных…</desc>
+  </programme>
+  <programme start="20250106140500 +0200" stop="20250106161000 +0200" channel="matchfutbol2.ru">
+    <title lang="ru">Кубок Испании. 1/16 финала. "Уэска" - "Бетис" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/0/36/24/dd/4/03624dd494ee39adbe8105e45b698429a14f46ef3cfea840aafbd43c031d8afe.jpg" />
+    <desc>Кубок Испании по футболу - ежегодный кубковый турнир по футболу, проводящийся для испанских профессиональных…</desc>
+  </programme>
+  <programme start="20250106161000 +0200" stop="20250106181500 +0200" channel="matchfutbol2.ru">
+    <title lang="ru">Кубок Испании. 1/16 финала. "Эльче" - "Лас-Пальмас" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/0/36/24/dd/4/03624dd494ee39adbe8105e45b698429a14f46ef3cfea840aafbd43c031d8afe.jpg" />
+    <desc>Кубок Испании по футболу - ежегодный кубковый турнир по футболу, проводящийся для испанских профессиональных…</desc>
+  </programme>
+  <programme start="20250106181500 +0200" stop="20250106202000 +0200" channel="matchfutbol2.ru">
+    <title lang="ru">Чемпионат Испании. "Валенсия" - "Реал" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/8/10/46/84/f/8104684fda32cf4a854b82478914e4a4b85e664525aecb5845750b4c7151ccaf.jpg" />
+    <desc>Матч профессиональной футбольной лиги Испании, известной также как "Примера" или "Ла Лига". Чемпионат…</desc>
+  </programme>
+  <programme start="20250106202000 +0200" stop="20250106205000 +0200" channel="matchfutbol2.ru">
+    <title lang="ru">Один за всех. Чемпионат мира (16+)</title>
+    <icon src="https://ntvplus.ru//files/stv/d/d2/82/30/4/dd282304ad76e383819386825be2787c00768d326b30fa8182dcb2e17e7b4d40.jpg" />
+    <desc>Все самое интересное о спортивном мире и спортсменах.</desc>
+  </programme>
+  <programme start="20250106205000 +0200" stop="20250106205500 +0200" channel="matchfutbol2.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106205500 +0200" stop="20250106225500 +0200" channel="matchfutbol2.ru">
+    <title lang="ru">Кубок Испании. 1/16 финала. Прямая трансляция. "Депортива Минера" - "Реал"</title>
+    <icon src="https://ntvplus.ru//files/stv/0/36/24/dd/4/03624dd494ee39adbe8105e45b698429a14f46ef3cfea840aafbd43c031d8afe.jpg" />
+    <desc>Кубок Испании по футболу - ежегодный кубковый турнир по футболу, проводящийся для испанских профессиональных…</desc>
+  </programme>
+  <programme start="20250106225500 +0200" stop="20250106230000 +0200" channel="matchfutbol2.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106230000 +0200" channel="matchfutbol2.ru">
+    <title lang="ru">Кубок Испании. 1/16 финала. "Барбастро" - "Барселона" (6+)</title>
     <icon src="https://ntvplus.ru//files/stv/0/36/24/dd/4/03624dd494ee39adbe8105e45b698429a14f46ef3cfea840aafbd43c031d8afe.jpg" />
     <desc>Кубок Испании по футболу - ежегодный кубковый турнир по футболу, проводящийся для испанских профессиональных…</desc>
   </programme>
@@ -3899,8 +2926,108 @@
     <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
     <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
   </programme>
-  <programme start="20250106040000 +0200" channel="matchfutbol3.ru">
+  <programme start="20250106040000 +0200" stop="20250106060000 +0200" channel="matchfutbol3.ru">
     <title lang="ru">Чемпионат Германии. "Боруссия" (Дортмунд) - "Бавария" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/c/e2/b4/a1/3/ce2b4a135690074c0c87eb7910c8b9bcdade27d7dee5468755b6f56b16ff2b86.jpg" />
+    <desc>В эфире телеканала профессиональная футбольная лига для немецких футбольных клубов. Является высшим…</desc>
+  </programme>
+  <programme start="20250106060000 +0200" stop="20250106060500 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106060500 +0200" stop="20250106080500 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Чемпионат Германии. "Хайденхайм" - "Айнтрахт" (Франкфурт) (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/c/e2/b4/a1/3/ce2b4a135690074c0c87eb7910c8b9bcdade27d7dee5468755b6f56b16ff2b86.jpg" />
+    <desc>В эфире телеканала профессиональная футбольная лига для немецких футбольных клубов. Является высшим…</desc>
+  </programme>
+  <programme start="20250106080500 +0200" stop="20250106081000 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106081000 +0200" stop="20250106101000 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Чемпионат Турции. "Фенербахче" - "Хатайспор" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/a/00/db/ee/e/a00dbeee8e3743894b0d91968a271c804a1754d93ee4123f50361a3b8afb096d.jpg" />
+    <desc>Соревнование сильнейших профессиональных футбольных клубов Турции.</desc>
+  </programme>
+  <programme start="20250106101000 +0200" stop="20250106101500 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106101500 +0200" stop="20250106121500 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Чемпионат Германии. "Штутгарт" - "Унион" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/c/e2/b4/a1/3/ce2b4a135690074c0c87eb7910c8b9bcdade27d7dee5468755b6f56b16ff2b86.jpg" />
+    <desc>В эфире телеканала профессиональная футбольная лига для немецких футбольных клубов. Является высшим…</desc>
+  </programme>
+  <programme start="20250106121500 +0200" stop="20250106122000 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106122000 +0200" stop="20250106142000 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Чемпионат Германии. "Бавария" - "Хайденхайм" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/c/e2/b4/a1/3/ce2b4a135690074c0c87eb7910c8b9bcdade27d7dee5468755b6f56b16ff2b86.jpg" />
+    <desc>В эфире телеканала профессиональная футбольная лига для немецких футбольных клубов. Является высшим…</desc>
+  </programme>
+  <programme start="20250106142000 +0200" stop="20250106142500 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106142500 +0200" stop="20250106162500 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Чемпионат Турции. "Фенербахче" - "Хатайспор" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/a/00/db/ee/e/a00dbeee8e3743894b0d91968a271c804a1754d93ee4123f50361a3b8afb096d.jpg" />
+    <desc>Соревнование сильнейших профессиональных футбольных клубов Турции.</desc>
+  </programme>
+  <programme start="20250106162500 +0200" stop="20250106163000 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106163000 +0200" stop="20250106173000 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Чемпионат Германии. Итоги 1-го круга (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/4/43/74/f5/f/44374f5f6fd1cd6882f9b9bad20b1d422937692e8264b6a4b6c0b4ed6237b8ae.jpg" />
+    <desc>В эфире телеканала профессиональная футбольная лига для немецких футбольных клубов. Является высшим…</desc>
+  </programme>
+  <programme start="20250106173000 +0200" stop="20250106173500 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106173500 +0200" stop="20250106193500 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Чемпионат Германии. "Боруссия" (Менхенгладбах) - "Боруссия" (Дортмунд) (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/c/e2/b4/a1/3/ce2b4a135690074c0c87eb7910c8b9bcdade27d7dee5468755b6f56b16ff2b86.jpg" />
+    <desc>В эфире телеканала профессиональная футбольная лига для немецких футбольных клубов. Является высшим…</desc>
+  </programme>
+  <programme start="20250106193500 +0200" stop="20250106194000 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106194000 +0200" stop="20250106214000 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Чемпионат Турции. "Галатасарай" - "Гезтепе" (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/a/00/db/ee/e/a00dbeee8e3743894b0d91968a271c804a1754d93ee4123f50361a3b8afb096d.jpg" />
+    <desc>Соревнование сильнейших профессиональных футбольных клубов Турции.</desc>
+  </programme>
+  <programme start="20250106214000 +0200" stop="20250106214500 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106214500 +0200" stop="20250106234500 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Чемпионат Германии. "Хайденхайм" - "Айнтрахт" (Франкфурт) (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/c/e2/b4/a1/3/ce2b4a135690074c0c87eb7910c8b9bcdade27d7dee5468755b6f56b16ff2b86.jpg" />
+    <desc>В эфире телеканала профессиональная футбольная лига для немецких футбольных клубов. Является высшим…</desc>
+  </programme>
+  <programme start="20250106234500 +0200" stop="20250106235000 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106235000 +0200" channel="matchfutbol3.ru">
+    <title lang="ru">Чемпионат Германии. "Штутгарт" - "Унион" (6+)</title>
     <icon src="https://ntvplus.ru//files/stv/c/e2/b4/a1/3/ce2b4a135690074c0c87eb7910c8b9bcdade27d7dee5468755b6f56b16ff2b86.jpg" />
     <desc>В эфире телеканала профессиональная футбольная лига для немецких футбольных клубов. Является высшим…</desc>
   </programme>
@@ -4239,10 +3366,95 @@
     <icon src="https://ntvplus.ru//files/stv/d/49/70/93/2/d4970932bf39e1d534cd9a18c4b858c1d296361da1d4adfd13fa519f4f9d1751.jpg" />
     <desc>Падел-теннис, также известный просто как "падел", - спортивная игра, которая очень похожа на теннис.…</desc>
   </programme>
-  <programme start="20250106053500 +0200" channel="matchigra.ru">
+  <programme start="20250106053500 +0200" stop="20250106060000 +0200" channel="matchigra.ru">
     <title lang="ru">Магия большого спорта (12+)</title>
     <icon src="https://ntvplus.ru//files/stv/6/91/b9/76/3/691b9763a21a4849546633d041b1c91a715daaa6b45133f85e939a938b49c6be.jpg" />
     <desc>Ритуалы, заклинания, предметы на удачу, - все то, во что так верят многие спортсмены. И как ни странно…</desc>
+  </programme>
+  <programme start="20250106060000 +0200" stop="20250106080000 +0200" channel="matchigra.ru">
+    <title lang="ru">Волейбол. Чемпионат России. Pari Суперлига. Мужчины. "Динамо" (Москва) - "Динамо-Урал" (Уфа) (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/f/fc/0d/03/b/ffc0d03b1518b31a2fec9871f6a9b97d925f6a9c09baf3eec649213c8a858fae.jpg" />
+    <desc>Чемпионат России по волейболу (Супер Лига) - ежегодное соревнование волейбольных клубов, организуемое…</desc>
+  </programme>
+  <programme start="20250106080000 +0200" stop="20250106100000 +0200" channel="matchigra.ru">
+    <title lang="ru">Боулинг. BetBoom Кубок КЛБ. Про-тур. Трансляция из Тюмени (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/f/06/b0/ed/7/f06b0ed76a7f546deb6cde4e93ad5af3241f83d826cca3fa049bbd68c2acd2b5.jpg" />
+    <desc>Кубок Континентальной Лиги Боулинга - это профессиональные соревнования по боулингу, в которых лучшие…</desc>
+  </programme>
+  <programme start="20250106100000 +0200" stop="20250106102500 +0200" channel="matchigra.ru">
+    <title lang="ru">Непобедимый (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/f7/fe/41/e/6f7fe41e52e8e8649493f6278316be325a5aa4ed5285e73a35b35990f5000de4.jpg" />
+    <desc>Передача, в которой каждый найдет для себя что-то новое и интересное.</desc>
+  </programme>
+  <programme start="20250106102500 +0200" stop="20250106105000 +0200" channel="matchigra.ru">
+    <title lang="ru">Что за спорт (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/a/37/e7/c6/8/a37e7c68e6a441012c1a388964b32e1563f2ceb7096e848d7f40ac83f6242337.jpg" />
+    <desc>Все самое интересное из мира спорта и не только.</desc>
+  </programme>
+  <programme start="20250106105000 +0200" stop="20250106123000 +0200" channel="matchigra.ru">
+    <title lang="ru">Гандбол. Чемпионат России. OLIMPBET Суперлига. Женщины. "Ростов-Дон" (Ростов-на-Дону) - "Черноморочка" (Новороссийск) (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/d/10/e1/84/c/d10e184c7a0a2129c3fd6b9b756a132b0acf97b5437385c7a6adacff96586480.jpg" />
+    <desc>Совокупность турнирных матчей среди гандбольных команд России. Проводится с 1992 года. Организацией…</desc>
+  </programme>
+  <programme start="20250106123000 +0200" stop="20250106125500 +0200" channel="matchigra.ru">
+    <title lang="ru">Лучшие из лучших (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/bd/67/6d/a/6bd676dad17b5a26af35962558e2d2fcf885fc371e87ca11449b441c0c6170df.jpg" />
+    <desc>В эфире телеканала специальный репортаж спортивной тематики.</desc>
+  </programme>
+  <programme start="20250106125500 +0200" stop="20250106135500 +0200" channel="matchigra.ru">
+    <title lang="ru">Роджер Федерер. Путь чемпиона (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/e/2d/a7/d1/e/e2da7d1e498321ca73b3cbfd9e5fef52a0f780f8cf5ade35256c24a1b2bbaab0.jpg" />
+    <desc>Документальный спортивный проект раскроет перед зрителем историю невероятного успеха первой ракетки…</desc>
+  </programme>
+  <programme start="20250106135500 +0200" stop="20250106154000 +0200" channel="matchigra.ru">
+    <title lang="ru">Гандбол. Игры Дружбы. Прямая трансляция из Москвы. Россия (U17) - Белоруссия (U17)</title>
+    <icon src="https://ntvplus.ru//files/stv/d/59/d9/c2/6/d59d9c26da9fd9aa63dec742222837015b9a6001565c3a78b7ed254fde50126f.jpg" />
+    <desc>Гандбол - командный вид спорта, главная цель которого - забросить как можно больше мячей в ворота…</desc>
+  </programme>
+  <programme start="20250106154000 +0200" stop="20250106160000 +0200" channel="matchigra.ru">
+    <title lang="ru">Специальный репортаж. Страна спортивная (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/a/0a/bf/5a/0/a0abf5a01689729141897100f966bdf7bff5441e8139c69a06ed9823220784a6.jpg" />
+    <desc>Спорт, герои, события - корреспонденты программы "Специальный репортаж" расскажут обо всем самом важном…</desc>
+  </programme>
+  <programme start="20250106160000 +0200" stop="20250106162500 +0200" channel="matchigra.ru">
+    <title lang="ru">География спорта. Великий Устюг (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/2/1f/9b/9d/2/21f9b9d209bfb51b18fb9c5ef34d8b88e6ad2efa0e363aea246036e1873c5c8f.jpg" />
+    <desc>Корреспонденты путешествуют по России и зарубежью, чтобы показать, как и чем живет спорт в разных…</desc>
+  </programme>
+  <programme start="20250106162500 +0200" stop="20250106181000 +0200" channel="matchigra.ru">
+    <title lang="ru">Гандбол. Игры Дружбы. Прямая трансляция из Москвы. Россия - Белоруссия</title>
+    <icon src="https://ntvplus.ru//files/stv/d/59/d9/c2/6/d59d9c26da9fd9aa63dec742222837015b9a6001565c3a78b7ed254fde50126f.jpg" />
+    <desc>Гандбол - командный вид спорта, главная цель которого - забросить как можно больше мячей в ворота…</desc>
+  </programme>
+  <programme start="20250106181000 +0200" stop="20250106182500 +0200" channel="matchigra.ru">
+    <title lang="ru">Специальный репортаж. Страна спортивная (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/a/0a/bf/5a/0/a0abf5a01689729141897100f966bdf7bff5441e8139c69a06ed9823220784a6.jpg" />
+    <desc>Спорт, герои, события - корреспонденты программы "Специальный репортаж" расскажут обо всем самом важном…</desc>
+  </programme>
+  <programme start="20250106182500 +0200" stop="20250106201000 +0200" channel="matchigra.ru">
+    <title lang="ru">Гандбол. Чемпионат России. OLIMPBET Суперлига. Женщины. Прямая трансляция. ЦСКА - "Астраханочка" (Астрахань)</title>
+    <icon src="https://ntvplus.ru//files/stv/d/10/e1/84/c/d10e184c7a0a2129c3fd6b9b756a132b0acf97b5437385c7a6adacff96586480.jpg" />
+    <desc>Совокупность турнирных матчей среди гандбольных команд России. Проводится с 1992 года. Организацией…</desc>
+  </programme>
+  <programme start="20250106201000 +0200" stop="20250106204000 +0200" channel="matchigra.ru">
+    <title lang="ru">Непобедимый (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/f7/fe/41/e/6f7fe41e52e8e8649493f6278316be325a5aa4ed5285e73a35b35990f5000de4.jpg" />
+    <desc>Передача, в которой каждый найдет для себя что-то новое и интересное.</desc>
+  </programme>
+  <programme start="20250106204000 +0200" stop="20250106223500 +0200" channel="matchigra.ru">
+    <title lang="ru">Баскетбол. Единая лига ВТБ. УНИКС (Казань) - "Зенит" (Санкт-Петербург) (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/1/22/6a/04/f/1226a04f3fd0f85aed66b25e450570ea6448c113cfb0485dad89b8f41f474106.jpg" />
+    <desc>Единая лига ВТБ - баскетбольный клубный международный турнир, созданный в 2008 году совместно ВТБ и…</desc>
+  </programme>
+  <programme start="20250106223500 +0200" stop="20250106233500 +0200" channel="matchigra.ru">
+    <title lang="ru">Новак Джокович. Только победа (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/b/3c/81/dd/4/b3c81dd47aa00e4641658d49eeb97015a8adcde32863e94c8fd273c90c1cc51c.jpg" />
+    <desc>Фильм, посвященный жизни и карьере легендарного сербского теннисиста Новака Джоковича.</desc>
+  </programme>
+  <programme start="20250106233500 +0200" channel="matchigra.ru">
+    <title lang="ru">Лучшие из лучших (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/bd/67/6d/a/6bd676dad17b5a26af35962558e2d2fcf885fc371e87ca11449b441c0c6170df.jpg" />
+    <desc>В эфире телеканала специальный репортаж спортивной тематики.</desc>
   </programme>
   <programme start="20250103000000 +0200" stop="20250103002500 +0200" channel="matcharena.ru">
     <title lang="ru">Непобедимый (12+)</title>
@@ -4619,10 +3831,95 @@
     <icon src="https://ntvplus.ru//files/stv/2/79/54/8b/4/279548b4c633cff4176f693424a71525c090e86f8ee06fed64bc7489e1866100.jpg" />
     <desc>Документальный фильм на нашем телеканале.</desc>
   </programme>
-  <programme start="20250106053000 +0200" channel="matcharena.ru">
+  <programme start="20250106053000 +0200" stop="20250106060000 +0200" channel="matcharena.ru">
     <title lang="ru">Вызов принят (12+)</title>
     <icon src="https://ntvplus.ru//files/stv/f/cf/ae/28/0/fcfae280b3f502d7e2cd970fa4a164d567d8da4b08c844accbfb1554b6cc9282.jpg" />
     <desc>Документальный фильм на нашем телеканале.</desc>
+  </programme>
+  <programme start="20250106060000 +0200" stop="20250106070000 +0200" channel="matcharena.ru">
+    <title lang="ru">Автоспорт. G-Drive Российская серия кольцевых гонок. "Moscow Raceway". Туринг-лайт. Гонка 1 (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/d/cf/06/ec/a/dcf06eca8ce1d16523366d2f2ed56fcf556749342ce141431a24d7f311f91aa1.jpg" />
+    <desc>Российская серия кольцевых гонок (РСКГ) - официальное название профессиональных кольцевых соревнований…</desc>
+  </programme>
+  <programme start="20250106070000 +0200" stop="20250106080000 +0200" channel="matcharena.ru">
+    <title lang="ru">Автоспорт. G-Drive Российская серия кольцевых гонок. "Moscow Raceway". GT4. Гонка 1 (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/7/92/3b/3b/e/7923b3be9297b13b8c94252b6ee8f6c6c3c8a73faa26609dc7cfb26a6544c34f.jpg" />
+    <desc>Российская серия кольцевых гонок (РСКГ) - официальное название профессиональных кольцевых соревнований…</desc>
+  </programme>
+  <programme start="20250106080000 +0200" stop="20250106083000 +0200" channel="matcharena.ru">
+    <title lang="ru">Лица страны (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/a/68/79/dc/9/a6879dc9210b6d64fdb69023a070c49c97b79b8c497b44400078b50329fa0f89.jpg" />
+    <desc>В эфире телеканала специальный репортаж, посвященный выдающимся спортсменам.</desc>
+  </programme>
+  <programme start="20250106083000 +0200" stop="20250106092000 +0200" channel="matcharena.ru">
+    <title lang="ru">Лыжные гонки. Тур де Ски. Масс-старт. Мужчины. 10 км. Трансляция из Италии (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/2/a0/7b/f6/5/2a07bf6571b7d19eca775f0968316f16069c25a1866bb7a4cbcf8967cfcda16d.jpg" />
+    <desc>Соревнования проводятся в конце декабря - начале января, являются особой частью Кубка мира. Включают…</desc>
+  </programme>
+  <programme start="20250106092000 +0200" stop="20250106101000 +0200" channel="matcharena.ru">
+    <title lang="ru">Лыжные гонки. Тур де Ски. Масс-старт. Женщины. 10 км. Трансляция из Италии (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/2/a0/7b/f6/5/2a07bf6571b7d19eca775f0968316f16069c25a1866bb7a4cbcf8967cfcda16d.jpg" />
+    <desc>Соревнования проводятся в конце декабря - начале января, являются особой частью Кубка мира. Включают…</desc>
+  </programme>
+  <programme start="20250106101000 +0200" stop="20250106112000 +0200" channel="matcharena.ru">
+    <title lang="ru">Прыжки на лыжах с трамплина. "Турне 4-х трамплинов". Квалификация. Трансляция из Австрии (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/4/10/77/e4/2/41077e4242fcb03e5a757b8d7148d4c076fa09763699aa804d85b3f01956470c.jpg" />
+    <desc>Кубок мира по прыжкам с трамплина - ежегодные соревнования, проводимые Международной федерацией лыжного…</desc>
+  </programme>
+  <programme start="20250106112000 +0200" stop="20250106120000 +0200" channel="matcharena.ru">
+    <title lang="ru">Биатлон. ТЕХНОНИКОЛЬ Гонка Чемпионов. Женщины. Квалификация. Трансляция из Рязани (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/2/71/42/62/a/2714262afcbdf6fccaf1556d8abaa2fb3dbd009996b6f97bdc3582a4b94b13a8.jpg" />
+    <desc>Биатлон - зимний олимпийский вид спорта, сочетающий лыжные гонки со стрельбой из винтовки. C 1994 года…</desc>
+  </programme>
+  <programme start="20250106120000 +0200" stop="20250106123000 +0200" channel="matcharena.ru">
+    <title lang="ru">Непобедимый (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/f7/fe/41/e/6f7fe41e52e8e8649493f6278316be325a5aa4ed5285e73a35b35990f5000de4.jpg" />
+    <desc>Передача, в которой каждый найдет для себя что-то новое и интересное.</desc>
+  </programme>
+  <programme start="20250106123000 +0200" stop="20250106140000 +0200" channel="matcharena.ru">
+    <title lang="ru">Лыжные гонки. Тур де Ски. 20 км. Мужчины. Трансляция из Италии (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/2/a0/7b/f6/5/2a07bf6571b7d19eca775f0968316f16069c25a1866bb7a4cbcf8967cfcda16d.jpg" />
+    <desc>Соревнования проводятся в конце декабря - начале января, являются особой частью Кубка мира. Включают…</desc>
+  </programme>
+  <programme start="20250106140000 +0200" stop="20250106155000 +0200" channel="matcharena.ru">
+    <title lang="ru">Лыжные гонки. Тур де Ски. 20 км. Женщины. Трансляция из Италии (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/2/a0/7b/f6/5/2a07bf6571b7d19eca775f0968316f16069c25a1866bb7a4cbcf8967cfcda16d.jpg" />
+    <desc>Соревнования проводятся в конце декабря - начале января, являются особой частью Кубка мира. Включают…</desc>
+  </programme>
+  <programme start="20250106155000 +0200" stop="20250106165000 +0200" channel="matcharena.ru">
+    <title lang="ru">Автоспорт. G-Drive Российская серия кольцевых гонок. "Moscow Raceway". Туринг-лайт. Гонка 1 (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/d/cf/06/ec/a/dcf06eca8ce1d16523366d2f2ed56fcf556749342ce141431a24d7f311f91aa1.jpg" />
+    <desc>Российская серия кольцевых гонок (РСКГ) - официальное название профессиональных кольцевых соревнований…</desc>
+  </programme>
+  <programme start="20250106165000 +0200" stop="20250106175500 +0200" channel="matcharena.ru">
+    <title lang="ru">Автоспорт. G-Drive Российская серия кольцевых гонок. "Moscow Raceway". GT4. Гонка 1 (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/7/92/3b/3b/e/7923b3be9297b13b8c94252b6ee8f6c6c3c8a73faa26609dc7cfb26a6544c34f.jpg" />
+    <desc>Российская серия кольцевых гонок (РСКГ) - официальное название профессиональных кольцевых соревнований…</desc>
+  </programme>
+  <programme start="20250106175500 +0200" stop="20250106182500 +0200" channel="matcharena.ru">
+    <title lang="ru">Лучшие из лучших (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/bd/67/6d/a/6bd676dad17b5a26af35962558e2d2fcf885fc371e87ca11449b441c0c6170df.jpg" />
+    <desc>В эфире телеканала специальный репортаж спортивной тематики.</desc>
+  </programme>
+  <programme start="20250106182500 +0200" stop="20250106202500 +0200" channel="matcharena.ru">
+    <title lang="ru">Прыжки на лыжах с трамплина. Турне 4-х трамплинов. Прямая трансляция из Австрии</title>
+    <icon src="https://ntvplus.ru//files/stv/4/10/77/e4/2/41077e4242fcb03e5a757b8d7148d4c076fa09763699aa804d85b3f01956470c.jpg" />
+    <desc>Кубок мира по прыжкам с трамплина - ежегодные соревнования, проводимые Международной федерацией лыжного…</desc>
+  </programme>
+  <programme start="20250106202500 +0200" stop="20250106231000 +0200" channel="matcharena.ru">
+    <title lang="ru">Дартс. Olimpbet Премьер-лига Протур 2. Прямая трансляция из Москвы</title>
+    <icon src="https://ntvplus.ru//files/stv/8/44/ed/56/a/844ed56ad87dd30ca8d1a540d7555fe85c6b995e2dd1276d685cb57c55fa70a3.jpg" />
+    <desc>Дартс - ряд связанных игр, в которых игроки метают дротики в круглую мишень, повешенную на стену. В…</desc>
+  </programme>
+  <programme start="20250106231000 +0200" stop="20250106233000 +0200" channel="matcharena.ru">
+    <title lang="ru">Страна спортивная-2024. Как это было (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/2/c6/99/42/d/2c69942d8f506e2194b36be37fb5e3f37a74e23c944ef5b471624ce3bc66e031.jpg" />
+    <desc>Спорт доступен каждому. Жители страны - от Калининграда до Владивостока - подтверждают это, принимая…</desc>
+  </programme>
+  <programme start="20250106233000 +0200" channel="matcharena.ru">
+    <title lang="ru">Непобедимый (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/f7/fe/41/e/6f7fe41e52e8e8649493f6278316be325a5aa4ed5285e73a35b35990f5000de4.jpg" />
+    <desc>Передача, в которой каждый найдет для себя что-то новое и интересное.</desc>
   </programme>
   <programme start="20250103005500 +0200" stop="20250103010000 +0200" channel="matchpremier.ru">
     <title lang="ru">Новости футбола (0+)</title>
@@ -5079,10 +4376,135 @@
     <icon src="https://ntvplus.ru//files/stv/a/0a/bf/5a/0/a0abf5a01689729141897100f966bdf7bff5441e8139c69a06ed9823220784a6.jpg" />
     <desc>Спорт, герои, события - корреспонденты программы "Специальный репортаж" расскажут обо всем самом важном…</desc>
   </programme>
-  <programme start="20250106032000 +0200" channel="matchpremier.ru">
+  <programme start="20250106032000 +0200" stop="20250106060000 +0200" channel="matchpremier.ru">
     <title lang="ru">Футбол. Сделано в России. Кубок России-1994-1995. Финал. В перерыве - Новости футбола. "Динамо" - "Ротор" (6+)</title>
     <icon src="https://ntvplus.ru//files/stv/b/f4/d2/64/a/bf4d264abf50ac574eec18d394413cef0ad33b2b0b839ee7911551c689567f97.jpg" />
     <desc>Командный вид спорта, в котором целью является забить мяч в ворота соперника ногами или другими частями…</desc>
+  </programme>
+  <programme start="20250106060000 +0200" stop="20250106080000 +0200" channel="matchpremier.ru">
+    <title lang="ru">"Студия "Матч Премьер". Итоги года (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/4/ca/1f/ba/1/4ca1fba1f068c826ab0e4a96837ec6f4f437a5e0b751ad596f4cea5916edd039.jpg" />
+    <desc>Ведущий с гостями студии "Матч Премьер" разбирают самые яркие моменты матчей, обсуждают самое интересное…</desc>
+  </programme>
+  <programme start="20250106080000 +0200" stop="20250106082500 +0200" channel="matchpremier.ru">
+    <title lang="ru">Третий тайм. Артём Касимов (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/d/64/b5/5c/f/d64b55cfcbbb651f456691ec4007174e6a9a9fd64f56a27314cd611ac9de3f10.jpg" />
+    <desc>Только самые актуальные новости, свежие инсайды и интересные подробности.</desc>
+  </programme>
+  <programme start="20250106082500 +0200" stop="20250106083000 +0200" channel="matchpremier.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106083000 +0200" stop="20250106092000 +0200" channel="matchpremier.ru">
+    <title lang="ru">Бесконечная история. 1995 год (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/e/0d/a3/8f/8/e0da38f8588fdc7fd4cb8d2650b5bed2934794c5bb69fa87e3518a77d472e05f.jpg" />
+    <desc>Михаил Поленов и Дмитрий Савин рассказывают историю российского футбола.</desc>
+  </programme>
+  <programme start="20250106092000 +0200" stop="20250106093500 +0200" channel="matchpremier.ru">
+    <title lang="ru">Специальный репортаж. Золото в Зените (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/a/0a/bf/5a/0/a0abf5a01689729141897100f966bdf7bff5441e8139c69a06ed9823220784a6.jpg" />
+    <desc>Спорт, герои, события - корреспонденты программы "Специальный репортаж" расскажут обо всем самом важном…</desc>
+  </programme>
+  <programme start="20250106093500 +0200" stop="20250106101000 +0200" channel="matchpremier.ru">
+    <title lang="ru">Всё о главном. Алексей Косолапов (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/1/72/66/8f/a/172668fa1625f444d36dfa54eed6435e2f8be67f33569f82c30f1178ed7ef97b.jpg" />
+    <desc>Откровенно о самом главном: эксклюзивные интервью с действующими тренерами, игроками и легендами спорта…</desc>
+  </programme>
+  <programme start="20250106101000 +0200" stop="20250106120000 +0200" channel="matchpremier.ru">
+    <title lang="ru">Футбол. Сделано в России. Чемпионат России-2003. В перерыве - Новости футбола. "Уралан" (Элиста) - "Динамо" (Москва) (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/4/c0/f3/e2/e/4c0f3e2ec687031fccfd46f22b22337c5ea641a2a3608d9b61caee69b3aa7d31.jpg" />
+    <desc>Командный вид спорта, в котором целью является забить мяч в ворота соперника ногами или другими частями…</desc>
+  </programme>
+  <programme start="20250106120000 +0200" stop="20250106125000 +0200" channel="matchpremier.ru">
+    <title lang="ru">Мы, игроки сборной России... (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/f7/ae/99/1/6f7ae9917d7e2fd39e0a54aa6c4219315999dd253ca8e83e1a342c850ca82802.jpg" />
+    <desc>30 лет назад случился один из главных скандалов в истории российского футбола. 14 игроков сборной…</desc>
+  </programme>
+  <programme start="20250106125000 +0200" stop="20250106125500 +0200" channel="matchpremier.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106125500 +0200" stop="20250106134500 +0200" channel="matchpremier.ru">
+    <title lang="ru">Бесконечная история. 1995 год (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/e/0d/a3/8f/8/e0da38f8588fdc7fd4cb8d2650b5bed2934794c5bb69fa87e3518a77d472e05f.jpg" />
+    <desc>Михаил Поленов и Дмитрий Савин рассказывают историю российского футбола.</desc>
+  </programme>
+  <programme start="20250106134500 +0200" stop="20250106143500 +0200" channel="matchpremier.ru">
+    <title lang="ru">Человек из футбола. Константин Зырянов (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/7/a7/d7/b7/b/7a7d7b7b4ea6725a838d1b9110d6c0103f6bd531bb8aebf8cc979a3d2ef99110.jpg" />
+    <desc>Футболисты рассказывают о жизни и профессиональной карьере.</desc>
+  </programme>
+  <programme start="20250106143500 +0200" stop="20250106150000 +0200" channel="matchpremier.ru">
+    <title lang="ru">Третий тайм. Дмитрий Цыпченко (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/d/64/b5/5c/f/d64b55cfcbbb651f456691ec4007174e6a9a9fd64f56a27314cd611ac9de3f10.jpg" />
+    <desc>Только самые актуальные новости, свежие инсайды и интересные подробности.</desc>
+  </programme>
+  <programme start="20250106150000 +0200" stop="20250106150500 +0200" channel="matchpremier.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106150500 +0200" stop="20250106153500 +0200" channel="matchpremier.ru">
+    <title lang="ru">Всё о главном. Йован Танасиевич (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/1/72/66/8f/a/172668fa1625f444d36dfa54eed6435e2f8be67f33569f82c30f1178ed7ef97b.jpg" />
+    <desc>Откровенно о самом главном: эксклюзивные интервью с действующими тренерами, игроками и легендами спорта…</desc>
+  </programme>
+  <programme start="20250106153500 +0200" stop="20250106164000 +0200" channel="matchpremier.ru">
+    <title lang="ru">Самый лучший тренер в мире - Павел Фёдорыч Садырин! (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/2/21/bf/43/d/221bf43dbe5956cb51014162baf950453b4bd2e5c7d48abbd04d0623febb4d3c.jpg" />
+    <desc>В 1989 году тренером ЦСКА был назначен Павел Садырин. Под его руководством армейцы в течение следующих…</desc>
+  </programme>
+  <programme start="20250106164000 +0200" stop="20250106164500 +0200" channel="matchpremier.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106164500 +0200" stop="20250106183500 +0200" channel="matchpremier.ru">
+    <title lang="ru">Лига ставок Лига легенд. "Спартак" (Москва) - "Динамо" (Москва) (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/b/91/b0/05/6/b91b0056d261baabcb14cf0ff420af77dfb5ed2f59a51514034074b1a33cffca.jpg" />
+    <desc>Командный вид спорта, в котором целью является забить мяч в ворота соперника ногами или другими частями…</desc>
+  </programme>
+  <programme start="20250106183500 +0200" stop="20250106185500 +0200" channel="matchpremier.ru">
+    <title lang="ru">Специальный репортаж. Футбольный романтик (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/a/0a/bf/5a/0/a0abf5a01689729141897100f966bdf7bff5441e8139c69a06ed9823220784a6.jpg" />
+    <desc>Спорт, герои, события - корреспонденты программы "Специальный репортаж" расскажут обо всем самом важном…</desc>
+  </programme>
+  <programme start="20250106185500 +0200" stop="20250106190000 +0200" channel="matchpremier.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106190000 +0200" stop="20250106192500 +0200" channel="matchpremier.ru">
+    <title lang="ru">Фёдор Черенков (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/80/6b/ee/2/6806bee27c24f205e5968fda58fcd5c4a8c0887f587a368240475796ec70097d.jpg" />
+    <desc>Документальный фильм на нашем телеканале.</desc>
+  </programme>
+  <programme start="20250106192500 +0200" stop="20250106210000 +0200" channel="matchpremier.ru">
+    <title lang="ru">Футбол из СССР. Товарищеский матч (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/a/96/c9/78/0/a96c97802b567683e980c63feab3b5609807ffc8737eb7a4b9e46b471780e22c.jpg" />
+    <desc>Командный вид спорта, в котором целью является забить мяч в ворота соперника ногами или другими частями…</desc>
+  </programme>
+  <programme start="20250106210000 +0200" stop="20250106210500 +0200" channel="matchpremier.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106210500 +0200" stop="20250106225500 +0200" channel="matchpremier.ru">
+    <title lang="ru">Футбол. Сделано в России. Чемпионат России-2000 (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/e/64/97/cb/c/e6497cbc7c8d7ddb914c7a1431f6cc1716ba8ee9dd5e31c1fb8ad06e41c88fc5.jpg" />
+    <desc>Командный вид спорта, в котором целью является забить мяч в ворота соперника ногами или другими частями…</desc>
+  </programme>
+  <programme start="20250106225500 +0200" stop="20250106230000 +0200" channel="matchpremier.ru">
+    <title lang="ru">Новости футбола (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/5f/34/30/1/65f343019259950b72496bbbba1dc0833ec8d86a947ef4a7159c2a1463d675a3.jpg" />
+    <desc>Последние новости футбола России, Европы и мира на сегодня.</desc>
+  </programme>
+  <programme start="20250106230000 +0200" channel="matchpremier.ru">
+    <title lang="ru">"Студия "Матч Премьер". Итоги года (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/4/ca/1f/ba/1/4ca1fba1f068c826ab0e4a96837ec6f4f437a5e0b751ad596f4cea5916edd039.jpg" />
+    <desc>Ведущий с гостями студии "Матч Премьер" разбирают самые яркие моменты матчей, обсуждают самое интересное…</desc>
   </programme>
   <programme start="20250103000000 +0200" stop="20250103004000 +0200" channel="matchtv.ru">
     <title lang="ru">Все на Матч! Прямая трансляция</title>
@@ -5454,10 +4876,100 @@
     <icon src="https://ntvplus.ru//files/stv/2/1f/9b/9d/2/21f9b9d209bfb51b18fb9c5ef34d8b88e6ad2efa0e363aea246036e1873c5c8f.jpg" />
     <desc>Корреспонденты путешествуют по России и зарубежью, чтобы показать, как и чем живет спорт в разных…</desc>
   </programme>
-  <programme start="20250106040000 +0200" channel="matchtv.ru">
+  <programme start="20250106040000 +0200" stop="20250106060000 +0200" channel="matchtv.ru">
     <title lang="ru">ТЕХНОНИКОЛЬ Гонка Чемпионов (0+)</title>
     <icon src="https://ntvplus.ru//files/stv/2/71/42/62/a/2714262afcbdf6fccaf1556d8abaa2fb3dbd009996b6f97bdc3582a4b94b13a8.jpg" />
     <desc>Гонка Чемпионов - уникальное спортивное событие сезона. На одной площадке сойдутся профессионалы лыжного…</desc>
+  </programme>
+  <programme start="20250106060000 +0200" stop="20250106070000 +0200" channel="matchtv.ru">
+    <title lang="ru">Смешанные единоборства. One FC. Трансляция из Таиланда (16+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/27/76/4f/a/627764fa4e0d3b1d5557bccd0fa09ff5d9984f2cce865d8a3df780ef84a60da6.jpg" />
+    <desc>Бои смешанного стиля - уникальное зрелище! Лучшие бойцы планеты демонстрируют самые разные приемы и…</desc>
+  </programme>
+  <programme start="20250106070000 +0200" stop="20250106070500 +0200" channel="matchtv.ru">
+    <title lang="ru">Новости</title>
+    <icon src="https://ntvplus.ru//files/stv/0/f6/f5/15/5/0f6f51557e15978be7aa2d9a9735ff25abf015c35615a14beeb8815c29b642c3.jpg" />
+    <desc>Спортивные новости, самые свежие события в России и мире. Оперативно и достоверно мы рассказываем о…</desc>
+  </programme>
+  <programme start="20250106070500 +0200" stop="20250106095500 +0200" channel="matchtv.ru">
+    <title lang="ru">Все на Матч! Прямая трансляция</title>
+    <icon src="https://ntvplus.ru//files/stv/2/f9/16/e7/d/2f916e7d82ac608d10dd946254f8099312bc5b6218271dd00c560894a53ac217.jpg" />
+    <desc>Звезды российского спорта в гостях у звезд телеканала! Все главные события - в диалогах и репортажах…</desc>
+  </programme>
+  <programme start="20250106095500 +0200" stop="20250106103500 +0200" channel="matchtv.ru">
+    <title lang="ru">Хоккей. КХЛ. Чемпионат 3х3. Прямая трансляция. "Барыс" (Астана) - "Ак Барс" (Казань)</title>
+    <icon src="https://ntvplus.ru//files/stv/1/cb/18/16/3/1cb1816327318d5c930cd12edfbed2f234eb4e940d2fdd8acb94fd0573c9786d.jpg" />
+    <desc>Чемпионат КХЛ 3х3 - новый турнир в системе Лиги, который разнообразит игру, добавит зрелищности,…</desc>
+  </programme>
+  <programme start="20250106103500 +0200" stop="20250106104500 +0200" channel="matchtv.ru">
+    <title lang="ru">Все на Матч! Прямая трансляция</title>
+    <icon src="https://ntvplus.ru//files/stv/2/f9/16/e7/d/2f916e7d82ac608d10dd946254f8099312bc5b6218271dd00c560894a53ac217.jpg" />
+    <desc>Звезды российского спорта в гостях у звезд телеканала! Все главные события - в диалогах и репортажах…</desc>
+  </programme>
+  <programme start="20250106104500 +0200" stop="20250106112500 +0200" channel="matchtv.ru">
+    <title lang="ru">Хоккей. КХЛ. Чемпионат 3х3. Прямая трансляция. "Трактор" (Челябинск) - "Металлург" (Магнитогорск)</title>
+    <icon src="https://ntvplus.ru//files/stv/1/cb/18/16/3/1cb1816327318d5c930cd12edfbed2f234eb4e940d2fdd8acb94fd0573c9786d.jpg" />
+    <desc>Чемпионат КХЛ 3х3 - новый турнир в системе Лиги, который разнообразит игру, добавит зрелищности,…</desc>
+  </programme>
+  <programme start="20250106112500 +0200" stop="20250106113500 +0200" channel="matchtv.ru">
+    <title lang="ru">Все на Матч! Прямая трансляция</title>
+    <icon src="https://ntvplus.ru//files/stv/2/f9/16/e7/d/2f916e7d82ac608d10dd946254f8099312bc5b6218271dd00c560894a53ac217.jpg" />
+    <desc>Звезды российского спорта в гостях у звезд телеканала! Все главные события - в диалогах и репортажах…</desc>
+  </programme>
+  <programme start="20250106113500 +0200" stop="20250106121500 +0200" channel="matchtv.ru">
+    <title lang="ru">Хоккей. КХЛ. Чемпионат 3х3. Суперигра. Прямая трансляция</title>
+    <icon src="https://ntvplus.ru//files/stv/1/cb/18/16/3/1cb1816327318d5c930cd12edfbed2f234eb4e940d2fdd8acb94fd0573c9786d.jpg" />
+    <desc>Чемпионат КХЛ 3х3 - новый турнир в системе Лиги, который разнообразит игру, добавит зрелищности,…</desc>
+  </programme>
+  <programme start="20250106121500 +0200" stop="20250106125500 +0200" channel="matchtv.ru">
+    <title lang="ru">Вы это видели (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/1/44/bc/f3/1/144bcf31c2955d92d77df40e7c90297b819d3d56dfe2b8402272037e1cee8899.jpg" />
+    <desc>Подборка самых интересных, смешных и нелепых моментов мирового спорта.</desc>
+  </programme>
+  <programme start="20250106125500 +0200" stop="20250106130000 +0200" channel="matchtv.ru">
+    <title lang="ru">Новости</title>
+    <icon src="https://ntvplus.ru//files/stv/0/f6/f5/15/5/0f6f51557e15978be7aa2d9a9735ff25abf015c35615a14beeb8815c29b642c3.jpg" />
+    <desc>Спортивные новости, самые свежие события в России и мире. Оперативно и достоверно мы рассказываем о…</desc>
+  </programme>
+  <programme start="20250106130000 +0200" stop="20250106135500 +0200" channel="matchtv.ru">
+    <title lang="ru">Все на Матч! Прямая трансляция</title>
+    <icon src="https://ntvplus.ru//files/stv/2/f9/16/e7/d/2f916e7d82ac608d10dd946254f8099312bc5b6218271dd00c560894a53ac217.jpg" />
+    <desc>Звезды российского спорта в гостях у звезд телеканала! Все главные события - в диалогах и репортажах…</desc>
+  </programme>
+  <programme start="20250106135500 +0200" stop="20250106150000 +0200" channel="matchtv.ru">
+    <title lang="ru">Валерий Харламов. На высокой скорости (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/f3/61/3d/1/6f3613d1f6435ce60ed3b5779fa55153492c45bc5c7ada5c1ae6c48f07b8ca10.jpg" />
+    <desc>Он прожил всего 33 года. Его слава была сопоставима с Гагариным или Высоцким. Он пролетел по жизни так…</desc>
+  </programme>
+  <programme start="20250106150000 +0200" stop="20250106160500 +0200" channel="matchtv.ru">
+    <title lang="ru">Эпоха Романцева (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/4/56/4c/7e/4/4564c7e412dfc0d3e4a1c582974611d187fc15364df9817a1393335a50c7551f.jpg" />
+    <desc>О тренерской эпохе Олега Романцева: последние чемпионаты СССР и первые чемпионаты России, яркие матчи…</desc>
+  </programme>
+  <programme start="20250106160500 +0200" stop="20250106164500 +0200" channel="matchtv.ru">
+    <title lang="ru">Все на Матч! Прямая трансляция</title>
+    <icon src="https://ntvplus.ru//files/stv/2/f9/16/e7/d/2f916e7d82ac608d10dd946254f8099312bc5b6218271dd00c560894a53ac217.jpg" />
+    <desc>Звезды российского спорта в гостях у звезд телеканала! Все главные события - в диалогах и репортажах…</desc>
+  </programme>
+  <programme start="20250106164500 +0200" stop="20250106192500 +0200" channel="matchtv.ru">
+    <title lang="ru">Хоккей. Фонбет Чемпионат КХЛ. Прямая трансляция. "Ак Барс" (Казань) - "Авангард" (Омск)</title>
+    <icon src="https://ntvplus.ru//files/stv/7/4c/83/41/8/74c8341867e5398d031b37f4e3bdc1bc467d0b8c96fb233e992ba1178161fd56.jpg" />
+    <desc>Возродившийся, словно птица Феникс из пепла еще недавних неудач, омский "Авангард" отправляется в гости…</desc>
+  </programme>
+  <programme start="20250106192500 +0200" stop="20250106210000 +0200" channel="matchtv.ru">
+    <title lang="ru">Смешанные единоборства. UFC. Трансляция из ОАЭ. И. Топурия - М. Холлоуэй (16+)</title>
+    <icon src="https://ntvplus.ru//files/stv/5/78/7b/8b/2/5787b8b2b126f131d7078bd64732cb814f01326ba6755963f2efe8046bb2b1ba.jpg" />
+    <desc>Бои смешанного стиля - уникальное зрелище! Лучшие бойцы планеты демонстрируют самые разные приемы и…</desc>
+  </programme>
+  <programme start="20250106210000 +0200" stop="20250106214500 +0200" channel="matchtv.ru">
+    <title lang="ru">Все на Матч! Прямая трансляция</title>
+    <icon src="https://ntvplus.ru//files/stv/2/f9/16/e7/d/2f916e7d82ac608d10dd946254f8099312bc5b6218271dd00c560894a53ac217.jpg" />
+    <desc>Звезды российского спорта в гостях у звезд телеканала! Все главные события - в диалогах и репортажах…</desc>
+  </programme>
+  <programme start="20250106214500 +0200" channel="matchtv.ru">
+    <title lang="ru">Футбол. Суперкубок Италии. Финал. Прямая трансляция из Саудовской Аравии</title>
+    <icon src="https://ntvplus.ru//files/stv/1/1b/75/da/7/11b75da71e81ae77b9a6fbbd90058276f16557afb262bc6cb8e8d371ab56f9ed.jpg" />
+    <desc>Футбольный сезон в большинстве стран Европы начинается поединком за Суперкубок. Однако в Италии…</desc>
   </programme>
   <programme start="20250103060000 +0200" stop="20250103065500 +0200" channel="matchboetz.ru">
     <title lang="ru">Майк Тайсон. Железные кулаки (16+)</title>
@@ -6249,10 +5761,110 @@
     <icon src="https://ntvplus.ru//files/stv/5/61/8f/d6/f/5618fd6f613645c6f58b773708b1f46208bc8cdbbf3ed79adf902e449f53e8bd.jpg" />
     <desc>Все самое интересное в эфире телеканала о спорте и не только.</desc>
   </programme>
-  <programme start="20250106053000 +0200" channel="matchstrana.ru">
+  <programme start="20250106053000 +0200" stop="20250106060000 +0200" channel="matchstrana.ru">
     <title lang="ru">Что по спорту?. Владикавказ (12+)</title>
     <icon src="https://ntvplus.ru//files/stv/7/97/38/2b/6/797382b6a66833cc2c2c671e1e3c7dd6d4e19131bd0ed08985f91dab7f383a71.jpg" />
     <desc>Авторы проекта путешествуют по России и знакомят зрителей со спортивной жизнью разных городов.</desc>
+  </programme>
+  <programme start="20250106060000 +0200" stop="20250106075000 +0200" channel="matchstrana.ru">
+    <title lang="ru">Баскетбол. Единая лига ВТБ. УНИКС (Казань) - "Зенит" (Санкт-Петербург) (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/1/22/6a/04/f/1226a04f3fd0f85aed66b25e450570ea6448c113cfb0485dad89b8f41f474106.jpg" />
+    <desc>Единая лига ВТБ - баскетбольный клубный международный турнир, созданный в 2008 году совместно ВТБ и…</desc>
+  </programme>
+  <programme start="20250106075000 +0200" stop="20250106075500 +0200" channel="matchstrana.ru">
+    <title lang="ru">Новости</title>
+    <icon src="https://ntvplus.ru//files/stv/0/f6/f5/15/5/0f6f51557e15978be7aa2d9a9735ff25abf015c35615a14beeb8815c29b642c3.jpg" />
+    <desc>Спортивные новости, самые свежие события в России и мире. Оперативно и достоверно мы рассказываем о…</desc>
+  </programme>
+  <programme start="20250106075500 +0200" stop="20250106082000 +0200" channel="matchstrana.ru">
+    <title lang="ru">Лица страны (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/a/68/79/dc/9/a6879dc9210b6d64fdb69023a070c49c97b79b8c497b44400078b50329fa0f89.jpg" />
+    <desc>В эфире телеканала специальный репортаж, посвященный выдающимся спортсменам.</desc>
+  </programme>
+  <programme start="20250106082000 +0200" stop="20250106094500 +0200" channel="matchstrana.ru">
+    <title lang="ru">Гандбол. Чемпионат России. OLIMPBET Суперлига. Женщины. "Ростов-Дон" (Ростов-на-Дону) - "Черноморочка" (Новороссийск) (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/d/10/e1/84/c/d10e184c7a0a2129c3fd6b9b756a132b0acf97b5437385c7a6adacff96586480.jpg" />
+    <desc>Совокупность турнирных матчей среди гандбольных команд России. Проводится с 1992 года. Организацией…</desc>
+  </programme>
+  <programme start="20250106094500 +0200" stop="20250106100000 +0200" channel="matchstrana.ru">
+    <title lang="ru">Спорт, который есть. Фигурное катание на роликовых коньках (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/c/2f/84/45/0/c2f8445026bb2e796140d25eec9403b74d8d4ba5b14255eb16c0cca018add42b.jpg" />
+    <desc>О малоизвестных направлениях спорта, дисциплинах и правилах, которыми деляться сами спортсмены.</desc>
+  </programme>
+  <programme start="20250106100000 +0200" stop="20250106100500 +0200" channel="matchstrana.ru">
+    <title lang="ru">Новости</title>
+    <icon src="https://ntvplus.ru//files/stv/0/f6/f5/15/5/0f6f51557e15978be7aa2d9a9735ff25abf015c35615a14beeb8815c29b642c3.jpg" />
+    <desc>Спортивные новости, самые свежие события в России и мире. Оперативно и достоверно мы рассказываем о…</desc>
+  </programme>
+  <programme start="20250106100500 +0200" stop="20250106103500 +0200" channel="matchstrana.ru">
+    <title lang="ru">Спортивная неделя. Итоги (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/1/32/16/78/e/1321678e307baca3cb4a9f495f560a3fc350abd0bc8e39ed223df39e0a3bd51b.jpg" />
+    <desc>Свежая информация из мира спорта. Обзоры самых важных спортивных событий, аналитика, мнения экспертов…</desc>
+  </programme>
+  <programme start="20250106103500 +0200" stop="20250106105500 +0200" channel="matchstrana.ru">
+    <title lang="ru">Страна спортивная-2024. Как это было (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/2/c6/99/42/d/2c69942d8f506e2194b36be37fb5e3f37a74e23c944ef5b471624ce3bc66e031.jpg" />
+    <desc>Спорт доступен каждому. Жители страны - от Калининграда до Владивостока - подтверждают это, принимая…</desc>
+  </programme>
+  <programme start="20250106105500 +0200" stop="20250106112500 +0200" channel="matchstrana.ru">
+    <title lang="ru">Магия большого спорта (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/91/b9/76/3/691b9763a21a4849546633d041b1c91a715daaa6b45133f85e939a938b49c6be.jpg" />
+    <desc>Ритуалы, заклинания, предметы на удачу, - все то, во что так верят многие спортсмены. И как ни странно…</desc>
+  </programme>
+  <programme start="20250106112500 +0200" stop="20250106135000 +0200" channel="matchstrana.ru">
+    <title lang="ru">Хоккей. Евро-Азиатский Кубок Дружбы. 1/2 финала. Прямая трансляция из Тулы. "Металлург" (Белоруссия) - "Хумо" (Узбекистан)</title>
+    <icon src="https://ntvplus.ru//files/stv/b/7c/48/3d/7/b7c483d77ffe08a07b9662422489a474cf3e922c5c0cb0057b405a2b9c715b1b.jpg" />
+    <desc>Федерация хоккея России и Федерация хоккея Беларуси совместно с Всероссийской хоккейной лигой проводят…</desc>
+  </programme>
+  <programme start="20250106135000 +0200" stop="20250106153500 +0200" channel="matchstrana.ru">
+    <title lang="ru">ТЕХНОНИКОЛЬ Гонка Чемпионов. Смешанная эстафета. Трансляция из Рязани (0+)</title>
+    <icon src="https://ntvplus.ru//files/stv/2/71/42/62/a/2714262afcbdf6fccaf1556d8abaa2fb3dbd009996b6f97bdc3582a4b94b13a8.jpg" />
+    <desc>Гонка Чемпионов - уникальное спортивное событие сезона. На одной площадке сойдутся профессионалы лыжного…</desc>
+  </programme>
+  <programme start="20250106153500 +0200" stop="20250106155500 +0200" channel="matchstrana.ru">
+    <title lang="ru">Специальный репортаж. Я вырасту чемпионом! (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/a/0a/bf/5a/0/a0abf5a01689729141897100f966bdf7bff5441e8139c69a06ed9823220784a6.jpg" />
+    <desc>Спорт, герои, события - корреспонденты программы "Специальный репортаж" расскажут обо всем самом важном…</desc>
+  </programme>
+  <programme start="20250106155500 +0200" stop="20250106160000 +0200" channel="matchstrana.ru">
+    <title lang="ru">Новости</title>
+    <icon src="https://ntvplus.ru//files/stv/0/f6/f5/15/5/0f6f51557e15978be7aa2d9a9735ff25abf015c35615a14beeb8815c29b642c3.jpg" />
+    <desc>Спортивные новости, самые свежие события в России и мире. Оперативно и достоверно мы рассказываем о…</desc>
+  </programme>
+  <programme start="20250106160000 +0200" stop="20250106162500 +0200" channel="matchstrana.ru">
+    <title lang="ru">Что по спорту?. Уфа (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/7/97/38/2b/6/797382b6a66833cc2c2c671e1e3c7dd6d4e19131bd0ed08985f91dab7f383a71.jpg" />
+    <desc>Авторы проекта путешествуют по России и знакомят зрителей со спортивной жизнью разных городов.</desc>
+  </programme>
+  <programme start="20250106162500 +0200" stop="20250106165500 +0200" channel="matchstrana.ru">
+    <title lang="ru">Неделя КХЛ (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/9/fd/08/de/3/9fd08de3462c66c1d534a214041915389805057b4d35d4a06e41dcf85caffae0.jpg" />
+    <desc>Лучшие игровые моменты прошедшей недели, озвученные комментаторами.</desc>
+  </programme>
+  <programme start="20250106165500 +0200" stop="20250106192000 +0200" channel="matchstrana.ru">
+    <title lang="ru">Хоккей. Евро-Азиатский Кубок Дружбы. 1/2 финала. Прямая трансляция из Тулы. "Нефтяник" (Россия) - АКМ (Россия)</title>
+    <icon src="https://ntvplus.ru//files/stv/b/7c/48/3d/7/b7c483d77ffe08a07b9662422489a474cf3e922c5c0cb0057b405a2b9c715b1b.jpg" />
+    <desc>Федерация хоккея России и Федерация хоккея Беларуси совместно с Всероссийской хоккейной лигой проводят…</desc>
+  </programme>
+  <programme start="20250106192000 +0200" stop="20250106195500 +0200" channel="matchstrana.ru">
+    <title lang="ru">Физруки. Будущее за настоящим (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/6/ce/43/65/4/6ce43654528739cf8c578525e941d9479635df1ab97f4fd377c667450d626a47.jpg" />
+    <desc>Зрители смогут познакомиться с теми, кто воспитывает будущее поколение и развивает в них любовь к…</desc>
+  </programme>
+  <programme start="20250106195500 +0200" stop="20250106202500 +0200" channel="matchstrana.ru">
+    <title lang="ru">Спортивная неделя. Итоги (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/1/32/16/78/e/1321678e307baca3cb4a9f495f560a3fc350abd0bc8e39ed223df39e0a3bd51b.jpg" />
+    <desc>Свежая информация из мира спорта. Обзоры самых важных спортивных событий, аналитика, мнения экспертов…</desc>
+  </programme>
+  <programme start="20250106202500 +0200" stop="20250106231000 +0200" channel="matchstrana.ru">
+    <title lang="ru">Дартс. Olimpbet Премьер-лига Протур 2. Прямая трансляция из Москвы</title>
+    <icon src="https://ntvplus.ru//files/stv/8/44/ed/56/a/844ed56ad87dd30ca8d1a540d7555fe85c6b995e2dd1276d685cb57c55fa70a3.jpg" />
+    <desc>Дартс - ряд связанных игр, в которых игроки метают дротики в круглую мишень, повешенную на стену. В…</desc>
+  </programme>
+  <programme start="20250106231000 +0200" channel="matchstrana.ru">
+    <title lang="ru">Гандбол. Игры Дружбы. Трансляция из Москвы. Россия - Белоруссия (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/d/59/d9/c2/6/d59d9c26da9fd9aa63dec742222837015b9a6001565c3a78b7ed254fde50126f.jpg" />
+    <desc>Гандбол - командный вид спорта, главная цель которого - забросить как можно больше мячей в ворота…</desc>
   </programme>
   <programme start="20250103010000 +0200" stop="20250103032500 +0200" channel="telekanalkhl.ru">
     <title lang="ru">Фонбет Чемпионат КХЛ. "Витязь" - "Спартак" (12+)</title>
@@ -6594,10 +6206,110 @@
     <icon src="https://ntvplus.ru//files/stv/e/c1/69/ef/d/ec169efd10ffdef4e352fb96dc64541b30e59b666280531a3cf11e2dcbc52e58.jpg" />
     <desc>3х3 - это новый этап в развитии хоккея. Этот формат получил мировое признание и в скором будущем может…</desc>
   </programme>
-  <programme start="20250106052000 +0200" channel="telekanalkhl.ru">
+  <programme start="20250106052000 +0200" stop="20250106060000 +0200" channel="telekanalkhl.ru">
     <title lang="ru">КХЛ 3х3. "Трактор" - "Барыс" (12+)</title>
     <icon src="https://ntvplus.ru//files/stv/e/c1/69/ef/d/ec169efd10ffdef4e352fb96dc64541b30e59b666280531a3cf11e2dcbc52e58.jpg" />
     <desc>3х3 - это новый этап в развитии хоккея. Этот формат получил мировое признание и в скором будущем может…</desc>
+  </programme>
+  <programme start="20250106060000 +0200" stop="20250106063500 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">КХЛ 3х3. "Трактор" - "Ак Барс" (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/1/cb/18/16/3/1cb1816327318d5c930cd12edfbed2f234eb4e940d2fdd8acb94fd0573c9786d.jpg" />
+    <desc>3х3 - это новый этап в развитии хоккея. Этот формат получил мировое признание и в скором будущем может…</desc>
+  </programme>
+  <programme start="20250106063500 +0200" stop="20250106085000 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">Фонбет Чемпионат КХЛ. "Барыс" - "Лада" (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/0/3d/9e/f3/d/03d9ef3deca24c1ef853928d98b4f58b2c0e50d1770ed5b061136d0125fa5131.jpg" />
+    <desc>КХЛ является сильнейшей лигой в Европе, второй по силе и по престижу в мире после НХЛ. Лига была…</desc>
+  </programme>
+  <programme start="20250106085000 +0200" stop="20250106085500 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">Видео дня (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/4/a1/35/2a/6/4a1352a6cb1cdc83cbb4af60bcac8ae231a8bd1b9e745425e65826bcfdd2c97c.jpg" />
+    <desc>Лучшие игровые моменты прошедшей недели.</desc>
+  </programme>
+  <programme start="20250106085500 +0200" stop="20250106092500 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">Подробно (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/3/da/06/10/3/3da06103141e4e9d2c5e4bf679868baa2facbfa95a4780ca61602c173ed92d12.jpg" />
+    <desc>Неожиданный взгляд на события, герои и антигерои матчей и подробный разбор всех игр. Лучшие ведущие и…</desc>
+  </programme>
+  <programme start="20250106092500 +0200" stop="20250106095500 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">Клуб тренеров с Натальей Кларк (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/1/10/79/9f/f/110799ffbb38cc66a4eb0acf17377d675b8ca179576be4a87dbae9583b21023c.jpg" />
+    <desc>Лучшие спортивные передачи в эфире телеканала.</desc>
+  </programme>
+  <programme start="20250106095500 +0200" stop="20250106104500 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">КХЛ 3х3. Прямая трансляция. "Барыс" - "Ак Барс"</title>
+    <icon src="https://ntvplus.ru//files/stv/1/cb/18/16/3/1cb1816327318d5c930cd12edfbed2f234eb4e940d2fdd8acb94fd0573c9786d.jpg" />
+    <desc>3х3 - это новый этап в развитии хоккея. Этот формат получил мировое признание и в скором будущем может…</desc>
+  </programme>
+  <programme start="20250106104500 +0200" stop="20250106113500 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">КХЛ 3х3. Прямая трансляция. "Трактор" - "Металлург" (Мг)</title>
+    <icon src="https://ntvplus.ru//files/stv/1/cb/18/16/3/1cb1816327318d5c930cd12edfbed2f234eb4e940d2fdd8acb94fd0573c9786d.jpg" />
+    <desc>3х3 - это новый этап в развитии хоккея. Этот формат получил мировое признание и в скором будущем может…</desc>
+  </programme>
+  <programme start="20250106113500 +0200" stop="20250106122500 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">КХЛ 3х3. Суперигра. Прямая трансляция</title>
+    <icon src="https://ntvplus.ru//files/stv/1/cb/18/16/3/1cb1816327318d5c930cd12edfbed2f234eb4e940d2fdd8acb94fd0573c9786d.jpg" />
+    <desc>3х3 - это новый этап в развитии хоккея. Этот формат получил мировое признание и в скором будущем может…</desc>
+  </programme>
+  <programme start="20250106122500 +0200" stop="20250106133500 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">Трансферы (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/d/11/a3/0b/6/d11a30b667ca5d69e50243a68bd395c801b047dae8b4672ba66b14dba0767068.jpg" />
+    <desc>Трансферы игроков Континентальной хоккейной лиги. Актуальная таблица переходов и обменов игроков клубов…</desc>
+  </programme>
+  <programme start="20250106133500 +0200" stop="20250106140000 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">Клуб тренеров с Натальей Кларк (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/1/10/79/9f/f/110799ffbb38cc66a4eb0acf17377d675b8ca179576be4a87dbae9583b21023c.jpg" />
+    <desc>Лучшие спортивные передачи в эфире телеканала.</desc>
+  </programme>
+  <programme start="20250106140000 +0200" stop="20250106163000 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">Фонбет Чемпионат КХЛ. Прямая трансляция. "Динамо" (Минск) - "Торпедо"</title>
+    <icon src="https://ntvplus.ru//files/stv/0/3d/9e/f3/d/03d9ef3deca24c1ef853928d98b4f58b2c0e50d1770ed5b061136d0125fa5131.jpg" />
+    <desc>КХЛ является сильнейшей лигой в Европе, второй по силе и по престижу в мире после НХЛ. Лига была…</desc>
+  </programme>
+  <programme start="20250106163000 +0200" stop="20250106164500 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">Неделя КХЛ (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/9/fd/08/de/3/9fd08de3462c66c1d534a214041915389805057b4d35d4a06e41dcf85caffae0.jpg" />
+    <desc>Лучшие игровые моменты прошедшей недели, озвученные комментаторами.</desc>
+  </programme>
+  <programme start="20250106164500 +0200" stop="20250106192000 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">Фонбет Чемпионат КХЛ. Прямая трансляция. "Нефтехимик" - "Сибирь"</title>
+    <icon src="https://ntvplus.ru//files/stv/0/3d/9e/f3/d/03d9ef3deca24c1ef853928d98b4f58b2c0e50d1770ed5b061136d0125fa5131.jpg" />
+    <desc>КХЛ является сильнейшей лигой в Европе, второй по силе и по престижу в мире после НХЛ. Лига была…</desc>
+  </programme>
+  <programme start="20250106192000 +0200" stop="20250106193500 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">Неделя КХЛ (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/9/fd/08/de/3/9fd08de3462c66c1d534a214041915389805057b4d35d4a06e41dcf85caffae0.jpg" />
+    <desc>Лучшие игровые моменты прошедшей недели, озвученные комментаторами.</desc>
+  </programme>
+  <programme start="20250106193500 +0200" stop="20250106195000 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">МХЛ удивляет (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/9/27/aa/da/f/927aadaf98af5804c47df88c091eccb6c5401aff59e81479dbd83ad9753f8c4f.jpg" />
+    <desc>Лига молодёжных команд хоккейных клубов, созданная 26 марта 2009 года на совместном собрании клубов…</desc>
+  </programme>
+  <programme start="20250106195000 +0200" stop="20250106201000 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">Подробно</title>
+    <icon src="https://ntvplus.ru//files/stv/3/da/06/10/3/3da06103141e4e9d2c5e4bf679868baa2facbfa95a4780ca61602c173ed92d12.jpg" />
+    <desc>Неожиданный взгляд на события, герои и антигерои матчей и подробный разбор всех игр. Лучшие ведущие и…</desc>
+  </programme>
+  <programme start="20250106201000 +0200" stop="20250106201500 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">Событие (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/e/c7/d3/41/d/ec7d341dd199fbb9e52e3a87462e1d1218a7f62480ddc446b5afbde499c316d4.jpg" />
+    <desc>Новости в стиле "Euronews" обо всем интересном в мире хоккея.</desc>
+  </programme>
+  <programme start="20250106201500 +0200" stop="20250106223500 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">Фонбет Чемпионат КХЛ. "Северсталь" - "Спартак" (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/0/3d/9e/f3/d/03d9ef3deca24c1ef853928d98b4f58b2c0e50d1770ed5b061136d0125fa5131.jpg" />
+    <desc>КХЛ является сильнейшей лигой в Европе, второй по силе и по престижу в мире после НХЛ. Лига была…</desc>
+  </programme>
+  <programme start="20250106223500 +0200" stop="20250106225500 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">Подробно (6+)</title>
+    <icon src="https://ntvplus.ru//files/stv/3/da/06/10/3/3da06103141e4e9d2c5e4bf679868baa2facbfa95a4780ca61602c173ed92d12.jpg" />
+    <desc>Неожиданный взгляд на события, герои и антигерои матчей и подробный разбор всех игр. Лучшие ведущие и…</desc>
+  </programme>
+  <programme start="20250106225500 +0200" channel="telekanalkhl.ru">
+    <title lang="ru">Фонбет Чемпионат КХЛ. "Ак Барс" - "Авангард" (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/0/3d/9e/f3/d/03d9ef3deca24c1ef853928d98b4f58b2c0e50d1770ed5b061136d0125fa5131.jpg" />
+    <desc>КХЛ является сильнейшей лигой в Европе, второй по силе и по престижу в мире после НХЛ. Лига была…</desc>
   </programme>
   <programme start="20250103021000 +0200" stop="20250103041000 +0200" channel="mirbaseketbola.ru">
     <title lang="ru">Суперкубок Единой Лиги ВТБ. Финал. "ЦСКА" - "УНИКС" (12+)</title>
@@ -6789,10 +6501,65 @@
     <icon src="https://ntvplus.ru//files/stv/8/1a/b0/93/0/81ab093018b836444ccb79b81f9e9426ad5df1b6e47af80d2412af08c1e6ec07.jpg" />
     <desc>В финале 84-го Кубка Короля "Реал" с первых минут провел просто удушающий прием против хозяев.…</desc>
   </programme>
-  <programme start="20250106050000 +0200" channel="mirbaseketbola.ru">
+  <programme start="20250106050000 +0200" stop="20250106060000 +0200" channel="mirbaseketbola.ru">
     <title lang="ru">"Тренер 2.0" - уроки баскетбола от Школы "Сибур" (12+)</title>
     <icon src="https://ntvplus.ru//files/stv/0/31/1e/ae/5/0311eae56592dfc77b54a28c7f84696d75a9cb590019f06bc9fc8c05ac7fec77.jpg" />
     <desc>Проект направлен на поддержку юных спортсменов, предоставление им возможности оценить свой уровень и…</desc>
+  </programme>
+  <programme start="20250106060000 +0200" stop="20250106075500 +0200" channel="mirbaseketbola.ru">
+    <title lang="ru">Кубок России по баскетболу 3х3. Федеральная территория "Сириус". 1/2 финала (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/f/2f/82/87/7/f2f8287707950429c035bcf6174f7f510a4aef7a7fce87f9c4d2f98336019d06.jpg" />
+    <desc>Кубок России по баскетболу 3х3 среди мужских и женских команд - это двух-трехдневный турнир. В нем…</desc>
+  </programme>
+  <programme start="20250106075500 +0200" stop="20250106094500 +0200" channel="mirbaseketbola.ru">
+    <title lang="ru">85-й Кубок Короля Испании. 1/4 финала. "Тенерифе" - "Бургос" (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/9/12/ff/59/7/912ff597b241ed7c09499698e7e4120c93e0a5f5dd16e9d07cc90fc4f92420bb.jpg" />
+    <desc>Стартовый матч 85 Кубка Короля - это всегда волнительно. Тем более, что встречаются практически соседи…</desc>
+  </programme>
+  <programme start="20250106094500 +0200" stop="20250106115000 +0200" channel="mirbaseketbola.ru">
+    <title lang="ru">Fonbet Суперлига 2024/2025. "Динамо" (Приморский край) - "Тамбов" (Тамбовская область) (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/b/41/ec/7d/7/b41ec7d7019159b165d07839b12d463365cec9fd7dbf4a9f0ca9e1bb8f12f5e1.jpg" />
+    <desc>В турнире участвуют профессиональные команды - все клубы Российской Премьер-лиги, Первой и Второй лиги…</desc>
+  </programme>
+  <programme start="20250106115000 +0200" stop="20250106120500 +0200" channel="mirbaseketbola.ru">
+    <title lang="ru">Кибербаскет (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/b/9f/26/4f/4/b9f264f4ec15b1b6b022a8f1088937166e825831208ff20e71f240457f5d5194.jpg" />
+    <desc>Сюжет о развитии интерактивного баскетбола в России.</desc>
+  </programme>
+  <programme start="20250106120500 +0200" stop="20250106140500 +0200" channel="mirbaseketbola.ru">
+    <title lang="ru">85-й Кубок Короля Испании. 1/4 финала. "Реал" - "Валенсия" (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/9/12/ff/59/7/912ff597b241ed7c09499698e7e4120c93e0a5f5dd16e9d07cc90fc4f92420bb.jpg" />
+    <desc>Копа дель Рей. "Реал Мадрид" - "Валенсия Баскет". Лучшая команда чемпионата Испании против хорошего…</desc>
+  </programme>
+  <programme start="20250106140500 +0200" stop="20250106160000 +0200" channel="mirbaseketbola.ru">
+    <title lang="ru">Кубок России по баскетболу 3х3. Федеральная территория "Сириус". 1/2 финала (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/f/2f/82/87/7/f2f8287707950429c035bcf6174f7f510a4aef7a7fce87f9c4d2f98336019d06.jpg" />
+    <desc>Кубок России по баскетболу 3х3 среди мужских и женских команд - это двух-трехдневный турнир. В нем…</desc>
+  </programme>
+  <programme start="20250106160000 +0200" stop="20250106175000 +0200" channel="mirbaseketbola.ru">
+    <title lang="ru">85-й Кубок Короля Испании. 1/4 финала. "Тенерифе" - "Бургос" (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/9/12/ff/59/7/912ff597b241ed7c09499698e7e4120c93e0a5f5dd16e9d07cc90fc4f92420bb.jpg" />
+    <desc>Стартовый матч 85 Кубка Короля - это всегда волнительно. Тем более, что встречаются практически соседи…</desc>
+  </programme>
+  <programme start="20250106175000 +0200" stop="20250106195500 +0200" channel="mirbaseketbola.ru">
+    <title lang="ru">Fonbet Суперлига 2024/2025. "Динамо" (Приморский край) - "Тамбов" (Тамбовская область) (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/b/41/ec/7d/7/b41ec7d7019159b165d07839b12d463365cec9fd7dbf4a9f0ca9e1bb8f12f5e1.jpg" />
+    <desc>В турнире участвуют профессиональные команды - все клубы Российской Премьер-лиги, Первой и Второй лиги…</desc>
+  </programme>
+  <programme start="20250106195500 +0200" stop="20250106215500 +0200" channel="mirbaseketbola.ru">
+    <title lang="ru">85-й Кубок Короля Испании. 1/4 финала. "Реал" - "Валенсия" (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/9/12/ff/59/7/912ff597b241ed7c09499698e7e4120c93e0a5f5dd16e9d07cc90fc4f92420bb.jpg" />
+    <desc>Копа дель Рей. "Реал Мадрид" - "Валенсия Баскет". Лучшая команда чемпионата Испании против хорошего…</desc>
+  </programme>
+  <programme start="20250106215500 +0200" stop="20250106235000 +0200" channel="mirbaseketbola.ru">
+    <title lang="ru">Кубок России по баскетболу 3х3. Федеральная территория "Сириус". 1/2 финала (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/f/2f/82/87/7/f2f8287707950429c035bcf6174f7f510a4aef7a7fce87f9c4d2f98336019d06.jpg" />
+    <desc>Кубок России по баскетболу 3х3 среди мужских и женских команд - это двух-трехдневный турнир. В нем…</desc>
+  </programme>
+  <programme start="20250106235000 +0200" channel="mirbaseketbola.ru">
+    <title lang="ru">85-й Кубок Короля Испании. 1/4 финала. "Тенерифе" - "Бургос" (12+)</title>
+    <icon src="https://ntvplus.ru//files/stv/9/12/ff/59/7/912ff597b241ed7c09499698e7e4120c93e0a5f5dd16e9d07cc90fc4f92420bb.jpg" />
+    <desc>Стартовый матч 85 Кубка Короля - это всегда волнительно. Тем более, что встречаются практически соседи…</desc>
   </programme>
   <programme start="20250103040000 +0200" stop="20250103052000 +0200" channel="konnyimir.ru">
     <title lang="ru">Карлик Нос</title>
@@ -7602,208 +7369,148 @@
     <title>Skorbord</title>
   </programme>
   <programme start="20250103000000 +0200" stop="20250103020000 +0200" channel="trtspor.tr">
-    <title>Aktüel Futbol</title>
+    <title lang="tr">Aktüel Futbol</title>
   </programme>
   <programme start="20250103020000 +0200" stop="20250103034500 +0200" channel="trtspor.tr">
-    <title>Inter - Atalanta</title>
+    <title lang="tr">Inter - Atalanta</title>
   </programme>
   <programme start="20250103034500 +0200" stop="20250103054500 +0200" channel="trtspor.tr">
-    <title>Teknik Analiz</title>
+    <title lang="tr">Aktüel Futbol</title>
   </programme>
   <programme start="20250103054500 +0200" stop="20250103065800 +0200" channel="trtspor.tr">
-    <title>Şampiyonlar Ligi Özetler</title>
+    <title lang="tr">Şampiyonlar Ligi Özetler</title>
   </programme>
   <programme start="20250103065800 +0200" stop="20250103070000 +0200" channel="trtspor.tr">
-    <title>İstiklal Marşı</title>
+    <title lang="tr">İstiklal Marşı</title>
   </programme>
   <programme start="20250103070000 +0200" stop="20250103085500 +0200" channel="trtspor.tr">
-    <title>İlk Baskı</title>
+    <title lang="tr">İlk Baskı</title>
   </programme>
   <programme start="20250103085500 +0200" stop="20250103090000 +0200" channel="trtspor.tr">
-    <title>Spor Takvimi</title>
+    <title lang="tr">Spor Takvimi</title>
   </programme>
   <programme start="20250103090000 +0200" stop="20250103091500 +0200" channel="trtspor.tr">
-    <title>İşitme Engelliler Spor Bülteni</title>
+    <title lang="tr">İşitme Engelliler Spor Bülteni</title>
   </programme>
   <programme start="20250103091500 +0200" stop="20250103093000 +0200" channel="trtspor.tr">
-    <title>Liverpool Şampiyonlar Ligi Karnesi</title>
+    <title lang="tr">Liverpool Şampiyonlar Ligi Karnesi</title>
   </programme>
   <programme start="20250103093000 +0200" stop="20250103094500 +0200" channel="trtspor.tr">
-    <title>Barcelona Şampiyonlar Ligi Karnesi</title>
+    <title lang="tr">Barcelona Şampiyonlar Ligi Karnesi</title>
   </programme>
   <programme start="20250103094500 +0200" stop="20250103100000 +0200" channel="trtspor.tr">
-    <title>Şampiyonlar Ligi En Güzel Goller</title>
+    <title lang="tr">Şampiyonlar Ligi En Güzel Goller</title>
   </programme>
   <programme start="20250103100000 +0200" stop="20250103110000 +0200" channel="trtspor.tr">
-    <title>Spor Bülteni</title>
+    <title lang="tr">Spor Bülteni</title>
   </programme>
   <programme start="20250103110000 +0200" stop="20250103120000 +0200" channel="trtspor.tr">
-    <title>Spor Manşet</title>
+    <title lang="tr">Spor Manşet</title>
   </programme>
   <programme start="20250103120000 +0200" stop="20250103130000 +0200" channel="trtspor.tr">
-    <title>Gün Ortası</title>
+    <title lang="tr">Gün Ortası</title>
   </programme>
   <programme start="20250103130000 +0200" stop="20250103140000 +0200" channel="trtspor.tr">
-    <title>Muhabir Saati</title>
+    <title lang="tr">Muhabir Saati</title>
   </programme>
   <programme start="20250103140000 +0200" stop="20250103153000 +0200" channel="trtspor.tr">
-    <title>Spor Stüdyosu</title>
+    <title lang="tr">Spor Stüdyosu</title>
   </programme>
   <programme start="20250103153000 +0200" stop="20250103160000 +0200" channel="trtspor.tr">
-    <title>Deplasman Lezzetleri</title>
+    <title lang="tr">Deplasman Lezzetleri</title>
   </programme>
   <programme start="20250103160000 +0200" stop="20250103173000 +0200" channel="trtspor.tr">
-    <title>Gündem Futbol</title>
+    <title lang="tr">Gündem Futbol</title>
   </programme>
   <programme start="20250103173000 +0200" stop="20250103180000 +0200" channel="trtspor.tr">
-    <title>Dünyadan Spor</title>
+    <title lang="tr">Dünyadan Spor</title>
   </programme>
   <programme start="20250103180000 +0200" stop="20250103200000 +0200" channel="trtspor.tr">
-    <title>Taktik Analiz</title>
+    <title lang="tr">Spor Merkezi</title>
   </programme>
   <programme start="20250103200000 +0200" stop="20250103220000 +0200" channel="trtspor.tr">
-    <title>Trendyol 1. Lig Futbol Karşılaşması 18. Haftakocaelispor - Alagöz Holding Iğdır Fk</title>
+    <title lang="tr">Kocaelispor - Iğdır FK</title>
   </programme>
   <programme start="20250103220000 +0200" stop="20250104000000 +0200" channel="trtspor.tr">
-    <title>İtalya Süper Kupa Yarı Final Futbol Karşılaşmasıjuventus - Milan</title>
+    <title lang="tr">Juventus - Milan</title>
   </programme>
   <programme start="20250104000000 +0200" stop="20250104020000 +0200" channel="trtspor.tr">
-    <title>Stadyum</title>
+    <title lang="tr">Aktüel Futbol</title>
   </programme>
   <programme start="20250104020000 +0200" stop="20250104034500 +0200" channel="trtspor.tr">
-    <title>Juventus - Milan</title>
+    <title lang="tr">Inter - Atalanta</title>
   </programme>
-  <programme start="20250104034500 +0200" stop="20250104051500 +0200" channel="trtspor.tr">
-    <title>Nacional - Porto</title>
+  <programme start="20250104034500 +0200" stop="20250104054500 +0200" channel="trtspor.tr">
+    <title lang="tr">Aktüel Futbol</title>
   </programme>
-  <programme start="20250104051500 +0200" stop="20250104065800 +0200" channel="trtspor.tr">
-    <title>Vitoria - Sporting</title>
+  <programme start="20250104054500 +0200" stop="20250104065800 +0200" channel="trtspor.tr">
+    <title lang="tr">Şampiyonlar Ligi Özetler</title>
   </programme>
   <programme start="20250104065800 +0200" stop="20250104070000 +0200" channel="trtspor.tr">
-    <title>İstiklal Marşı</title>
+    <title lang="tr">İstiklal Marşı</title>
   </programme>
-  <programme start="20250104070000 +0200" stop="20250104090000 +0200" channel="trtspor.tr">
-    <title>Stadyum</title>
+  <programme start="20250104070000 +0200" stop="20250104085500 +0200" channel="trtspor.tr">
+    <title lang="tr">İlk Baskı</title>
   </programme>
-  <programme start="20250104090000 +0200" stop="20250104093000 +0200" channel="trtspor.tr">
-    <title>Spor Bülteni</title>
+  <programme start="20250104085500 +0200" stop="20250104090000 +0200" channel="trtspor.tr">
+    <title lang="tr">Spor Takvimi</title>
   </programme>
-  <programme start="20250104093000 +0200" stop="20250104100000 +0200" channel="trtspor.tr">
-    <title>Orhan Ayhan'la</title>
+  <programme start="20250104090000 +0200" stop="20250104091500 +0200" channel="trtspor.tr">
+    <title lang="tr">İşitme Engelliler Spor Bülteni</title>
+  </programme>
+  <programme start="20250104091500 +0200" stop="20250104093000 +0200" channel="trtspor.tr">
+    <title lang="tr">Liverpool Şampiyonlar Ligi Karnesi</title>
+  </programme>
+  <programme start="20250104093000 +0200" stop="20250104094500 +0200" channel="trtspor.tr">
+    <title lang="tr">Barcelona Şampiyonlar Ligi Karnesi</title>
+  </programme>
+  <programme start="20250104094500 +0200" stop="20250104100000 +0200" channel="trtspor.tr">
+    <title lang="tr">Şampiyonlar Ligi En Güzel Goller</title>
   </programme>
   <programme start="20250104100000 +0200" stop="20250104110000 +0200" channel="trtspor.tr">
-    <title>Tabii Ki Spor</title>
+    <title lang="tr">Spor Bülteni</title>
   </programme>
   <programme start="20250104110000 +0200" stop="20250104120000 +0200" channel="trtspor.tr">
-    <title>Avrupa Stüdyosu</title>
+    <title lang="tr">Spor Manşet</title>
   </programme>
-  <programme start="20250104120000 +0200" stop="20250104133000 +0200" channel="trtspor.tr">
-    <title>Yüz Yüze Futbol</title>
+  <programme start="20250104120000 +0200" stop="20250104130000 +0200" channel="trtspor.tr">
+    <title lang="tr">Gün Ortası</title>
   </programme>
-  <programme start="20250104133000 +0200" stop="20250104153000 +0200" channel="trtspor.tr">
-    <title>Trendyol 1. Lig Futbol Karşılaşması 18. Haftaşanlıurfaspor - Çorum Fk</title>
+  <programme start="20250104130000 +0200" stop="20250104140000 +0200" channel="trtspor.tr">
+    <title lang="tr">Muhabir Saati</title>
+  </programme>
+  <programme start="20250104140000 +0200" stop="20250104153000 +0200" channel="trtspor.tr">
+    <title lang="tr">Spor Stüdyosu</title>
   </programme>
   <programme start="20250104153000 +0200" stop="20250104160000 +0200" channel="trtspor.tr">
-    <title>Spor Bülteni</title>
+    <title lang="tr">Deplasman Lezzetleri</title>
   </programme>
-  <programme start="20250104160000 +0200" stop="20250104180000 +0200" channel="trtspor.tr">
-    <title>Trendyol 1. Lig Futbol Karşılaşması 18. Haftamke Ankaragücü  - Keçiörengücü</title>
+  <programme start="20250104160000 +0200" stop="20250104173000 +0200" channel="trtspor.tr">
+    <title lang="tr">Gündem Futbol</title>
   </programme>
-  <programme start="20250104180000 +0200" stop="20250104190000 +0200" channel="trtspor.tr">
-    <title>Spor Haftasonu</title>
+  <programme start="20250104173000 +0200" stop="20250104180000 +0200" channel="trtspor.tr">
+    <title lang="tr">Dünyadan Spor</title>
   </programme>
-  <programme start="20250104190000 +0200" stop="20250104194500 +0200" channel="trtspor.tr">
-    <title>Trendyol 1. Lig Futbol Karşılaşması 18. Haftasolwıe Energy Fatih Karagümrük - Siltaş Yapı Pendikspor Futbol A.ş.</title>
+  <programme start="20250104180000 +0200" stop="20250104200000 +0200" channel="trtspor.tr">
+    <title lang="tr">Spor Merkezi</title>
   </programme>
-  <programme start="20250104194500 +0200" stop="20250104200000 +0200" channel="trtspor.tr">
-    <title>Teknik Analiz</title>
+  <programme start="20250104200000 +0200" stop="20250104220000 +0200" channel="trtspor.tr">
+    <title lang="tr">Kocaelispor - Iğdır FK</title>
   </programme>
-  <programme start="20250104200000 +0200" stop="20250104210000 +0200" channel="trtspor.tr">
-    <title>Trendyol 1. Lig Futbol Karşılaşması 18. Haftasolwıe Energy Fatih Karagümrük - Siltaş Yapı Pendikspor Futbol A.ş.</title>
+  <programme start="20250104220000 +0200" stop="20250105000000 +0200" channel="trtspor.tr">
+    <title lang="tr">Juventus - Milan</title>
   </programme>
-  <programme start="20250104210000 +0200" stop="20250104231500 +0200" channel="trtspor.tr">
-    <title>Stadyum</title>
-  </programme>
-  <programme start="20250104231500 +0200" stop="20250105010000 +0200" channel="trtspor.tr">
-    <title>Teknik Analiz</title>
-  </programme>
-  <programme start="20250105010000 +0200" stop="20250105020000 +0200" channel="trtspor.tr">
-    <title>Futbol Gecesi</title>
+  <programme start="20250105000000 +0200" stop="20250105020000 +0200" channel="trtspor.tr">
+    <title lang="tr">Aktüel Futbol</title>
   </programme>
   <programme start="20250105020000 +0200" stop="20250105034500 +0200" channel="trtspor.tr">
-    <title>Portekiz Süper Ligi Futbol Karşılaşmasıbenfıca - Braga</title>
+    <title lang="tr">Inter - Atalanta</title>
   </programme>
-  <programme start="20250105034500 +0200" stop="20250105060000 +0200" channel="trtspor.tr">
-    <title>Stadyum</title>
+  <programme start="20250105034500 +0200" stop="20250105054500 +0200" channel="trtspor.tr">
+    <title lang="tr">Aktüel Futbol</title>
   </programme>
-  <programme start="20250105060000 +0200" stop="20250105074300 +0200" channel="trtspor.tr">
-    <title>İtalya Süper Kupa Yarı Final Futbol Karşılaşmasıjuventus - Milan</title>
-  </programme>
-  <programme start="20250105074300 +0200" stop="20250105074500 +0200" channel="trtspor.tr">
-    <title>İstiklal Marşı</title>
-  </programme>
-  <programme start="20250105074500 +0200" stop="20250105080000 +0200" channel="trtspor.tr">
-    <title>B. Dortmund Şampiyonlar Ligi Karnesi</title>
-  </programme>
-  <programme start="20250105080000 +0200" stop="20250105081500 +0200" channel="trtspor.tr">
-    <title>Barcelona Şampiyonlar Ligi Karnesi</title>
-  </programme>
-  <programme start="20250105081500 +0200" stop="20250105083000 +0200" channel="trtspor.tr">
-    <title>Benfica Şampiyonlar Ligi Karnesi</title>
-  </programme>
-  <programme start="20250105083000 +0200" stop="20250105084500 +0200" channel="trtspor.tr">
-    <title>Real Madrid Şampiyonlar Ligi Karnesi</title>
-  </programme>
-  <programme start="20250105084500 +0200" stop="20250105090000 +0200" channel="trtspor.tr">
-    <title>Inter Şampiyonlar Ligi Karnesi</title>
-  </programme>
-  <programme start="20250105090000 +0200" stop="20250105100000 +0200" channel="trtspor.tr">
-    <title>Spor Sabahı</title>
-  </programme>
-  <programme start="20250105100000 +0200" stop="20250105110000 +0200" channel="trtspor.tr">
-    <title>Spor Bülteni</title>
-  </programme>
-  <programme start="20250105110000 +0200" stop="20250105123000 +0200" channel="trtspor.tr">
-    <title>Avrupa Stüdyosu</title>
-  </programme>
-  <programme start="20250105123000 +0200" stop="20250105130000 +0200" channel="trtspor.tr">
-    <title>Spor Bülteni</title>
-  </programme>
-  <programme start="20250105130000 +0200" stop="20250105133000 +0200" channel="trtspor.tr">
-    <title>Deplasman Lezzetleri</title>
-  </programme>
-  <programme start="20250105133000 +0200" stop="20250105153000 +0200" channel="trtspor.tr">
-    <title>Bandırma Spor - Manisa</title>
-  </programme>
-  <programme start="20250105153000 +0200" stop="20250105160000 +0200" channel="trtspor.tr">
-    <title>Spor Bülteni</title>
-  </programme>
-  <programme start="20250105160000 +0200" stop="20250105180000 +0200" channel="trtspor.tr">
-    <title>İstanbulspor - Esenler E.</title>
-  </programme>
-  <programme start="20250105180000 +0200" stop="20250105190000 +0200" channel="trtspor.tr">
-    <title>Spor Haftasonu</title>
-  </programme>
-  <programme start="20250105190000 +0200" stop="20250105210000 +0200" channel="trtspor.tr">
-    <title>Adanaspor - Amed S.F.</title>
-  </programme>
-  <programme start="20250105210000 +0200" stop="20250105230000 +0200" channel="trtspor.tr">
-    <title>Stadyum</title>
-  </programme>
-  <programme start="20250105230000 +0200" stop="20250104123000 +0200" channel="trtspor.tr">
-    <title>Teknik Analiz</title>
-  </programme>
-  <programme start="20250104123000 +0200" stop="20250105000000 +0200" channel="trtspor.tr">
-    <title>Spor Bülteni</title>
-  </programme>
-  <programme start="20250105000000 +0200" stop="20250105053000 +0200" channel="trtspor.tr">
-    <title lang="tr">-</title>
-  </programme>
-  <programme start="20250105053000 +0200" stop="20250105063000 +0200" channel="trtspor.tr">
-    <title lang="tr">Trendyol Süper Lig Dev Maçlar</title>
-  </programme>
-  <programme start="20250105063000 +0200" stop="20250105065800 +0200" channel="trtspor.tr">
-    <title lang="tr">Galatasaray UEFA Avrupa Ligi Tüm Özetler</title>
+  <programme start="20250105054500 +0200" stop="20250105065800 +0200" channel="trtspor.tr">
+    <title lang="tr">Şampiyonlar Ligi Özetler</title>
   </programme>
   <programme start="20250105065800 +0200" stop="20250105070000 +0200" channel="trtspor.tr">
     <title lang="tr">İstiklal Marşı</title>
@@ -7811,47 +7518,65 @@
   <programme start="20250105070000 +0200" stop="20250105085500 +0200" channel="trtspor.tr">
     <title lang="tr">İlk Baskı</title>
   </programme>
-  <programme start="20250105085500 +0200" stop="20250105091500 +0200" channel="trtspor.tr">
+  <programme start="20250105085500 +0200" stop="20250105090000 +0200" channel="trtspor.tr">
     <title lang="tr">Spor Takvimi</title>
   </programme>
-  <programme start="20250105091500 +0200" stop="20250105094500 +0200" channel="trtspor.tr">
-    <title lang="tr">Trendyol Süper Lig Dev Maçlar</title>
+  <programme start="20250105090000 +0200" stop="20250105091500 +0200" channel="trtspor.tr">
+    <title lang="tr">İşitme Engelliler Spor Bülteni</title>
   </programme>
-  <programme start="20250105094500 +0200" stop="20250105140000 +0200" channel="trtspor.tr">
-    <title lang="tr">PSG Şampiyonlar Ligi Karnesi</title>
+  <programme start="20250105091500 +0200" stop="20250105093000 +0200" channel="trtspor.tr">
+    <title lang="tr">Liverpool Şampiyonlar Ligi Karnesi</title>
   </programme>
-  <programme start="20250105140000 +0200" stop="20250105173000 +0200" channel="trtspor.tr">
+  <programme start="20250105093000 +0200" stop="20250105094500 +0200" channel="trtspor.tr">
+    <title lang="tr">Barcelona Şampiyonlar Ligi Karnesi</title>
+  </programme>
+  <programme start="20250105094500 +0200" stop="20250105100000 +0200" channel="trtspor.tr">
+    <title lang="tr">Şampiyonlar Ligi En Güzel Goller</title>
+  </programme>
+  <programme start="20250105100000 +0200" stop="20250105110000 +0200" channel="trtspor.tr">
+    <title lang="tr">Spor Bülteni</title>
+  </programme>
+  <programme start="20250105110000 +0200" stop="20250105120000 +0200" channel="trtspor.tr">
+    <title lang="tr">Spor Manşet</title>
+  </programme>
+  <programme start="20250105120000 +0200" stop="20250105130000 +0200" channel="trtspor.tr">
+    <title lang="tr">Gün Ortası</title>
+  </programme>
+  <programme start="20250105130000 +0200" stop="20250105140000 +0200" channel="trtspor.tr">
+    <title lang="tr">Muhabir Saati</title>
+  </programme>
+  <programme start="20250105140000 +0200" stop="20250105153000 +0200" channel="trtspor.tr">
     <title lang="tr">Spor Stüdyosu</title>
   </programme>
-  <programme start="20250105173000 +0200" stop="20250105200000 +0200" channel="trtspor.tr">
+  <programme start="20250105153000 +0200" stop="20250105160000 +0200" channel="trtspor.tr">
+    <title lang="tr">Deplasman Lezzetleri</title>
+  </programme>
+  <programme start="20250105160000 +0200" stop="20250105173000 +0200" channel="trtspor.tr">
+    <title lang="tr">Gündem Futbol</title>
+  </programme>
+  <programme start="20250105173000 +0200" stop="20250105180000 +0200" channel="trtspor.tr">
     <title lang="tr">Dünyadan Spor</title>
   </programme>
+  <programme start="20250105180000 +0200" stop="20250105200000 +0200" channel="trtspor.tr">
+    <title lang="tr">Spor Merkezi</title>
+  </programme>
   <programme start="20250105200000 +0200" stop="20250105220000 +0200" channel="trtspor.tr">
-    <title lang="tr">Teknik Analiz</title>
+    <title lang="tr">Kocaelispor - Iğdır FK</title>
   </programme>
   <programme start="20250105220000 +0200" stop="20250106000000 +0200" channel="trtspor.tr">
-    <title lang="tr">Inter - Atalanta</title>
+    <title lang="tr">Juventus - Milan</title>
   </programme>
-  <programme start="20250106000000 +0200" stop="20250106010000 +0200" channel="trtspor.tr">
-    <title lang="tr">-</title>
-  </programme>
-  <programme start="20250106010000 +0200" stop="20250106020000 +0200" channel="trtspor.tr">
-    <title lang="tr">Spor Artı</title>
+  <programme start="20250106000000 +0200" stop="20250106020000 +0200" channel="trtspor.tr">
+    <title lang="tr">Aktüel Futbol</title>
   </programme>
   <programme start="20250106020000 +0200" stop="20250106034500 +0200" channel="trtspor.tr">
-    <title lang="tr">Liverpool - B. Leverkusen</title>
+    <title lang="tr">Inter - Atalanta</title>
   </programme>
-  <programme start="20250106034500 +0200" stop="20250106053000 +0200" channel="trtspor.tr">
-    <title lang="tr">Sporting - Arsenal</title>
+  <programme start="20250106034500 +0200" stop="20250106054500 +0200" channel="trtspor.tr">
+    <title lang="tr">Aktüel Futbol</title>
   </programme>
-  <programme start="20250106053000 +0200" stop="20250106060000 +0200" channel="trtspor.tr">
-    <title lang="tr">Trendyol Süper Lig Dev Maçlar</title>
-  </programme>
-  <programme start="20250106060000 +0200" stop="20250106063000 +0200" channel="trtspor.tr">
-    <title lang="tr">Fenerbahçe UEFA Avrupa Ligi Tüm Özetler</title>
-  </programme>
-  <programme start="20250106063000 +0200" stop="20250106065800 +0200" channel="trtspor.tr">
-    <title lang="tr">Galatasaray UEFA Avrupa Ligi Tüm Özetler</title>
+  <programme start="20250106054500 +0200" stop="20250106065800 +0200" channel="trtspor.tr">
+    <title lang="tr">Şampiyonlar Ligi Özetler</title>
   </programme>
   <programme start="20250106065800 +0200" stop="20250106070000 +0200" channel="trtspor.tr">
     <title lang="tr">İstiklal Marşı</title>
@@ -7865,29 +7590,35 @@
   <programme start="20250106090000 +0200" stop="20250106091500 +0200" channel="trtspor.tr">
     <title lang="tr">İşitme Engelliler Spor Bülteni</title>
   </programme>
-  <programme start="20250106091500 +0200" stop="20250106094500 +0200" channel="trtspor.tr">
-    <title lang="tr">Trendyol Süper Lig Dev Maçlar</title>
+  <programme start="20250106091500 +0200" stop="20250106093000 +0200" channel="trtspor.tr">
+    <title lang="tr">Liverpool Şampiyonlar Ligi Karnesi</title>
+  </programme>
+  <programme start="20250106093000 +0200" stop="20250106094500 +0200" channel="trtspor.tr">
+    <title lang="tr">Barcelona Şampiyonlar Ligi Karnesi</title>
   </programme>
   <programme start="20250106094500 +0200" stop="20250106100000 +0200" channel="trtspor.tr">
-    <title lang="tr">PSG Şampiyonlar Ligi Karnesi</title>
+    <title lang="tr">Şampiyonlar Ligi En Güzel Goller</title>
   </programme>
   <programme start="20250106100000 +0200" stop="20250106110000 +0200" channel="trtspor.tr">
     <title lang="tr">Spor Bülteni</title>
   </programme>
-  <programme start="20250106110000 +0200" stop="20250106123000 +0200" channel="trtspor.tr">
+  <programme start="20250106110000 +0200" stop="20250106120000 +0200" channel="trtspor.tr">
     <title lang="tr">Spor Manşet</title>
   </programme>
-  <programme start="20250106123000 +0200" stop="20250106133000 +0200" channel="trtspor.tr">
+  <programme start="20250106120000 +0200" stop="20250106130000 +0200" channel="trtspor.tr">
     <title lang="tr">Gün Ortası</title>
   </programme>
-  <programme start="20250106133000 +0200" stop="20250106140000 +0200" channel="trtspor.tr">
-    <title lang="tr">Deplasman Lezzetleri</title>
+  <programme start="20250106130000 +0200" stop="20250106140000 +0200" channel="trtspor.tr">
+    <title lang="tr">Muhabir Saati</title>
   </programme>
-  <programme start="20250106140000 +0200" stop="20250106160000 +0200" channel="trtspor.tr">
+  <programme start="20250106140000 +0200" stop="20250106153000 +0200" channel="trtspor.tr">
     <title lang="tr">Spor Stüdyosu</title>
   </programme>
+  <programme start="20250106153000 +0200" stop="20250106160000 +0200" channel="trtspor.tr">
+    <title lang="tr">Deplasman Lezzetleri</title>
+  </programme>
   <programme start="20250106160000 +0200" stop="20250106173000 +0200" channel="trtspor.tr">
-    <title lang="tr">Hedef Süper Lig</title>
+    <title lang="tr">Gündem Futbol</title>
   </programme>
   <programme start="20250106173000 +0200" stop="20250106180000 +0200" channel="trtspor.tr">
     <title lang="tr">Dünyadan Spor</title>
@@ -7896,40 +7627,10 @@
     <title lang="tr">Spor Merkezi</title>
   </programme>
   <programme start="20250106200000 +0200" stop="20250106220000 +0200" channel="trtspor.tr">
-    <title lang="tr">Teknik Analiz</title>
+    <title lang="tr">Kocaelispor - Iğdır FK</title>
   </programme>
-  <programme start="20250106220000 +0200" stop="20250104010000 +0200" channel="trtspor.tr">
-    <title lang="tr">Inter - Atalanta</title>
-  </programme>
-  <programme start="20250104010000 +0200" stop="20250104053000 +0200" channel="trtspor.tr">
-    <title lang="tr">Spor Artı</title>
-  </programme>
-  <programme start="20250104053000 +0200" stop="20250104060000 +0200" channel="trtspor.tr">
-    <title lang="tr">Trendyol Süper Lig Dev Maçlar</title>
-  </programme>
-  <programme start="20250104060000 +0200" stop="20250104063000 +0200" channel="trtspor.tr">
-    <title lang="tr">Fenerbahçe UEFA Avrupa Ligi Tüm Özetler</title>
-  </programme>
-  <programme start="20250104063000 +0200" stop="20250104085500 +0200" channel="trtspor.tr">
-    <title lang="tr">Galatasaray UEFA Avrupa Ligi Tüm Özetler</title>
-  </programme>
-  <programme start="20250104085500 +0200" stop="20250104091500 +0200" channel="trtspor.tr">
-    <title lang="tr">Spor Takvimi</title>
-  </programme>
-  <programme start="20250104091500 +0200" stop="20250104094500 +0200" channel="trtspor.tr">
-    <title lang="tr">Trendyol Süper Lig Dev Maçlar</title>
-  </programme>
-  <programme start="20250104094500 +0200" stop="20250104140000 +0200" channel="trtspor.tr">
-    <title lang="tr">PSG Şampiyonlar Ligi Karnesi</title>
-  </programme>
-  <programme start="20250104140000 +0200" stop="20250104173000 +0200" channel="trtspor.tr">
-    <title lang="tr">Spor Stüdyosu</title>
-  </programme>
-  <programme start="20250104173000 +0200" stop="20250104220000 +0200" channel="trtspor.tr">
-    <title lang="tr">Dünyadan Spor</title>
-  </programme>
-  <programme start="20250104220000 +0200" channel="trtspor.tr">
-    <title lang="tr">Inter - Atalanta</title>
+  <programme start="20250106220000 +0200" channel="trtspor.tr">
+    <title lang="tr">Juventus - Milan</title>
   </programme>
   <programme start="20250103020000 +0200" stop="20250103040000 +0200" channel="extremesportschannel.com">
     <title>NBA Marquee Matchup: Lakers - Hawks</title>
@@ -9304,9 +9005,6 @@
   <programme start="20250106230000 +0200" stop="20250107000000 +0200" channel="sportklub1.rs">
     <title>No information</title>
   </programme>
-  <programme start="20250107000000 +0200" channel="sportklub1.rs">
-    <title>No information</title>
-  </programme>
   <programme start="20250103003000 +0200" stop="20250103005500 +0200" channel="sportklub2.rs">
     <title>Ekstremni svet sporta</title>
     <desc>Sve o ekstremnim sportovima, takmičenjima u izdržljivosti i istinskim takmičarskim maratonima. Ovi ljudi svaki dan pomeraju granice onoga što je moguće.</desc>
@@ -9543,9 +9241,6 @@
     <title>No information</title>
   </programme>
   <programme start="20250106230000 +0200" stop="20250107000000 +0200" channel="sportklub2.rs">
-    <title>No information</title>
-  </programme>
-  <programme start="20250107000000 +0200" channel="sportklub2.rs">
     <title>No information</title>
   </programme>
   <programme start="20250103004500 +0200" stop="20250103023000 +0200" channel="sportklub3.rs">
@@ -9807,9 +9502,6 @@
     <title>No information</title>
   </programme>
   <programme start="20250106230000 +0200" stop="20250107000000 +0200" channel="sportklub3.rs">
-    <title>No information</title>
-  </programme>
-  <programme start="20250107000000 +0200" channel="sportklub3.rs">
     <title>No information</title>
   </programme>
   <programme start="20250103002000 +0200" stop="20250103015000 +0200" channel="sportklub1.hr">
@@ -10137,9 +9829,6 @@
   <programme start="20250106230000 +0200" stop="20250107000000 +0200" channel="sportklub1.hr">
     <title>No information</title>
   </programme>
-  <programme start="20250107000000 +0200" channel="sportklub1.hr">
-    <title>No information</title>
-  </programme>
   <programme start="20250103003000 +0200" stop="20250103005500 +0200" channel="sportklub2.hr">
     <title>Ekstremni svijet sporta</title>
     <desc>Sve o ekstremnim sportovima, natjecanjima u izdržljivosti i istinskim natjecateljskim maratonima. Ti ljudi svakodnevno pomiču granice onoga što je moguće.</desc>
@@ -10378,9 +10067,6 @@
     <title>No information</title>
   </programme>
   <programme start="20250106230000 +0200" stop="20250107000000 +0200" channel="sportklub2.hr">
-    <title>No information</title>
-  </programme>
-  <programme start="20250107000000 +0200" channel="sportklub2.hr">
     <title>No information</title>
   </programme>
   <programme start="20250103004500 +0200" stop="20250103023000 +0200" channel="sportklub3.hr">
@@ -10641,9 +10327,6 @@
     <title>No information</title>
   </programme>
   <programme start="20250106230000 +0200" stop="20250107000000 +0200" channel="sportklub3.hr">
-    <title>No information</title>
-  </programme>
-  <programme start="20250107000000 +0200" channel="sportklub3.hr">
     <title>No information</title>
   </programme>
   <programme start="20250103000000 +0200" stop="20250103002500 +0200" channel="sportklub4.hr">
@@ -10932,9 +10615,6 @@
     <title>No information</title>
   </programme>
   <programme start="20250106230000 +0200" stop="20250107000000 +0200" channel="sportklub4.hr">
-    <title>No information</title>
-  </programme>
-  <programme start="20250107000000 +0200" channel="sportklub4.hr">
     <title>No information</title>
   </programme>
   <programme start="20250103000000 +0200" stop="20250103010000 +0200" channel="sportklub5.hr">
@@ -11243,10 +10923,6 @@
   </programme>
   <programme start="20250106230000 +0200" stop="20250107000000 +0200" channel="sportklub5.hr">
     <title>Sport Klub 5 Promo 3</title>
-    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
-  </programme>
-  <programme start="20250107000000 +0200" channel="sportklub5.hr">
-    <title>Sport Klub 5 Promo 4</title>
     <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
   </programme>
   <programme start="20250103000000 +0200" stop="20250103010000 +0200" channel="sportklub6.hr">
@@ -11599,10 +11275,6 @@
   </programme>
   <programme start="20250106230000 +0200" stop="20250107000000 +0200" channel="sportklub6.hr">
     <title>Sport Klub 6 Promo 3</title>
-    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
-  </programme>
-  <programme start="20250107000000 +0200" channel="sportklub6.hr">
-    <title>Sport Klub 6 Promo 4</title>
     <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
   </programme>
   <programme start="20250103060500 +0200" stop="20250103061500 +0200" channel="ams.de">
@@ -12358,8 +12030,38 @@
   <programme start="20250105210000 +0200" stop="20250105230000 +0200" channel="foxsports1.com">
     <title>Men's College Basketball</title>
   </programme>
-  <programme start="20250105230000 +0200" channel="foxsports1.com">
+  <programme start="20250105230000 +0200" stop="20250106080000 +0200" channel="foxsports1.com">
     <title>Women's College Basketball</title>
+  </programme>
+  <programme start="20250106080000 +0200" stop="20250106090000 +0200" channel="foxsports1.com">
+    <title>The American Rodeo</title>
+  </programme>
+  <programme start="20250106090000 +0200" stop="20250106100000 +0200" channel="foxsports1.com">
+    <title>The American Rodeo</title>
+  </programme>
+  <programme start="20250106100000 +0200" stop="20250106103000 +0200" channel="foxsports1.com">
+    <title>Inside the Big East</title>
+  </programme>
+  <programme start="20250106103000 +0200" stop="20250106123000 +0200" channel="foxsports1.com">
+    <title>Women's College Basketball</title>
+  </programme>
+  <programme start="20250106123000 +0200" stop="20250106143000 +0200" channel="foxsports1.com">
+    <title>Men's College Basketball</title>
+  </programme>
+  <programme start="20250106143000 +0200" stop="20250106150000 +0200" channel="foxsports1.com">
+    <title>Inside the Big East</title>
+  </programme>
+  <programme start="20250106150000 +0200" stop="20250106170000 +0200" channel="foxsports1.com">
+    <title>Breakfast Ball</title>
+  </programme>
+  <programme start="20250106170000 +0200" stop="20250106190000 +0200" channel="foxsports1.com">
+    <title>The Facility</title>
+  </programme>
+  <programme start="20250106190000 +0200" stop="20250106220000 +0200" channel="foxsports1.com">
+    <title>The Herd With Colin Cowherd</title>
+  </programme>
+  <programme start="20250106220000 +0200" channel="foxsports1.com">
+    <title>First Things First</title>
   </programme>
   <programme start="20250103070000 +0200" stop="20250103080000 +0200" channel="foxsports2.com">
     <title>The Pokerstars Big Game on Tour</title>
@@ -12473,8 +12175,48 @@
   <programme start="20250105213000 +0200" stop="20250105233000 +0200" channel="foxsports2.com">
     <title>Men's College Basketball</title>
   </programme>
-  <programme start="20250105233000 +0200" channel="foxsports2.com">
+  <programme start="20250105233000 +0200" stop="20250106080000 +0200" channel="foxsports2.com">
     <title>Inside the Big East</title>
+  </programme>
+  <programme start="20250106080000 +0200" stop="20250106090000 +0200" channel="foxsports2.com">
+    <title>Nascar Presents : Beyond The Wheel</title>
+  </programme>
+  <programme start="20250106090000 +0200" stop="20250106100000 +0200" channel="foxsports2.com">
+    <title>Refuse to Lose: Jeff Gordon and the 1997 Daytona 500</title>
+  </programme>
+  <programme start="20250106100000 +0200" stop="20250106110000 +0200" channel="foxsports2.com">
+    <title>The American Rodeo</title>
+  </programme>
+  <programme start="20250106110000 +0200" stop="20250106120000 +0200" channel="foxsports2.com">
+    <title>The American Rodeo</title>
+  </programme>
+  <programme start="20250106120000 +0200" stop="20250106130000 +0200" channel="foxsports2.com">
+    <title>The American Rodeo</title>
+  </programme>
+  <programme start="20250106130000 +0200" stop="20250106140000 +0200" channel="foxsports2.com">
+    <title>Bassmaster: The Cast</title>
+  </programme>
+  <programme start="20250106140000 +0200" stop="20250106141500 +0200" channel="foxsports2.com">
+    <title>One for All</title>
+  </programme>
+  <programme start="20250106141500 +0200" stop="20250106163000 +0200" channel="foxsports2.com">
+    <title>King's Cup Football</title>
+  </programme>
+  <programme start="20250106163000 +0200" stop="20250106164500 +0200" channel="foxsports2.com">
+    <title>2024 COPA AMERICA: Argentina's Road to Glory
+																				(2024)</title>
+  </programme>
+  <programme start="20250106164500 +0200" stop="20250106190000 +0200" channel="foxsports2.com">
+    <title>King's Cup Football</title>
+  </programme>
+  <programme start="20250106190000 +0200" stop="20250106220000 +0200" channel="foxsports2.com">
+    <title>College Football</title>
+  </programme>
+  <programme start="20250106220000 +0200" stop="20250106230000 +0200" channel="foxsports2.com">
+    <title>College Football</title>
+  </programme>
+  <programme start="20250106230000 +0200" channel="foxsports2.com">
+    <title>College Football</title>
   </programme>
   <programme start="20250103053000 +0200" stop="20250103063000 +0200" channel="fueltv.com">
     <title lang="bg">"Здравословно" с водещ Христо Деянов (повторение)</title>

@@ -3988,7 +3988,7 @@
   - name: Luxe TV HD
   - name: Luxe TV 4K
   sources:
-  - sporedi.tv
+  - tvsporedi.tv
   - yandex.ru
   
 - id: ambience.tv

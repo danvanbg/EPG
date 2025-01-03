@@ -3266,6 +3266,51 @@
   <programme start="20250104223000 +0200" stop="20250105050000 +0200" channel="agrotv.bg">
     <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
   </programme>
+  <programme start="20250103120000 +0200" stop="20250103135000 +0200" channel="tvn.bg">
+    <title>„Домът на смелите (2006)“ – екшън, драма, военен.</title>
+  </programme>
+  <programme start="20250103135000 +0200" stop="20250103160500 +0200" channel="tvn.bg">
+    <title>„Домът на смелите (2006)“ – екшън, драма, военен.</title>
+  </programme>
+  <programme start="20250103160500 +0200" stop="20250103180000 +0200" channel="tvn.bg">
+    <title>„Домът на смелите (2006)“ – екшън, драма, военен.</title>
+  </programme>
+  <programme start="20250103180000 +0200" stop="20250103185000 +0200" channel="tvn.bg">
+    <title>„Домът на смелите (2006)“ – екшън, драма, военен.</title>
+  </programme>
+  <programme start="20250103185000 +0200" stop="20250103210500 +0200" channel="tvn.bg">
+    <title>„Домът на смелите (2006)“ – екшън, драма, военен.</title>
+  </programme>
+  <programme start="20250103210500 +0200" stop="20250103215500 +0200" channel="tvn.bg">
+    <title>„Домът на смелите (2006)“ – екшън, драма, военен.</title>
+  </programme>
+  <programme start="20250103215500 +0200" stop="20250104120000 +0200" channel="tvn.bg">
+    <title>„Домът на смелите (2006)“ – екшън, драма, военен.</title>
+  </programme>
+  <programme start="20250104120000 +0200" stop="20250104135000 +0200" channel="tvn.bg">
+    <title>„Домът на смелите (2006)“ – екшън, драма, военен.</title>
+  </programme>
+  <programme start="20250104135000 +0200" stop="20250104154000 +0200" channel="tvn.bg">
+    <title>„Домът на смелите (2006)“ – екшън, драма, военен.</title>
+  </programme>
+  <programme start="20250104154000 +0200" stop="20250104161000 +0200" channel="tvn.bg">
+    <title>„Домът на смелите (2006)“ – екшън, драма, военен.</title>
+  </programme>
+  <programme start="20250104161000 +0200" stop="20250104180000 +0200" channel="tvn.bg">
+    <title>„Домът на смелите (2006)“ – екшън, драма, военен.</title>
+  </programme>
+  <programme start="20250104180000 +0200" stop="20250104185000 +0200" channel="tvn.bg">
+    <title>„Домът на смелите (2006)“ – екшън, драма, военен.</title>
+  </programme>
+  <programme start="20250104185000 +0200" stop="20250104210000 +0200" channel="tvn.bg">
+    <title>„Домът на смелите (2006)“ – екшън, драма, военен.</title>
+  </programme>
+  <programme start="20250104210000 +0200" stop="20250104215000 +0200" channel="tvn.bg">
+    <title>„Домът на смелите (2006)“ – екшън, драма, военен.</title>
+  </programme>
+  <programme start="20250104215000 +0200" stop="20250105120000 +0200" channel="tvn.bg">
+    <title>„Домът на смелите (2006)“ – екшън, драма, военен.</title>
+  </programme>
   <programme start="20250103053000 +0200" stop="20250103063000 +0200" channel="tv1.bg">
     <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
   </programme>
@@ -6758,285 +6803,6 @@
   <programme start="20250104234500 +0200" stop="20250105093000 +0200" channel="novasport.bg">
     <title>Уотфорд - Шефилд Юнайтед</title>
   </programme>
-  <programme start="20250103013000 +0200" stop="20250103073000 +0200" channel="diemasport.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250103073000 +0200" stop="20250103080000 +0200" channel="diemasport.bg">
-    <title>Дневник НБА, 69 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103080000 +0200" stop="20250103100000 +0200" channel="diemasport.bg">
-    <title>Берое - Ботев Враца, 18 кръг, Футбол: efbet Лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103100000 +0200" stop="20250103120000 +0200" channel="diemasport.bg">
-    <title>Ботев Враца - Левски, 17 кръг, Футбол: efbet Лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103120000 +0200" stop="20250103130000 +0200" channel="diemasport.bg">
-    <title>Най-доброто от Домът на футбола, 2 епизод, предаване за български футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103130000 +0200" stop="20250103150000 +0200" channel="diemasport.bg">
-    <title>Крумовград  - Арда, 2 кръг, Футбол: Sesame Купа на България 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103150000 +0200" stop="20250103170000 +0200" channel="diemasport.bg">
-    <title>Левски - Дунав, 2 кръг, Футбол: Sesame Купа на България 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103170000 +0200" stop="20250103190000 +0200" channel="diemasport.bg">
-    <title>Спартак Варна - ЦСКА, 2 кръг, Футбол: Sesame Купа на България 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103190000 +0200" stop="20250103210000 +0200" channel="diemasport.bg">
-    <title>ЦСКА 1948 - Лудогорец, 2 кръг, Футбол: Sesame Купа на България 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103210000 +0200" stop="20250103213000 +0200" channel="diemasport.bg">
-    <title>Дневник НБА, 70 епизод, предаване за американски баскетбол 2024/2025</title>
-  </programme>
-  <programme start="20250103213000 +0200" stop="20250104000000 +0200" channel="diemasport.bg">
-    <title>Индиана Пейсърс - Милуоки Бъкс, Баскетбол от НБА 2024/2025, /п/</title>
-  </programme>
-  <programme start="20250104000000 +0200" stop="20250104043000 +0200" channel="diemasport.bg">
-    <title>Бокс: Топ Ранк: Джейми Мунгуя - Бруно Сурас, Боксово събитие в Тихуана, Мексико, /n/</title>
-  </programme>
-  <programme start="20250104043000 +0200" stop="20250104071500 +0200" channel="diemasport.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250104071500 +0200" stop="20250104093000 +0200" channel="diemasport.bg">
-    <title>Марек - Монтана, 20 кръг, Футбол: Втора професионална лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104093000 +0200" stop="20250104113000 +0200" channel="diemasport.bg">
-    <title>Спартак Варна - Черно море, 9 кръг, Футбол: efbet Лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104113000 +0200" stop="20250104133000 +0200" channel="diemasport.bg">
-    <title>Ботев Враца - Славия, 14 кръг, Футбол: efbet Лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104133000 +0200" stop="20250104155500 +0200" channel="diemasport.bg">
-    <title>Индиана Пейсърс - Милуоки Бъкс, Баскетбол от НБА 2024/2025, /п/</title>
-  </programme>
-  <programme start="20250104155500 +0200" stop="20250104162500 +0200" channel="diemasport.bg">
-    <title>Дневник НБА, 70 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104162500 +0200" stop="20250104170000 +0200" channel="diemasport.bg">
-    <title>Студио "Висша лига", директно</title>
-  </programme>
-  <programme start="20250104170000 +0200" stop="20250104190000 +0200" channel="diemasport.bg">
-    <title>Астън Вила - Лестър Сити, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104190000 +0200" stop="20250104193000 +0200" channel="diemasport.bg">
-    <title>Дневник НБА, 71 епизод, предаване за американски баскетбол 2024/2025</title>
-  </programme>
-  <programme start="20250104193000 +0200" stop="20250104200000 +0200" channel="diemasport.bg">
-    <title>Студио "Лига 1 на Франция", директно</title>
-  </programme>
-  <programme start="20250104200000 +0200" stop="20250104215500 +0200" channel="diemasport.bg">
-    <title>Лил - Нант, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104215500 +0200" stop="20250104220000 +0200" channel="diemasport.bg">
-    <title>Студио "Лига 1 на Франция", директно</title>
-  </programme>
-  <programme start="20250104220000 +0200" stop="20250104235500 +0200" channel="diemasport.bg">
-    <title>Лион - Монпелие, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104235500 +0200" stop="20250105001500 +0200" channel="diemasport.bg">
-    <title>Студио "Лига 1 на Франция", директно</title>
-  </programme>
-  <programme start="20250103033000 +0200" stop="20250103053000 +0200" channel="diemasport2.bg">
-    <title>Астън Вила - Брайтън &amp; Хоув Албиън, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103053000 +0200" stop="20250103070000 +0200" channel="diemasport2.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250103070000 +0200" stop="20250103090000 +0200" channel="diemasport2.bg">
-    <title>Брентфорд - Арсенал, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103090000 +0200" stop="20250103100000 +0200" channel="diemasport2.bg">
-    <title>Премиър Лийг Токшоу, 18 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103100000 +0200" stop="20250103120000 +0200" channel="diemasport2.bg">
-    <title>Уест Хям Юнайтед - Ливърпул, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103120000 +0200" stop="20250103123000 +0200" channel="diemasport2.bg">
-    <title>Да скъсаш мрежата, 19 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103123000 +0200" stop="20250103143000 +0200" channel="diemasport2.bg">
-    <title>Евертън - Нотингам Форест, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103143000 +0200" stop="20250103150000 +0200" channel="diemasport2.bg">
-    <title>Висша лига: Голямото интервю, 21 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103150000 +0200" stop="20250103170000 +0200" channel="diemasport2.bg">
-    <title>Фулъм - Борнемут, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103170000 +0200" stop="20250103173000 +0200" channel="diemasport2.bg">
-    <title>Истории от Висшата лига, 21 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103173000 +0200" stop="20250103193000 +0200" channel="diemasport2.bg">
-    <title>Тотнъм Хотспър - Уулвърхямптън Уондърърс, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103193000 +0200" stop="20250103213000 +0200" channel="diemasport2.bg">
-    <title>Лестър Сити - Манчестър Сити, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103213000 +0200" stop="20250103220000 +0200" channel="diemasport2.bg">
-    <title>Преди кръга във Висшата лига V1, 20 епизод, предаване за английски футбол 2024/2025</title>
-  </programme>
-  <programme start="20250103220000 +0200" stop="20250103230000 +0200" channel="diemasport2.bg">
-    <title>Обзор на кръга в английската Висша Лига, 19 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103230000 +0200" stop="20250104010000 +0200" channel="diemasport2.bg">
-    <title>Астън Вила - Брайтън &amp; Хоув Албиън, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104010000 +0200" stop="20250104030000 +0200" channel="diemasport2.bg">
-    <title>Ипсуич Таун - Челси, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104030000 +0200" stop="20250104050000 +0200" channel="diemasport2.bg">
-    <title>Валенсия - Лерида, 14 кръг, Баскетбол: Лига Ендеса 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104050000 +0200" stop="20250104073000 +0200" channel="diemasport2.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250104073000 +0200" stop="20250104080000 +0200" channel="diemasport2.bg">
-    <title>Карабао къп: Обзор на кръга, 6 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104080000 +0200" stop="20250104083000 +0200" channel="diemasport2.bg">
-    <title>Да скъсаш мрежата, 19 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104083000 +0200" stop="20250104090000 +0200" channel="diemasport2.bg">
-    <title>NBA Екшън, 13 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104090000 +0200" stop="20250104100000 +0200" channel="diemasport2.bg">
-    <title>Обзор на кръга в английската Висша Лига, 19 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104100000 +0200" stop="20250104103000 +0200" channel="diemasport2.bg">
-    <title>Висша лига: Голямото интервю, 21 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104103000 +0200" stop="20250104123000 +0200" channel="diemasport2.bg">
-    <title>Брентфорд - Арсенал, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104123000 +0200" stop="20250104133000 +0200" channel="diemasport2.bg">
-    <title>Премиър Лийг Токшоу, 18 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104133000 +0200" stop="20250104140000 +0200" channel="diemasport2.bg">
-    <title>Преди кръга във Висшата лига V1, 20 епизод, предаване за английски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104140000 +0200" stop="20250104143000 +0200" channel="diemasport2.bg">
-    <title>Студио "Висша лига и Чемпиъншип", директно</title>
-  </programme>
-  <programme start="20250104143000 +0200" stop="20250104162500 +0200" channel="diemasport2.bg">
-    <title>Тотнъм Хотспър - Нюкасъл Юнайтед, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104162500 +0200" stop="20250104170000 +0200" channel="diemasport2.bg">
-    <title>Студио "Висша лига и Чемпиъншип", директно</title>
-  </programme>
-  <programme start="20250104170000 +0200" stop="20250104185500 +0200" channel="diemasport2.bg">
-    <title>Манчестър Сити - Уест Хям Юнайтед, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104185500 +0200" stop="20250104193000 +0200" channel="diemasport2.bg">
-    <title>Студио "Висша лига", директно</title>
-  </programme>
-  <programme start="20250104193000 +0200" stop="20250104212500 +0200" channel="diemasport2.bg">
-    <title>Брайтън &amp; Хоув Албиън - Арсенал, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104212500 +0200" stop="20250104214500 +0200" channel="diemasport2.bg">
-    <title>Студио "Висша лига", директно</title>
-  </programme>
-  <programme start="20250104214500 +0200" stop="20250104234500 +0200" channel="diemasport2.bg">
-    <title>Саутхямптън - Брентфорд, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104234500 +0200" stop="20250105014500 +0200" channel="diemasport2.bg">
-    <title>Борнемут - Евертън, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103023000 +0200" stop="20250103050000 +0200" channel="diemasport3.bg">
-    <title>Минесота Тимбъруулвс - Бостън Селтикс, Баскетбол от НБА 2024/2025, директно</title>
-  </programme>
-  <programme start="20250103050000 +0200" stop="20250103072000 +0200" channel="diemasport3.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250103072000 +0200" stop="20250103091000 +0200" channel="diemasport3.bg">
-    <title>Айнтрахт Франкфурт - Бохум, 9 кръг, Футбол: Бундеслига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103091000 +0200" stop="20250103100000 +0200" channel="diemasport3.bg">
-    <title>Формула 1: Обзор на сезон 1999, предаване за Формула 1 , /n/</title>
-  </programme>
-  <programme start="20250103100000 +0200" stop="20250103103000 +0200" channel="diemasport3.bg">
-    <title>NBA Екшън, 13 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103103000 +0200" stop="20250103123000 +0200" channel="diemasport3.bg">
-    <title>Рио Бреоган - Манреса, 14 кръг, Баскетбол: Лига Ендеса 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103123000 +0200" stop="20250103143000 +0200" channel="diemasport3.bg">
-    <title>Тенерифе - Сарагоса, 14 кръг, Баскетбол: Лига Ендеса 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103143000 +0200" stop="20250103153000 +0200" channel="diemasport3.bg">
-    <title>Бундеслига: Обзор на полусезона, предаване за германски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103153000 +0200" stop="20250103180000 +0200" channel="diemasport3.bg">
-    <title>Минесота Тимбъруулвс - Бостън Селтикс, Баскетбол от НБА 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103180000 +0200" stop="20250103190000 +0200" channel="diemasport3.bg">
-    <title>Формула 1: Обзор на сезон 2024, предаване за Формула 1, част 1, /n/</title>
-  </programme>
-  <programme start="20250103190000 +0200" stop="20250103200000 +0200" channel="diemasport3.bg">
-    <title>Формула 1: Обзор на сезон 2024, предаване за Формула 1, част 2, /n/</title>
-  </programme>
-  <programme start="20250103200000 +0200" stop="20250103203000 +0200" channel="diemasport3.bg">
-    <title>Лига 1: Обзор на полусезона, предаване за френски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103203000 +0200" stop="20250103210000 +0200" channel="diemasport3.bg">
-    <title>Шоуто на Лига 1, 16 епизод, предаване за френски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103210000 +0200" stop="20250103213000 +0200" channel="diemasport3.bg">
-    <title>Лига 1: Преди кръга, 16 епизод, предаване за френски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250103213000 +0200" stop="20250103220000 +0200" channel="diemasport3.bg">
-    <title>Студио "Лига 1 на Франция", директно</title>
-  </programme>
-  <programme start="20250103220000 +0200" stop="20250103235500 +0200" channel="diemasport3.bg">
-    <title>Ница - Рен, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, директно</title>
-  </programme>
-  <programme start="20250103235500 +0200" stop="20250104001500 +0200" channel="diemasport3.bg">
-    <title>Студио "Лига 1 на Франция", директно</title>
-  </programme>
-  <programme start="20250104001500 +0200" stop="20250104021500 +0200" channel="diemasport3.bg">
-    <title>Вердер Бремен - Байер Леверкузен, 8 кръг, Футбол: Бундеслига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104021500 +0200" stop="20250104041500 +0200" channel="diemasport3.bg">
-    <title>Фрайбург - Аугсбург, 7 кръг, Футбол: Бундеслига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104041500 +0200" stop="20250104061500 +0200" channel="diemasport3.bg">
-    <title>Борусия Мьонхенгладбах - Хайденхайм, 7 кръг, Футбол: Бундеслига 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104061500 +0200" stop="20250104073000 +0200" channel="diemasport3.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
-  <programme start="20250104073000 +0200" stop="20250104093000 +0200" channel="diemasport3.bg">
-    <title>Тенерифе - Сарагоса, 14 кръг, Баскетбол: Лига Ендеса 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104093000 +0200" stop="20250104120000 +0200" channel="diemasport3.bg">
-    <title>Минесота Тимбъруулвс - Бостън Селтикс, Баскетбол от НБА 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104120000 +0200" stop="20250104140000 +0200" channel="diemasport3.bg">
-    <title>Ница - Рен, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104140000 +0200" stop="20250104143000 +0200" channel="diemasport3.bg">
-    <title>Студио "Висша лига и Чемпиъншип", директно</title>
-  </programme>
-  <programme start="20250104143000 +0200" stop="20250104162500 +0200" channel="diemasport3.bg">
-    <title>Блекбърн Роувърс - Бърнли, 26 кръг, Футбол: Чемпиъншип 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104162500 +0200" stop="20250104170000 +0200" channel="diemasport3.bg">
-    <title>Студио "Висша лига и Чемпиъншип", директно</title>
-  </programme>
-  <programme start="20250104170000 +0200" stop="20250104190000 +0200" channel="diemasport3.bg">
-    <title>Кристъл Палас - Челси, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104190000 +0200" stop="20250104210000 +0200" channel="diemasport3.bg">
-    <title>Манреса - Мурсия, 15 кръг, Баскетбол: Лига Ендеса 2024/2025, директно</title>
-  </programme>
-  <programme start="20250104210000 +0200" stop="20250104220000 +0200" channel="diemasport3.bg">
-    <title>Бундеслига: Обзор на полусезона, предаване за германски футбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104220000 +0200" stop="20250104223000 +0200" channel="diemasport3.bg">
-    <title>NBA Екшън, 13 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
-  </programme>
-  <programme start="20250104223000 +0200" stop="20250105003000 +0200" channel="diemasport3.bg">
-    <title>Тенерифе - Билбао, 15 кръг, Баскетбол: Лига Ендеса 2024/2025, директно</title>
-  </programme>
   <programme start="20250103000000 +0200" stop="20250103060000 +0200" channel="ring.bg">
     <title>– Шотландия, Висша лига /п./</title>
   </programme>
@@ -7099,282 +6865,6 @@
   </programme>
   <programme start="20250104220000 +0200" stop="20250105000000 +0200" channel="ring.bg">
     <title>– Бойни вечери</title>
-  </programme>
-  <programme start="20250103083000 +0200" stop="20250103103000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Бризбън Трети четвъртфинал</title>
-  </programme>
-  <programme start="20250103103000 +0200" stop="20250103113000 +0200" channel="maxsport1.bg">
-    <title>Световен рали шампионат 2: Обзор на сезона Обзор на сезона</title>
-  </programme>
-  <programme start="20250103113000 +0200" stop="20250103120000 +0200" channel="maxsport1.bg">
-    <title>Trans World Sport</title>
-  </programme>
-  <programme start="20250103120000 +0200" stop="20250103140000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Бризбън Четвърти четвъртфинал</title>
-  </programme>
-  <programme start="20250103140000 +0200" stop="20250103150000 +0200" channel="maxsport1.bg">
-    <title>"Спорна топка" Токшоу</title>
-  </programme>
-  <programme start="20250103150000 +0200" stop="20250103170000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Бризбън Първи четвъртфинал</title>
-  </programme>
-  <programme start="20250103170000 +0200" stop="20250103190000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Бризбън Втори четвъртфинал</title>
-  </programme>
-  <programme start="20250103190000 +0200" stop="20250103211500 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Бризбън Трети четвъртфинал</title>
-  </programme>
-  <programme start="20250103211500 +0200" stop="20250103231500 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, Евролига: Париж - Барселона Париж - Барселона</title>
-  </programme>
-  <programme start="20250103231500 +0200" stop="20250104003000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Бризбън Четвърти четвъртфинал</title>
-  </programme>
-  <programme start="20250104003000 +0200" stop="20250104023000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Втори полуфинал, мъже</title>
-  </programme>
-  <programme start="20250104023000 +0200" stop="20250104043000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Втори полуфинал, жени</title>
-  </programme>
-  <programme start="20250104043000 +0200" stop="20250104090000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Втори полуфинал, смесени двойки</title>
-  </programme>
-  <programme start="20250104090000 +0200" stop="20250104093000 +0200" channel="maxsport1.bg">
-    <title>NFL: Обзор 17 кръг Обзор 17 кръг</title>
-  </programme>
-  <programme start="20250104093000 +0200" stop="20250104103000 +0200" channel="maxsport1.bg">
-    <title>"Зона волей" Токшоу</title>
-  </programme>
-  <programme start="20250104103000 +0200" stop="20250104123000 +0200" channel="maxsport1.bg">
-    <title>Евролига: Реал Мадрид - Байерн Мюнхен Реал Мадрид - Байерн Мюнхен</title>
-  </programme>
-  <programme start="20250104123000 +0200" stop="20250104143000 +0200" channel="maxsport1.bg">
-    <title>ПРЯКО, ATP 250: Бризбън Втори полуфинал</title>
-  </programme>
-  <programme start="20250104143000 +0200" stop="20250104163000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Първи полуфинал, мъже</title>
-  </programme>
-  <programme start="20250104163000 +0200" stop="20250104183000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Първи полуфинал, жени</title>
-  </programme>
-  <programme start="20250104183000 +0200" stop="20250104203000 +0200" channel="maxsport1.bg">
-    <title>Тенис: United Cup Първи полуфинал, смесени двойки</title>
-  </programme>
-  <programme start="20250104203000 +0200" stop="20250104223000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Бризбън Първи полуфинал</title>
-  </programme>
-  <programme start="20250104223000 +0200" stop="20250105000000 +0200" channel="maxsport1.bg">
-    <title>ATP 250: Бризбън Втори полуфинал</title>
-  </programme>
-  <programme start="20250103080000 +0200" stop="20250103083000 +0200" channel="maxsport2.bg">
-    <title>Trans World Sport</title>
-  </programme>
-  <programme start="20250103083000 +0200" stop="20250103103000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Тенис: United Cup Четвъртфинал, мъже</title>
-  </programme>
-  <programme start="20250103103000 +0200" stop="20250103123000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Тенис: United Cup Четвъртфинал, жени</title>
-  </programme>
-  <programme start="20250103123000 +0200" stop="20250103143000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Тенис: United Cup Четвъртфинал, смесени двойки</title>
-  </programme>
-  <programme start="20250103143000 +0200" stop="20250103161500 +0200" channel="maxsport2.bg">
-    <title>Еврокупа: Гран Канария - Апоел Тел Авив Гран Канария - Апоел Тел Авив</title>
-  </programme>
-  <programme start="20250103161500 +0200" stop="20250103181500 +0200" channel="maxsport2.bg">
-    <title>Евролига: Жалгирис - Олимпиакос Жалгирис - Олимпиакос</title>
-  </programme>
-  <programme start="20250103181500 +0200" stop="20250103191500 +0200" channel="maxsport2.bg">
-    <title>"Удар със стик"</title>
-  </programme>
-  <programme start="20250103191500 +0200" stop="20250103194500 +0200" channel="maxsport2.bg">
-    <title>NFL: Обзор 17 кръг Обзор 17 кръг</title>
-  </programme>
-  <programme start="20250103194500 +0200" stop="20250103220000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Евролига: Фенербахче - Анадолу Ефес Фенербахче - Анадолу Ефес</title>
-  </programme>
-  <programme start="20250103220000 +0200" stop="20250104000000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Евролига: Реал Мадрид - Байерн Мюнхен Реал Мадрид - Байерн Мюнхен</title>
-  </programme>
-  <programme start="20250104000000 +0200" stop="20250104030000 +0200" channel="maxsport2.bg">
-    <title>NFL: Минесота Вайкингс - Грийн Бей Пакърс Минесота Вайкингс - Грийн Бей Пакърс</title>
-  </programme>
-  <programme start="20250104030000 +0200" stop="20250104073000 +0200" channel="maxsport2.bg">
-    <title>Волейбол - Купа Италия: Верона - Пиаченца Четвъртфинал</title>
-  </programme>
-  <programme start="20250104073000 +0200" stop="20250104080000 +0200" channel="maxsport2.bg">
-    <title>Trans World Sport</title>
-  </programme>
-  <programme start="20250104080000 +0200" stop="20250104083000 +0200" channel="maxsport2.bg">
-    <title>NFL: Обзор 17 кръг Обзор 17 кръг</title>
-  </programme>
-  <programme start="20250104083000 +0200" stop="20250104103000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Тенис: United Cup Втори полуфинал, мъже</title>
-  </programme>
-  <programme start="20250104103000 +0200" stop="20250104123000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Тенис: United Cup Втори полуфинал, жени</title>
-  </programme>
-  <programme start="20250104123000 +0200" stop="20250104143000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, Тенис: United Cup Втори полуфинал, смесени двойки</title>
-  </programme>
-  <programme start="20250104143000 +0200" stop="20250104163000 +0200" channel="maxsport2.bg">
-    <title>Евролига: Реал Мадрид - Байерн Мюнхен Реал Мадрид - Байерн Мюнхен</title>
-  </programme>
-  <programme start="20250104163000 +0200" stop="20250104183000 +0200" channel="maxsport2.bg">
-    <title>NHL: Далас Старс - Отава Сенатърс Далас Старс - Отава Сенатърс</title>
-  </programme>
-  <programme start="20250104183000 +0200" stop="20250104190000 +0200" channel="maxsport2.bg">
-    <title>"Удар със стик"</title>
-  </programme>
-  <programme start="20250104190000 +0200" stop="20250104220000 +0200" channel="maxsport2.bg">
-    <title>ПРЯКО, NHL: Вашингтон Кепитълс - Ню Йорк Рейнджърс Вашингтон Кепитълс - Ню Йорк Рейнджърс</title>
-  </programme>
-  <programme start="20250104220000 +0200" stop="20250105023000 +0200" channel="maxsport2.bg">
-    <title>Евролига: Фенербахче - Анадолу Ефес Фенербахче - Анадолу Ефес</title>
-  </programme>
-  <programme start="20250103080000 +0200" stop="20250103100000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Ювентус - Фиорентина</title>
-  </programme>
-  <programme start="20250103100000 +0200" stop="20250103120000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Каляри - Интер</title>
-  </programme>
-  <programme start="20250103120000 +0200" stop="20250103123000 +0200" channel="maxsport3.bg">
-    <title>Серия А: "Екстра Калчо"</title>
-  </programme>
-  <programme start="20250103123000 +0200" stop="20250103143000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Наполи - Венеция</title>
-  </programme>
-  <programme start="20250103143000 +0200" stop="20250103163000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Милан - Рома</title>
-  </programme>
-  <programme start="20250103163000 +0200" stop="20250103183000 +0200" channel="maxsport3.bg">
-    <title>УЕФА Шампионска лига: Байер Леверкузен - Интер Шести кръг</title>
-  </programme>
-  <programme start="20250103183000 +0200" stop="20250103203000 +0200" channel="maxsport3.bg">
-    <title>Супер Купа Италия: Интер - Аталанта Първи полуфинал за Суперкупата на Италия</title>
-  </programme>
-  <programme start="20250103203000 +0200" stop="20250103210000 +0200" channel="maxsport3.bg">
-    <title>Серия А: "Преди кръга"</title>
-  </programme>
-  <programme start="20250103210000 +0200" stop="20250103230000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Супер Купа Италия: Ювентус - Милан Втори полуфинал за Суперкупата на Италия</title>
-  </programme>
-  <programme start="20250103230000 +0200" stop="20250104000000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Лацио - Аталанта</title>
-  </programme>
-  <programme start="20250104000000 +0200" stop="20250104020000 +0200" channel="maxsport3.bg">
-    <title>Супер Купа Италия: Интер - Аталанта Първи полуфинал за Суперкупата на Италия</title>
-  </programme>
-  <programme start="20250104020000 +0200" stop="20250104040000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Венеция - Емполи</title>
-  </programme>
-  <programme start="20250104040000 +0200" stop="20250104080000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Фиорентина - Наполи</title>
-  </programme>
-  <programme start="20250104080000 +0200" stop="20250104100000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Наполи - Венеция</title>
-  </programme>
-  <programme start="20250104100000 +0200" stop="20250104110000 +0200" channel="maxsport3.bg">
-    <title>Серия А: Обзор 18 кръг Обзор 18 кръг</title>
-  </programme>
-  <programme start="20250104110000 +0200" stop="20250104130000 +0200" channel="maxsport3.bg">
-    <title>Супер Купа Италия: Интер - Аталанта Първи полуфинал за Суперкупата на Италия</title>
-  </programme>
-  <programme start="20250104130000 +0200" stop="20250104150000 +0200" channel="maxsport3.bg">
-    <title>Супер Купа Италия: Ювентус - Милан Втори полуфинал за Суперкупата на Италия</title>
-  </programme>
-  <programme start="20250104150000 +0200" stop="20250104153000 +0200" channel="maxsport3.bg">
-    <title>Серия А: "Преди кръга"</title>
-  </programme>
-  <programme start="20250104153000 +0200" stop="20250104160000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250104160000 +0200" stop="20250104180000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Серия А: Венеция - Емполи</title>
-  </programme>
-  <programme start="20250104180000 +0200" stop="20250104183000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250104183000 +0200" stop="20250104190000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250104190000 +0200" stop="20250104210000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Серия А: Фиорентина - Наполи</title>
-  </programme>
-  <programme start="20250104210000 +0200" stop="20250104214500 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250104214500 +0200" stop="20250104234500 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Серия А: Верона - Удинезе</title>
-  </programme>
-  <programme start="20250104234500 +0200" stop="20250105000000 +0200" channel="maxsport3.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250103100000 +0200" stop="20250103120000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Майорка - Валенсия</title>
-  </programme>
-  <programme start="20250103120000 +0200" stop="20250103140000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Барселона - Лас Палмас</title>
-  </programme>
-  <programme start="20250103140000 +0200" stop="20250103160000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Валядолид - Атлетико Мадрид</title>
-  </programme>
-  <programme start="20250103160000 +0200" stop="20250103180000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Реал Мадрид - Хетафе</title>
-  </programme>
-  <programme start="20250103180000 +0200" stop="20250103200000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Реал Сосиедад - Бетис</title>
-  </programme>
-  <programme start="20250103200000 +0200" stop="20250103210000 +0200" channel="maxsport4.bg">
-    <title>"Пред Стадиона" - спортно шоу "Пред Стадиона" - спортно шоу</title>
-  </programme>
-  <programme start="20250103210000 +0200" stop="20250103213000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: "Светът на Ла Лига"</title>
-  </programme>
-  <programme start="20250103213000 +0200" stop="20250103220000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250103220000 +0200" stop="20250104003000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Ла Лига: Валенсия - Реал Мадрид</title>
-  </programme>
-  <programme start="20250104003000 +0200" stop="20250104010000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250104010000 +0200" stop="20250104041500 +0200" channel="maxsport4.bg">
-    <title>Голф: Genesis Championship</title>
-  </programme>
-  <programme start="20250104041500 +0200" stop="20250104100000 +0200" channel="maxsport4.bg">
-    <title>Голф: Challenge Tour Grand Final</title>
-  </programme>
-  <programme start="20250104100000 +0200" stop="20250104110000 +0200" channel="maxsport4.bg">
-    <title>"Пред Стадиона" - спортно шоу "Пред Стадиона" - спортно шоу</title>
-  </programme>
-  <programme start="20250104110000 +0200" stop="20250104130000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Валенсия - Райо Валекано</title>
-  </programme>
-  <programme start="20250104130000 +0200" stop="20250104150000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Леганес - Реал Сосиедад</title>
-  </programme>
-  <programme start="20250104150000 +0200" stop="20250104170000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Атлетико Мадрид - Севиля</title>
-  </programme>
-  <programme start="20250104170000 +0200" stop="20250104190000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: Жирона - Реал Мадрид</title>
-  </programme>
-  <programme start="20250104190000 +0200" stop="20250104193000 +0200" channel="maxsport4.bg">
-    <title>Ла Лига: "Светът на Ла Лига"</title>
-  </programme>
-  <programme start="20250104193000 +0200" stop="20250104200000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250104200000 +0200" stop="20250104220000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Купа на Краля: Барбастро - Барселона</title>
-  </programme>
-  <programme start="20250104220000 +0200" stop="20250104223000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Студио "Футбол"</title>
-  </programme>
-  <programme start="20250104223000 +0200" stop="20250105000000 +0200" channel="maxsport4.bg">
-    <title>ПРЯКО, Купа на Краля: Марбея - Атлетико Мадрид</title>
   </programme>
   <programme start="20250103053000 +0200" stop="20250103063000 +0200" channel="eurosport1.bg">
     <title lang="bg">"Здравословно" с водещ Христо Деянов (повторение)</title>
@@ -9867,163 +9357,136 @@
     <title>90+1</title>
   </programme>
   <programme start="20250103000000 +0200" stop="20250103020000 +0200" channel="trtspor.tr">
-    <title>Aktüel Futbol</title>
+    <title lang="tr">Aktüel Futbol</title>
   </programme>
   <programme start="20250103020000 +0200" stop="20250103034500 +0200" channel="trtspor.tr">
-    <title>Inter - Atalanta</title>
+    <title lang="tr">Inter - Atalanta</title>
   </programme>
   <programme start="20250103034500 +0200" stop="20250103054500 +0200" channel="trtspor.tr">
-    <title>Teknik Analiz</title>
+    <title lang="tr">Aktüel Futbol</title>
   </programme>
   <programme start="20250103054500 +0200" stop="20250103065800 +0200" channel="trtspor.tr">
-    <title>Şampiyonlar Ligi Özetler</title>
+    <title lang="tr">Şampiyonlar Ligi Özetler</title>
   </programme>
   <programme start="20250103065800 +0200" stop="20250103070000 +0200" channel="trtspor.tr">
-    <title>İstiklal Marşı</title>
+    <title lang="tr">İstiklal Marşı</title>
   </programme>
   <programme start="20250103070000 +0200" stop="20250103085500 +0200" channel="trtspor.tr">
-    <title>İlk Baskı</title>
+    <title lang="tr">İlk Baskı</title>
   </programme>
   <programme start="20250103085500 +0200" stop="20250103090000 +0200" channel="trtspor.tr">
-    <title>Spor Takvimi</title>
-  </programme>
-  <programme start="20250103090000 +0200" stop="20250103091500 +0200" channel="trtspor.tr">
-    <title>İşitme Engelliler Spor Bülteni</title>
-  </programme>
-  <programme start="20250103091500 +0200" stop="20250103093000 +0200" channel="trtspor.tr">
-    <title>Liverpool Şampiyonlar Ligi Karnesi</title>
-  </programme>
-  <programme start="20250103093000 +0200" stop="20250103094500 +0200" channel="trtspor.tr">
-    <title>Barcelona Şampiyonlar Ligi Karnesi</title>
-  </programme>
-  <programme start="20250103094500 +0200" stop="20250103100000 +0200" channel="trtspor.tr">
-    <title>Şampiyonlar Ligi En Güzel Goller</title>
-  </programme>
-  <programme start="20250103100000 +0200" stop="20250103110000 +0200" channel="trtspor.tr">
-    <title>Spor Bülteni</title>
-  </programme>
-  <programme start="20250103110000 +0200" stop="20250103120000 +0200" channel="trtspor.tr">
-    <title>Spor Manşet</title>
-  </programme>
-  <programme start="20250103120000 +0200" stop="20250103130000 +0200" channel="trtspor.tr">
-    <title>Gün Ortası</title>
-  </programme>
-  <programme start="20250103130000 +0200" stop="20250103140000 +0200" channel="trtspor.tr">
-    <title>Muhabir Saati</title>
-  </programme>
-  <programme start="20250103140000 +0200" stop="20250103153000 +0200" channel="trtspor.tr">
-    <title>Spor Stüdyosu</title>
-  </programme>
-  <programme start="20250103153000 +0200" stop="20250103160000 +0200" channel="trtspor.tr">
-    <title>Deplasman Lezzetleri</title>
-  </programme>
-  <programme start="20250103160000 +0200" stop="20250103173000 +0200" channel="trtspor.tr">
-    <title>Gündem Futbol</title>
-  </programme>
-  <programme start="20250103173000 +0200" stop="20250103180000 +0200" channel="trtspor.tr">
-    <title>Dünyadan Spor</title>
-  </programme>
-  <programme start="20250103180000 +0200" stop="20250103200000 +0200" channel="trtspor.tr">
-    <title>Taktik Analiz</title>
-  </programme>
-  <programme start="20250103200000 +0200" stop="20250103220000 +0200" channel="trtspor.tr">
-    <title>Trendyol 1. Lig Futbol Karşılaşması 18. Haftakocaelispor - Alagöz Holding Iğdır Fk</title>
-  </programme>
-  <programme start="20250103220000 +0200" stop="20250104000000 +0200" channel="trtspor.tr">
-    <title>İtalya Süper Kupa Yarı Final Futbol Karşılaşmasıjuventus - Milan</title>
-  </programme>
-  <programme start="20250104000000 +0200" stop="20250104020000 +0200" channel="trtspor.tr">
-    <title>Stadyum</title>
-  </programme>
-  <programme start="20250104020000 +0200" stop="20250104034500 +0200" channel="trtspor.tr">
-    <title>Juventus - Milan</title>
-  </programme>
-  <programme start="20250104034500 +0200" stop="20250104051500 +0200" channel="trtspor.tr">
-    <title>Nacional - Porto</title>
-  </programme>
-  <programme start="20250104051500 +0200" stop="20250104065800 +0200" channel="trtspor.tr">
-    <title>Vitoria - Sporting</title>
-  </programme>
-  <programme start="20250104065800 +0200" stop="20250104070000 +0200" channel="trtspor.tr">
-    <title>İstiklal Marşı</title>
-  </programme>
-  <programme start="20250104070000 +0200" stop="20250104090000 +0200" channel="trtspor.tr">
-    <title>Stadyum</title>
-  </programme>
-  <programme start="20250104090000 +0200" stop="20250104093000 +0200" channel="trtspor.tr">
-    <title>Spor Bülteni</title>
-  </programme>
-  <programme start="20250104093000 +0200" stop="20250104100000 +0200" channel="trtspor.tr">
-    <title>Orhan Ayhan'la</title>
-  </programme>
-  <programme start="20250104100000 +0200" stop="20250104110000 +0200" channel="trtspor.tr">
-    <title>Tabii Ki Spor</title>
-  </programme>
-  <programme start="20250104110000 +0200" stop="20250104120000 +0200" channel="trtspor.tr">
-    <title>Avrupa Stüdyosu</title>
-  </programme>
-  <programme start="20250104120000 +0200" stop="20250104133000 +0200" channel="trtspor.tr">
-    <title>Yüz Yüze Futbol</title>
-  </programme>
-  <programme start="20250104133000 +0200" stop="20250104153000 +0200" channel="trtspor.tr">
-    <title>Trendyol 1. Lig Futbol Karşılaşması 18. Haftaşanlıurfaspor - Çorum Fk</title>
-  </programme>
-  <programme start="20250104153000 +0200" stop="20250104160000 +0200" channel="trtspor.tr">
-    <title>Spor Bülteni</title>
-  </programme>
-  <programme start="20250104160000 +0200" stop="20250104180000 +0200" channel="trtspor.tr">
-    <title>Trendyol 1. Lig Futbol Karşılaşması 18. Haftamke Ankaragücü  - Keçiörengücü</title>
-  </programme>
-  <programme start="20250104180000 +0200" stop="20250104190000 +0200" channel="trtspor.tr">
-    <title>Spor Haftasonu</title>
-  </programme>
-  <programme start="20250104190000 +0200" stop="20250104194500 +0200" channel="trtspor.tr">
-    <title>Trendyol 1. Lig Futbol Karşılaşması 18. Haftasolwıe Energy Fatih Karagümrük - Siltaş Yapı Pendikspor Futbol A.ş.</title>
-  </programme>
-  <programme start="20250104194500 +0200" stop="20250104200000 +0200" channel="trtspor.tr">
-    <title>Teknik Analiz</title>
-  </programme>
-  <programme start="20250104200000 +0200" stop="20250104210000 +0200" channel="trtspor.tr">
-    <title>Trendyol 1. Lig Futbol Karşılaşması 18. Haftasolwıe Energy Fatih Karagümrük - Siltaş Yapı Pendikspor Futbol A.ş.</title>
-  </programme>
-  <programme start="20250104210000 +0200" stop="20250104231500 +0200" channel="trtspor.tr">
-    <title>Stadyum</title>
-  </programme>
-  <programme start="20250104231500 +0200" stop="20250105010000 +0200" channel="trtspor.tr">
-    <title>Teknik Analiz</title>
-  </programme>
-  <programme start="20250104123000 +0200" stop="20250105000000 +0200" channel="trtspor.tr">
-    <title>Spor Bülteni</title>
-  </programme>
-  <programme start="20250104010000 +0200" stop="20250104053000 +0200" channel="trtspor.tr">
-    <title lang="tr">Spor Artı</title>
-  </programme>
-  <programme start="20250104053000 +0200" stop="20250104060000 +0200" channel="trtspor.tr">
-    <title lang="tr">Trendyol Süper Lig Dev Maçlar</title>
-  </programme>
-  <programme start="20250104060000 +0200" stop="20250104063000 +0200" channel="trtspor.tr">
-    <title lang="tr">Fenerbahçe UEFA Avrupa Ligi Tüm Özetler</title>
-  </programme>
-  <programme start="20250104063000 +0200" stop="20250104085500 +0200" channel="trtspor.tr">
-    <title lang="tr">Galatasaray UEFA Avrupa Ligi Tüm Özetler</title>
-  </programme>
-  <programme start="20250104085500 +0200" stop="20250104091500 +0200" channel="trtspor.tr">
     <title lang="tr">Spor Takvimi</title>
   </programme>
-  <programme start="20250104091500 +0200" stop="20250104094500 +0200" channel="trtspor.tr">
-    <title lang="tr">Trendyol Süper Lig Dev Maçlar</title>
+  <programme start="20250103090000 +0200" stop="20250103091500 +0200" channel="trtspor.tr">
+    <title lang="tr">İşitme Engelliler Spor Bülteni</title>
   </programme>
-  <programme start="20250104094500 +0200" stop="20250104140000 +0200" channel="trtspor.tr">
-    <title lang="tr">PSG Şampiyonlar Ligi Karnesi</title>
+  <programme start="20250103091500 +0200" stop="20250103093000 +0200" channel="trtspor.tr">
+    <title lang="tr">Liverpool Şampiyonlar Ligi Karnesi</title>
   </programme>
-  <programme start="20250104140000 +0200" stop="20250104173000 +0200" channel="trtspor.tr">
+  <programme start="20250103093000 +0200" stop="20250103094500 +0200" channel="trtspor.tr">
+    <title lang="tr">Barcelona Şampiyonlar Ligi Karnesi</title>
+  </programme>
+  <programme start="20250103094500 +0200" stop="20250103100000 +0200" channel="trtspor.tr">
+    <title lang="tr">Şampiyonlar Ligi En Güzel Goller</title>
+  </programme>
+  <programme start="20250103100000 +0200" stop="20250103110000 +0200" channel="trtspor.tr">
+    <title lang="tr">Spor Bülteni</title>
+  </programme>
+  <programme start="20250103110000 +0200" stop="20250103120000 +0200" channel="trtspor.tr">
+    <title lang="tr">Spor Manşet</title>
+  </programme>
+  <programme start="20250103120000 +0200" stop="20250103130000 +0200" channel="trtspor.tr">
+    <title lang="tr">Gün Ortası</title>
+  </programme>
+  <programme start="20250103130000 +0200" stop="20250103140000 +0200" channel="trtspor.tr">
+    <title lang="tr">Muhabir Saati</title>
+  </programme>
+  <programme start="20250103140000 +0200" stop="20250103153000 +0200" channel="trtspor.tr">
     <title lang="tr">Spor Stüdyosu</title>
   </programme>
-  <programme start="20250104173000 +0200" stop="20250104220000 +0200" channel="trtspor.tr">
+  <programme start="20250103153000 +0200" stop="20250103160000 +0200" channel="trtspor.tr">
+    <title lang="tr">Deplasman Lezzetleri</title>
+  </programme>
+  <programme start="20250103160000 +0200" stop="20250103173000 +0200" channel="trtspor.tr">
+    <title lang="tr">Gündem Futbol</title>
+  </programme>
+  <programme start="20250103173000 +0200" stop="20250103180000 +0200" channel="trtspor.tr">
     <title lang="tr">Dünyadan Spor</title>
   </programme>
-  <programme start="20250104220000 +0200" channel="trtspor.tr">
+  <programme start="20250103180000 +0200" stop="20250103200000 +0200" channel="trtspor.tr">
+    <title lang="tr">Spor Merkezi</title>
+  </programme>
+  <programme start="20250103200000 +0200" stop="20250103220000 +0200" channel="trtspor.tr">
+    <title lang="tr">Kocaelispor - Iğdır FK</title>
+  </programme>
+  <programme start="20250103220000 +0200" stop="20250104000000 +0200" channel="trtspor.tr">
+    <title lang="tr">Juventus - Milan</title>
+  </programme>
+  <programme start="20250104000000 +0200" stop="20250104020000 +0200" channel="trtspor.tr">
+    <title lang="tr">Aktüel Futbol</title>
+  </programme>
+  <programme start="20250104020000 +0200" stop="20250104034500 +0200" channel="trtspor.tr">
     <title lang="tr">Inter - Atalanta</title>
+  </programme>
+  <programme start="20250104034500 +0200" stop="20250104054500 +0200" channel="trtspor.tr">
+    <title lang="tr">Aktüel Futbol</title>
+  </programme>
+  <programme start="20250104054500 +0200" stop="20250104065800 +0200" channel="trtspor.tr">
+    <title lang="tr">Şampiyonlar Ligi Özetler</title>
+  </programme>
+  <programme start="20250104065800 +0200" stop="20250104070000 +0200" channel="trtspor.tr">
+    <title lang="tr">İstiklal Marşı</title>
+  </programme>
+  <programme start="20250104070000 +0200" stop="20250104085500 +0200" channel="trtspor.tr">
+    <title lang="tr">İlk Baskı</title>
+  </programme>
+  <programme start="20250104085500 +0200" stop="20250104090000 +0200" channel="trtspor.tr">
+    <title lang="tr">Spor Takvimi</title>
+  </programme>
+  <programme start="20250104090000 +0200" stop="20250104091500 +0200" channel="trtspor.tr">
+    <title lang="tr">İşitme Engelliler Spor Bülteni</title>
+  </programme>
+  <programme start="20250104091500 +0200" stop="20250104093000 +0200" channel="trtspor.tr">
+    <title lang="tr">Liverpool Şampiyonlar Ligi Karnesi</title>
+  </programme>
+  <programme start="20250104093000 +0200" stop="20250104094500 +0200" channel="trtspor.tr">
+    <title lang="tr">Barcelona Şampiyonlar Ligi Karnesi</title>
+  </programme>
+  <programme start="20250104094500 +0200" stop="20250104100000 +0200" channel="trtspor.tr">
+    <title lang="tr">Şampiyonlar Ligi En Güzel Goller</title>
+  </programme>
+  <programme start="20250104100000 +0200" stop="20250104110000 +0200" channel="trtspor.tr">
+    <title lang="tr">Spor Bülteni</title>
+  </programme>
+  <programme start="20250104110000 +0200" stop="20250104120000 +0200" channel="trtspor.tr">
+    <title lang="tr">Spor Manşet</title>
+  </programme>
+  <programme start="20250104120000 +0200" stop="20250104130000 +0200" channel="trtspor.tr">
+    <title lang="tr">Gün Ortası</title>
+  </programme>
+  <programme start="20250104130000 +0200" stop="20250104140000 +0200" channel="trtspor.tr">
+    <title lang="tr">Muhabir Saati</title>
+  </programme>
+  <programme start="20250104140000 +0200" stop="20250104153000 +0200" channel="trtspor.tr">
+    <title lang="tr">Spor Stüdyosu</title>
+  </programme>
+  <programme start="20250104153000 +0200" stop="20250104160000 +0200" channel="trtspor.tr">
+    <title lang="tr">Deplasman Lezzetleri</title>
+  </programme>
+  <programme start="20250104160000 +0200" stop="20250104173000 +0200" channel="trtspor.tr">
+    <title lang="tr">Gündem Futbol</title>
+  </programme>
+  <programme start="20250104173000 +0200" stop="20250104180000 +0200" channel="trtspor.tr">
+    <title lang="tr">Dünyadan Spor</title>
+  </programme>
+  <programme start="20250104180000 +0200" stop="20250104200000 +0200" channel="trtspor.tr">
+    <title lang="tr">Spor Merkezi</title>
+  </programme>
+  <programme start="20250104200000 +0200" stop="20250104220000 +0200" channel="trtspor.tr">
+    <title lang="tr">Kocaelispor - Iğdır FK</title>
+  </programme>
+  <programme start="20250104220000 +0200" stop="20250105000000 +0200" channel="trtspor.tr">
+    <title lang="tr">Juventus - Milan</title>
   </programme>
   <programme start="20250103020000 +0200" stop="20250103040000 +0200" channel="extremesportschannel.com">
     <title>NBA Marquee Matchup: Lakers - Hawks</title>
@@ -32670,627 +32133,6 @@
   <programme start="20250104223000 +0200" stop="20250105050000 +0200" channel="davincilearning.tv">
     <title lang="bg">"Извън шаблона" - с водещи проф. Георги Илинчев Попов и Пело Пелов (повторение)</title>
   </programme>
-  <programme start="20250103002000 +0200" stop="20250103003000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Бъгс Бъни Строители: Джуниър - (Ep. 2) Бъгс Бъни и Лола Бъни работят в строителна фирма АКМЕ, където застават начело на екип от строители. Истината обаче е,...</title>
-  </programme>
-  <programme start="20250103003000 +0200" stop="20250103005000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Бъгс Бъни Строители: Шантава Луна - (Ep. 3) Бъгс Бъни и Лола Бъни работят в строителна фирма АКМЕ, където застават начело на екип от строители. Истината обаче е,...</title>
-  </programme>
-  <programme start="20250103005000 +0200" stop="20250103010000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Специална доставка - (Ep. 2) Мисис Уикет заръчва на Бийн да приеме доставката на един фотьойл. Той се дегизира като нея, защото доставчикът Браян би...</title>
-  </programme>
-  <programme start="20250103010000 +0200" stop="20250103011500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Кучешки живот - (Ep. 3) Мистър Бийн разхожда в парка кучето на Ирма и попада на професионалист, който прави същото срещу заплащане. Още същата...</title>
-  </programme>
-  <programme start="20250103011500 +0200" stop="20250103012500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Голяма воня - (Ep. 4) Мистър Бийн затъва с колата си в гъста кал и отчаяно се опитва да измъкне себе си и нея чисти.Actors: Rowan Atkinson....</title>
-  </programme>
-  <programme start="20250103012500 +0200" stop="20250103014000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Тревожен рожден ден - (Ep. 5) Мистър Бийн неволно изпраща смешна картичка за рождения ден на Ирма и трябва да попречи тя да бъде доставена.Actors:...</title>
-  </programme>
-  <programme start="20250103014000 +0200" stop="20250103015500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шап-Шап и шапчовците: Ама че смрад - (Ep. 32) Шеп е много развълнуван, защото предстои да разцъфне рядко, но много смрадливо цвете. Той обаче е обещал на Шап-Шап да...</title>
-  </programme>
-  <programme start="20250103015500 +0200" stop="20250103021000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шап-Шап и шапчовците: Компост за вкъщи - (Ep. 33) Когато Шап-Шап, Шеп и Лилит си взимат храна у дома, решават, че са направили страхотно откритие - компост за вкъщи! Те...</title>
-  </programme>
-  <programme start="20250103021000 +0200" stop="20250103024000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шап-Шап и шапчовците: Приятели на гората - (Ep. 35) Докато се наслаждават на най-дългия летен ден, Шап-Шап, Шеп и Лилит забелязват, че гората е започнала да изсъхва....</title>
-  </programme>
-  <programme start="20250103024000 +0200" stop="20250103024500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Леминги от желе - (Ep. 54) Лемингите провалят хапването на Гризи и той ги прогонва от къщурката. Попадат на пикник, където един от тях отскача от...</title>
-  </programme>
-  <programme start="20250103024500 +0200" stop="20250103025500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Леминги с копия - (Ep. 55) Лемингите се състезават в хвърляне на дънери. Гризи ги прекъсва и запраща надалеч, върху древна келтска земя. Намират...</title>
-  </programme>
-  <programme start="20250103025500 +0200" stop="20250103030000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Франкен-Гризи - (Ep. 56) Гризи и лемингите се карат за дистанционното. Гризи се качва на върха на кулата. В тайна стая светкавица осветява...</title>
-  </programme>
-  <programme start="20250103030000 +0200" stop="20250103031500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Леминги върху платно - (Ep. 57) Лемингите рисуват свои портрети в замъка и ги редят до тези на благородниците. Гризи също иска портрет и отмъква...</title>
-  </programme>
-  <programme start="20250103031500 +0200" stop="20250103032000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Музикални разногласия - (Ep. 58) Лемингите скачат върху гайди като от трамплин. Гризи запраща гайдите далеч. Гризачите ги намират на загадъчен остров с...</title>
-  </programme>
-  <programme start="20250103032000 +0200" stop="20250103032500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Мечка сред овце - (Ep. 59) Мечо прекъсва родеото на лемингите. Ядосани, го затварят в тъмницата на замъка. Там той намира вълшебна овчарска гега,...</title>
-  </programme>
-  <programme start="20250103032500 +0200" stop="20250103033500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Свят от желе - (Ep. 60) Гризи се кара с лемингите за торта и ги изолира в тъмницата. Там те намират тайна стая. Активират уред и превръщат...</title>
-  </programme>
-  <programme start="20250103033500 +0200" stop="20250103034500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Овце - домашни любимци - (Ep. 61) Лемингите се маскират и си правят снимки с овца извън замъка. Овцата усеща аромата на бисквитите на Гризи и отива при...</title>
-  </programme>
-  <programme start="20250103034500 +0200" stop="20250103035500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Търси се мечо - (Ep. 2) Докато обикаля из супермаркета, Бийн установява, че Мечо е отвлечен. Той издирва похитителите и се оказва, че Мечо не е...</title>
-  </programme>
-  <programme start="20250103035500 +0200" stop="20250103041500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Забранено за паркиране - (Ep. 3) Мистър Бийн и Мечо отиват на кино, за да гледат любимия филм на Бийн - "Титаник". Трябва само да паркира колата. При...</title>
-  </programme>
-  <programme start="20250103041500 +0200" stop="20250103042500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Изкусен Бий - (Ep. 5) В света на изкуството може да се изкарат лесни пари и Бийн е решен да го направи.Actors: Rowan Atkinson. Director:...</title>
-  </programme>
-  <programme start="20250103042500 +0200" stop="20250103044000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Мухата - (Ep. 6) Когато Бийн види муха в стаята си, започва война. Трябват му оръжия. Спрей? Списание? Това е само началото. В...</title>
-  </programme>
-  <programme start="20250103044000 +0200" stop="20250103045500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шап-Шап и шапчовците: Затънали в калта - (Ep. 2) Когато Мик и Миц съсипват тунела-изненада, над който Шап-Шап се труди от много време, той си пожелава и техния ден да...</title>
-  </programme>
-  <programme start="20250103045500 +0200" stop="20250103051000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шап-Шап и шапчовците: Връщането на яйцето у дома - (Ep. 3) Когато едно яйце се дотъркулва в езерото, Шап-Шап и приятелите му се отправят на мисия да го върнат обратно на...</title>
-  </programme>
-  <programme start="20250103051000 +0200" stop="20250103052000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шап-Шап и шапчовците: Лети, Чейс, лети - (Ep. 4) Шеп е разочарован, че Шап-Шап и Лилит са твърде заети да летят с листа, за да играят с него на мъх-боулинг, затова...</title>
-  </programme>
-  <programme start="20250103052000 +0200" stop="20250103053500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шап-Шап и шапчовците: О, мили компост - (Ep. 5) След като Шапи-Суши счупва любимата си лъжица за готвене, той заявява, че неговите кулинарни дни са приключили. Затова...</title>
-  </programme>
-  <programme start="20250103053500 +0200" stop="20250103054500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шап-Шап и шапчовците: Охлюви завинаги - (Ep. 6) Шеп иска да върне услуга на Шап-Шап, а всичко, което Шап-Шап иска, е да хапне палачинка с компост в Деня на...</title>
-  </programme>
-  <programme start="20250103054500 +0200" stop="20250103055000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Запознайте се с Batwheels!: Интервю със супер герой - (Ep. 11) Батман споделя за страхотните функции на Батмобила в интервю за поредица за автомобили в Готъм, които показват...</title>
-  </programme>
-  <programme start="20250103055000 +0200" stop="20250103060500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Дороти и вълшебникът от ОЗ: Пазителите на замъка - (Ep. 22) Дороти, Озма и Глинда отиват на Вещерския базар, а Вилхелмина изпраща маймуните да откраднат Великата книга на Оз, за...</title>
-  </programme>
-  <programme start="20250103060500 +0200" stop="20250103061500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Дороти и вълшебникът от ОЗ: Залепен за теб - (Ep. 23) Дороти подарява на Озма вълшебен медальон на приятелството и тя веднага си го слага. Това, което не знаят е, че когато...</title>
-  </programme>
-  <programme start="20250103061500 +0200" stop="20250103063000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Дороти и вълшебникът от ОЗ: Семейни проблеми - (Ep. 24) Денят на семейството е, но Уузи няма такова. Дороти и приятелите ? се опитват да открият семейството му, но не успяват...</title>
-  </programme>
-  <programme start="20250103063000 +0200" stop="20250103064000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Дороти и вълшебникът от ОЗ: Изумрудът на Зог - (Ep. 25) Дороти и приятели търсят изумруд за скиптъра на Озма, но са пленени от Зог - чудовище, което ги води в подводното си...</title>
-  </programme>
-  <programme start="20250103064000 +0200" stop="20250103070000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Дороти и вълшебникът от ОЗ: Готвене с магия - (Ep. 26) Дороти трябва да изпече достатъчно бисквитки за цял Оз. За да изпълни мисията, тя използва вълшебен тиган, който кара...</title>
-  </programme>
-  <programme start="20250103070000 +0200" stop="20250103071000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Ценни уроци - (Ep. 34) Мистър Бийн помага на мисис Уикет да си събере парите, след като става свидетел на обир. Изведнъж, обаче, се появява...</title>
-  </programme>
-  <programme start="20250103071000 +0200" stop="20250103072500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Хелоуин - (Ep. 35) Бийн обожава Хелоуин и подготвя номера и лакомства за децата в квартала, но се увлича и става жертва на пакостите на...</title>
-  </programme>
-  <programme start="20250103072500 +0200" stop="20250103074000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Бийн боядисва - (Ep. 36) Мистър Бийн рисува Мечо, но по погрешка пръска зелена боя на кафявия тапет. О, не! Бийн трябва да подреди стаята си,...</title>
-  </programme>
-  <programme start="20250103074000 +0200" stop="20250103075500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Борецът Бийн - (Ep. 37) Бийн не харесва борбата, но спазва обещанието си и води мисис Уикет и приятеля ? на мач в града. Бийн се губи и по...</title>
-  </programme>
-  <programme start="20250103075500 +0200" stop="20250103080000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Къщичката на Луната - (Ep. 13) Лемигите активират космическо явление и Луната пада, неутрализирайки гравитацията. Сега, необезпокоявани от Гризи,...</title>
-  </programme>
-  <programme start="20250103080000 +0200" stop="20250103081000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Академия "Гризи" - (Ep. 14) Гризи кара лемингите да подражават на дисциплинираните пингвини в негово присъствие, да не го безпокоят, но забравя,...</title>
-  </programme>
-  <programme start="20250103081000 +0200" stop="20250103081500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Заслужено - (Ep. 15) След инцидент с Дядо Коледа, лемингите се сдобиват с вълшебната му торба. Тя възнаграждава тези, чиито желания са...</title>
-  </programme>
-  <programme start="20250103081500 +0200" stop="20250103082500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Програма по заявка - (Ep. 16) Гризи и лемингите се карат какво да гледат по телевизията. Гризи конфискува дистанционното, но те намират друго. То...</title>
-  </programme>
-  <programme start="20250103082500 +0200" stop="20250103083500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Мразовита чаша - (Ep. 17) Лемингите се състезават с шейни и печелят всеки път. Гризи решава също да се включи. Дронове прожектират холографски...</title>
-  </programme>
-  <programme start="20250103083500 +0200" stop="20250103084000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Шоко-ледено сорбе - (Ep. 18) Лемингите правят ледено сорбе, но е безвкусно. Гризи също - в буркан от шоколад, вкусотия! Лемингите го сменят с...</title>
-  </programme>
-  <programme start="20250103084000 +0200" stop="20250103084500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Бързо хапване - (Ep. 19) Гризи и лемингите са много гладни. Камион докарва хранителни кубчета в изследователската станция, които се превръщат...</title>
-  </programme>
-  <programme start="20250103084500 +0200" stop="20250103090000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Дигитално опитомяване - (Ep. 20) Лемингите търсят виртуални животни в къщичката за играта си. Гризи ядосан ги изгонва. Те му извъртат номер, но след...</title>
-  </programme>
-  <programme start="20250103090000 +0200" stop="20250103091000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Batwheels: Големият ТИР, Бам - (Ep. 6) Бам се учи да се адаптира и да опитва нови неща, тъй като има задачата да закара Големия ТИР до Стар Сити, докато...</title>
-  </programme>
-  <programme start="20250103091000 +0200" stop="20250103092500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Batwheels: Покажи, не говори! - (Ep. 7) Батуинг и Голди тайно участват в Аерошоуто на Готъм, но Батман има нужда от тях и те трябва да избират между...</title>
-  </programme>
-  <programme start="20250103092500 +0200" stop="20250103093500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Бъгс Бъни Строители: Настинка - (Ep. 7) Шантавите строители са назначени от кмета Легхорн, за да построят кино в парка Шантавел. Лола не се чувства добре, но...</title>
-  </programme>
-  <programme start="20250103093500 +0200" stop="20250103095500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Бъгс Бъни Строители: Дъждовен ден - (Ep. 8) Навън започва да вали и Порки се опитва да покаже на Шантавите строители, че могат да се забавляват и вътре, като...</title>
-  </programme>
-  <programme start="20250103095500 +0200" stop="20250103100000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Пиратът Лукас - (Ep. 77) Лукас и Финдли поемат на дълъг път, за да открият едно истинско съкровище - играчката на Авокадо!Actors: Lucas Slice....</title>
-  </programme>
-  <programme start="20250103100000 +0200" stop="20250103100500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Ох, че п?ри! - (Ep. 1)Actors: Simon Webster, Evie Loiselle, Mckenzie Cornelius. Director: Paul Brown. 5 mins, 0+ (2021) (HD)</title>
-  </programme>
-  <programme start="20250103100500 +0200" stop="20250103101000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Голямото пискане - (Ep. 2)Actors: Simon Webster, Evie Loiselle, Mckenzie Cornelius. Director: Paul Brown. 5 mins, 0+ (2021) (HD)</title>
-  </programme>
-  <programme start="20250103101000 +0200" stop="20250103102000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Голям скачащ паяк - (Ep. 3)Actors: Simon Webster, Evie Loiselle, Mckenzie Cornelius. Director: Paul Brown. 10 mins, 0+ (2021) (HD)</title>
-  </programme>
-  <programme start="20250103102000 +0200" stop="20250103103000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Призрачен лагер - (Ep. 4)Actors: Simon Webster, Evie Loiselle, Mckenzie Cornelius. Director: Paul Brown. 10 mins, 0+ (2021) (HD)</title>
-  </programme>
-  <programme start="20250103103000 +0200" stop="20250103103500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Мечешки отпечатъци - (Ep. 47) Гризи с радост открива, че може да разпечатва изображения, заснети с фотоапарата на рейнджъра, свързан към модерен...</title>
-  </programme>
-  <programme start="20250103103500 +0200" stop="20250103104500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Инспектор Гризи - (Ep. 48) Пред къщичката на рейнджъра спира микробусче, което доставя сандъче с бурканчета течен шоколад. Докато Гризи и...</title>
-  </programme>
-  <programme start="20250103104500 +0200" stop="20250103105500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Влизането забранено! - (Ep. 49) Както обикновено, Гризи се опитва да отвори вратата на дървената къщичка на рейнджъра, за да се настани комфортно...</title>
-  </programme>
-  <programme start="20250103105500 +0200" stop="20250103110000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Лемингови стомашни проблеми - (Ep. 50) Лемингите са се сдобили с пакет бял боб със странни свойства: ако човек смеси боба със сода и го изяде, се превръща в...</title>
-  </programme>
-  <programme start="20250103110000 +0200" stop="20250103110500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Мечешка мажорна соната - (Ep. 51) Гризи иска да се отърве от старото пиано на всяка цена, но когато забелязва, че любимата му мецана харесва мелодията...</title>
-  </programme>
-  <programme start="20250103110500 +0200" stop="20250103111500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Мечешки фракции - (Ep. 52) Лемингите се сдобиват със сандъче, изпаднало от конвой на канадската армия. Вътре откриват кутия, от която излиза...</title>
-  </programme>
-  <programme start="20250103111500 +0200" stop="20250103112500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Мечката, снасяща златни яйца - (Ep. 53) Край супермаркета има апарат, от който при поставяне на монета изкачат яйца-изненада. Измежду различните подаръчета в...</title>
-  </programme>
-  <programme start="20250103112500 +0200" stop="20250103113000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Скоростен обучителен курс - (Ep. 54) В дома на рейнджъра Гризи намира високотехнологично устройство, с което е възможно да научиш всичко само за няколко...</title>
-  </programme>
-  <programme start="20250103113000 +0200" stop="20250103113500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Доколкото един мечок си спомня - (Ep. 55) Стара метална кутия, която Гризи и лемингите случайно откриват в пукнатина между скалите, събужда спомени от...</title>
-  </programme>
-  <programme start="20250103113500 +0200" stop="20250103114500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Химически леминги - (Ep. 56) Как би могъл някой да гледа спокойно и релаксиращо документален филм за сьомга, когато лемингите са се заели да се...</title>
-  </programme>
-  <programme start="20250103114500 +0200" stop="20250103115500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Дистанционно управление - (Ep. 57) Миеща мечка надушвачActors: Pierre-Alain de Garrigues, Josselin Charier. Director: Victor Moulin. 10 mins, 0+ (2016)...</title>
-  </programme>
-  <programme start="20250103115500 +0200" stop="20250103120000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Мечокът и пеперудата - (Ep. 58) Гризи си е твърдо наумил да подари пеперуда на любимата си мецана, но лемингите започват да се припират с него за това...</title>
-  </programme>
-  <programme start="20250103120000 +0200" stop="20250103120500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Махни се от тенис обувките ми - (Ep. 59) Лемингите откриват нова игра, към която човек се пристрастява твърде бързо, в която основна роля имат новите маратонки...</title>
-  </programme>
-  <programme start="20250103120500 +0200" stop="20250103121500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Гледач на бебета - (Ep. 60) Гризи се грижи за бебето на любимата си мецана и няма намерение да допуска грешки, затова не поема никакви рискове, но...</title>
-  </programme>
-  <programme start="20250103121500 +0200" stop="20250103122500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Диви мутации - (Ep. 11) Гризи прогонва лемингите от къщичката. Те намират вълшебен диск, причиняващ мутации на части на което и да е животно....</title>
-  </programme>
-  <programme start="20250103122500 +0200" stop="20250103123000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: По всякакъв начин - (Ep. 12) Гризи и лемингите по погрешка изстрелват буркана с течен шоколад в джунглата. Там, лемингите намират вълшебна гривна,...</title>
-  </programme>
-  <programme start="20250103123000 +0200" stop="20250103123500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Къщичката на Луната - (Ep. 13) Лемигите активират космическо явление и Луната пада, неутрализирайки гравитацията. Сега, необезпокоявани от Гризи,...</title>
-  </programme>
-  <programme start="20250103123500 +0200" stop="20250103125000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Академия "Гризи" - (Ep. 14) Гризи кара лемингите да подражават на дисциплинираните пингвини в негово присъствие, да не го безпокоят, но забравя,...</title>
-  </programme>
-  <programme start="20250103125000 +0200" stop="20250103125500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Програма по заявка - (Ep. 16) Гризи и лемингите се карат какво да гледат по телевизията. Гризи конфискува дистанционното, но те намират друго. То...</title>
-  </programme>
-  <programme start="20250103125500 +0200" stop="20250103130000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Мразовита чаша - (Ep. 17) Лемингите се състезават с шейни и печелят всеки път. Гризи решава също да се включи. Дронове прожектират холографски...</title>
-  </programme>
-  <programme start="20250103130000 +0200" stop="20250103131000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Шоко-ледено сорбе - (Ep. 18) Лемингите правят ледено сорбе, но е безвкусно. Гризи също - в буркан от шоколад, вкусотия! Лемингите го сменят с...</title>
-  </programme>
-  <programme start="20250103131000 +0200" stop="20250103131500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Бързо хапване - (Ep. 19) Гризи и лемингите са много гладни. Камион докарва хранителни кубчета в изследователската станция, които се превръщат...</title>
-  </programme>
-  <programme start="20250103131500 +0200" stop="20250103133000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Дигитално опитомяване - (Ep. 20) Лемингите търсят виртуални животни в къщичката за играта си. Гризи ядосан ги изгонва. Те му извъртат номер, но след...</title>
-  </programme>
-  <programme start="20250103133000 +0200" stop="20250103134000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Batwheels: Найтбайк - (Ep. 1) Биби има конкуренция с мотоциклета на Найтуинг - Найтбайк. Тези каскадьорски мотори ще трябва да научат, че са...</title>
-  </programme>
-  <programme start="20250103134000 +0200" stop="20250103135500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Batwheels: Победа за Бат сигнала - (Ep. 2) Патето и Куиз открадват Бат-Сигнала, затова Бам и Батуинг трябва да възстановят легендарната светлина, за да знае...</title>
-  </programme>
-  <programme start="20250103135500 +0200" stop="20250103140500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Къща с духове - (Ep. 11) Мистър Бийн трябва да прибере футболна топка от една призрачна къща… и да се измъкне оттам жив.Actors: Rowan...</title>
-  </programme>
-  <programme start="20250103140500 +0200" stop="20250103142000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Парфюм дьо Бийн - (Ep. 12) Мистър Бийн случайно създава прекрасен нов парфюм, но кой го харесва повече - Мисис Уикет или Скрапър?Actors: Rowan...</title>
-  </programme>
-  <programme start="20250103142000 +0200" stop="20250103143000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Без бензин - (Ep. 13) Мистър Бийн потегля към морето, но му свършва бензинът. Услужливи хора го бутат, но по някаква причина не искат да го...</title>
-  </programme>
-  <programme start="20250103143000 +0200" stop="20250103144000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Насекомите на Бийн - (Ep. 14) Бийн хваща бълхи от Скрапър и организира дезинфекция. Почистването ще отнеме 24 часа и той моли мисис Уикет да остане...</title>
-  </programme>
-  <programme start="20250103144000 +0200" stop="20250103150000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Кафеен Бийн - (Ep. 15) Мистър Бийн е на пазар, когато започва да вали. Той се скрива в кафене, където е очарован от кафе машините и парите,...</title>
-  </programme>
-  <programme start="20250103150000 +0200" stop="20250103151000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Малките шантави рисунки - (Ep. 11) Преди да се превърнат в големите звезди от "Шантави рисунки", те са били "Малките шантави рисунки"! Два пъти по-малки...</title>
-  </programme>
-  <programme start="20250103151000 +0200" stop="20250103152000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Малките шантави рисунки - (Ep. 12) Преди да се превърнат в големите звезди от "Шантави рисунки", те са били "Малките шантави рисунки"! Два пъти по-малки...</title>
-  </programme>
-  <programme start="20250103152000 +0200" stop="20250103153000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Бъгс Бъни Строители: Каските: Лунна Нова Година - (Ep. 3) Екипът посреща лунната нова година, а Бъгс и Лола изчезват по време на танца на лъва.10 mins, 0+ (2023) (HD)</title>
-  </programme>
-  <programme start="20250103153000 +0200" stop="20250103154000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Бъгс Бъни Строители: Игра с кран - (Ep. 39) Шантавите строители построяват гигантска игра с щипки за Чиби Критър в Япония, но осъзнават, че щипката е счупена.10...</title>
-  </programme>
-  <programme start="20250103154000 +0200" stop="20250103155000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Бъгс Бъни Строители: Спийди - (Ep. 40) Шантавите строители бързат, за да построят футболен стадион в Мексико за най-бързия им клиент - Спийди Гонзалес.10...</title>
-  </programme>
-  <programme start="20250103155000 +0200" stop="20250103160000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Лу и мъничетата: миниепизоди: Да поговорим за даването на време - (Ep. 18) Мъничетата говорят за това да си дават време.10 mins, (2023) (HD)</title>
-  </programme>
-  <programme start="20250103160000 +0200" stop="20250103161000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Batwheels: Коте на гости - (Ep. 3) Кити отсяда в Бат пещерата за нощувка, но не може да заспи, затова Batwheels търсят креативни начини да я накарат да...</title>
-  </programme>
-  <programme start="20250103161000 +0200" stop="20250103162000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Batwheels: Мисия: Плюшена играчка - (Ep. 4) Редбърд взима една от плюшените играчки на Бъф без да пита и тя случайно бива грабната от Легиона на Бръм, затова Ред...</title>
-  </programme>
-  <programme start="20250103162000 +0200" stop="20250103163000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Запознайте се с Batwheels!: Биби танцува - (Ep. 16) Биби показва на публиката интензивна тренировка, която включва скокове, въртене, и други спортни занимания!10 mins,...</title>
-  </programme>
-  <programme start="20250103163000 +0200" stop="20250103163500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Може би по-късно - (Ep. 36) Арло обича да се забавлява с много играчки, но когато дойде време за почистване - предпочита да отложи за...</title>
-  </programme>
-  <programme start="20250103163500 +0200" stop="20250103164000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Игра с облачета - (Ep. 37) Лукас, Арло и Финдли измислят игра с облачетата в небето.Actors: Lucas Slice. 5 mins, 0+ (2021) (HD)</title>
-  </programme>
-  <programme start="20250103164000 +0200" stop="20250103164500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Непослушният Арло - (Ep. 38) Арло решава да надникне в градината на съседите през много тясна дупка.Actors: Lucas Slice. 5 mins, 0+ (2021) (HD)</title>
-  </programme>
-  <programme start="20250103164500 +0200" stop="20250103170000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Бодлив приятел - (Ep. 39) Когато Арло започва да играе малко грубо, Лукас се сприятелява с един кактус.Actors: Lucas Slice. 15 mins, 0+ (2021)...</title>
-  </programme>
-  <programme start="20250103170000 +0200" stop="20250103170500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шоуто на Том и Джери - (Ep. 46) Враждуващите котарак и мишок отново се вихрят в лудории. Проследи гонитбите им из нови места като вещерска хижа, или...</title>
-  </programme>
-  <programme start="20250103170500 +0200" stop="20250103171000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шоуто на Том и Джери: Нападението на мумията - (Ep. 47) Том не приема на сериозно мумия в замък, обитаван от духове, но се оказва, че не може да избяга от нея.Director:...</title>
-  </programme>
-  <programme start="20250103171000 +0200" stop="20250104002000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шоуто на Том и Джери: Парфюмено парти - (Ep. 48) Том и Джери се опитват да създадат идеалния парфюм за Тудълс, но предизвикват буря от парфюмни облаци.Director:...</title>
-  </programme>
-  <programme start="20250104002000 +0200" stop="20250104003000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Бъгс Бъни Строители: Джуниър - (Ep. 2) Бъгс Бъни и Лола Бъни работят в строителна фирма АКМЕ, където застават начело на екип от строители. Истината обаче е,...</title>
-  </programme>
-  <programme start="20250104003000 +0200" stop="20250104005000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Бъгс Бъни Строители: Шантава Луна - (Ep. 3) Бъгс Бъни и Лола Бъни работят в строителна фирма АКМЕ, където застават начело на екип от строители. Истината обаче е,...</title>
-  </programme>
-  <programme start="20250104005000 +0200" stop="20250104010000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Специална доставка - (Ep. 2) Мисис Уикет заръчва на Бийн да приеме доставката на един фотьойл. Той се дегизира като нея, защото доставчикът Браян би...</title>
-  </programme>
-  <programme start="20250104010000 +0200" stop="20250104011500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Кучешки живот - (Ep. 3) Мистър Бийн разхожда в парка кучето на Ирма и попада на професионалист, който прави същото срещу заплащане. Още същата...</title>
-  </programme>
-  <programme start="20250104011500 +0200" stop="20250104012500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Голяма воня - (Ep. 4) Мистър Бийн затъва с колата си в гъста кал и отчаяно се опитва да измъкне себе си и нея чисти.Actors: Rowan Atkinson....</title>
-  </programme>
-  <programme start="20250104012500 +0200" stop="20250104014000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Тревожен рожден ден - (Ep. 5) Мистър Бийн неволно изпраща смешна картичка за рождения ден на Ирма и трябва да попречи тя да бъде доставена.Actors:...</title>
-  </programme>
-  <programme start="20250104014000 +0200" stop="20250104015500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шап-Шап и шапчовците: Ама че смрад - (Ep. 32) Шеп е много развълнуван, защото предстои да разцъфне рядко, но много смрадливо цвете. Той обаче е обещал на Шап-Шап да...</title>
-  </programme>
-  <programme start="20250104015500 +0200" stop="20250104021000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шап-Шап и шапчовците: Компост за вкъщи - (Ep. 33) Когато Шап-Шап, Шеп и Лилит си взимат храна у дома, решават, че са направили страхотно откритие - компост за вкъщи! Те...</title>
-  </programme>
-  <programme start="20250104021000 +0200" stop="20250104024000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шап-Шап и шапчовците: Приятели на гората - (Ep. 35) Докато се наслаждават на най-дългия летен ден, Шап-Шап, Шеп и Лилит забелязват, че гората е започнала да изсъхва....</title>
-  </programme>
-  <programme start="20250104024000 +0200" stop="20250104024500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Леминги от желе - (Ep. 54) Лемингите провалят хапването на Гризи и той ги прогонва от къщурката. Попадат на пикник, където един от тях отскача от...</title>
-  </programme>
-  <programme start="20250104024500 +0200" stop="20250104025500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Леминги с копия - (Ep. 55) Лемингите се състезават в хвърляне на дънери. Гризи ги прекъсва и запраща надалеч, върху древна келтска земя. Намират...</title>
-  </programme>
-  <programme start="20250104025500 +0200" stop="20250104030000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Франкен-Гризи - (Ep. 56) Гризи и лемингите се карат за дистанционното. Гризи се качва на върха на кулата. В тайна стая светкавица осветява...</title>
-  </programme>
-  <programme start="20250104030000 +0200" stop="20250104031500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Леминги върху платно - (Ep. 57) Лемингите рисуват свои портрети в замъка и ги редят до тези на благородниците. Гризи също иска портрет и отмъква...</title>
-  </programme>
-  <programme start="20250104031500 +0200" stop="20250104032000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Музикални разногласия - (Ep. 58) Лемингите скачат върху гайди като от трамплин. Гризи запраща гайдите далеч. Гризачите ги намират на загадъчен остров с...</title>
-  </programme>
-  <programme start="20250104032000 +0200" stop="20250104032500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Мечка сред овце - (Ep. 59) Мечо прекъсва родеото на лемингите. Ядосани, го затварят в тъмницата на замъка. Там той намира вълшебна овчарска гега,...</title>
-  </programme>
-  <programme start="20250104032500 +0200" stop="20250104033500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Свят от желе - (Ep. 60) Гризи се кара с лемингите за торта и ги изолира в тъмницата. Там те намират тайна стая. Активират уред и превръщат...</title>
-  </programme>
-  <programme start="20250104033500 +0200" stop="20250104034500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Овце - домашни любимци - (Ep. 61) Лемингите се маскират и си правят снимки с овца извън замъка. Овцата усеща аромата на бисквитите на Гризи и отива при...</title>
-  </programme>
-  <programme start="20250104034500 +0200" stop="20250104035500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Търси се мечо - (Ep. 2) Докато обикаля из супермаркета, Бийн установява, че Мечо е отвлечен. Той издирва похитителите и се оказва, че Мечо не е...</title>
-  </programme>
-  <programme start="20250104035500 +0200" stop="20250104041500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Забранено за паркиране - (Ep. 3) Мистър Бийн и Мечо отиват на кино, за да гледат любимия филм на Бийн - "Титаник". Трябва само да паркира колата. При...</title>
-  </programme>
-  <programme start="20250104041500 +0200" stop="20250104042500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Изкусен Бий - (Ep. 5) В света на изкуството може да се изкарат лесни пари и Бийн е решен да го направи.Actors: Rowan Atkinson. Director:...</title>
-  </programme>
-  <programme start="20250104042500 +0200" stop="20250104044000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Мухата - (Ep. 6) Когато Бийн види муха в стаята си, започва война. Трябват му оръжия. Спрей? Списание? Това е само началото. В...</title>
-  </programme>
-  <programme start="20250104044000 +0200" stop="20250104045500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шап-Шап и шапчовците: Затънали в калта - (Ep. 2) Когато Мик и Миц съсипват тунела-изненада, над който Шап-Шап се труди от много време, той си пожелава и техния ден да...</title>
-  </programme>
-  <programme start="20250104045500 +0200" stop="20250104051000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шап-Шап и шапчовците: Връщането на яйцето у дома - (Ep. 3) Когато едно яйце се дотъркулва в езерото, Шап-Шап и приятелите му се отправят на мисия да го върнат обратно на...</title>
-  </programme>
-  <programme start="20250104051000 +0200" stop="20250104052000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шап-Шап и шапчовците: Лети, Чейс, лети - (Ep. 4) Шеп е разочарован, че Шап-Шап и Лилит са твърде заети да летят с листа, за да играят с него на мъх-боулинг, затова...</title>
-  </programme>
-  <programme start="20250104052000 +0200" stop="20250104053500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шап-Шап и шапчовците: О, мили компост - (Ep. 5) След като Шапи-Суши счупва любимата си лъжица за готвене, той заявява, че неговите кулинарни дни са приключили. Затова...</title>
-  </programme>
-  <programme start="20250104053500 +0200" stop="20250104054500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шап-Шап и шапчовците: Охлюви завинаги - (Ep. 6) Шеп иска да върне услуга на Шап-Шап, а всичко, което Шап-Шап иска, е да хапне палачинка с компост в Деня на...</title>
-  </programme>
-  <programme start="20250104054500 +0200" stop="20250104055000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Запознайте се с Batwheels!: Интервю със супер герой - (Ep. 11) Батман споделя за страхотните функции на Батмобила в интервю за поредица за автомобили в Готъм, които показват...</title>
-  </programme>
-  <programme start="20250104055000 +0200" stop="20250104060500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Дороти и вълшебникът от ОЗ: Пазителите на замъка - (Ep. 22) Дороти, Озма и Глинда отиват на Вещерския базар, а Вилхелмина изпраща маймуните да откраднат Великата книга на Оз, за...</title>
-  </programme>
-  <programme start="20250104060500 +0200" stop="20250104061500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Дороти и вълшебникът от ОЗ: Залепен за теб - (Ep. 23) Дороти подарява на Озма вълшебен медальон на приятелството и тя веднага си го слага. Това, което не знаят е, че когато...</title>
-  </programme>
-  <programme start="20250104061500 +0200" stop="20250104063000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Дороти и вълшебникът от ОЗ: Семейни проблеми - (Ep. 24) Денят на семейството е, но Уузи няма такова. Дороти и приятелите ? се опитват да открият семейството му, но не успяват...</title>
-  </programme>
-  <programme start="20250104063000 +0200" stop="20250104064000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Дороти и вълшебникът от ОЗ: Изумрудът на Зог - (Ep. 25) Дороти и приятели търсят изумруд за скиптъра на Озма, но са пленени от Зог - чудовище, което ги води в подводното си...</title>
-  </programme>
-  <programme start="20250104064000 +0200" stop="20250104070000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Дороти и вълшебникът от ОЗ: Готвене с магия - (Ep. 26) Дороти трябва да изпече достатъчно бисквитки за цял Оз. За да изпълни мисията, тя използва вълшебен тиган, който кара...</title>
-  </programme>
-  <programme start="20250104070000 +0200" stop="20250104071000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Ценни уроци - (Ep. 34) Мистър Бийн помага на мисис Уикет да си събере парите, след като става свидетел на обир. Изведнъж, обаче, се появява...</title>
-  </programme>
-  <programme start="20250104071000 +0200" stop="20250104072500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Хелоуин - (Ep. 35) Бийн обожава Хелоуин и подготвя номера и лакомства за децата в квартала, но се увлича и става жертва на пакостите на...</title>
-  </programme>
-  <programme start="20250104072500 +0200" stop="20250104074000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Бийн боядисва - (Ep. 36) Мистър Бийн рисува Мечо, но по погрешка пръска зелена боя на кафявия тапет. О, не! Бийн трябва да подреди стаята си,...</title>
-  </programme>
-  <programme start="20250104074000 +0200" stop="20250104075500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Борецът Бийн - (Ep. 37) Бийн не харесва борбата, но спазва обещанието си и води мисис Уикет и приятеля ? на мач в града. Бийн се губи и по...</title>
-  </programme>
-  <programme start="20250104075500 +0200" stop="20250104080000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Къщичката на Луната - (Ep. 13) Лемигите активират космическо явление и Луната пада, неутрализирайки гравитацията. Сега, необезпокоявани от Гризи,...</title>
-  </programme>
-  <programme start="20250104080000 +0200" stop="20250104081000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Академия "Гризи" - (Ep. 14) Гризи кара лемингите да подражават на дисциплинираните пингвини в негово присъствие, да не го безпокоят, но забравя,...</title>
-  </programme>
-  <programme start="20250104081000 +0200" stop="20250104081500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Заслужено - (Ep. 15) След инцидент с Дядо Коледа, лемингите се сдобиват с вълшебната му торба. Тя възнаграждава тези, чиито желания са...</title>
-  </programme>
-  <programme start="20250104081500 +0200" stop="20250104082500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Програма по заявка - (Ep. 16) Гризи и лемингите се карат какво да гледат по телевизията. Гризи конфискува дистанционното, но те намират друго. То...</title>
-  </programme>
-  <programme start="20250104082500 +0200" stop="20250104083500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Мразовита чаша - (Ep. 17) Лемингите се състезават с шейни и печелят всеки път. Гризи решава също да се включи. Дронове прожектират холографски...</title>
-  </programme>
-  <programme start="20250104083500 +0200" stop="20250104084000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Шоко-ледено сорбе - (Ep. 18) Лемингите правят ледено сорбе, но е безвкусно. Гризи също - в буркан от шоколад, вкусотия! Лемингите го сменят с...</title>
-  </programme>
-  <programme start="20250104084000 +0200" stop="20250104084500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Бързо хапване - (Ep. 19) Гризи и лемингите са много гладни. Камион докарва хранителни кубчета в изследователската станция, които се превръщат...</title>
-  </programme>
-  <programme start="20250104084500 +0200" stop="20250104090000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Дигитално опитомяване - (Ep. 20) Лемингите търсят виртуални животни в къщичката за играта си. Гризи ядосан ги изгонва. Те му извъртат номер, но след...</title>
-  </programme>
-  <programme start="20250104090000 +0200" stop="20250104091000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Batwheels: Големият ТИР, Бам - (Ep. 6) Бам се учи да се адаптира и да опитва нови неща, тъй като има задачата да закара Големия ТИР до Стар Сити, докато...</title>
-  </programme>
-  <programme start="20250104091000 +0200" stop="20250104092500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Batwheels: Покажи, не говори! - (Ep. 7) Батуинг и Голди тайно участват в Аерошоуто на Готъм, но Батман има нужда от тях и те трябва да избират между...</title>
-  </programme>
-  <programme start="20250104092500 +0200" stop="20250104093500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Бъгс Бъни Строители: Настинка - (Ep. 7) Шантавите строители са назначени от кмета Легхорн, за да построят кино в парка Шантавел. Лола не се чувства добре, но...</title>
-  </programme>
-  <programme start="20250104093500 +0200" stop="20250104095500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Бъгс Бъни Строители: Дъждовен ден - (Ep. 8) Навън започва да вали и Порки се опитва да покаже на Шантавите строители, че могат да се забавляват и вътре, като...</title>
-  </programme>
-  <programme start="20250104095500 +0200" stop="20250104100000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Пиратът Лукас - (Ep. 77) Лукас и Финдли поемат на дълъг път, за да открият едно истинско съкровище - играчката на Авокадо!Actors: Lucas Slice....</title>
-  </programme>
-  <programme start="20250104100000 +0200" stop="20250104100500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Ох, че п?ри! - (Ep. 1)Actors: Simon Webster, Evie Loiselle, Mckenzie Cornelius. Director: Paul Brown. 5 mins, 0+ (2021) (HD)</title>
-  </programme>
-  <programme start="20250104100500 +0200" stop="20250104101000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Голямото пискане - (Ep. 2)Actors: Simon Webster, Evie Loiselle, Mckenzie Cornelius. Director: Paul Brown. 5 mins, 0+ (2021) (HD)</title>
-  </programme>
-  <programme start="20250104101000 +0200" stop="20250104102000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Голям скачащ паяк - (Ep. 3)Actors: Simon Webster, Evie Loiselle, Mckenzie Cornelius. Director: Paul Brown. 10 mins, 0+ (2021) (HD)</title>
-  </programme>
-  <programme start="20250104102000 +0200" stop="20250104103000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Призрачен лагер - (Ep. 4)Actors: Simon Webster, Evie Loiselle, Mckenzie Cornelius. Director: Paul Brown. 10 mins, 0+ (2021) (HD)</title>
-  </programme>
-  <programme start="20250104103000 +0200" stop="20250104103500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Мечешки отпечатъци - (Ep. 47) Гризи с радост открива, че може да разпечатва изображения, заснети с фотоапарата на рейнджъра, свързан към модерен...</title>
-  </programme>
-  <programme start="20250104103500 +0200" stop="20250104104500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Инспектор Гризи - (Ep. 48) Пред къщичката на рейнджъра спира микробусче, което доставя сандъче с бурканчета течен шоколад. Докато Гризи и...</title>
-  </programme>
-  <programme start="20250104104500 +0200" stop="20250104105500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Влизането забранено! - (Ep. 49) Както обикновено, Гризи се опитва да отвори вратата на дървената къщичка на рейнджъра, за да се настани комфортно...</title>
-  </programme>
-  <programme start="20250104105500 +0200" stop="20250104110000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Лемингови стомашни проблеми - (Ep. 50) Лемингите са се сдобили с пакет бял боб със странни свойства: ако човек смеси боба със сода и го изяде, се превръща в...</title>
-  </programme>
-  <programme start="20250104110000 +0200" stop="20250104110500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Мечешка мажорна соната - (Ep. 51) Гризи иска да се отърве от старото пиано на всяка цена, но когато забелязва, че любимата му мецана харесва мелодията...</title>
-  </programme>
-  <programme start="20250104110500 +0200" stop="20250104111500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Мечешки фракции - (Ep. 52) Лемингите се сдобиват със сандъче, изпаднало от конвой на канадската армия. Вътре откриват кутия, от която излиза...</title>
-  </programme>
-  <programme start="20250104111500 +0200" stop="20250104112500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Мечката, снасяща златни яйца - (Ep. 53) Край супермаркета има апарат, от който при поставяне на монета изкачат яйца-изненада. Измежду различните подаръчета в...</title>
-  </programme>
-  <programme start="20250104112500 +0200" stop="20250104113000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Скоростен обучителен курс - (Ep. 54) В дома на рейнджъра Гризи намира високотехнологично устройство, с което е възможно да научиш всичко само за няколко...</title>
-  </programme>
-  <programme start="20250104113000 +0200" stop="20250104113500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Доколкото един мечок си спомня - (Ep. 55) Стара метална кутия, която Гризи и лемингите случайно откриват в пукнатина между скалите, събужда спомени от...</title>
-  </programme>
-  <programme start="20250104113500 +0200" stop="20250104114500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Химически леминги - (Ep. 56) Как би могъл някой да гледа спокойно и релаксиращо документален филм за сьомга, когато лемингите са се заели да се...</title>
-  </programme>
-  <programme start="20250104114500 +0200" stop="20250104115500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Дистанционно управление - (Ep. 57) Миеща мечка надушвачActors: Pierre-Alain de Garrigues, Josselin Charier. Director: Victor Moulin. 10 mins, 0+ (2016)...</title>
-  </programme>
-  <programme start="20250104115500 +0200" stop="20250104120000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Мечокът и пеперудата - (Ep. 58) Гризи си е твърдо наумил да подари пеперуда на любимата си мецана, но лемингите започват да се припират с него за това...</title>
-  </programme>
-  <programme start="20250104120000 +0200" stop="20250104120500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Махни се от тенис обувките ми - (Ep. 59) Лемингите откриват нова игра, към която човек се пристрастява твърде бързо, в която основна роля имат новите маратонки...</title>
-  </programme>
-  <programme start="20250104120500 +0200" stop="20250104121500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Гледач на бебета - (Ep. 60) Гризи се грижи за бебето на любимата си мецана и няма намерение да допуска грешки, затова не поема никакви рискове, но...</title>
-  </programme>
-  <programme start="20250104121500 +0200" stop="20250104122500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Диви мутации - (Ep. 11) Гризи прогонва лемингите от къщичката. Те намират вълшебен диск, причиняващ мутации на части на което и да е животно....</title>
-  </programme>
-  <programme start="20250104122500 +0200" stop="20250104123000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: По всякакъв начин - (Ep. 12) Гризи и лемингите по погрешка изстрелват буркана с течен шоколад в джунглата. Там, лемингите намират вълшебна гривна,...</title>
-  </programme>
-  <programme start="20250104123000 +0200" stop="20250104123500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Къщичката на Луната - (Ep. 13) Лемигите активират космическо явление и Луната пада, неутрализирайки гравитацията. Сега, необезпокоявани от Гризи,...</title>
-  </programme>
-  <programme start="20250104123500 +0200" stop="20250104125000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Академия "Гризи" - (Ep. 14) Гризи кара лемингите да подражават на дисциплинираните пингвини в негово присъствие, да не го безпокоят, но забравя,...</title>
-  </programme>
-  <programme start="20250104125000 +0200" stop="20250104125500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Програма по заявка - (Ep. 16) Гризи и лемингите се карат какво да гледат по телевизията. Гризи конфискува дистанционното, но те намират друго. То...</title>
-  </programme>
-  <programme start="20250104125500 +0200" stop="20250104130000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Мразовита чаша - (Ep. 17) Лемингите се състезават с шейни и печелят всеки път. Гризи решава също да се включи. Дронове прожектират холографски...</title>
-  </programme>
-  <programme start="20250104130000 +0200" stop="20250104131000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Шоко-ледено сорбе - (Ep. 18) Лемингите правят ледено сорбе, но е безвкусно. Гризи също - в буркан от шоколад, вкусотия! Лемингите го сменят с...</title>
-  </programme>
-  <programme start="20250104131000 +0200" stop="20250104131500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Бързо хапване - (Ep. 19) Гризи и лемингите са много гладни. Камион докарва хранителни кубчета в изследователската станция, които се превръщат...</title>
-  </programme>
-  <programme start="20250104131500 +0200" stop="20250104133000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Дигитално опитомяване - (Ep. 20) Лемингите търсят виртуални животни в къщичката за играта си. Гризи ядосан ги изгонва. Те му извъртат номер, но след...</title>
-  </programme>
-  <programme start="20250104133000 +0200" stop="20250104134000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Batwheels: Найтбайк - (Ep. 1) Биби има конкуренция с мотоциклета на Найтуинг - Найтбайк. Тези каскадьорски мотори ще трябва да научат, че са...</title>
-  </programme>
-  <programme start="20250104134000 +0200" stop="20250104135500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Batwheels: Победа за Бат сигнала - (Ep. 2) Патето и Куиз открадват Бат-Сигнала, затова Бам и Батуинг трябва да възстановят легендарната светлина, за да знае...</title>
-  </programme>
-  <programme start="20250104135500 +0200" stop="20250104140500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Къща с духове - (Ep. 11) Мистър Бийн трябва да прибере футболна топка от една призрачна къща… и да се измъкне оттам жив.Actors: Rowan...</title>
-  </programme>
-  <programme start="20250104140500 +0200" stop="20250104142000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Парфюм дьо Бийн - (Ep. 12) Мистър Бийн случайно създава прекрасен нов парфюм, но кой го харесва повече - Мисис Уикет или Скрапър?Actors: Rowan...</title>
-  </programme>
-  <programme start="20250104142000 +0200" stop="20250104143000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Без бензин - (Ep. 13) Мистър Бийн потегля към морето, но му свършва бензинът. Услужливи хора го бутат, но по някаква причина не искат да го...</title>
-  </programme>
-  <programme start="20250104143000 +0200" stop="20250104144000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Насекомите на Бийн - (Ep. 14) Бийн хваща бълхи от Скрапър и организира дезинфекция. Почистването ще отнеме 24 часа и той моли мисис Уикет да остане...</title>
-  </programme>
-  <programme start="20250104144000 +0200" stop="20250104150000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Кафеен Бийн - (Ep. 15) Мистър Бийн е на пазар, когато започва да вали. Той се скрива в кафене, където е очарован от кафе машините и парите,...</title>
-  </programme>
-  <programme start="20250104150000 +0200" stop="20250104151000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Малките шантави рисунки - (Ep. 11) Преди да се превърнат в големите звезди от "Шантави рисунки", те са били "Малките шантави рисунки"! Два пъти по-малки...</title>
-  </programme>
-  <programme start="20250104151000 +0200" stop="20250104152000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Малките шантави рисунки - (Ep. 12) Преди да се превърнат в големите звезди от "Шантави рисунки", те са били "Малките шантави рисунки"! Два пъти по-малки...</title>
-  </programme>
-  <programme start="20250104152000 +0200" stop="20250104153000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Бъгс Бъни Строители: Каските: Лунна Нова Година - (Ep. 3) Екипът посреща лунната нова година, а Бъгс и Лола изчезват по време на танца на лъва.10 mins, 0+ (2023) (HD)</title>
-  </programme>
-  <programme start="20250104153000 +0200" stop="20250104154000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Бъгс Бъни Строители: Игра с кран - (Ep. 39) Шантавите строители построяват гигантска игра с щипки за Чиби Критър в Япония, но осъзнават, че щипката е счупена.10...</title>
-  </programme>
-  <programme start="20250104154000 +0200" stop="20250104155000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Бъгс Бъни Строители: Спийди - (Ep. 40) Шантавите строители бързат, за да построят футболен стадион в Мексико за най-бързия им клиент - Спийди Гонзалес.10...</title>
-  </programme>
-  <programme start="20250104155000 +0200" stop="20250104160000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Лу и мъничетата: миниепизоди: Да поговорим за даването на време - (Ep. 18) Мъничетата говорят за това да си дават време.10 mins, (2023) (HD)</title>
-  </programme>
-  <programme start="20250104160000 +0200" stop="20250104161000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Batwheels: Коте на гости - (Ep. 3) Кити отсяда в Бат пещерата за нощувка, но не може да заспи, затова Batwheels търсят креативни начини да я накарат да...</title>
-  </programme>
-  <programme start="20250104161000 +0200" stop="20250104162000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Batwheels: Мисия: Плюшена играчка - (Ep. 4) Редбърд взима една от плюшените играчки на Бъф без да пита и тя случайно бива грабната от Легиона на Бръм, затова Ред...</title>
-  </programme>
-  <programme start="20250104162000 +0200" stop="20250104163000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Запознайте се с Batwheels!: Биби танцува - (Ep. 16) Биби показва на публиката интензивна тренировка, която включва скокове, въртене, и други спортни занимания!10 mins,...</title>
-  </programme>
-  <programme start="20250104163000 +0200" stop="20250104163500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Може би по-късно - (Ep. 36) Арло обича да се забавлява с много играчки, но когато дойде време за почистване - предпочита да отложи за...</title>
-  </programme>
-  <programme start="20250104163500 +0200" stop="20250104164000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Игра с облачета - (Ep. 37) Лукас, Арло и Финдли измислят игра с облачетата в небето.Actors: Lucas Slice. 5 mins, 0+ (2021) (HD)</title>
-  </programme>
-  <programme start="20250104164000 +0200" stop="20250104164500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Непослушният Арло - (Ep. 38) Арло решава да надникне в градината на съседите през много тясна дупка.Actors: Lucas Slice. 5 mins, 0+ (2021) (HD)</title>
-  </programme>
-  <programme start="20250104164500 +0200" stop="20250104170000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Паячето Лукас: Бодлив приятел - (Ep. 39) Когато Арло започва да играе малко грубо, Лукас се сприятелява с един кактус.Actors: Lucas Slice. 15 mins, 0+ (2021)...</title>
-  </programme>
-  <programme start="20250104170000 +0200" stop="20250104170500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шоуто на Том и Джери - (Ep. 46) Враждуващите котарак и мишок отново се вихрят в лудории. Проследи гонитбите им из нови места като вещерска хижа, или...</title>
-  </programme>
-  <programme start="20250104170500 +0200" stop="20250104171000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шоуто на Том и Джери: Нападението на мумията - (Ep. 47) Том не приема на сериозно мумия в замък, обитаван от духове, но се оказва, че не може да избяга от нея.Director:...</title>
-  </programme>
-  <programme start="20250104171000 +0200" stop="20250105002000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шоуто на Том и Джери: Парфюмено парти - (Ep. 48) Том и Джери се опитват да създадат идеалния парфюм за Тудълс, но предизвикват буря от парфюмни облаци.Director:...</title>
-  </programme>
-  <programme start="20250104004500 +0200" stop="20250104022000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Леглото на Бийн - (Ep. 6) Мистър Бийн счупва леглото си след като го използва за трамплин. Той отива да си купи ново, но това, което избира, е...</title>
-  </programme>
-  <programme start="20250104022000 +0200" stop="20250104073500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Шап-Шап и шапчовците: Изчезващото шапче - (Ep. 38) Шап-Шап няма търпение да покаже на всички специалните си фокуси, но Мухоморка разваля всичко, като познава...</title>
-  </programme>
-  <programme start="20250104073500 +0200" stop="20250104114000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Мистър Бийн: Супергероят Бийн - (Ep. 41) Ловък крадец предизвиква вълна от безпокойство с поредица от грабежи. След като къщата на мисис Уикет и портфейлът на...</title>
-  </programme>
-  <programme start="20250104114000 +0200" stop="20250104121000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Парти с пинята - (Ep. 70) Гризи открива пинята за рожден ден във всекидневната на рейнджъра и идеята да разбие с бейзболна бухалка скулптура от...</title>
-  </programme>
-  <programme start="20250104121000 +0200" stop="20250104122000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Чистият мечок - (Ep. 74) Гризи е твърдо решен да подари на любимата си мецана пластмасов пръстен, който смята за страшно красив.Actors:...</title>
-  </programme>
-  <programme start="20250104122000 +0200" stop="20250104124000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Заслужено - (Ep. 15) След инцидент с Дядо Коледа, лемингите се сдобиват с вълшебната му торба. Тя възнаграждава тези, чиито желания са...</title>
-  </programme>
-  <programme start="20250104124000 +0200" stop="20250104130500 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Шоко-ледено сорбе - (Ep. 18) Лемингите правят ледено сорбе, но е безвкусно. Гризи също - в буркан от шоколад, вкусотия! Лемингите го сменят с...</title>
-  </programme>
-  <programme start="20250104130500 +0200" stop="20250104132000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Звуци и видения - (Ep. 23) Лемингите намират кабина с ултравиолетови лъчи и заедно с музиката е като диско уредите им. Къс лед се отчупва, удря...</title>
-  </programme>
-  <programme start="20250104132000 +0200" channel="cartoonito.bg">
-    <title lang="bg">Гризи и лемингите: Вкусно лошо храносмилане - (Ep. 25) Контейнер с течен шоколад доплава сред леда. За първи път Гризи и лемингите няма да воюват за лакомството. Пингвини...</title>
-  </programme>
   <programme start="20250103053000 +0200" stop="20250103063000 +0200" channel="cartoonnetwork.tv">
     <title lang="bg">Документална поредица на Дискавъри (повторение)</title>
   </programme>
@@ -41418,131 +40260,53 @@
   <programme start="20250104233000 +0200" stop="20250105000000 +0200" channel="trtavaz.tr">
     <title>Doğada Türkülerle</title>
   </programme>
-  <programme start="20250103020000 +0200" stop="20250103024500 +0200" channel="nowtv.tr">
-    <title>Fatih Savaş ile Regaib Kandili Özel</title>
-  </programme>
-  <programme start="20250103024500 +0200" stop="20250103043000 +0200" channel="nowtv.tr">
-    <title>Ruhun Duymaz</title>
-  </programme>
-  <programme start="20250103043000 +0200" stop="20250103053000 +0200" channel="nowtv.tr">
-    <title>Bay Yanlış</title>
-  </programme>
-  <programme start="20250103053000 +0200" stop="20250103073000 +0200" channel="nowtv.tr">
-    <title>Şahane Hayatım</title>
-  </programme>
-  <programme start="20250103073000 +0200" stop="20250103080000 +0200" channel="nowtv.tr">
-    <title>İlk Bakış</title>
-  </programme>
-  <programme start="20250103080000 +0200" stop="20250103104500 +0200" channel="nowtv.tr">
-    <title>İlker Karagöz İle Çalar Saat</title>
-  </programme>
-  <programme start="20250103104500 +0200" stop="20250103123000 +0200" channel="nowtv.tr">
-    <title>Çağla ile Yeni Bir Gün</title>
-  </programme>
-  <programme start="20250103123000 +0200" stop="20250103133000 +0200" channel="nowtv.tr">
-    <title>Dizi</title>
-  </programme>
-  <programme start="20250103133000 +0200" stop="20250103163000 +0200" channel="nowtv.tr">
-    <title>En Hamarat Benim</title>
-  </programme>
-  <programme start="20250103163000 +0200" stop="20250103190000 +0200" channel="nowtv.tr">
-    <title>Fatih Ürek ile Gelin Görümce</title>
-  </programme>
-  <programme start="20250103190000 +0200" stop="20250103200000 +0200" channel="nowtv.tr">
-    <title>Selçuk Tepeli ile NOW Ana Haber</title>
-  </programme>
-  <programme start="20250103200000 +0200" stop="20250103214500 +0200" channel="nowtv.tr">
-    <title>Kiracı</title>
-  </programme>
-  <programme start="20250103214500 +0200" stop="20250103234500 +0200" channel="nowtv.tr">
-    <title>Leyla: Hayat, Aşk, Adalet...</title>
-  </programme>
-  <programme start="20250103234500 +0200" stop="20250104011500 +0200" channel="nowtv.tr">
-    <title>Orta Sayfa</title>
-  </programme>
-  <programme start="20250104011500 +0200" stop="20250104040000 +0200" channel="nowtv.tr">
-    <title>Şakir Paşa Ailesi</title>
-  </programme>
-  <programme start="20250104040000 +0200" stop="20250104060000 +0200" channel="nowtv.tr">
-    <title>Ruhun Duymaz</title>
-  </programme>
-  <programme start="20250104060000 +0200" stop="20250104073000 +0200" channel="nowtv.tr">
-    <title>Senden Daha Güzel</title>
-  </programme>
-  <programme start="20250104073000 +0200" stop="20250104083000 +0200" channel="nowtv.tr">
-    <title>Fatih Savaş ile Sabah Sohbetleri</title>
-  </programme>
-  <programme start="20250104083000 +0200" stop="20250104111500 +0200" channel="nowtv.tr">
-    <title>Ezgi Gözeger ile Çalar Saat Hafta Sonu</title>
-  </programme>
-  <programme start="20250104111500 +0200" stop="20250104112000 +0200" channel="nowtv.tr">
-    <title>Ekonomi Arası</title>
-  </programme>
-  <programme start="20250104112000 +0200" stop="20250104123000 +0200" channel="nowtv.tr">
-    <title>Memet Özer ile Mutfakta</title>
-  </programme>
-  <programme start="20250104123000 +0200" stop="20250104130000 +0200" channel="nowtv.tr">
-    <title>Kamera Arkası</title>
-  </programme>
-  <programme start="20250104130000 +0200" stop="20250104161500 +0200" channel="nowtv.tr">
-    <title>Leyla: Hayat, Aşk, Adalet...</title>
-  </programme>
-  <programme start="20250104161500 +0200" stop="20250104190000 +0200" channel="nowtv.tr">
-    <title>Şakir Paşa Ailesi</title>
-  </programme>
-  <programme start="20250104190000 +0200" stop="20250104200000 +0200" channel="nowtv.tr">
-    <title>Ozan Gündoğdu ile NOW Ana Haber Hafta Sonu</title>
-  </programme>
-  <programme start="20250104200000 +0200" stop="20250104230000 +0200" channel="nowtv.tr">
-    <title>Leyla: Hayat, Aşk, Adalet...</title>
-  </programme>
-  <programme start="20250104230000 +0200" stop="20250105011500 +0200" channel="nowtv.tr">
-    <title>Şakir Paşa Ailesi</title>
+  <programme start="20250103000000 +0200" stop="20250103010000 +0200" channel="cnnturk.tr">
+    <title lang="tr">-</title>
   </programme>
   <programme start="20250103010000 +0200" stop="20250103021500 +0200" channel="cnnturk.tr">
-    <title>Gece Haberleri</title>
+    <title lang="tr">Gece Haberleri</title>
   </programme>
   <programme start="20250103021500 +0200" stop="20250103060000 +0200" channel="cnnturk.tr">
-    <title>Gece Görüşü</title>
+    <title lang="tr">Gece Görüşü</title>
   </programme>
   <programme start="20250103060000 +0200" stop="20250103070000 +0200" channel="cnnturk.tr">
-    <title>A'dan Z'ye</title>
+    <title lang="tr">A'dan Z'ye</title>
   </programme>
   <programme start="20250103070000 +0200" stop="20250103080000 +0200" channel="cnnturk.tr">
-    <title>A'dan Z'ye</title>
+    <title lang="tr">A'dan Z'ye</title>
   </programme>
   <programme start="20250103080000 +0200" stop="20250103090000 +0200" channel="cnnturk.tr">
-    <title>A'dan Z'ye</title>
+    <title lang="tr">A'dan Z'ye</title>
   </programme>
   <programme start="20250103090000 +0200" stop="20250103100000 +0200" channel="cnnturk.tr">
-    <title>Gündem</title>
+    <title lang="tr">Gündem</title>
   </programme>
   <programme start="20250103100000 +0200" stop="20250103120000 +0200" channel="cnnturk.tr">
-    <title>Gündem</title>
+    <title lang="tr">Gündem</title>
   </programme>
   <programme start="20250103120000 +0200" stop="20250103130000 +0200" channel="cnnturk.tr">
-    <title>Gün Ortası</title>
+    <title lang="tr">Gün Ortası</title>
   </programme>
   <programme start="20250103130000 +0200" stop="20250103140000 +0200" channel="cnnturk.tr">
-    <title>Gün Ortası</title>
+    <title lang="tr">Gün Ortası</title>
   </programme>
   <programme start="20250103140000 +0200" stop="20250103150000 +0200" channel="cnnturk.tr">
-    <title>Bugün</title>
+    <title lang="tr">Bugün</title>
   </programme>
   <programme start="20250103150000 +0200" stop="20250103160000 +0200" channel="cnnturk.tr">
-    <title>Bugün</title>
+    <title lang="tr">Bugün</title>
   </programme>
   <programme start="20250103160000 +0200" stop="20250103170000 +0200" channel="cnnturk.tr">
-    <title>Günlük</title>
+    <title lang="tr">Günlük</title>
   </programme>
   <programme start="20250103170000 +0200" stop="20250103180000 +0200" channel="cnnturk.tr">
-    <title>Günlük</title>
+    <title lang="tr">Günlük</title>
   </programme>
   <programme start="20250103180000 +0200" stop="20250103204500 +0200" channel="cnnturk.tr">
-    <title>Ana Haber</title>
+    <title lang="tr">Ana Haber</title>
   </programme>
   <programme start="20250103204500 +0200" channel="cnnturk.tr">
-    <title>Akıl Çemberi</title>
+    <title lang="tr">Akıl Çemberi</title>
   </programme>
   <programme start="20250103000000 +0200" stop="20250103003000 +0200" channel="haberturk.tr">
     <title lang="tr">Haber Bülteni</title>
@@ -42527,63 +41291,6 @@
   </programme>
   <programme start="20250104200000 +0200" stop="20250105000000 +0200" channel="tv8.tr">
     <title lang="tr">O Ses Türkiye Yılbaşı Özel</title>
-  </programme>
-  <programme start="20250103003000 +0200" stop="20250103023000 +0200" channel="tv85.tr">
-    <title>Hollanda Eredivisie İlk Yarının En Gollü Maçları</title>
-  </programme>
-  <programme start="20250103023000 +0200" stop="20250103033000 +0200" channel="tv85.tr">
-    <title>Belçika Pro Lig İlk Yarının En Gollü Maçları</title>
-  </programme>
-  <programme start="20250103033000 +0200" stop="20250103053000 +0200" channel="tv85.tr">
-    <title>İngiltere Lig Kupası Çeyrek Final Özetleri</title>
-  </programme>
-  <programme start="20250103053000 +0200" stop="20250103060000 +0200" channel="tv85.tr">
-    <title>Belçika Pro Lig'de İlk Yarının En Güzel 50 Golü</title>
-  </programme>
-  <programme start="20250103060000 +0200" stop="20250103071500 +0200" channel="tv85.tr">
-    <title>Hollanda Eredivisie'de 2024'ün En Güzel 50 Golü</title>
-  </programme>
-  <programme start="20250103071500 +0200" stop="20250103083000 +0200" channel="tv85.tr">
-    <title>Futbol Nostalji</title>
-  </programme>
-  <programme start="20250103083000 +0200" stop="20250103104500 +0200" channel="tv85.tr">
-    <title>Club Brugge - Anderlecht</title>
-  </programme>
-  <programme start="20250103104500 +0200" stop="20250103125500 +0200" channel="tv85.tr">
-    <title>Feyenoord - Ajax</title>
-  </programme>
-  <programme start="20250103125500 +0200" stop="20250103150000 +0200" channel="tv85.tr">
-    <title>Genk - Anderlecht</title>
-  </programme>
-  <programme start="20250103150000 +0200" stop="20250103174500 +0200" channel="tv85.tr">
-    <title>İngiltere Lig Kupası Çeyrek Final Özetleri</title>
-  </programme>
-  <programme start="20250103174500 +0200" stop="20250103180000 +0200" channel="tv85.tr">
-    <title>Efsaneler: Zlatan İbrahimovic</title>
-  </programme>
-  <programme start="20250103180000 +0200" stop="20250103190000 +0200" channel="tv85.tr">
-    <title>Buzun Nabzı</title>
-  </programme>
-  <programme start="20250103190000 +0200" stop="20250103200000 +0200" channel="tv85.tr">
-    <title>Maç Başlıyor</title>
-  </programme>
-  <programme start="20250103200000 +0200" stop="20250103204500 +0200" channel="tv85.tr">
-    <title>A Milli Takımın Unutulmazları</title>
-  </programme>
-  <programme start="20250103204500 +0200" stop="20250103210000 +0200" channel="tv85.tr">
-    <title>Devre Arası</title>
-  </programme>
-  <programme start="20250103210000 +0200" stop="20250103220000 +0200" channel="tv85.tr">
-    <title>A Milli Takımın Unutulmazları</title>
-  </programme>
-  <programme start="20250103220000 +0200" stop="20250103230000 +0200" channel="tv85.tr">
-    <title>Son Karar</title>
-  </programme>
-  <programme start="20250103230000 +0200" stop="20250104010000 +0200" channel="tv85.tr">
-    <title>Top Bizde</title>
-  </programme>
-  <programme start="20250104010000 +0200" channel="tv85.tr">
-    <title>Buzun Nabzı</title>
   </programme>
   <programme start="20250103000000 +0200" stop="20250103013000 +0200" channel="kanald.tr">
     <title lang="tr">-</title>
@@ -49398,391 +48105,154 @@
   <programme start="20250104231500 +0200" stop="20250105000000 +0200" channel="raiscuola.it">
     <title lang="it">Isole: prodigi dell'evoluzione Ep. 3 - M</title>
   </programme>
-  <programme start="20250103050000 +0200" stop="20250103052500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  <programme start="20250103050000 +0200" stop="20250103060000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
   </programme>
-  <programme start="20250103052500 +0200" stop="20250103053000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  <programme start="20250103060000 +0200" stop="20250103070000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 52. 1-я серия</title>
   </programme>
-  <programme start="20250103053000 +0200" stop="20250103060000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  <programme start="20250103070000 +0200" stop="20250103080000 +0200" channel="luxe.tv">
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
-  <programme start="20250103060000 +0200" stop="20250103062500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  <programme start="20250103080000 +0200" stop="20250103090000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
   </programme>
-  <programme start="20250103062500 +0200" stop="20250103063000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  <programme start="20250103090000 +0200" stop="20250103091500 +0200" channel="luxe.tv">
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
-  <programme start="20250103063000 +0200" stop="20250103070000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  <programme start="20250103091500 +0200" stop="20250103100000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 52. 1-я серия</title>
   </programme>
-  <programme start="20250103070000 +0200" stop="20250103072500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  <programme start="20250103100000 +0200" stop="20250103110000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
   </programme>
-  <programme start="20250103072500 +0200" stop="20250103073000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  <programme start="20250103110000 +0200" stop="20250103120000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
   </programme>
-  <programme start="20250103073000 +0200" stop="20250103080000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  <programme start="20250103120000 +0200" stop="20250103130000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 52. 1-я серия</title>
   </programme>
-  <programme start="20250103080000 +0200" stop="20250103082500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  <programme start="20250103130000 +0200" stop="20250103140000 +0200" channel="luxe.tv">
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
-  <programme start="20250103082500 +0200" stop="20250103083000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  <programme start="20250103140000 +0200" stop="20250103150000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
   </programme>
-  <programme start="20250103083000 +0200" stop="20250103090000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  <programme start="20250103150000 +0200" stop="20250103151500 +0200" channel="luxe.tv">
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
-  <programme start="20250103090000 +0200" stop="20250103092500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  <programme start="20250103151500 +0200" stop="20250103160000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 52. 1-я серия</title>
   </programme>
-  <programme start="20250103092500 +0200" stop="20250103093000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  <programme start="20250103160000 +0200" stop="20250103170000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
   </programme>
-  <programme start="20250103093000 +0200" stop="20250103100000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  <programme start="20250103170000 +0200" stop="20250103180000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
   </programme>
-  <programme start="20250103100000 +0200" stop="20250103102500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  <programme start="20250103180000 +0200" stop="20250103190000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 52. 1-я серия</title>
   </programme>
-  <programme start="20250103102500 +0200" stop="20250103103000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  <programme start="20250103190000 +0200" stop="20250103200000 +0200" channel="luxe.tv">
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
-  <programme start="20250103103000 +0200" stop="20250103110000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  <programme start="20250103200000 +0200" stop="20250103210000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
   </programme>
-  <programme start="20250103110000 +0200" stop="20250103112500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  <programme start="20250103210000 +0200" stop="20250103211500 +0200" channel="luxe.tv">
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
-  <programme start="20250103112500 +0200" stop="20250103113000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  <programme start="20250103211500 +0200" stop="20250103220000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 52. 1-я серия</title>
   </programme>
-  <programme start="20250103113000 +0200" stop="20250103120000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  <programme start="20250103220000 +0200" stop="20250103230000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
   </programme>
-  <programme start="20250103120000 +0200" stop="20250103122500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  <programme start="20250103230000 +0200" stop="20250104000000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
   </programme>
-  <programme start="20250103122500 +0200" stop="20250103123000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  <programme start="20250104000000 +0200" stop="20250104010000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 52. 1-я серия</title>
   </programme>
-  <programme start="20250103123000 +0200" stop="20250103130000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  <programme start="20250104010000 +0200" stop="20250104020000 +0200" channel="luxe.tv">
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
-  <programme start="20250103130000 +0200" stop="20250103132500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  <programme start="20250104020000 +0200" stop="20250104030000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
   </programme>
-  <programme start="20250103132500 +0200" stop="20250103133000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  <programme start="20250104030000 +0200" stop="20250104031500 +0200" channel="luxe.tv">
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
-  <programme start="20250103133000 +0200" stop="20250103140000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  <programme start="20250104031500 +0200" stop="20250104040000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 52. 1-я серия</title>
   </programme>
-  <programme start="20250103140000 +0200" stop="20250103142500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  <programme start="20250104040000 +0200" stop="20250104050000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
   </programme>
-  <programme start="20250103142500 +0200" stop="20250103143000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  <programme start="20250104050000 +0200" stop="20250104060000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
   </programme>
-  <programme start="20250103143000 +0200" stop="20250103150000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
+  <programme start="20250104060000 +0200" stop="20250104070000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 52. 1-я серия</title>
   </programme>
-  <programme start="20250103150000 +0200" stop="20250103152500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  <programme start="20250104070000 +0200" stop="20250104080000 +0200" channel="luxe.tv">
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
-  <programme start="20250103152500 +0200" stop="20250103153000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  <programme start="20250104080000 +0200" stop="20250104090000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
   </programme>
-  <programme start="20250103153000 +0200" stop="20250103160000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
+  <programme start="20250104090000 +0200" stop="20250104091500 +0200" channel="luxe.tv">
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
-  <programme start="20250103160000 +0200" stop="20250103162500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  <programme start="20250104091500 +0200" stop="20250104100000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 52. 1-я серия</title>
   </programme>
-  <programme start="20250103162500 +0200" stop="20250103163000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  <programme start="20250104100000 +0200" stop="20250104110000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
   </programme>
-  <programme start="20250103163000 +0200" stop="20250103170000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
+  <programme start="20250104110000 +0200" stop="20250104120000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
   </programme>
-  <programme start="20250103170000 +0200" stop="20250103172500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  <programme start="20250104120000 +0200" stop="20250104130000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 52. 1-я серия</title>
   </programme>
-  <programme start="20250103172500 +0200" stop="20250103173000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  <programme start="20250104130000 +0200" stop="20250104140000 +0200" channel="luxe.tv">
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
-  <programme start="20250103173000 +0200" stop="20250103180000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
+  <programme start="20250104140000 +0200" stop="20250104150000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
   </programme>
-  <programme start="20250103180000 +0200" stop="20250103182500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  <programme start="20250104150000 +0200" stop="20250104151500 +0200" channel="luxe.tv">
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
-  <programme start="20250103182500 +0200" stop="20250103183000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  <programme start="20250104151500 +0200" stop="20250104160000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 52. 1-я серия</title>
   </programme>
-  <programme start="20250103183000 +0200" stop="20250103190000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
+  <programme start="20250104160000 +0200" stop="20250104170000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
   </programme>
-  <programme start="20250103190000 +0200" stop="20250103192500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  <programme start="20250104170000 +0200" stop="20250104180000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
   </programme>
-  <programme start="20250103192500 +0200" stop="20250103193000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  <programme start="20250104180000 +0200" stop="20250104190000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 52. 1-я серия</title>
   </programme>
-  <programme start="20250103193000 +0200" stop="20250103200000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
+  <programme start="20250104190000 +0200" stop="20250104200000 +0200" channel="luxe.tv">
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
-  <programme start="20250103200000 +0200" stop="20250103202500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  <programme start="20250104200000 +0200" stop="20250104210000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Spotlight"</title>
   </programme>
-  <programme start="20250103202500 +0200" stop="20250103203000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  <programme start="20250104210000 +0200" stop="20250104211500 +0200" channel="luxe.tv">
+    <title lang="ru">Special feature. Сезон 50. 1-я серия</title>
   </programme>
-  <programme start="20250103203000 +0200" stop="20250103210000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
+  <programme start="20250104211500 +0200" stop="20250104220000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 52. 1-я серия</title>
   </programme>
-  <programme start="20250103210000 +0200" stop="20250103212500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  <programme start="20250104220000 +0200" stop="20250104230000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe.TV "Vintage". Сезон 50. 9-я серия</title>
   </programme>
-  <programme start="20250103212500 +0200" stop="20250103213000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250103213000 +0200" stop="20250103220000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20250103220000 +0200" stop="20250103222500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250103222500 +0200" stop="20250103223000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250103223000 +0200" stop="20250103230000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20250103230000 +0200" stop="20250103232500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250103232500 +0200" stop="20250103233000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250103233000 +0200" stop="20250104000000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20250104000000 +0200" stop="20250104002500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104002500 +0200" stop="20250104003000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104003000 +0200" stop="20250104010000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20250104010000 +0200" stop="20250104012500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104012500 +0200" stop="20250104013000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104013000 +0200" stop="20250104020000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20250104020000 +0200" stop="20250104022500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104022500 +0200" stop="20250104023000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104023000 +0200" stop="20250104030000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20250104030000 +0200" stop="20250104032500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104032500 +0200" stop="20250104033000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104033000 +0200" stop="20250104040000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20250104040000 +0200" stop="20250104042500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104042500 +0200" stop="20250104043000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104043000 +0200" stop="20250104050000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20250104050000 +0200" stop="20250104052500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104052500 +0200" stop="20250104053000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104053000 +0200" stop="20250104060000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104060000 +0200" stop="20250104062500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104062500 +0200" stop="20250104063000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104063000 +0200" stop="20250104070000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104070000 +0200" stop="20250104072500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104072500 +0200" stop="20250104073000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104073000 +0200" stop="20250104080000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104080000 +0200" stop="20250104082500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104082500 +0200" stop="20250104083000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104083000 +0200" stop="20250104090000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104090000 +0200" stop="20250104092500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104092500 +0200" stop="20250104093000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104093000 +0200" stop="20250104100000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104100000 +0200" stop="20250104102500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104102500 +0200" stop="20250104103000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104103000 +0200" stop="20250104110000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104110000 +0200" stop="20250104112500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104112500 +0200" stop="20250104113000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104113000 +0200" stop="20250104120000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104120000 +0200" stop="20250104122500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104122500 +0200" stop="20250104123000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104123000 +0200" stop="20250104130000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104130000 +0200" stop="20250104132500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104132500 +0200" stop="20250104133000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104133000 +0200" stop="20250104140000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250104140000 +0200" stop="20250104142500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104142500 +0200" stop="20250104143000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104143000 +0200" stop="20250104150000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20250104150000 +0200" stop="20250104152500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104152500 +0200" stop="20250104153000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104153000 +0200" stop="20250104160000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20250104160000 +0200" stop="20250104162500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104162500 +0200" stop="20250104163000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104163000 +0200" stop="20250104170000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20250104170000 +0200" stop="20250104172500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104172500 +0200" stop="20250104173000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104173000 +0200" stop="20250104180000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20250104180000 +0200" stop="20250104182500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104182500 +0200" stop="20250104183000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104183000 +0200" stop="20250104190000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20250104190000 +0200" stop="20250104192500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104192500 +0200" stop="20250104193000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104193000 +0200" stop="20250104200000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20250104200000 +0200" stop="20250104202500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104202500 +0200" stop="20250104203000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104203000 +0200" stop="20250104210000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20250104210000 +0200" stop="20250104212500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104212500 +0200" stop="20250104213000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104213000 +0200" stop="20250104220000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20250104220000 +0200" stop="20250104222500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104222500 +0200" stop="20250104223000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104223000 +0200" stop="20250104230000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
-  </programme>
-  <programme start="20250104230000 +0200" stop="20250104232500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104232500 +0200" stop="20250104233000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250104233000 +0200" stop="20250105000000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Mongolia"</title>
+  <programme start="20250104230000 +0200" stop="20250105000000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Year. Сезон 50. 1-я серия - "Hip, chic and trendy"</title>
   </programme>
 </tv>
