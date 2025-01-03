@@ -1,9 +1,11 @@
 ---
 version: 1.0
 author: Hristo Genev
-culture: sr-Latn-RS
 timezone: UTC
-date-format: yyyy-MM-dd
+
+date-parameter:
+  format: yyyy-MM-dd
+  culture: sr-Latn-RS
 
 request:
   url: https://mts.rs/oec/epg/program?date=${date}&position=${channelId}

@@ -1,7 +1,8 @@
 ---
 author: Hristo Genev
-culture: bg-BG
-date-format: yyyy-MM-dd
+
+date-parameter:
+  format: yyyy-MM-dd
 
 request:
   url: https://www.btv.bg/programata/?day=${date}  

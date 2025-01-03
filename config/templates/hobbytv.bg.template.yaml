@@ -1,7 +1,8 @@
 ---
 author: Hristo Genev
-culture: bg-BG
-date-format: epoch
+
+date-parameter:
+  format: epoch
 
 request:
   url: http://hobbytv.bg/index.php?p=program&channel=${channelId}&day=${date}

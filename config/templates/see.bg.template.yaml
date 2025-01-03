@@ -1,9 +1,10 @@
 ---
 version: 1.0
 author: Hristo Genev
-culture: bg-BG
-date-format: list
-date-list: [ 0,1,2,3,4,5,6 ]
+
+date-parameter:
+  format: list
+  list: [ 0,1,2,3,4,5,6 ]
 
 # This single-week property means there are only programs for a single week.
 # Usually the weekly schedule is updated once a week every Monday.

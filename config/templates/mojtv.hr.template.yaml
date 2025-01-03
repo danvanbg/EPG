@@ -3,9 +3,11 @@ id: mojtv.hr
 enabled: true
 version: 1.0
 author: Hristo Genev
-culture: hr-HR
 timezone: Europe/Zagreb
-date-format: d.M.yyyy
+
+date-parameter:
+  format: d.M.yyyy
+  culture: hr-HR
 
 request:
   url: https://mojtv.hr/m2/tv-program/kanal.aspx?datum=${date}&id=${channelId}

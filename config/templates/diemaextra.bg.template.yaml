@@ -1,9 +1,9 @@
 ---
 version: 1.0
 author: Hristo Genev
-culture: bg-BG
-locator-strategy: jsonpath
-date-format: yyyy-MM-dd
+
+date-parameter:
+  format: yyyy-MM-dd
 
 init-pages:
   - request:

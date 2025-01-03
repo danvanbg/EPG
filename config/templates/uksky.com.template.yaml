@@ -1,7 +1,9 @@
 ---
 author: Hristo Genev
 timezone: utc
-date-format: yyyyMMdd
+
+date-parameter:
+  format: yyyyMMdd
 
 request:
   url: https://awk.epgsky.com/hawk/linear/schedule/${date}/${channelId}  

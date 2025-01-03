@@ -1,8 +1,9 @@
 ---
 author: Hristo Genev
-culture: DE-de
 timezone: UTC
-date-format: yyMMdd
+
+date-parameter:
+  format: yyMMdd
 
 request:
   url: https://m.tvtoday.de/programm/standard/sender/${channelId}.html?date=${date}
@@ -14,7 +15,7 @@ elements:
   - name: start
     debug: false
     attribute: data-start-time
-    time-format: unix
+    time-format: epoch
 
   - name: title
     locator: .tv-tip-heading

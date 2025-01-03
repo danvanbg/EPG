@@ -1,8 +1,8 @@
 ---
 author: Hristo Genev
-culture: Ru-ru
-date-format: yyyy-MM-dd
 
+date-parameter:
+  format: yyyy-MM-dd
 
 request:
   url: https://tv.yandex.ru/channel/${channelId}?date=${date}

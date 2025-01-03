@@ -441,6 +441,549 @@
   <programme start="20250106230000 +0200" channel="novasport.bg">
     <title lang="bg">"Видимо и невидимо" - публицистично предаване (повторение)</title>
   </programme>
+  <programme start="20250103073000 +0200" stop="20250103080000 +0200" channel="diemasport.bg">
+    <title>Дневник НБА, 69 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103080000 +0200" stop="20250103100000 +0200" channel="diemasport.bg">
+    <title>Берое - Ботев Враца, 18 кръг, Футбол: efbet Лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103100000 +0200" stop="20250103120000 +0200" channel="diemasport.bg">
+    <title>Ботев Враца - Левски, 17 кръг, Футбол: efbet Лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103120000 +0200" stop="20250103130000 +0200" channel="diemasport.bg">
+    <title>Най-доброто от Домът на футбола, 2 епизод, предаване за български футбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103130000 +0200" stop="20250103150000 +0200" channel="diemasport.bg">
+    <title>Крумовград  - Арда, 2 кръг, Футбол: Sesame Купа на България 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103150000 +0200" stop="20250103170000 +0200" channel="diemasport.bg">
+    <title>Левски - Дунав, 2 кръг, Футбол: Sesame Купа на България 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103170000 +0200" stop="20250103190000 +0200" channel="diemasport.bg">
+    <title>Спартак Варна - ЦСКА, 2 кръг, Футбол: Sesame Купа на България 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103190000 +0200" stop="20250103210000 +0200" channel="diemasport.bg">
+    <title>ЦСКА 1948 - Лудогорец, 2 кръг, Футбол: Sesame Купа на България 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103210000 +0200" stop="20250103213000 +0200" channel="diemasport.bg">
+    <title>Дневник НБА, 70 епизод, предаване за американски баскетбол 2024/2025</title>
+  </programme>
+  <programme start="20250103213000 +0200" stop="20250104000000 +0200" channel="diemasport.bg">
+    <title>Индиана Пейсърс - Милуоки Бъкс, Баскетбол от НБА 2024/2025, /п/</title>
+  </programme>
+  <programme start="20250104000000 +0200" stop="20250104043000 +0200" channel="diemasport.bg">
+    <title>Бокс: Топ Ранк: Джейми Мунгуя - Бруно Сурас, Боксово събитие в Тихуана, Мексико, /n/</title>
+  </programme>
+  <programme start="20250104043000 +0200" stop="20250104071500 +0200" channel="diemasport.bg">
+    <title>Програмна пауза${_desc}</title>
+  </programme>
+  <programme start="20250104071500 +0200" stop="20250104093000 +0200" channel="diemasport.bg">
+    <title>Марек - Монтана, 20 кръг, Футбол: Втора професионална лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104093000 +0200" stop="20250104113000 +0200" channel="diemasport.bg">
+    <title>Спартак Варна - Черно море, 9 кръг, Футбол: efbet Лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104113000 +0200" stop="20250104133000 +0200" channel="diemasport.bg">
+    <title>Ботев Враца - Славия, 14 кръг, Футбол: efbet Лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104133000 +0200" stop="20250104155500 +0200" channel="diemasport.bg">
+    <title>Индиана Пейсърс - Милуоки Бъкс, Баскетбол от НБА 2024/2025, /п/</title>
+  </programme>
+  <programme start="20250104155500 +0200" stop="20250104162500 +0200" channel="diemasport.bg">
+    <title>Дневник НБА, 70 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104162500 +0200" stop="20250104170000 +0200" channel="diemasport.bg">
+    <title>Студио "Висша лига", директно</title>
+  </programme>
+  <programme start="20250104170000 +0200" stop="20250104190000 +0200" channel="diemasport.bg">
+    <title>Астън Вила - Лестър Сити, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
+  </programme>
+  <programme start="20250104190000 +0200" stop="20250104193000 +0200" channel="diemasport.bg">
+    <title>Дневник НБА, 71 епизод, предаване за американски баскетбол 2024/2025</title>
+  </programme>
+  <programme start="20250104193000 +0200" stop="20250104200000 +0200" channel="diemasport.bg">
+    <title>Студио "Лига 1 на Франция", директно</title>
+  </programme>
+  <programme start="20250104200000 +0200" stop="20250104215500 +0200" channel="diemasport.bg">
+    <title>Лил - Нант, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, директно</title>
+  </programme>
+  <programme start="20250104215500 +0200" stop="20250104220000 +0200" channel="diemasport.bg">
+    <title>Студио "Лига 1 на Франция", директно</title>
+  </programme>
+  <programme start="20250104220000 +0200" stop="20250104235500 +0200" channel="diemasport.bg">
+    <title>Лион - Монпелие, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, директно</title>
+  </programme>
+  <programme start="20250104235500 +0200" stop="20250105001500 +0200" channel="diemasport.bg">
+    <title>Студио "Лига 1 на Франция", директно</title>
+  </programme>
+  <programme start="20250105001500 +0200" stop="20250105051500 +0200" channel="diemasport.bg">
+    <title>ONE 26: Лий - Расулов, Бойно събитие в Банкок, Тайланд, /n/</title>
+  </programme>
+  <programme start="20250105051500 +0200" stop="20250105073000 +0200" channel="diemasport.bg">
+    <title>Програмна пауза${_desc}</title>
+  </programme>
+  <programme start="20250105073000 +0200" stop="20250105093000 +0200" channel="diemasport.bg">
+    <title>Монтана - Пирин, 13 кръг, Футбол: Втора професионална лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250105093000 +0200" stop="20250105113000 +0200" channel="diemasport.bg">
+    <title>Лил - Нант, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /п/</title>
+  </programme>
+  <programme start="20250105113000 +0200" stop="20250105133000 +0200" channel="diemasport.bg">
+    <title>Лион - Монпелие, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /п/</title>
+  </programme>
+  <programme start="20250105133000 +0200" stop="20250105153000 +0200" channel="diemasport.bg">
+    <title>Гранада - Гран Канария, 15 кръг, Баскетбол: Лига Ендеса 2024/2025, директно</title>
+  </programme>
+  <programme start="20250105153000 +0200" stop="20250105163000 +0200" channel="diemasport.bg">
+    <title>Годината на Ботев Пловдив, 15 епизод, предаване за български футбол 2024, /n/</title>
+  </programme>
+  <programme start="20250105163000 +0200" stop="20250105170000 +0200" channel="diemasport.bg">
+    <title>Арда - Славия, класика от efbet Лига 2022/2023, /n/</title>
+  </programme>
+  <programme start="20250105170000 +0200" stop="20250105190000 +0200" channel="diemasport.bg">
+    <title>Волос - АЕК, 17 кръг, Футбол: Суперлига на Гърция 2024/2025, директно</title>
+  </programme>
+  <programme start="20250105190000 +0200" stop="20250105200000 +0200" channel="diemasport.bg">
+    <title>Годината на Лудогорец, 16 епизод, предаване за български футбол 2024, /n/</title>
+  </programme>
+  <programme start="20250105200000 +0200" stop="20250105203000 +0200" channel="diemasport.bg">
+    <title>Лудогорец - Локомотив Пловдив, класика от efbet Лига 2018/2019, /n/</title>
+  </programme>
+  <programme start="20250105203000 +0200" stop="20250105223000 +0200" channel="diemasport.bg">
+    <title>Панатинайкос - ПАОК, 17 кръг, Футбол: Суперлига на Гърция 2024/2025, директно</title>
+  </programme>
+  <programme start="20250105223000 +0200" stop="20250106003000 +0200" channel="diemasport.bg">
+    <title>Българският футбол през 2024: Обзор, 1 епизод, предаване за български футбол 2024, /n/</title>
+  </programme>
+  <programme start="20250106003000 +0200" stop="20250106013000 +0200" channel="diemasport.bg">
+    <title>Българският футбол през 2024: Обзор, 2 епизод, предаване за български футбол 2024, /n/</title>
+  </programme>
+  <programme start="20250106013000 +0200" stop="20250106023000 +0200" channel="diemasport.bg">
+    <title>Головете на efbet Лига 2024: част 1, 1 епизод, предаване за български футбол 2024, /n/</title>
+  </programme>
+  <programme start="20250106023000 +0200" stop="20250106033000 +0200" channel="diemasport.bg">
+    <title>Головете на efbet Лига 2024: част 2, 2 епизод, предаване за български футбол 2024, /n/</title>
+  </programme>
+  <programme start="20250106033000 +0200" stop="20250106063000 +0200" channel="diemasport.bg">
+    <title>Програмна пауза${_desc}</title>
+  </programme>
+  <programme start="20250106063000 +0200" stop="20250106073000 +0200" channel="diemasport.bg">
+    <title>Годината на ЦСКА 1948, 13 епизод, предаване за български футбол 2024, /n/</title>
+  </programme>
+  <programme start="20250106073000 +0200" stop="20250106083000 +0200" channel="diemasport.bg">
+    <title>Годината на Локомотив София, 6 епизод, предаване за български футбол 2024, /n/</title>
+  </programme>
+  <programme start="20250106083000 +0200" stop="20250106103000 +0200" channel="diemasport.bg">
+    <title>Българският футбол през 2024: Обзор, предаване за български футбол, /n/</title>
+  </programme>
+  <programme start="20250106103000 +0200" stop="20250106130000 +0200" channel="diemasport.bg">
+    <title>Минесота Тимбъруулвс - Бостън Селтикс, Баскетбол от НБА 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106130000 +0200" stop="20250106153000 +0200" channel="diemasport.bg">
+    <title>Бруклин Нетс - Филаделфия Севънтисиксърс, Баскетбол от НБА 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106153000 +0200" stop="20250106180000 +0200" channel="diemasport.bg">
+    <title>Оклахома Сити Тъндър - Бостън Селтикс, Баскетбол от НБА 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106180000 +0200" stop="20250106200000 +0200" channel="diemasport.bg">
+    <title>Панетоликос - Олимпиакос, 17 кръг, Футбол: Суперлига на Гърция 2024/2025, директно</title>
+  </programme>
+  <programme start="20250106200000 +0200" stop="20250106203000 +0200" channel="diemasport.bg">
+    <title>Черно море - Спартак Варна, Първа професионална лига 2022/2023 - класика , /n/</title>
+  </programme>
+  <programme start="20250106203000 +0200" stop="20250106210000 +0200" channel="diemasport.bg">
+    <title>Дневник НБА, 72 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106210000 +0200" stop="20250106213000 +0200" channel="diemasport.bg">
+    <title>Дневник НБА, 73 епизод, предаване за американски баскетбол 2024/2025</title>
+  </programme>
+  <programme start="20250106213000 +0200" stop="20250106233000 +0200" channel="diemasport.bg">
+    <title>Баскония - Реал Мадрид, 15 кръг, Баскетбол: Лига Ендеса 2024/2025, директно</title>
+  </programme>
+  <programme start="20250106233000 +0200" channel="diemasport.bg">
+    <title>Българският футбол през 2024: Обзор (1 час), предаване за български футбол, /n/</title>
+  </programme>
+  <programme start="20250103033000 +0200" stop="20250103053000 +0200" channel="diemasport2.bg">
+    <title>Астън Вила - Брайтън &amp; Хоув Албиън, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103053000 +0200" stop="20250103070000 +0200" channel="diemasport2.bg">
+    <title>Програмна пауза${_desc}</title>
+  </programme>
+  <programme start="20250103070000 +0200" stop="20250103090000 +0200" channel="diemasport2.bg">
+    <title>Брентфорд - Арсенал, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103090000 +0200" stop="20250103100000 +0200" channel="diemasport2.bg">
+    <title>Премиър Лийг Токшоу, 18 епизод, предаване за английски футбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103100000 +0200" stop="20250103120000 +0200" channel="diemasport2.bg">
+    <title>Уест Хям Юнайтед - Ливърпул, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103120000 +0200" stop="20250103123000 +0200" channel="diemasport2.bg">
+    <title>Да скъсаш мрежата, 19 епизод, предаване за английски футбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103123000 +0200" stop="20250103143000 +0200" channel="diemasport2.bg">
+    <title>Евертън - Нотингам Форест, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103143000 +0200" stop="20250103150000 +0200" channel="diemasport2.bg">
+    <title>Висша лига: Голямото интервю, 21 епизод, предаване за английски футбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103150000 +0200" stop="20250103170000 +0200" channel="diemasport2.bg">
+    <title>Фулъм - Борнемут, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103170000 +0200" stop="20250103173000 +0200" channel="diemasport2.bg">
+    <title>Истории от Висшата лига, 21 епизод, предаване за английски футбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103173000 +0200" stop="20250103193000 +0200" channel="diemasport2.bg">
+    <title>Тотнъм Хотспър - Уулвърхямптън Уондърърс, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103193000 +0200" stop="20250103213000 +0200" channel="diemasport2.bg">
+    <title>Лестър Сити - Манчестър Сити, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103213000 +0200" stop="20250103220000 +0200" channel="diemasport2.bg">
+    <title>Преди кръга във Висшата лига V1, 20 епизод, предаване за английски футбол 2024/2025</title>
+  </programme>
+  <programme start="20250103220000 +0200" stop="20250103230000 +0200" channel="diemasport2.bg">
+    <title>Обзор на кръга в английската Висша Лига, 19 епизод, предаване за английски футбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103230000 +0200" stop="20250104010000 +0200" channel="diemasport2.bg">
+    <title>Астън Вила - Брайтън &amp; Хоув Албиън, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104010000 +0200" stop="20250104030000 +0200" channel="diemasport2.bg">
+    <title>Ипсуич Таун - Челси, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104030000 +0200" stop="20250104050000 +0200" channel="diemasport2.bg">
+    <title>Валенсия - Лерида, 14 кръг, Баскетбол: Лига Ендеса 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104050000 +0200" stop="20250104073000 +0200" channel="diemasport2.bg">
+    <title>Програмна пауза${_desc}</title>
+  </programme>
+  <programme start="20250104073000 +0200" stop="20250104080000 +0200" channel="diemasport2.bg">
+    <title>Карабао къп: Обзор на кръга, 6 епизод, предаване за английски футбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104080000 +0200" stop="20250104083000 +0200" channel="diemasport2.bg">
+    <title>Да скъсаш мрежата, 19 епизод, предаване за английски футбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104083000 +0200" stop="20250104090000 +0200" channel="diemasport2.bg">
+    <title>NBA Екшън, 13 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104090000 +0200" stop="20250104100000 +0200" channel="diemasport2.bg">
+    <title>Обзор на кръга в английската Висша Лига, 19 епизод, предаване за английски футбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104100000 +0200" stop="20250104103000 +0200" channel="diemasport2.bg">
+    <title>Висша лига: Голямото интервю, 21 епизод, предаване за английски футбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104103000 +0200" stop="20250104123000 +0200" channel="diemasport2.bg">
+    <title>Брентфорд - Арсенал, 19 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104123000 +0200" stop="20250104133000 +0200" channel="diemasport2.bg">
+    <title>Премиър Лийг Токшоу, 18 епизод, предаване за английски футбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104133000 +0200" stop="20250104140000 +0200" channel="diemasport2.bg">
+    <title>Преди кръга във Висшата лига V1, 20 епизод, предаване за английски футбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104140000 +0200" stop="20250104143000 +0200" channel="diemasport2.bg">
+    <title>Студио "Висша лига и Чемпиъншип", директно</title>
+  </programme>
+  <programme start="20250104143000 +0200" stop="20250104162500 +0200" channel="diemasport2.bg">
+    <title>Тотнъм Хотспър - Нюкасъл Юнайтед, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
+  </programme>
+  <programme start="20250104162500 +0200" stop="20250104170000 +0200" channel="diemasport2.bg">
+    <title>Студио "Висша лига и Чемпиъншип", директно</title>
+  </programme>
+  <programme start="20250104170000 +0200" stop="20250104185500 +0200" channel="diemasport2.bg">
+    <title>Манчестър Сити - Уест Хям Юнайтед, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
+  </programme>
+  <programme start="20250104185500 +0200" stop="20250104193000 +0200" channel="diemasport2.bg">
+    <title>Студио "Висша лига", директно</title>
+  </programme>
+  <programme start="20250104193000 +0200" stop="20250104212500 +0200" channel="diemasport2.bg">
+    <title>Брайтън &amp; Хоув Албиън - Арсенал, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
+  </programme>
+  <programme start="20250104212500 +0200" stop="20250104214500 +0200" channel="diemasport2.bg">
+    <title>Студио "Висша лига", директно</title>
+  </programme>
+  <programme start="20250104214500 +0200" stop="20250104234500 +0200" channel="diemasport2.bg">
+    <title>Саутхямптън - Брентфорд, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104234500 +0200" stop="20250105014500 +0200" channel="diemasport2.bg">
+    <title>Борнемут - Евертън, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250105014500 +0200" stop="20250105034500 +0200" channel="diemasport2.bg">
+    <title>Блекбърн Роувърс - Бърнли, 26 кръг, Футбол: Чемпиъншип 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250105034500 +0200" stop="20250105073000 +0200" channel="diemasport2.bg">
+    <title>Програмна пауза${_desc}</title>
+  </programme>
+  <programme start="20250105073000 +0200" stop="20250105093000 +0200" channel="diemasport2.bg">
+    <title>Кристъл Палас - Челси, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250105093000 +0200" stop="20250105113000 +0200" channel="diemasport2.bg">
+    <title>Астън Вила - Лестър Сити, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250105113000 +0200" stop="20250105133000 +0200" channel="diemasport2.bg">
+    <title>Брайтън &amp; Хоув Албиън - Арсенал, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250105133000 +0200" stop="20250105153000 +0200" channel="diemasport2.bg">
+    <title>Барселона - Ховентут, 15 кръг, Баскетбол: Лига Ендеса 2024/2025, директно</title>
+  </programme>
+  <programme start="20250105153000 +0200" stop="20250105160000 +0200" channel="diemasport2.bg">
+    <title>Студио "Висша лига", директно</title>
+  </programme>
+  <programme start="20250105160000 +0200" stop="20250105175500 +0200" channel="diemasport2.bg">
+    <title>Фулъм - Ипсуич Таун, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
+  </programme>
+  <programme start="20250105175500 +0200" stop="20250105183000 +0200" channel="diemasport2.bg">
+    <title>Студио "Висша лига", директно</title>
+  </programme>
+  <programme start="20250105183000 +0200" stop="20250105202500 +0200" channel="diemasport2.bg">
+    <title>Ливърпул - Манчестър Юнайтед, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
+  </programme>
+  <programme start="20250105202500 +0200" stop="20250105210000 +0200" channel="diemasport2.bg">
+    <title>Студио "Висша лига", директно</title>
+  </programme>
+  <programme start="20250105210000 +0200" stop="20250105213000 +0200" channel="diemasport2.bg">
+    <title>NBA Екшън, 13 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250105213000 +0200" stop="20250105220000 +0200" channel="diemasport2.bg">
+    <title>Дневник НБА, 72 епизод, предаване за американски баскетбол 2024/2025</title>
+  </programme>
+  <programme start="20250105220000 +0200" stop="20250105223000 +0200" channel="diemasport2.bg">
+    <title>Студио "НБА", директно</title>
+  </programme>
+  <programme start="20250105223000 +0200" stop="20250106005500 +0200" channel="diemasport2.bg">
+    <title>Оклахома Сити Тъндър - Бостън Селтикс, Баскетбол от НБА 2024/2025, директно</title>
+  </programme>
+  <programme start="20250106005500 +0200" stop="20250106011500 +0200" channel="diemasport2.bg">
+    <title>Студио "НБА", директно</title>
+  </programme>
+  <programme start="20250106011500 +0200" stop="20250106031500 +0200" channel="diemasport2.bg">
+    <title>Барселона - Ховентут, 81 епизод, Баскетбол: Лига Ендеса 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106031500 +0200" stop="20250106063000 +0200" channel="diemasport2.bg">
+    <title>Програмна пауза${_desc}</title>
+  </programme>
+  <programme start="20250106063000 +0200" stop="20250106083000 +0200" channel="diemasport2.bg">
+    <title>Фулъм - Ипсуич Таун, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106083000 +0200" stop="20250106103000 +0200" channel="diemasport2.bg">
+    <title>Борнемут - Евертън, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106103000 +0200" stop="20250106123000 +0200" channel="diemasport2.bg">
+    <title>Ливърпул - Манчестър Юнайтед, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106123000 +0200" stop="20250106143000 +0200" channel="diemasport2.bg">
+    <title>Кристъл Палас - Челси, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106143000 +0200" stop="20250106163000 +0200" channel="diemasport2.bg">
+    <title>Манчестър Сити - Уест Хям Юнайтед, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106163000 +0200" stop="20250106183000 +0200" channel="diemasport2.bg">
+    <title>Астън Вила - Лестър Сити, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106183000 +0200" stop="20250106203000 +0200" channel="diemasport2.bg">
+    <title>Тотнъм Хотспър - Нюкасъл Юнайтед, 20 кръг, Футбол: Висша лига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106203000 +0200" stop="20250106213000 +0200" channel="diemasport2.bg">
+    <title>Неделен обзор на Английската висша лига, 20 епизод, предаване за английски футбол 2024/2025</title>
+  </programme>
+  <programme start="20250106213000 +0200" stop="20250106220000 +0200" channel="diemasport2.bg">
+    <title>Студио "Висша лига и Чемпиъншип", директно</title>
+  </programme>
+  <programme start="20250106220000 +0200" stop="20250106235500 +0200" channel="diemasport2.bg">
+    <title>Уулвърхямптън Уондърърс - Нотингам Форест, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
+  </programme>
+  <programme start="20250106235500 +0200" channel="diemasport2.bg">
+    <title>Студио "Висша лига и Чемпиъншип", директно</title>
+  </programme>
+  <programme start="20250103023000 +0200" stop="20250103050000 +0200" channel="diemasport3.bg">
+    <title>Минесота Тимбъруулвс - Бостън Селтикс, Баскетбол от НБА 2024/2025, директно</title>
+  </programme>
+  <programme start="20250103050000 +0200" stop="20250103072000 +0200" channel="diemasport3.bg">
+    <title>Програмна пауза${_desc}</title>
+  </programme>
+  <programme start="20250103072000 +0200" stop="20250103091000 +0200" channel="diemasport3.bg">
+    <title>Айнтрахт Франкфурт - Бохум, 9 кръг, Футбол: Бундеслига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103091000 +0200" stop="20250103100000 +0200" channel="diemasport3.bg">
+    <title>Формула 1: Обзор на сезон 1999, предаване за Формула 1 , /n/</title>
+  </programme>
+  <programme start="20250103100000 +0200" stop="20250103103000 +0200" channel="diemasport3.bg">
+    <title>NBA Екшън, 13 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103103000 +0200" stop="20250103123000 +0200" channel="diemasport3.bg">
+    <title>Рио Бреоган - Манреса, 14 кръг, Баскетбол: Лига Ендеса 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103123000 +0200" stop="20250103143000 +0200" channel="diemasport3.bg">
+    <title>Тенерифе - Сарагоса, 14 кръг, Баскетбол: Лига Ендеса 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103143000 +0200" stop="20250103153000 +0200" channel="diemasport3.bg">
+    <title>Бундеслига: Обзор на полусезона, предаване за германски футбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103153000 +0200" stop="20250103180000 +0200" channel="diemasport3.bg">
+    <title>Минесота Тимбъруулвс - Бостън Селтикс, Баскетбол от НБА 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103180000 +0200" stop="20250103190000 +0200" channel="diemasport3.bg">
+    <title>Формула 1: Обзор на сезон 2024, предаване за Формула 1, част 1, /n/</title>
+  </programme>
+  <programme start="20250103190000 +0200" stop="20250103200000 +0200" channel="diemasport3.bg">
+    <title>Формула 1: Обзор на сезон 2024, предаване за Формула 1, част 2, /n/</title>
+  </programme>
+  <programme start="20250103200000 +0200" stop="20250103203000 +0200" channel="diemasport3.bg">
+    <title>Лига 1: Обзор на полусезона, предаване за френски футбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103203000 +0200" stop="20250103210000 +0200" channel="diemasport3.bg">
+    <title>Шоуто на Лига 1, 16 епизод, предаване за френски футбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103210000 +0200" stop="20250103213000 +0200" channel="diemasport3.bg">
+    <title>Лига 1: Преди кръга, 16 епизод, предаване за френски футбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250103213000 +0200" stop="20250103220000 +0200" channel="diemasport3.bg">
+    <title>Студио "Лига 1 на Франция", директно</title>
+  </programme>
+  <programme start="20250103220000 +0200" stop="20250103235500 +0200" channel="diemasport3.bg">
+    <title>Ница - Рен, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, директно</title>
+  </programme>
+  <programme start="20250103235500 +0200" stop="20250104001500 +0200" channel="diemasport3.bg">
+    <title>Студио "Лига 1 на Франция", директно</title>
+  </programme>
+  <programme start="20250104001500 +0200" stop="20250104021500 +0200" channel="diemasport3.bg">
+    <title>Вердер Бремен - Байер Леверкузен, 8 кръг, Футбол: Бундеслига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104021500 +0200" stop="20250104041500 +0200" channel="diemasport3.bg">
+    <title>Фрайбург - Аугсбург, 7 кръг, Футбол: Бундеслига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104041500 +0200" stop="20250104061500 +0200" channel="diemasport3.bg">
+    <title>Борусия Мьонхенгладбах - Хайденхайм, 7 кръг, Футбол: Бундеслига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104061500 +0200" stop="20250104073000 +0200" channel="diemasport3.bg">
+    <title>Програмна пауза${_desc}</title>
+  </programme>
+  <programme start="20250104073000 +0200" stop="20250104093000 +0200" channel="diemasport3.bg">
+    <title>Тенерифе - Сарагоса, 14 кръг, Баскетбол: Лига Ендеса 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104093000 +0200" stop="20250104120000 +0200" channel="diemasport3.bg">
+    <title>Минесота Тимбъруулвс - Бостън Селтикс, Баскетбол от НБА 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104120000 +0200" stop="20250104140000 +0200" channel="diemasport3.bg">
+    <title>Ница - Рен, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104140000 +0200" stop="20250104143000 +0200" channel="diemasport3.bg">
+    <title>Студио "Висша лига и Чемпиъншип", директно</title>
+  </programme>
+  <programme start="20250104143000 +0200" stop="20250104162500 +0200" channel="diemasport3.bg">
+    <title>Блекбърн Роувърс - Бърнли, 26 кръг, Футбол: Чемпиъншип 2024/2025, директно</title>
+  </programme>
+  <programme start="20250104162500 +0200" stop="20250104170000 +0200" channel="diemasport3.bg">
+    <title>Студио "Висша лига и Чемпиъншип", директно</title>
+  </programme>
+  <programme start="20250104170000 +0200" stop="20250104190000 +0200" channel="diemasport3.bg">
+    <title>Кристъл Палас - Челси, 20 кръг, Футбол: Висша лига 2024/2025, директно</title>
+  </programme>
+  <programme start="20250104190000 +0200" stop="20250104210000 +0200" channel="diemasport3.bg">
+    <title>Манреса - Мурсия, 15 кръг, Баскетбол: Лига Ендеса 2024/2025, директно</title>
+  </programme>
+  <programme start="20250104210000 +0200" stop="20250104220000 +0200" channel="diemasport3.bg">
+    <title>Бундеслига: Обзор на полусезона, предаване за германски футбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104220000 +0200" stop="20250104223000 +0200" channel="diemasport3.bg">
+    <title>NBA Екшън, 13 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250104223000 +0200" stop="20250105003000 +0200" channel="diemasport3.bg">
+    <title>Тенерифе - Билбао, 15 кръг, Баскетбол: Лига Ендеса 2024/2025, директно</title>
+  </programme>
+  <programme start="20250105003000 +0200" stop="20250105010000 +0200" channel="diemasport3.bg">
+    <title>Дневник НБА, 71 епизод, предаване за американски баскетбол 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250105010000 +0200" stop="20250105033000 +0200" channel="diemasport3.bg">
+    <title>Бруклин Нетс - Филаделфия Севънтисиксърс, Баскетбол от НБА 2024/2025, директно</title>
+  </programme>
+  <programme start="20250105033000 +0200" stop="20250105053000 +0200" channel="diemasport3.bg">
+    <title>Волфсбург - Вердер Бремен, 7 кръг, Футбол: Бундеслига 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250105053000 +0200" stop="20250105063000 +0200" channel="diemasport3.bg">
+    <title>Програмна пауза${_desc}</title>
+  </programme>
+  <programme start="20250105063000 +0200" stop="20250105083000 +0200" channel="diemasport3.bg">
+    <title>Манреса - Мурсия, Манреса - Мурсия</title>
+  </programme>
+  <programme start="20250105083000 +0200" stop="20250105110000 +0200" channel="diemasport3.bg">
+    <title>Минесота Тимбъруулвс - Бостън Селтикс, Баскетбол от НБА 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250105110000 +0200" stop="20250105130000 +0200" channel="diemasport3.bg">
+    <title>Тенерифе - Билбао, 15 кръг, Баскетбол: Лига Ендеса 2024/2025, директно</title>
+  </programme>
+  <programme start="20250105130000 +0200" stop="20250105153000 +0200" channel="diemasport3.bg">
+    <title>Бруклин Нетс - Филаделфия Севънтисиксърс, Баскетбол от НБА 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250105153000 +0200" stop="20250105160000 +0200" channel="diemasport3.bg">
+    <title>Студио "Лига 1 на Франция", директно</title>
+  </programme>
+  <programme start="20250105160000 +0200" stop="20250105175500 +0200" channel="diemasport3.bg">
+    <title>Ланс -Тулуза, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, директно</title>
+  </programme>
+  <programme start="20250105175500 +0200" stop="20250105181000 +0200" channel="diemasport3.bg">
+    <title>Студио "Лига 1 на Франция", директно</title>
+  </programme>
+  <programme start="20250105181000 +0200" stop="20250105183000 +0200" channel="diemasport3.bg">
+    <title>Студио "Турнир на шампионите", директно</title>
+  </programme>
+  <programme start="20250105183000 +0200" stop="20250105202500 +0200" channel="diemasport3.bg">
+    <title>Пари Сен Жермен - Монако, Футбол: Суперкупа на Франция 2024, директно</title>
+  </programme>
+  <programme start="20250105202500 +0200" stop="20250105211500 +0200" channel="diemasport3.bg">
+    <title>Студио "Турнир на шампионите", директно</title>
+  </programme>
+  <programme start="20250105211500 +0200" stop="20250105214500 +0200" channel="diemasport3.bg">
+    <title>Студио "Лига 1 на Франция", директно</title>
+  </programme>
+  <programme start="20250105214500 +0200" stop="20250105234000 +0200" channel="diemasport3.bg">
+    <title>Марсилия - Льо Авър, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, директно</title>
+  </programme>
+  <programme start="20250105234000 +0200" stop="20250106000000 +0200" channel="diemasport3.bg">
+    <title>Студио "Лига 1 на Франция", директно</title>
+  </programme>
+  <programme start="20250106000000 +0200" stop="20250106020000 +0200" channel="diemasport3.bg">
+    <title>Ланс -Тулуза, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106020000 +0200" stop="20250106040000 +0200" channel="diemasport3.bg">
+    <title>Пари Сен Жермен - Монако, Футбол: Суперкупа на Франция 2024, /n/</title>
+  </programme>
+  <programme start="20250106040000 +0200" stop="20250106070000 +0200" channel="diemasport3.bg">
+    <title>Програмна пауза${_desc}</title>
+  </programme>
+  <programme start="20250106070000 +0200" stop="20250106090000 +0200" channel="diemasport3.bg">
+    <title>Ница - Рен, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106090000 +0200" stop="20250106110000 +0200" channel="diemasport3.bg">
+    <title>Ланс -Тулуза, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106110000 +0200" stop="20250106130000 +0200" channel="diemasport3.bg">
+    <title>Марсилия - Льо Авър, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106130000 +0200" stop="20250106150000 +0200" channel="diemasport3.bg">
+    <title>Лион - Монпелие, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106150000 +0200" stop="20250106170000 +0200" channel="diemasport3.bg">
+    <title>Лил - Нант, 16 кръг, Футбол: Лига 1 на Франция 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106170000 +0200" stop="20250106190000 +0200" channel="diemasport3.bg">
+    <title>Пари Сен Жермен - Монако, Футбол: Суперкупа на Франция 2024, /n/</title>
+  </programme>
+  <programme start="20250106190000 +0200" stop="20250106193000 +0200" channel="diemasport3.bg">
+    <title>Обзор на кръга: Лига 1, 16 епизод, предаване за френски футбол 2024/2025</title>
+  </programme>
+  <programme start="20250106193000 +0200" stop="20250106213000 +0200" channel="diemasport3.bg">
+    <title>Тенерифе - Билбао, 15 кръг, Баскетбол: Лига Ендеса 2024/2025, /n/</title>
+  </programme>
+  <programme start="20250106213000 +0200" stop="20250106220000 +0200" channel="diemasport3.bg">
+    <title>Студио "Висша лига и Чемпиъншип", директно</title>
+  </programme>
+  <programme start="20250106220000 +0200" stop="20250106235500 +0200" channel="diemasport3.bg">
+    <title>Куинс Парк Рейнджърс - Лутън Таун, 26 кръг, Футбол: Чемпиъншип 2024/2025, директно</title>
+  </programme>
+  <programme start="20250106235500 +0200" channel="diemasport3.bg">
+    <title>Студио "Висша лига и Чемпиъншип", директно</title>
+  </programme>
   <programme start="20250103000000 +0200" stop="20250103060000 +0200" channel="ring.bg">
     <title>– Шотландия, Висша лига /п./</title>
   </programme>
@@ -569,6 +1112,588 @@
   </programme>
   <programme start="20250106220000 +0200" channel="ring.bg">
     <title>– Бойни вечери</title>
+  </programme>
+  <programme start="20250103083000 +0200" stop="20250103103000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, ATP 250: Бризбън Трети четвъртфинал</title>
+  </programme>
+  <programme start="20250103103000 +0200" stop="20250103113000 +0200" channel="maxsport1.bg">
+    <title>Световен рали шампионат 2: Обзор на сезона Обзор на сезона</title>
+  </programme>
+  <programme start="20250103113000 +0200" stop="20250103120000 +0200" channel="maxsport1.bg">
+    <title>Trans World Sport</title>
+  </programme>
+  <programme start="20250103120000 +0200" stop="20250103140000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, ATP 250: Бризбън Четвърти четвъртфинал</title>
+  </programme>
+  <programme start="20250103140000 +0200" stop="20250103150000 +0200" channel="maxsport1.bg">
+    <title>"Спорна топка" Токшоу</title>
+  </programme>
+  <programme start="20250103150000 +0200" stop="20250103170000 +0200" channel="maxsport1.bg">
+    <title>ATP 250: Бризбън Първи четвъртфинал</title>
+  </programme>
+  <programme start="20250103170000 +0200" stop="20250103190000 +0200" channel="maxsport1.bg">
+    <title>ATP 250: Бризбън Втори четвъртфинал</title>
+  </programme>
+  <programme start="20250103190000 +0200" stop="20250103211500 +0200" channel="maxsport1.bg">
+    <title>ATP 250: Бризбън Трети четвъртфинал</title>
+  </programme>
+  <programme start="20250103211500 +0200" stop="20250103231500 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, Евролига: Париж - Барселона Париж - Барселона</title>
+  </programme>
+  <programme start="20250103231500 +0200" stop="20250104003000 +0200" channel="maxsport1.bg">
+    <title>ATP 250: Бризбън Четвърти четвъртфинал</title>
+  </programme>
+  <programme start="20250104003000 +0200" stop="20250104023000 +0200" channel="maxsport1.bg">
+    <title>Тенис: United Cup Втори полуфинал, мъже</title>
+  </programme>
+  <programme start="20250104023000 +0200" stop="20250104043000 +0200" channel="maxsport1.bg">
+    <title>Тенис: United Cup Втори полуфинал, жени</title>
+  </programme>
+  <programme start="20250104043000 +0200" stop="20250104090000 +0200" channel="maxsport1.bg">
+    <title>Тенис: United Cup Втори полуфинал, смесени двойки</title>
+  </programme>
+  <programme start="20250104090000 +0200" stop="20250104093000 +0200" channel="maxsport1.bg">
+    <title>NFL: Обзор 17 кръг Обзор 17 кръг</title>
+  </programme>
+  <programme start="20250104093000 +0200" stop="20250104103000 +0200" channel="maxsport1.bg">
+    <title>"Зона волей" Токшоу</title>
+  </programme>
+  <programme start="20250104103000 +0200" stop="20250104123000 +0200" channel="maxsport1.bg">
+    <title>Евролига: Реал Мадрид - Байерн Мюнхен Реал Мадрид - Байерн Мюнхен</title>
+  </programme>
+  <programme start="20250104123000 +0200" stop="20250104143000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, ATP 250: Бризбън Втори полуфинал</title>
+  </programme>
+  <programme start="20250104143000 +0200" stop="20250104163000 +0200" channel="maxsport1.bg">
+    <title>Тенис: United Cup Първи полуфинал, мъже</title>
+  </programme>
+  <programme start="20250104163000 +0200" stop="20250104183000 +0200" channel="maxsport1.bg">
+    <title>Тенис: United Cup Първи полуфинал, жени</title>
+  </programme>
+  <programme start="20250104183000 +0200" stop="20250104203000 +0200" channel="maxsport1.bg">
+    <title>Тенис: United Cup Първи полуфинал, смесени двойки</title>
+  </programme>
+  <programme start="20250104203000 +0200" stop="20250104223000 +0200" channel="maxsport1.bg">
+    <title>ATP 250: Бризбън Първи полуфинал</title>
+  </programme>
+  <programme start="20250104223000 +0200" stop="20250105000000 +0200" channel="maxsport1.bg">
+    <title>ATP 250: Бризбън Втори полуфинал</title>
+  </programme>
+  <programme start="20250105000000 +0200" stop="20250105003000 +0200" channel="maxsport1.bg">
+    <title>Евролига: Обзор 19 кръг Обзор 19 кръг</title>
+  </programme>
+  <programme start="20250105003000 +0200" stop="20250105023000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, ATP 250: Оукланд</title>
+  </programme>
+  <programme start="20250105023000 +0200" stop="20250105043000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, ATP 250: Оукланд</title>
+  </programme>
+  <programme start="20250105043000 +0200" stop="20250105083000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, ATP 250: Оукланд</title>
+  </programme>
+  <programme start="20250105083000 +0200" stop="20250105103000 +0200" channel="maxsport1.bg">
+    <title>Евролига: Фенербахче - Анадолу Ефес Фенербахче - Анадолу Ефес</title>
+  </programme>
+  <programme start="20250105103000 +0200" stop="20250105130000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, ATP 250: Бризбън Финал</title>
+  </programme>
+  <programme start="20250105130000 +0200" stop="20250105150000 +0200" channel="maxsport1.bg">
+    <title>Евролига: Жалгирис - Олимпиакос Жалгирис - Олимпиакос</title>
+  </programme>
+  <programme start="20250105150000 +0200" stop="20250105170000 +0200" channel="maxsport1.bg">
+    <title>Тенис: United Cup Финал, мъже</title>
+  </programme>
+  <programme start="20250105170000 +0200" stop="20250105190000 +0200" channel="maxsport1.bg">
+    <title>Тенис: United Cup Финал, жени</title>
+  </programme>
+  <programme start="20250105190000 +0200" stop="20250105210000 +0200" channel="maxsport1.bg">
+    <title>Тенис: United Cup Финал, смесени двойки</title>
+  </programme>
+  <programme start="20250105210000 +0200" stop="20250105230000 +0200" channel="maxsport1.bg">
+    <title>Волейбол - Серия А1: Лубе Чивитанова - Верона Лубе Чивитанова - Верона</title>
+  </programme>
+  <programme start="20250105230000 +0200" stop="20250106003000 +0200" channel="maxsport1.bg">
+    <title>Световен рали шампионат 2: Обзор на сезона Обзор на сезона</title>
+  </programme>
+  <programme start="20250106003000 +0200" stop="20250106023000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, ATP 250: Оукланд</title>
+  </programme>
+  <programme start="20250106023000 +0200" stop="20250106043000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, ATP 250: Оукланд</title>
+  </programme>
+  <programme start="20250106043000 +0200" stop="20250106073000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, ATP 250: Оукланд</title>
+  </programme>
+  <programme start="20250106073000 +0200" stop="20250106090000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, ATP 250: Оукланд</title>
+  </programme>
+  <programme start="20250106090000 +0200" stop="20250106113000 +0200" channel="maxsport1.bg">
+    <title>Тенис: United Cup Финал, мъже</title>
+  </programme>
+  <programme start="20250106113000 +0200" stop="20250106133000 +0200" channel="maxsport1.bg">
+    <title>Тенис: United Cup Финал, жени</title>
+  </programme>
+  <programme start="20250106133000 +0200" stop="20250106153000 +0200" channel="maxsport1.bg">
+    <title>Тенис: United Cup Финал, смесени двойки</title>
+  </programme>
+  <programme start="20250106153000 +0200" stop="20250106160000 +0200" channel="maxsport1.bg">
+    <title>ATP: "Пътят към Джеда", първа част "Пътят към Джеда", първа част</title>
+  </programme>
+  <programme start="20250106160000 +0200" stop="20250106163000 +0200" channel="maxsport1.bg">
+    <title>ATP: "Пътят към Джеда", втора част "Пътят към Джеда", втора част</title>
+  </programme>
+  <programme start="20250106163000 +0200" stop="20250106183000 +0200" channel="maxsport1.bg">
+    <title>Евролига: Реал Мадрид - Байерн Мюнхен Реал Мадрид - Байерн Мюнхен</title>
+  </programme>
+  <programme start="20250106183000 +0200" stop="20250106190000 +0200" channel="maxsport1.bg">
+    <title>Евролига: Обзор 19 кръг Обзор 19 кръг</title>
+  </programme>
+  <programme start="20250106190000 +0200" stop="20250106200000 +0200" channel="maxsport1.bg">
+    <title>"Брейкпойнт" Тенис токшоу</title>
+  </programme>
+  <programme start="20250106200000 +0200" stop="20250106220000 +0200" channel="maxsport1.bg">
+    <title>ПРЯКО, Купа на Краля: Депортиво Минера - Реал Мадрид</title>
+  </programme>
+  <programme start="20250106220000 +0200" channel="maxsport1.bg">
+    <title>ATP 250: Бризбън Финал</title>
+  </programme>
+  <programme start="20250103080000 +0200" stop="20250103083000 +0200" channel="maxsport2.bg">
+    <title>Trans World Sport</title>
+  </programme>
+  <programme start="20250103083000 +0200" stop="20250103103000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, Тенис: United Cup Четвъртфинал, мъже</title>
+  </programme>
+  <programme start="20250103103000 +0200" stop="20250103123000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, Тенис: United Cup Четвъртфинал, жени</title>
+  </programme>
+  <programme start="20250103123000 +0200" stop="20250103143000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, Тенис: United Cup Четвъртфинал, смесени двойки</title>
+  </programme>
+  <programme start="20250103143000 +0200" stop="20250103161500 +0200" channel="maxsport2.bg">
+    <title>Еврокупа: Гран Канария - Апоел Тел Авив Гран Канария - Апоел Тел Авив</title>
+  </programme>
+  <programme start="20250103161500 +0200" stop="20250103181500 +0200" channel="maxsport2.bg">
+    <title>Евролига: Жалгирис - Олимпиакос Жалгирис - Олимпиакос</title>
+  </programme>
+  <programme start="20250103181500 +0200" stop="20250103191500 +0200" channel="maxsport2.bg">
+    <title>"Удар със стик"</title>
+  </programme>
+  <programme start="20250103191500 +0200" stop="20250103194500 +0200" channel="maxsport2.bg">
+    <title>NFL: Обзор 17 кръг Обзор 17 кръг</title>
+  </programme>
+  <programme start="20250103194500 +0200" stop="20250103220000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, Евролига: Фенербахче - Анадолу Ефес Фенербахче - Анадолу Ефес</title>
+  </programme>
+  <programme start="20250103220000 +0200" stop="20250104000000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, Евролига: Реал Мадрид - Байерн Мюнхен Реал Мадрид - Байерн Мюнхен</title>
+  </programme>
+  <programme start="20250104000000 +0200" stop="20250104030000 +0200" channel="maxsport2.bg">
+    <title>NFL: Минесота Вайкингс - Грийн Бей Пакърс Минесота Вайкингс - Грийн Бей Пакърс</title>
+  </programme>
+  <programme start="20250104030000 +0200" stop="20250104073000 +0200" channel="maxsport2.bg">
+    <title>Волейбол - Купа Италия: Верона - Пиаченца Четвъртфинал</title>
+  </programme>
+  <programme start="20250104073000 +0200" stop="20250104080000 +0200" channel="maxsport2.bg">
+    <title>Trans World Sport</title>
+  </programme>
+  <programme start="20250104080000 +0200" stop="20250104083000 +0200" channel="maxsport2.bg">
+    <title>NFL: Обзор 17 кръг Обзор 17 кръг</title>
+  </programme>
+  <programme start="20250104083000 +0200" stop="20250104103000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, Тенис: United Cup Втори полуфинал, мъже</title>
+  </programme>
+  <programme start="20250104103000 +0200" stop="20250104123000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, Тенис: United Cup Втори полуфинал, жени</title>
+  </programme>
+  <programme start="20250104123000 +0200" stop="20250104143000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, Тенис: United Cup Втори полуфинал, смесени двойки</title>
+  </programme>
+  <programme start="20250104143000 +0200" stop="20250104163000 +0200" channel="maxsport2.bg">
+    <title>Евролига: Реал Мадрид - Байерн Мюнхен Реал Мадрид - Байерн Мюнхен</title>
+  </programme>
+  <programme start="20250104163000 +0200" stop="20250104183000 +0200" channel="maxsport2.bg">
+    <title>NHL: Далас Старс - Отава Сенатърс Далас Старс - Отава Сенатърс</title>
+  </programme>
+  <programme start="20250104183000 +0200" stop="20250104190000 +0200" channel="maxsport2.bg">
+    <title>"Удар със стик"</title>
+  </programme>
+  <programme start="20250104190000 +0200" stop="20250104220000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, NHL: Вашингтон Кепитълс - Ню Йорк Рейнджърс Вашингтон Кепитълс - Ню Йорк Рейнджърс</title>
+  </programme>
+  <programme start="20250104220000 +0200" stop="20250105023000 +0200" channel="maxsport2.bg">
+    <title>Евролига: Фенербахче - Анадолу Ефес Фенербахче - Анадолу Ефес</title>
+  </programme>
+  <programme start="20250105023000 +0200" stop="20250105043000 +0200" channel="maxsport2.bg">
+    <title>Sesame Национална баскетболна лига: Рилски Спортист - Берое Рилски Спортист - Берое</title>
+  </programme>
+  <programme start="20250105043000 +0200" stop="20250105073000 +0200" channel="maxsport2.bg">
+    <title>Евролига: Обзор 19 кръг Обзор 19 кръг</title>
+  </programme>
+  <programme start="20250105073000 +0200" stop="20250105103000 +0200" channel="maxsport2.bg">
+    <title>NFL: Филаделфия Ийгълс - Далас Каубойс Филаделфия Ийгълс - Далас Каубойс</title>
+  </programme>
+  <programme start="20250105103000 +0200" stop="20250105123000 +0200" channel="maxsport2.bg">
+    <title>NHL: Далас Старс - Отава Сенатърс Далас Старс - Отава Сенатърс</title>
+  </programme>
+  <programme start="20250105123000 +0200" stop="20250105130000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, Студио "Баскетбол"</title>
+  </programme>
+  <programme start="20250105130000 +0200" stop="20250105150000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, Sesame Национална баскетболна лига: Рилски Спортист - Берое Рилски Спортист - Берое</title>
+  </programme>
+  <programme start="20250105150000 +0200" stop="20250105151500 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, Студио "Баскетбол"</title>
+  </programme>
+  <programme start="20250105151500 +0200" stop="20250105162000 +0200" channel="maxsport2.bg">
+    <title>Trans World Sport</title>
+  </programme>
+  <programme start="20250105162000 +0200" stop="20250105183000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, Волейбол - Серия А1: Лубе Чивитанова - Верона Лубе Чивитанова - Верона</title>
+  </programme>
+  <programme start="20250105183000 +0200" stop="20250105193000 +0200" channel="maxsport2.bg">
+    <title>"Удар със стик"</title>
+  </programme>
+  <programme start="20250105193000 +0200" stop="20250105200000 +0200" channel="maxsport2.bg">
+    <title>Евролига: Обзор 19 кръг Обзор 19 кръг</title>
+  </programme>
+  <programme start="20250105200000 +0200" stop="20250105232000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, NFL:</title>
+  </programme>
+  <programme start="20250105232000 +0200" stop="20250106013000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, NFL:</title>
+  </programme>
+  <programme start="20250106013000 +0200" stop="20250106023000 +0200" channel="maxsport2.bg">
+    <title>"Зона волей" Токшоу</title>
+  </programme>
+  <programme start="20250106023000 +0200" stop="20250106043000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, ATP 250: Аделаида</title>
+  </programme>
+  <programme start="20250106043000 +0200" stop="20250106080000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, ATP 250: Аделаида</title>
+  </programme>
+  <programme start="20250106080000 +0200" stop="20250106083000 +0200" channel="maxsport2.bg">
+    <title>Trans World Sport</title>
+  </programme>
+  <programme start="20250106083000 +0200" stop="20250106103000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, ATP 250: Аделаида</title>
+  </programme>
+  <programme start="20250106103000 +0200" stop="20250106123000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, ATP 250: Аделаида</title>
+  </programme>
+  <programme start="20250106123000 +0200" stop="20250106143000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, ATP 250: Аделаида</title>
+  </programme>
+  <programme start="20250106143000 +0200" stop="20250106150000 +0200" channel="maxsport2.bg">
+    <title>Trans World Sport</title>
+  </programme>
+  <programme start="20250106150000 +0200" stop="20250106153000 +0200" channel="maxsport2.bg">
+    <title>Евролига: Обзор 19 кръг Обзор 19 кръг</title>
+  </programme>
+  <programme start="20250106153000 +0200" stop="20250106173000 +0200" channel="maxsport2.bg">
+    <title>Sesame Национална баскетболна лига: Рилски Спортист - Берое Рилски Спортист - Берое</title>
+  </programme>
+  <programme start="20250106173000 +0200" stop="20250106180000 +0200" channel="maxsport2.bg">
+    <title>"Удар със стик"</title>
+  </programme>
+  <programme start="20250106180000 +0200" stop="20250106190000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, "Зона волей" Токшоу</title>
+  </programme>
+  <programme start="20250106190000 +0200" stop="20250106191500 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, Студио "Баскетбол"</title>
+  </programme>
+  <programme start="20250106191500 +0200" stop="20250106213000 +0200" channel="maxsport2.bg">
+    <title>ПРЯКО, Sesame Национална баскетболна лига: Академик - Балкан Академик - Балкан</title>
+  </programme>
+  <programme start="20250106213000 +0200" stop="20250106233000 +0200" channel="maxsport2.bg">
+    <title>Волейбол - Серия А1: Модена - Тренто Модена - Тренто</title>
+  </programme>
+  <programme start="20250106233000 +0200" channel="maxsport2.bg">
+    <title>ATP 250: Аделаида</title>
+  </programme>
+  <programme start="20250103080000 +0200" stop="20250103100000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Ювентус - Фиорентина</title>
+  </programme>
+  <programme start="20250103100000 +0200" stop="20250103120000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Каляри - Интер</title>
+  </programme>
+  <programme start="20250103120000 +0200" stop="20250103123000 +0200" channel="maxsport3.bg">
+    <title>Серия А: "Екстра Калчо"</title>
+  </programme>
+  <programme start="20250103123000 +0200" stop="20250103143000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Наполи - Венеция</title>
+  </programme>
+  <programme start="20250103143000 +0200" stop="20250103163000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Милан - Рома</title>
+  </programme>
+  <programme start="20250103163000 +0200" stop="20250103183000 +0200" channel="maxsport3.bg">
+    <title>УЕФА Шампионска лига: Байер Леверкузен - Интер Шести кръг</title>
+  </programme>
+  <programme start="20250103183000 +0200" stop="20250103203000 +0200" channel="maxsport3.bg">
+    <title>Супер Купа Италия: Интер - Аталанта Първи полуфинал за Суперкупата на Италия</title>
+  </programme>
+  <programme start="20250103203000 +0200" stop="20250103210000 +0200" channel="maxsport3.bg">
+    <title>Серия А: "Преди кръга"</title>
+  </programme>
+  <programme start="20250103210000 +0200" stop="20250103230000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Супер Купа Италия: Ювентус - Милан Втори полуфинал за Суперкупата на Италия</title>
+  </programme>
+  <programme start="20250103230000 +0200" stop="20250104000000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Лацио - Аталанта</title>
+  </programme>
+  <programme start="20250104000000 +0200" stop="20250104020000 +0200" channel="maxsport3.bg">
+    <title>Супер Купа Италия: Интер - Аталанта Първи полуфинал за Суперкупата на Италия</title>
+  </programme>
+  <programme start="20250104020000 +0200" stop="20250104040000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Венеция - Емполи</title>
+  </programme>
+  <programme start="20250104040000 +0200" stop="20250104080000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Фиорентина - Наполи</title>
+  </programme>
+  <programme start="20250104080000 +0200" stop="20250104100000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Наполи - Венеция</title>
+  </programme>
+  <programme start="20250104100000 +0200" stop="20250104110000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Обзор 18 кръг Обзор 18 кръг</title>
+  </programme>
+  <programme start="20250104110000 +0200" stop="20250104130000 +0200" channel="maxsport3.bg">
+    <title>Супер Купа Италия: Интер - Аталанта Първи полуфинал за Суперкупата на Италия</title>
+  </programme>
+  <programme start="20250104130000 +0200" stop="20250104150000 +0200" channel="maxsport3.bg">
+    <title>Супер Купа Италия: Ювентус - Милан Втори полуфинал за Суперкупата на Италия</title>
+  </programme>
+  <programme start="20250104150000 +0200" stop="20250104153000 +0200" channel="maxsport3.bg">
+    <title>Серия А: "Преди кръга"</title>
+  </programme>
+  <programme start="20250104153000 +0200" stop="20250104160000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Студио "Футбол"</title>
+  </programme>
+  <programme start="20250104160000 +0200" stop="20250104180000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Серия А: Венеция - Емполи</title>
+  </programme>
+  <programme start="20250104180000 +0200" stop="20250104183000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Студио "Футбол"</title>
+  </programme>
+  <programme start="20250104183000 +0200" stop="20250104190000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Студио "Футбол"</title>
+  </programme>
+  <programme start="20250104190000 +0200" stop="20250104210000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Серия А: Фиорентина - Наполи</title>
+  </programme>
+  <programme start="20250104210000 +0200" stop="20250104214500 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Студио "Футбол"</title>
+  </programme>
+  <programme start="20250104214500 +0200" stop="20250104234500 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Серия А: Верона - Удинезе</title>
+  </programme>
+  <programme start="20250104234500 +0200" stop="20250105000000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Студио "Футбол"</title>
+  </programme>
+  <programme start="20250105000000 +0200" stop="20250105020000 +0200" channel="maxsport3.bg">
+    <title>Супер Купа Италия: Ювентус - Милан Втори полуфинал за Суперкупата на Италия</title>
+  </programme>
+  <programme start="20250105020000 +0200" stop="20250105040000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Монца - Каляри</title>
+  </programme>
+  <programme start="20250105040000 +0200" stop="20250105080000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Лече - Дженоа</title>
+  </programme>
+  <programme start="20250105080000 +0200" stop="20250105100000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Венеция - Емполи</title>
+  </programme>
+  <programme start="20250105100000 +0200" stop="20250105110000 +0200" channel="maxsport3.bg">
+    <title>"Калчо мания" Токшоу</title>
+  </programme>
+  <programme start="20250105110000 +0200" stop="20250105130000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Фиорентина - Наполи</title>
+  </programme>
+  <programme start="20250105130000 +0200" stop="20250105133000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Студио "Футбол"</title>
+  </programme>
+  <programme start="20250105133000 +0200" stop="20250105153000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Серия А: Монца - Каляри</title>
+  </programme>
+  <programme start="20250105153000 +0200" stop="20250105160000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Студио "Футбол"</title>
+  </programme>
+  <programme start="20250105160000 +0200" stop="20250105180000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Серия А: Лече - Дженоа</title>
+  </programme>
+  <programme start="20250105180000 +0200" stop="20250105183000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Студио "Футбол"</title>
+  </programme>
+  <programme start="20250105183000 +0200" stop="20250105190000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Студио "Футбол"</title>
+  </programme>
+  <programme start="20250105190000 +0200" stop="20250105210000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Серия А: Торино - Парма</title>
+  </programme>
+  <programme start="20250105210000 +0200" stop="20250105214500 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Студио "Футбол"</title>
+  </programme>
+  <programme start="20250105214500 +0200" stop="20250105234500 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Серия А: Рома - Лацио</title>
+  </programme>
+  <programme start="20250105234500 +0200" stop="20250106010000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Студио "Футбол"</title>
+  </programme>
+  <programme start="20250106010000 +0200" stop="20250106030000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Торино - Парма</title>
+  </programme>
+  <programme start="20250106030000 +0200" stop="20250106080000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Фиорентина - Наполи</title>
+  </programme>
+  <programme start="20250106080000 +0200" stop="20250106100000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Фиорентина - Наполи</title>
+  </programme>
+  <programme start="20250106100000 +0200" stop="20250106120000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Монца - Каляри</title>
+  </programme>
+  <programme start="20250106120000 +0200" stop="20250106140000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Венеция - Емполи</title>
+  </programme>
+  <programme start="20250106140000 +0200" stop="20250106150000 +0200" channel="maxsport3.bg">
+    <title>Trans World Sport</title>
+  </programme>
+  <programme start="20250106150000 +0200" stop="20250106170000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Рома - Лацио</title>
+  </programme>
+  <programme start="20250106170000 +0200" stop="20250106190000 +0200" channel="maxsport3.bg">
+    <title>Супер Купа Италия: Интер - Аталанта Първи полуфинал за Суперкупата на Италия</title>
+  </programme>
+  <programme start="20250106190000 +0200" stop="20250106210000 +0200" channel="maxsport3.bg">
+    <title>Супер Купа Италия: Ювентус - Милан Втори полуфинал за Суперкупата на Италия</title>
+  </programme>
+  <programme start="20250106210000 +0200" stop="20250106230000 +0200" channel="maxsport3.bg">
+    <title>ПРЯКО, Супер Купа Италия: Финал за Суперкупата на Италия</title>
+  </programme>
+  <programme start="20250106230000 +0200" channel="maxsport3.bg">
+    <title>Серия А: Лече - Дженоа</title>
+  </programme>
+  <programme start="20250103100000 +0200" stop="20250103120000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Майорка - Валенсия</title>
+  </programme>
+  <programme start="20250103120000 +0200" stop="20250103140000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Барселона - Лас Палмас</title>
+  </programme>
+  <programme start="20250103140000 +0200" stop="20250103160000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Валядолид - Атлетико Мадрид</title>
+  </programme>
+  <programme start="20250103160000 +0200" stop="20250103180000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Реал Мадрид - Хетафе</title>
+  </programme>
+  <programme start="20250103180000 +0200" stop="20250103200000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Реал Сосиедад - Бетис</title>
+  </programme>
+  <programme start="20250103200000 +0200" stop="20250103210000 +0200" channel="maxsport4.bg">
+    <title>"Пред Стадиона" - спортно шоу "Пред Стадиона" - спортно шоу</title>
+  </programme>
+  <programme start="20250103210000 +0200" stop="20250103213000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: "Светът на Ла Лига"</title>
+  </programme>
+  <programme start="20250103213000 +0200" stop="20250103220000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, Студио "Футбол"</title>
+  </programme>
+  <programme start="20250103220000 +0200" stop="20250104003000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, Ла Лига: Валенсия - Реал Мадрид</title>
+  </programme>
+  <programme start="20250104003000 +0200" stop="20250104010000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, Студио "Футбол"</title>
+  </programme>
+  <programme start="20250104010000 +0200" stop="20250104041500 +0200" channel="maxsport4.bg">
+    <title>Голф: Genesis Championship</title>
+  </programme>
+  <programme start="20250104041500 +0200" stop="20250104100000 +0200" channel="maxsport4.bg">
+    <title>Голф: Challenge Tour Grand Final</title>
+  </programme>
+  <programme start="20250104100000 +0200" stop="20250104110000 +0200" channel="maxsport4.bg">
+    <title>"Пред Стадиона" - спортно шоу "Пред Стадиона" - спортно шоу</title>
+  </programme>
+  <programme start="20250104110000 +0200" stop="20250104130000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Валенсия - Райо Валекано</title>
+  </programme>
+  <programme start="20250104130000 +0200" stop="20250104150000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Леганес - Реал Сосиедад</title>
+  </programme>
+  <programme start="20250104150000 +0200" stop="20250104170000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Атлетико Мадрид - Севиля</title>
+  </programme>
+  <programme start="20250104170000 +0200" stop="20250104190000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Жирона - Реал Мадрид</title>
+  </programme>
+  <programme start="20250104190000 +0200" stop="20250104193000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: "Светът на Ла Лига"</title>
+  </programme>
+  <programme start="20250104193000 +0200" stop="20250104200000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, Студио "Футбол"</title>
+  </programme>
+  <programme start="20250104200000 +0200" stop="20250104220000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, Купа на Краля: Барбастро - Барселона</title>
+  </programme>
+  <programme start="20250104220000 +0200" stop="20250104223000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, Студио "Футбол"</title>
+  </programme>
+  <programme start="20250104223000 +0200" stop="20250105000000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, Купа на Краля: Марбея - Атлетико Мадрид</title>
+  </programme>
+  <programme start="20250105000000 +0200" stop="20250105044500 +0200" channel="maxsport4.bg">
+    <title>Голф: ABU DHABI HSBC CHAMPIONSHIP</title>
+  </programme>
+  <programme start="20250105044500 +0200" stop="20250105083000 +0200" channel="maxsport4.bg">
+    <title>Голф: DP World Tour Championship, Dubai</title>
+  </programme>
+  <programme start="20250105083000 +0200" stop="20250105103000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, Тенис: United Cup Финал, мъже</title>
+  </programme>
+  <programme start="20250105103000 +0200" stop="20250105123000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, Тенис: United Cup Финал, жени</title>
+  </programme>
+  <programme start="20250105123000 +0200" stop="20250105143000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, Тенис: United Cup Финал, смесени двойки</title>
+  </programme>
+  <programme start="20250105143000 +0200" stop="20250105163000 +0200" channel="maxsport4.bg">
+    <title>Купа на Краля: Барбастро - Барселона</title>
+  </programme>
+  <programme start="20250105163000 +0200" stop="20250105183000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, Купа на Краля: Понферадина - Реал Сосиедад</title>
+  </programme>
+  <programme start="20250105183000 +0200" stop="20250105203000 +0200" channel="maxsport4.bg">
+    <title>Купа на Краля: Марбея - Атлетико Мадрид</title>
+  </programme>
+  <programme start="20250105203000 +0200" stop="20250105210000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: "Светът на Ла Лига"</title>
+  </programme>
+  <programme start="20250105210000 +0200" stop="20250105220000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: "Най-добрите мачове" "Най-добрите мачове"</title>
+  </programme>
+  <programme start="20250105220000 +0200" stop="20250106013000 +0200" channel="maxsport4.bg">
+    <title>Купа на Краля: Понферадина - Реал Сосиедад</title>
+  </programme>
+  <programme start="20250106013000 +0200" stop="20250106040000 +0200" channel="maxsport4.bg">
+    <title>Голф: BMW Australian PGA Championship</title>
+  </programme>
+  <programme start="20250106040000 +0200" stop="20250106120000 +0200" channel="maxsport4.bg">
+    <title>Голф: ISPS HANDA Australian Open</title>
+  </programme>
+  <programme start="20250106120000 +0200" stop="20250106140000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Севиля - Селта</title>
+  </programme>
+  <programme start="20250106140000 +0200" stop="20250106160000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Райо Валекано - Реал Мадрид</title>
+  </programme>
+  <programme start="20250106160000 +0200" stop="20250106180000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Атлетико Мадрид - Хетафе</title>
+  </programme>
+  <programme start="20250106180000 +0200" stop="20250106200000 +0200" channel="maxsport4.bg">
+    <title>Купа на Краля: Барбастро - Барселона</title>
+  </programme>
+  <programme start="20250106200000 +0200" stop="20250106213000 +0200" channel="maxsport4.bg">
+    <title>ПРЯКО, "Пред Стадиона" - спортно шоу "Пред Стадиона" - спортно шоу</title>
+  </programme>
+  <programme start="20250106213000 +0200" stop="20250106233000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Барселона - Леганес</title>
+  </programme>
+  <programme start="20250106233000 +0200" channel="maxsport4.bg">
+    <title>Ла Лига: Валядолид - Валенсия</title>
   </programme>
   <programme start="20250103053000 +0200" stop="20250103063000 +0200" channel="eurosport1.bg">
     <title lang="bg">"Здравословно" с водещ Христо Деянов (повторение)</title>

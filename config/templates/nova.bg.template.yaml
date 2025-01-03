@@ -1,6 +1,8 @@
 ---
 author: Hristo Genev
-date-format: yyyy/MM/dd
+
+date-parameter:
+  format: yyyy/MM/dd
 
 request:
   url: https://nova.bg/schedule/index/${channelId}/${date}

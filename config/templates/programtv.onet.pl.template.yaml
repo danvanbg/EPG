@@ -1,14 +1,20 @@
 ---
-id: programtv.onet.pl
 enabled: true
 version: 1.0
 author: Hristo Genev
 timezone: Europe/Warsaw
-date-format: list
-date-list: [ 0, 1, 2, 3, 4, 5, 6]
+
+date-parameter:
+  format: list
+  list: [ 0, 1, 2, 3, 4, 5, 6 ]
 
 request:
   url: http://programtv.onet.pl/program-tv/${url}?dzien=${date}
+  operations: 
+    - name: validate-text-exists
+      hook: after
+      debug: true
+      arguments: [ "<spam>${date.format(yyyy-MM-dd)}</span>"]
 
 programs:
   debug: false

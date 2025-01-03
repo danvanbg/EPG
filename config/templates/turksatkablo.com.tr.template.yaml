@@ -1,8 +1,9 @@
 ﻿---
-id: turksatkablo.com.tr
 version: 1.0
 author: Hristo Genev
-date-format: epoch
+
+date-parameter:
+  format: epoch
 
 request:
   http-timeout: 60

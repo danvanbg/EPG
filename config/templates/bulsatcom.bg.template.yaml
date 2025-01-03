@@ -1,7 +1,6 @@
 ---
 version: 1.0
 author: Hristo Genev
-culture: bg-BG
 timezone: Europe/Moscow
 
 request:

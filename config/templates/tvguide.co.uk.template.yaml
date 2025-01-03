@@ -1,11 +1,10 @@
 ---
-id: tvguide.co.uk
-enabled: true
 version: 1.1
 author: Hristo Genev
 timezone: Europe/London
-locator-strategy: csspath
-date-format: yyyy-MM-dd
+
+date-parameter:
+  format: yyyy-MM-dd
 
 request:
   url: https://www.tvguide.co.uk/channel/${channelId}?date=${date}

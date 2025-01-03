@@ -1,6 +1,8 @@
 ---
 author: Hristo Genev
-date-format: dd.MM
+
+date-parameter:
+  format: dd.MM
 
 request:
   cache-priority: 2

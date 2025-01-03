@@ -1,7 +1,6 @@
 ---
 version: 1.0
 author: Hristo Genev
-culture: bg-BG
 
 request:
   url: https://www.city.bg/schedule

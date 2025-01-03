@@ -1,51 +1,28 @@
 ---
 author: Hristo Genev
-culture: bg-BG
-date-format: yyyy/MM/dd
+date-parameter:
+  format: list
+  list: [ 1,2,3,4,5,6,7 ]
 
 request:
   debug: false
-  url: https://www.axn-bulgaria.com/programa/ajax/axnbg/data/listings/true/${date}
+  url: https://axn-bulgaria.com/programa/
     
 programs:
-  locator: li.listing
+  locator: "#${channelId} .day:nth-of-type(${date}) .program"
     
 elements:
   - name: start
-    locator: .date
-
-  - name: _meta
-    locator: .meta
+    locator: .time
 
   - name: title
-    language: bg
     locator: .title
-    operations:
-      - name: beautify
-        hook: after
-      - name: append
-        hook: after
-        arguments: [ ", ${_meta}" ]
-        conditions: [ value-not-empty ]
-  - name: category
-    language: en
-    locator: .genre
-
-  - name: icon
-    locator: img
-    attribute: src
-
-  - name: _detailsurl
-    locator: .title a
-    attribute: href
-
-# program-details:
-#   request:
-#     url: https://www.axn-bulgaria.com${_detailsurl}
-  
-#   elements:
-#     - name: desc
-#       enabled: false
-#       locator: .pane-title + .pane-content p
 
 delay-between-requests: 500
+channel-parameters:
+  axn.bg:
+    channelId: AXNtimeline
+  axnwhite.bg:
+    channelId: AXN_whitetimeline
+  axnblack.bg:
+    channelId: AXN_blacktimeline

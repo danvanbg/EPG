@@ -2,7 +2,9 @@
 version: 1.0
 author: Hristo Genev
 timezone: Europe/Madrid
-date-format: yyyy-MM-dd
+
+date-parameter:
+  format: yyyy-MM-dd
 
 request:
   url: https://www.movistarplus.es/programacion-tv/${channelId}/${date}

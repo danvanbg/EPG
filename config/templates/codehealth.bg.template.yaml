@@ -1,6 +1,8 @@
 ---
 author: Hristo Genev
-date-format: epoch
+
+date-parameter:
+  format: epoch
 
 request:
   url: https://codehealth.bg/wp-admin/admin-ajax.php

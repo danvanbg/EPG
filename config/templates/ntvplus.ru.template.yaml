@@ -1,7 +1,9 @@
 ---
 author: Hristo Genev
 culture: Ru-ru
-date-format: dd.MM.yyyy
+
+date-parameter:
+  format: dd.MM.yyyy
 
 request:
   url: https://ntvplus.ru/tv/ajax/tv?genre=all&date=${date}&tz=0&search=&channel=${channelId}&offset=0

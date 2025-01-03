@@ -1,9 +1,10 @@
 ---
-id: raiplay.it
 enabled: true
 version: 1.0
 author: Hristo Genev
-date-format: dd-MM-yyyy
+
+date-parameter:
+  format: dd-MM-yyyy
 
 request:
   url: https://www.raiplay.it/palinsesto/app/${channelId}/${date}.json

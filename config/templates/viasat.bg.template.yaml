@@ -1,7 +1,8 @@
 ---
 uthor: Hristo Genev
-culture: bg-BG
-date-format: yyyy-MM-d
+
+date-parameter:
+  format: yyyy-MM-d
 
 request:
   url: https://${host}/?date=${date}

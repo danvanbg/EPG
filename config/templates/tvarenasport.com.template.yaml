@@ -1,9 +1,10 @@
 author: Hristo Genev
 culture: sr-Latn-RS
 timezone: Europe/Belgrade
-locator-strategy: csspath
-date-format: list
-date-list: [ 2, 3, 4, 5, 6, 7]
+
+date-parameter:
+  format: list
+  list: [ 2, 3, 4, 5, 6, 7]
 
 request:
   url: https://www.tvarenasport.com/tv-scheme
@@ -68,22 +69,22 @@ channel-parameters:
     channelId: 13
 
   arenasport1.hr:
-    channelId: 380
+    channelId: 1
   arenasport2.hr:
-    channelId: 381
+    channelId: 2
   arenasport3.hr:
-    channelId: 382
+    channelId: 3
   arenasport4.hr:
-    channelId: 383
+    channelId: 4
   arenasport5.hr:
-    channelId: 384
+    channelId: 5
   arenasport6.hr:
-    channelId: 1175
+    channelId: 6
   arenasport7.hr:
-    channelId: 1291
+    channelId: 7
   arenasport8.hr:
-    channelId: 1292
+    channelId: 8
   arenasport9.hr:
-    channelId: 1293
+    channelId: 9
   arenasport10.hr:
-    channelId: 1294
+    channelId: 10

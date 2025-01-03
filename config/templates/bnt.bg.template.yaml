@@ -1,6 +1,7 @@
 author: Hristo Genev
-culture: bg-BG
-date-format: yyyyMMdd
+
+date-parameter:
+  format: yyyyMMdd
 
 request:
   url: https://bnt.bg/program/${channelId}

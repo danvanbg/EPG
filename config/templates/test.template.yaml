@@ -1,6 +1,8 @@
 ﻿---
 author: Hristo Genev
-date-format: YYYYMMdd
+
+date-parameter:
+  format: YYYYMMdd
 
 request:
   method: POST
@@ -56,5 +58,5 @@ channel-parameters:
   channel1.id:
     channelId: 1
     channelUrl: program-for-a-single-day.html
-    locator: .b5,.tv_line,.clearfix
+    locator: .b5,.tv_line,.
  

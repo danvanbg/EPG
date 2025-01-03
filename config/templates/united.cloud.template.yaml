@@ -1,6 +1,8 @@
 version: 1.0
 author: Hristo Genev
-date-format: unix
+
+date-parameter:
+  format: epoch
 
 init-pages:
   - request:

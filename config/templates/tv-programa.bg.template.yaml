@@ -1,9 +1,12 @@
 author: Hristo Genev
-culture: bg-BG
+
+date-parameter:
+  format: dddd
+  culture: bg-BG
 
 request:
   debug: false
-  url: https://www.xn----8sbafg9clhjcp.bg/tv/${channelId}/${date.format(dddd).capitalize()}
+  url: https://www.xn----8sbafg9clhjcp.bg/tv/${channelId}/${date.capitalize()}
 
 programs:
   locator: .programTable > tbody > tr

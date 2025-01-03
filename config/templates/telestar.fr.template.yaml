@@ -1,10 +1,11 @@
 ---
 version: 1.0
 author: Hristo Genev
-culture: fr-FR
 timezone: Europe/Paris
-date-format: list
-date-list: [1,2,3,4,5,6,7]
+
+date-parameter:
+  format: list
+  list: [1,2,3,4,5,6,7]
 
 request:
   debug: false

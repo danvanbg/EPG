@@ -1,7 +1,9 @@
 ---
 author: Hristo Genev
 culture: bg-BG
-date-format: yyyy-MM
+
+date-parameter:
+  format: yyyy-MM
 
 request: 
   url: http://exports.pawa.tv/viasat/${channelNameEncoded}/Bulgarian/${date}-${channelNameEncoded}-EET.xml
