@@ -3648,8 +3648,9 @@
   - name: TeleSur
     lang: es
   sources:
+  - tv24.co.uk
   - movistarplus.es
-
+  
 #############
 ### EROTIC
 #############

@@ -13,7 +13,6 @@ request:
   operations: 
     - name: validate-text-exists
       hook: after
-      debug: true
       arguments: [ "<spam>${date.format(yyyy-MM-dd)}</span>"]
 
 programs:
