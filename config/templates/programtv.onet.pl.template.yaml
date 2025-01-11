@@ -112,3 +112,5 @@ channel-parameters:
     url: euronews-367
   bloomberg.com:
     url: bloomberg-ang-245
+  360tunebox.tv:
+    url: 360tunebox-302

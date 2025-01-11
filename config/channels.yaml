@@ -265,9 +265,8 @@
   enabled: true
   names:
   - name: Агро ТВ
-    lang: bg
+  - name: Agro TV HD
   - name: Agro TV
-    lang: en
   groups: ["bg"]
   sources:
   - start.bg
@@ -1477,6 +1476,22 @@
   sources:
   - united.cloud
   
+- id: beinsports1.fr
+  enabled: true
+  names:
+  - name: beIN Sports 1 HD (fr)
+  groups: ["sport"]
+  sources:
+  - programme-tv.net
+  
+- id: beinsports2.fr
+  enabled: true
+  names:
+  - name: beIN Sports 2 HD (fr)
+  groups: ["sport"]
+  sources:
+  - programme-tv.net
+  
 - id: ligadecampeones.mplus.es
   enabled: false
   names:
@@ -1660,6 +1675,15 @@
   - tvsporedi.si
   - dnes.bg
   - tv.dir.bg
+  - programtv.onet.pl
+  
+- id: 360tunebox.tv
+  days-ahead: 1
+  enabled: true
+  names:
+  - name: 360Tunebox HD
+  - name: 360 Tunebox HD
+  sources:
   - programtv.onet.pl
 
 - id: thevoice.bg
@@ -2555,9 +2579,8 @@
   enabled: true
   names:
   - name: 24 Kitchen
-    lang: en
   - name: 24 Kitchen HD
-    lang: en
+  - name: 24 Kitchen LQ
   sources:
   - waltdisney.bg
   
@@ -3645,6 +3668,8 @@
 - id: telesur.es
   enabled: true
   names:
+  - name: TeleSur HD
+  - name: TeleSur EN HD
   - name: TeleSur
     lang: es
   sources:

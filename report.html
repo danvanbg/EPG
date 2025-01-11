@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <meta charset="UTF-8">
 <head>
@@ -34,15 +35,15 @@
                 channelNameTd.innerText = channel.ChannelName;
                 channelNameTd.style.fontWeight = "bold";
                 channelNameTd.style.fontFamily = "Verdana";
-
                 tableRowElement.appendChild(channelNameTd);
 
                 var totalProgramsTd = document.createElement("td");
                 tableRowElement.appendChild(totalProgramsTd);
-                // totalProgramsTd.innerText = 
-                // var channelIdTd = document.createElement("td");
-                // channelIdTd.innerText = channel.ChannelName;
-                // tableRowElement.appendChild(channelIdTd);
+
+                var hasDetailsTd = document.createElement("td");
+                var icon = channel.HasDetails ? "&#x2705;" : "";
+                hasDetailsTd.innerHTML = icon;
+                tableRowElement.appendChild(hasDetailsTd);
 
                 var totalDurationTD = document.createElement("td");
                 tableRowElement.appendChild(totalDurationTD);
@@ -138,8 +139,8 @@
         <tr>
             <th rowspan="2"><h2>#</h2></th>
             <th rowspan="2"><h2>Channel name</h2></th>
-            <!-- <th>Channel Id</th> -->
             <th rowspan="2"><h2>Total programs</h2></th>
+            <th rowspan="2"><h2>Has details</h2></th>
             <th rowspan="2"><h2>Overall grabbing duration</h2></th>
             <th colspan="5"><h2>Grabbing rounds</h2></th>
         </tr>
