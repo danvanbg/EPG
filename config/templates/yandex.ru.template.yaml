@@ -63,6 +63,8 @@ channel-parameters:
     channelId: tv1000-russkoe-kino-475
   centralnoe.ru:
     channelId: centralnoe-televidenie-ctv-198
+  fightbox.com:
+    channelId: fast-fun-box-hd-1243
 
 
 # Used for extracting channel names and params from a page containing the list of available channels

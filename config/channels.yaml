@@ -35,6 +35,7 @@
   - name: БНТ 1
   - name: БНТ 1 HD
   - name: БНТ 1 LQ
+  - name: БНТ1 LQ
   icon: http://tv.bnt.bg/assets/images/bnt1-home.jpg
   groups: ["bg"]
   sources:
@@ -111,6 +112,7 @@
   - name: БТВ Екшън
     lang: bg
   - name: bTV Action
+  - name: bTV Action LQ
     lang: en
   - name: bTV Action HD
     lang: en
@@ -129,7 +131,7 @@
     lang: en
   - name: bTv Story HD
     lang: en
-  - name: bTv Story LQ
+  - name: BTV Story LQ
     lang: en
   groups: ["bg"]
   sources:
@@ -430,6 +432,7 @@
   - name: Btv Cinema
     lang: en
   - name: Btv Cinema HD
+  - name: Btv Cinema LQ
     lang: en
   sources:
   - btv.bg
@@ -823,13 +826,13 @@
   - start.bg
   
 - id: fightclub.diemasport.bg
-  enabled: false
+  enabled: true
   increment: false
   names:
-  - name: Fight Club
-  - name: Fight Club HD
-  - name: Fight Club 4K
-  - name: Fight Club LQ
+  - name: Fightklub
+  - name: Fightklub HD
+  - name: Fightklub 4K
+  - name: Fightklub LQ
   groups: ["sport"]
   sources:
   - diemaextra.bg
@@ -1289,9 +1292,11 @@
   enabled: true
   names:
   - name: Extreme Sports Channel
+  - name: Extreme Sports
     lang: en
   groups: ["sport"]
   sources:
+  - tvsporedi.si
   - mts.rs
   - dnes.bg
   - tvtoday.de
@@ -1482,6 +1487,7 @@
   - name: beIN Sports 1 HD (fr)
   groups: ["sport"]
   sources:
+  - bein.com
   - programme-tv.net
   
 - id: beinsports2.fr
@@ -1490,7 +1496,34 @@
   - name: beIN Sports 2 HD (fr)
   groups: ["sport"]
   sources:
+  - bein.com
   - programme-tv.net
+
+- id: beinsports3.fr
+  enabled: false
+  names:
+  - name: beIN Sports 2 HD (fr)
+  groups: ["sport"]
+  sources:
+  - bein.com
+  
+- id: beinsports1.com
+  enabled: false
+  names:
+  - name: beIN Sports 1 (ar)
+  - name: beIN Sports 1 HD (ar)
+  groups: ["sport"]
+  sources:
+  - bein.com
+  
+- id: beinsports2.com
+  enabled: true
+  names:
+  - name: beIN Sports 2 (ar)
+  - name: beIN Sports 2 HD (ar)
+  groups: ["sport"]
+  sources:
+  - bein.com
   
 - id: ligadecampeones.mplus.es
   enabled: false
@@ -1551,13 +1584,12 @@
 - id: foxsports2.com
   enabled: true
   names:
-  - name: Fox Sports 1
-  - name: Fox Sports 1 USA
-  - name: Fox Sports 1 HD
+  - name: Fox Sports 2
+  - name: Fox Sports 2 USA
+  - name: Fox Sports 2 HD
   groups: ["sport"]
   sources:
   - ontvtonight.com
-
   
 - id: fueltv.com
   enabled: true
@@ -1570,6 +1602,23 @@
   - tv.dir.bg
   - start.bg
   - dnes.bg
+
+- id: fastfunbox.com
+  enabled: true
+  names:
+  - name: Fast and Fun HD
+  groups: ["sport"]
+  sources:
+  - programtv.onet.pl
+  
+- id: fightbox.com
+  enabled: true
+  names:
+  - name: FightBox HD
+  groups: ["sport"]
+  sources:
+  - programtv.onet.pl
+  - yandex.ru
 
   
 #############
@@ -1734,6 +1783,7 @@
   - name: Magic TV
     lang: en
   sources:
+  - magictv.bg
   
 - id: magictv.uk
   days-ahead: 1
@@ -1776,6 +1826,7 @@
   enabled: true
   names:
   - name: Planeta Folk
+  - name: Planeta Folk LQ
     lang: en
   - name: Планета Фолк
     lang: bg
@@ -2332,6 +2383,7 @@
   - name: Nova News
     lang: en
   - name: Nova News HD
+  - name: Nova News LQ
     lang: en
   sources:
   - nova.bg
@@ -2506,6 +2558,7 @@
   enabled: true
   names:
   - name: CCTV 4
+  - name: CCTV 4 HD
     lang: en
   sources:
   - tv.sms.cz
@@ -2520,6 +2573,14 @@
   - mts.rs
   - programtv.onet.pl
   - tvsporedi.si
+  
+- id: cgtndocumentary.en
+  enabled: true
+  names:
+  - name: CGTN Docu HD
+  sources:
+  - tv24.co.uk
+  - ontvtonight.com
   
 - id: arirang.tv
   enabled: true
@@ -2846,6 +2907,7 @@
   - name: Травел ТВ
     lang: bg
   - name: Travel TV
+  - name: Travel LQ
     lang: en
   sources:
   - traveltv.bg-night
@@ -3044,6 +3106,7 @@
   enabled: true
   names:
   - name: Nick Jr.
+  - name: Nick Jr. LQ
   - name: Nick HD
     lang: en
   groups: [ "kids" ]
