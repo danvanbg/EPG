@@ -12,13 +12,15 @@ request:
   operations: 
     - name: remove-before
       hook: after
-      arguments: [ "<script type=\"application/ld+json\">", true]
+      # Remove the text before the second occurance of the script tag, remove the script tag as well
+      arguments: [ "<script type=\"application/ld+json\">", true, 2]
     - name: remove-after
       hook: after
+      # Remove the text before the first occurance of the closing script tag, remove the closing script tag as well
       arguments: [ "</script>", true]
     
 programs:
-  debug: false
+  debug: true
   locator-strategy: jsonpath
   locator: $.itemListElement[:]
 
@@ -45,3 +47,5 @@ channel-parameters:
     channelId: TLESUR
   movistargolf.es:
     channelId: GOLF+
+  cgtndocumentary.cn:
+    channelId: CGTND

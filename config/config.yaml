@@ -3,7 +3,7 @@
 log-level: verbose
 
 # The number of days ahead we will grab programs for.
-days-ahead: 4
+days-ahead: 3
 
 # The number of days in the past a program will be kept for.
 days-behind: 0
@@ -100,36 +100,6 @@ output-files:
     days-behind: 0
     compression: gzip
 
-  - name: all-4days.full.epg.xml
-    days-ahead: 4
-    days-behind: 0
-    compression: none
-
-  - name: all-4days.full.epg.xml.gz
-    days-ahead: 4
-    days-behind: 0
-    compression: gzip
-
-  - name: all-4days.details.epg.xml.gz
-    days-ahead: 4
-    days-behind: 0
-    compression: gzip  
-
-  - name: all-4days.details.epg.xml
-    days-ahead: 4
-    days-behind: 0
-    compression: none  
-
-  - name: all-4days.basic.epg.xml.gz
-    days-ahead: 4
-    days-behind: 0
-    compression: gzip 
-    
-  - name: all-4days.basic.epg.xml
-    days-ahead: 4
-    days-behind: 0
-    compression: none    
-    
   - name: all-3days.basic.epg.xml
     days-ahead: 3
     days-behind: 0
@@ -205,13 +175,13 @@ output-files:
     compression: gzip
     
   - name: bulgarian.3days.full.epg.xml.gz
-    days-ahead: 4
+    days-ahead: 3
     days-behind: 0
     groups: ["bg"]
     compression: gzip
     
   - name: bulgarian.3days.full.epg.xml
-    days-ahead: 4
+    days-ahead: 3
     days-behind: 0
     groups: ["bg"]
     compression: none
