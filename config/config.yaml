@@ -123,12 +123,6 @@ output-files:
     days-behind: 0
     details-level: 2
     compression: gzip
-    
-  - name: all-3days.details.epg.xml.gz
-    days-ahead: 3
-    days-behind: 0
-    details-level: 2
-    compression: gzip
 
   - name: all-3days.full.epg.xml
     days-ahead: 3
