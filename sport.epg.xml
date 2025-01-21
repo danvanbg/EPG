@@ -390,9 +390,6 @@
     <title>Уникаха - Валенсия</title>
     <desc>17 кръг, Баскетбол: Лига Ендеса 2024/2025, /n/</desc>
   </programme>
-  <programme start="20250121013000 +0200" stop="20250121080000 +0200" channel="diemasport.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
   <programme start="20250121080000 +0200" stop="20250121100000 +0200" channel="diemasport.bg">
     <title>Марек - Дунав, 11 кръг, Футбол: Втора професионална лига 2024/2025, /n/</title>
   </programme>
@@ -771,11 +768,8 @@
   <programme start="20250121233500 +0200" stop="20250122023000 +0200" channel="fightclub.diemasport.bg">
     <title>Bare Knuckle Fighting Championship, BKFC Fight Night Kansas City</title>
   </programme>
-  <programme start="20250122023000 +0200" stop="20250122055000 +0200" channel="fightclub.diemasport.bg">
+  <programme start="20250122023000 +0200" stop="20250122060000 +0200" channel="fightclub.diemasport.bg">
     <title>Bare Knuckle Fighting Championship, BKFC 67 - Denver Coliseum, Denver, Colorado, USA</title>
-  </programme>
-  <programme start="20250122055000 +0200" stop="20250122060000 +0200" channel="fightclub.diemasport.bg">
-    <title>Boxing World Weekly, Сезон 9 Епизод 923</title>
   </programme>
   <programme start="20250122060000 +0200" stop="20250122093500 +0200" channel="fightclub.diemasport.bg">
     <title>ONE Friday Fights, Сезон 2024 Епизод 72</title>
@@ -6407,8 +6401,56 @@
   <programme start="20250123040000 +0200" stop="20250123050000 +0200" channel="eurosport1.de">
     <title>Ski alpin: Weltcup</title>
   </programme>
-  <programme start="20250123050000 +0200" channel="eurosport1.de">
+  <programme start="20250123050000 +0200" stop="20250123060000 +0200" channel="eurosport1.de">
     <title>Ski alpin: Weltcup</title>
+  </programme>
+  <programme start="20250123060000 +0200" stop="20250123070000 +0200" channel="eurosport1.de">
+    <title>Tennis: Australian Open</title>
+  </programme>
+  <programme start="20250123070000 +0200" stop="20250123080000 +0200" channel="eurosport1.de">
+    <title>Tennis: Australian Open</title>
+  </programme>
+  <programme start="20250123080000 +0200" stop="20250123100000 +0200" channel="eurosport1.de">
+    <title>Winter-Universiade</title>
+  </programme>
+  <programme start="20250123100000 +0200" stop="20250123103000 +0200" channel="eurosport1.de">
+    <title>First Serve Rittner</title>
+  </programme>
+  <programme start="20250123103000 +0200" stop="20250123123000 +0200" channel="eurosport1.de">
+    <title>Tennis: Australian Open</title>
+  </programme>
+  <programme start="20250123123000 +0200" stop="20250123124500 +0200" channel="eurosport1.de">
+    <title>Tennis: Matchball</title>
+  </programme>
+  <programme start="20250123124500 +0200" stop="20250123143000 +0200" channel="eurosport1.de">
+    <title>Tennis: Australian Open</title>
+  </programme>
+  <programme start="20250123143000 +0200" stop="20250123150000 +0200" channel="eurosport1.de">
+    <title>Tennis: Matchball</title>
+  </programme>
+  <programme start="20250123150000 +0200" stop="20250123164500 +0200" channel="eurosport1.de">
+    <title>The Power of the Olympics</title>
+  </programme>
+  <programme start="20250123164500 +0200" stop="20250123180000 +0200" channel="eurosport1.de">
+    <title>Tennis: Australian Open</title>
+  </programme>
+  <programme start="20250123180000 +0200" stop="20250123190000 +0200" channel="eurosport1.de">
+    <title>Tennis: Australian Open</title>
+  </programme>
+  <programme start="20250123190000 +0200" stop="20250123200000 +0200" channel="eurosport1.de">
+    <title>Winter-Universiade</title>
+  </programme>
+  <programme start="20250123200000 +0200" stop="20250123210000 +0200" channel="eurosport1.de">
+    <title>Winter-Universiade</title>
+  </programme>
+  <programme start="20250123210000 +0200" stop="20250123211500 +0200" channel="eurosport1.de">
+    <title>The Power of the Olympics</title>
+  </programme>
+  <programme start="20250123211500 +0200" stop="20250123231500 +0200" channel="eurosport1.de">
+    <title>Handball: WM</title>
+  </programme>
+  <programme start="20250123231500 +0200" channel="eurosport1.de">
+    <title>Biathlon: Weltcup</title>
   </programme>
   <programme start="20250121060000 +0200" stop="20250121063000 +0200" channel="skysportbundesliga.de">
     <title>Fußball: Bundesliga</title>
@@ -8430,10 +8472,6 @@
     <title>Sport Klub 5 Promo 3</title>
     <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
   </programme>
-  <programme start="20250124000000 +0200" channel="sportklub5.hr">
-    <title>Sport Klub 5 Promo 4</title>
-    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
-  </programme>
   <programme start="20250121000000 +0200" stop="20250121010000 +0200" channel="sportklub6.hr">
     <title>Sport Klub 6 Promo 4</title>
     <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
@@ -8720,10 +8758,6 @@
   </programme>
   <programme start="20250123230000 +0200" stop="20250124000000 +0200" channel="sportklub6.hr">
     <title>Sport Klub 6 Promo 3</title>
-    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
-  </programme>
-  <programme start="20250124000000 +0200" channel="sportklub6.hr">
-    <title>Sport Klub 6 Promo 4</title>
     <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
   </programme>
   <programme start="20250121030000 +0200" stop="20250121033000 +0200" channel="beinsports1.fr">

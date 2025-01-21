@@ -116,6 +116,10 @@ channel-parameters:
     channelId: id-xtra
   historytv.com:
     channelId: history
+  btvstory.bg:
+    channelId: btv-story
+  btvaction.bg:
+    channelId: btv-action
 
 #channel-extract-rules:
 #  url: https://www.xn----8sbafg9clhjcp.bg/

@@ -118,11 +118,12 @@
     lang: en
   groups: ["bg"]
   sources:
+  - tv-programa.bg
   - btv.bg
   - dnes.bg
   - tv.dir.bg
 
-- id: btvlady.bg
+- id: btvstory.bg
   enabled: true
   names:
   - name: БТВ Стори
@@ -135,6 +136,7 @@
     lang: en
   groups: ["bg"]
   sources:
+  - tv-programa.bg
   - btv.bg
   - dnes.bg
   - tv.dir.bg
