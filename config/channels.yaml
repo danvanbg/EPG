@@ -348,6 +348,7 @@
     lang: bg
   groups: ["bg"]
   sources:
+  - sedemosmi.tv
   - start.bg
   - dnes.bg
   
