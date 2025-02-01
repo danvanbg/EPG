@@ -5,7 +5,7 @@ date-parameter:
   format: yyyy-MM-dd
 
 request:
-  url: https://www.start.bg/lenta/tv-programa/tv/skat/${date}/0
+  url: https://www.start.bg/lenta/tv-programa/tv/${channelId}/${date}/0
 
 programs:
   locator: .tv-dlist > li
