@@ -333,6 +333,7 @@
   groups: ["bg"]
   sources:
   - start.bg
+  - tv-programa.bg
   - dnes.bg
   
 - id: sedemosmi.tv
@@ -1922,7 +1923,7 @@
   - tvtoday.de
 
 - id: mcmtop.fr
-  days-ahead: 2
+  days-ahead: 1
   enabled: true
   names:
    - name: MCM Top
@@ -1931,6 +1932,7 @@
   sources:
   - yandex.ru
   - programme-tv.net
+  - meo.pt
   
 - id: hayatfolk.rs
   days-ahead: 1
@@ -2499,6 +2501,7 @@
   - tvplus.com.tr
   - tvtoday.de
   - tvsporedi.si
+  - meo.pt
   
 - id: france24.fr
   enabled: true
@@ -2509,6 +2512,7 @@
   sources:
   - tvtoday.de
   - tvsporedi.si
+  - meo.pt
   
 - id: russiatoday.com
   enabled: false
@@ -2564,6 +2568,7 @@
     lang: en
   sources:
   - tv.sms.cz
+  - meo.pt
   
 - id: cgtn.cn
   enabled: true
@@ -2575,6 +2580,14 @@
   - mts.rs
   - programtv.onet.pl
   - tvsporedi.si
+  
+- id: freedom.ua
+  enabled: true
+  names:
+  - name: FREEДОМ (Укр)
+  sources:
+  - tvprofil.com
+  - meo.pt
   
 - id: cgtndocumentary.en
   enabled: true
@@ -2594,6 +2607,7 @@
   sources:
   - uksky.com
   - programtv.onet.pl
+  - meo.pt
 
 #######################
 ### HOBBY & SCIENCE ###
@@ -2890,6 +2904,7 @@
   sources:
   - tv24.co.uk
   - tvsporedi.si
+  - meo.pt
   
 - id: travelchannel.bg
   enabled: true
@@ -3720,6 +3735,7 @@
   sources:
     - tvplus.com.tr
     - tvsporedi.si
+    - meo.pt
 
 - id: tve.es
   enabled: true
@@ -3729,6 +3745,7 @@
   sources:
   - mi.tv 
   - movistarplus.es
+  - meo.pt
   
 - id: 24horas.es
   enabled: true
@@ -3737,6 +3754,7 @@
   - name: 24 Horas HD
   sources:
   - mi.tv
+  - meo.pt
   
 - id: telesur.es
   enabled: true

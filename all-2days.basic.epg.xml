@@ -819,6 +819,9 @@
     <display-name>CGTN</display-name>
     <display-name lang="en">CGTN HD</display-name>
   </channel>
+  <channel id="freedom.ua">
+    <display-name>FREEДОМ (Укр)</display-name>
+  </channel>
   <channel id="cgtndocumentary.en">
     <display-name>CGTN Docu HD</display-name>
   </channel>
@@ -4173,6 +4176,141 @@
   <programme start="20250205214500 +0200" stop="20250206120000 +0200" channel="tvn.bg">
     <title>12:00 – „Измъчвай ме но ме обичай (1968)“ –  комедия.</title>
   </programme>
+  <programme start="20250204100000 +0200" stop="20250204103000 +0200" channel="tv1.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20250204103000 +0200" stop="20250204110000 +0200" channel="tv1.bg">
+    <title lang="bg">"Златен кукер"</title>
+  </programme>
+  <programme start="20250204110000 +0200" stop="20250204130000 +0200" channel="tv1.bg">
+    <title lang="bg">"Viva la Musica!"</title>
+  </programme>
+  <programme start="20250204130000 +0200" stop="20250204133000 +0200" channel="tv1.bg">
+    <title lang="bg">"Брандовете на България" с водещ Мария Василева (п.)</title>
+  </programme>
+  <programme start="20250204133000 +0200" stop="20250204155000 +0200" channel="tv1.bg">
+    <title lang="bg">"Viva La Musica!"</title>
+  </programme>
+  <programme start="20250204155000 +0200" stop="20250204160000 +0200" channel="tv1.bg">
+    <title lang="bg">"Моята улица" - документална поредица на ТВ1 (от архива)</title>
+  </programme>
+  <programme start="20250204160000 +0200" stop="20250204163000 +0200" channel="tv1.bg">
+    <title lang="bg">"21 тайни за медитация с Константин Драгов"</title>
+  </programme>
+  <programme start="20250204163000 +0200" stop="20250204164500 +0200" channel="tv1.bg">
+    <title lang="bg">Телепазарен прозорец</title>
+  </programme>
+  <programme start="20250204164500 +0200" stop="20250204174500 +0200" channel="tv1.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20250204174500 +0200" stop="20250204180000 +0200" channel="tv1.bg">
+    <title lang="bg">"Петолиния" - музикален микс</title>
+  </programme>
+  <programme start="20250204180000 +0200" stop="20250204190000 +0200" channel="tv1.bg">
+    <title lang="bg">"Viva La Musica!"</title>
+  </programme>
+  <programme start="20250204190000 +0200" stop="20250204191500 +0200" channel="tv1.bg">
+    <title lang="bg">"Коментарът"</title>
+  </programme>
+  <programme start="20250204191500 +0200" stop="20250204193000 +0200" channel="tv1.bg">
+    <title lang="bg">"Петолиния" - музикален микс</title>
+  </programme>
+  <programme start="20250204193000 +0200" stop="20250204200000 +0200" channel="tv1.bg">
+    <title lang="bg">"Галерия" - в света на изкуството (архив)</title>
+  </programme>
+  <programme start="20250204200000 +0200" stop="20250204210000 +0200" channel="tv1.bg">
+    <title lang="bg">"Денят с Веселин Дремджиев"</title>
+  </programme>
+  <programme start="20250204210000 +0200" stop="20250204220000 +0200" channel="tv1.bg">
+    <title lang="bg">Спорт по ТВ1 (премиера)</title>
+  </programme>
+  <programme start="20250204220000 +0200" stop="20250204223000 +0200" channel="tv1.bg">
+    <title lang="bg">"Петолиния" - музикален микс</title>
+  </programme>
+  <programme start="20250204223000 +0200" stop="20250204233000 +0200" channel="tv1.bg">
+    <title lang="bg">"Неудобно с Боби Ваклинов" (п.)</title>
+  </programme>
+  <programme start="20250204233000 +0200" stop="20250205000000 +0200" channel="tv1.bg">
+    <title lang="bg">"Viva la Musica!"</title>
+  </programme>
+  <programme start="20250205000000 +0200" stop="20250205020000 +0200" channel="tv1.bg">
+    <title lang="bg">"Viva la Musica!"</title>
+  </programme>
+  <programme start="20250205020000 +0200" stop="20250205043000 +0200" channel="tv1.bg">
+    <title lang="bg">"Музикална академия"</title>
+  </programme>
+  <programme start="20250205043000 +0200" stop="20250205060000 +0200" channel="tv1.bg">
+    <title lang="bg">"Анфас" -авторско предаване за култура на ТВ1 (П.)</title>
+  </programme>
+  <programme start="20250205060000 +0200" stop="20250205063000 +0200" channel="tv1.bg">
+    <title lang="bg">"Хармония и здраве" - гимнастика за духа и тялото</title>
+  </programme>
+  <programme start="20250205063000 +0200" stop="20250205064500 +0200" channel="tv1.bg">
+    <title lang="bg">"Пътят към щастието със Сана" - предаване за йога</title>
+  </programme>
+  <programme start="20250205064500 +0200" stop="20250205071500 +0200" channel="tv1.bg">
+    <title lang="bg">"21 тайни за медитация с Константин Драгов"</title>
+  </programme>
+  <programme start="20250205071500 +0200" stop="20250205080000 +0200" channel="tv1.bg">
+    <title lang="bg">"Събуди се с усмивка"</title>
+  </programme>
+  <programme start="20250205080000 +0200" stop="20250205094500 +0200" channel="tv1.bg">
+    <title lang="bg">"Viva la Musica!"</title>
+  </programme>
+  <programme start="20250205094500 +0200" stop="20250205100000 +0200" channel="tv1.bg">
+    <title lang="bg">Телепазарен прозорец</title>
+  </programme>
+  <programme start="20250205100000 +0200" stop="20250205110000 +0200" channel="tv1.bg">
+    <title lang="bg">Спорт по ТВ1 (п.)</title>
+  </programme>
+  <programme start="20250205110000 +0200" stop="20250205120000 +0200" channel="tv1.bg">
+    <title lang="bg">"Viva la Musica!"</title>
+  </programme>
+  <programme start="20250205120000 +0200" stop="20250205121500 +0200" channel="tv1.bg">
+    <title lang="bg">"Моята улица" - поредица на ТВ1 (п.)</title>
+  </programme>
+  <programme start="20250205121500 +0200" stop="20250205140000 +0200" channel="tv1.bg">
+    <title lang="bg">"Музикална академия"</title>
+  </programme>
+  <programme start="20250205140000 +0200" stop="20250205150000 +0200" channel="tv1.bg">
+    <title lang="bg">"ДЕМОКРАЦИЯТА" - (п.)</title>
+  </programme>
+  <programme start="20250205150000 +0200" stop="20250205160000 +0200" channel="tv1.bg">
+    <title lang="bg">"Viva la Musica!"</title>
+  </programme>
+  <programme start="20250205160000 +0200" stop="20250205163000 +0200" channel="tv1.bg">
+    <title lang="bg">"21 тайни за медитация с Константин Драгов"</title>
+  </programme>
+  <programme start="20250205163000 +0200" stop="20250205170000 +0200" channel="tv1.bg">
+    <title lang="bg">"Viva la Musica!"</title>
+  </programme>
+  <programme start="20250205170000 +0200" stop="20250205174500 +0200" channel="tv1.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20250205174500 +0200" stop="20250205180000 +0200" channel="tv1.bg">
+    <title lang="bg">"Петолиния" - музикален микс</title>
+  </programme>
+  <programme start="20250205180000 +0200" stop="20250205190000 +0200" channel="tv1.bg">
+    <title lang="bg">Документален филм</title>
+  </programme>
+  <programme start="20250205190000 +0200" stop="20250205200000 +0200" channel="tv1.bg">
+    <title lang="bg">"Viva la Musica!"</title>
+  </programme>
+  <programme start="20250205200000 +0200" stop="20250205210000 +0200" channel="tv1.bg">
+    <title lang="bg">"Денят с Веселин Дремджиев" (запис)</title>
+  </programme>
+  <programme start="20250205210000 +0200" stop="20250205213000 +0200" channel="tv1.bg">
+    <title lang="bg">"История в чиния" - кулинарно предаване с Мая Зухди (п.)</title>
+  </programme>
+  <programme start="20250205213000 +0200" stop="20250205223000 +0200" channel="tv1.bg">
+    <title lang="bg">"Viva la Musica!"</title>
+  </programme>
+  <programme start="20250205223000 +0200" stop="20250205233000 +0200" channel="tv1.bg">
+    <title lang="bg">"Анфас" - авторско предаване за култура на ТВ1 (П.)</title>
+  </programme>
+  <programme start="20250205233000 +0200" stop="20250206000000 +0200" channel="tv1.bg">
+    <title lang="bg">"Серенада" - музика за лека нощ</title>
+  </programme>
   <programme start="20250204004500 +0200" stop="20250204014000 +0200" channel="sedemosmi.tv">
     <title>Крум Савов Live (повторение)</title>
   </programme>
@@ -5369,6 +5507,72 @@
   </programme>
   <programme start="20250205233500 +0200" stop="20250206023000 +0200" channel="filmboxstars.com">
     <title lang="bg">Последният ден на август драма САЩ 2012 - Дан (Майкъл Искиердо) е парализиран от над една година. След месеци на възстановяване той е сломен от живота и се оттегля в...</title>
+  </programme>
+  <programme start="20250204100000 +0200" stop="20250204120000 +0200" channel="kanal4.bg">
+    <title lang="bg">Кървавата господарка - еп. 1, 2</title>
+  </programme>
+  <programme start="20250204120000 +0200" stop="20250204130000 +0200" channel="kanal4.bg">
+    <title lang="bg">Сталин - документален</title>
+  </programme>
+  <programme start="20250204130000 +0200" stop="20250204140000 +0200" channel="kanal4.bg">
+    <title lang="bg">Адолф Хитлер - документален</title>
+  </programme>
+  <programme start="20250204140000 +0200" stop="20250204160000 +0200" channel="kanal4.bg">
+    <title lang="bg">Белоруската гара - драма, СССР, 1970 г.</title>
+  </programme>
+  <programme start="20250204160000 +0200" stop="20250204180000 +0200" channel="kanal4.bg">
+    <title lang="bg">Кървавата господарка - еп. 3, 4</title>
+  </programme>
+  <programme start="20250204180000 +0200" stop="20250204200000 +0200" channel="kanal4.bg">
+    <title lang="bg">Перфектен план - комедия, Франция, 2012 г.</title>
+  </programme>
+  <programme start="20250204200000 +0200" stop="20250204220000 +0200" channel="kanal4.bg">
+    <title lang="bg">Измъчвай ме, но ме обичай - комедия, Италия, 1968 г.</title>
+  </programme>
+  <programme start="20250204220000 +0200" stop="20250205000000 +0200" channel="kanal4.bg">
+    <title lang="bg">Безупречна репутация - комедия/драма, Франция, 1981 г.</title>
+  </programme>
+  <programme start="20250205000000 +0200" stop="20250205010000 +0200" channel="kanal4.bg">
+    <title lang="bg">Сталин - документален</title>
+  </programme>
+  <programme start="20250205010000 +0200" stop="20250205020000 +0200" channel="kanal4.bg">
+    <title lang="bg">Адолф Хитлер - документален</title>
+  </programme>
+  <programme start="20250205020000 +0200" stop="20250205040000 +0200" channel="kanal4.bg">
+    <title lang="bg">Белоруската гара - драма, СССР, 1970 г.</title>
+  </programme>
+  <programme start="20250205040000 +0200" stop="20250205060000 +0200" channel="kanal4.bg">
+    <title lang="bg">Перфектен план - комедия, Франция, 2012 г.</title>
+  </programme>
+  <programme start="20250205060000 +0200" stop="20250205080000 +0200" channel="kanal4.bg">
+    <title lang="bg">Измъчвай ме, но ме обичай - комедия, Италия, 1968 г.</title>
+  </programme>
+  <programme start="20250205080000 +0200" stop="20250205100000 +0200" channel="kanal4.bg">
+    <title lang="bg">Безупречна репутация - комедия/драма, Франция, 1981 г.</title>
+  </programme>
+  <programme start="20250205100000 +0200" stop="20250205120000 +0200" channel="kanal4.bg">
+    <title lang="bg">Кървавата господарка - еп. 3, 4</title>
+  </programme>
+  <programme start="20250205120000 +0200" stop="20250205130000 +0200" channel="kanal4.bg">
+    <title lang="bg">Ал Капоне - документален</title>
+  </programme>
+  <programme start="20250205130000 +0200" stop="20250205140000 +0200" channel="kanal4.bg">
+    <title lang="bg">Убиецът на Кенеди - документален</title>
+  </programme>
+  <programme start="20250205140000 +0200" stop="20250205160000 +0200" channel="kanal4.bg">
+    <title lang="bg">Джентълмени с късмет - комедия, СССР, 1971 г.</title>
+  </programme>
+  <programme start="20250205160000 +0200" stop="20250205180000 +0200" channel="kanal4.bg">
+    <title lang="bg">Кървавата господарка - еп. 5, 6</title>
+  </programme>
+  <programme start="20250205180000 +0200" stop="20250205201500 +0200" channel="kanal4.bg">
+    <title lang="bg">Децата на века - биография/романтичен, Франция, 1999 г.</title>
+  </programme>
+  <programme start="20250205201500 +0200" stop="20250205220000 +0200" channel="kanal4.bg">
+    <title lang="bg">Изчезването - мистерия, копродукция, 1988 г., 12+</title>
+  </programme>
+  <programme start="20250205220000 +0200" stop="20250206000000 +0200" channel="kanal4.bg">
+    <title lang="bg">Апартаментът - мистерия/романтика, Франция, 1996 г.</title>
   </programme>
   <programme start="20250204023000 +0200" stop="20250204040000 +0200" channel="vivacomarena.bg">
     <title lang="bg">Истинско правосъдие екшън, криминален, трилър САЩ 2011 - Илайджа Кейн, бивш агент от специалните служби и експерт по източни бойни изкуства, е част от полицейски екип под прикритие,...</title>
@@ -6884,9 +7088,6 @@
   </programme>
   <programme start="20250205233000 +0200" stop="20250206100000 +0200" channel="novasport.bg">
     <title>ПАОК - АЕК</title>
-  </programme>
-  <programme start="20250204013000 +0200" stop="20250204070000 +0200" channel="diemasport.bg">
-    <title>Програмна пауза${_desc}</title>
   </programme>
   <programme start="20250204070000 +0200" stop="20250204090000 +0200" channel="diemasport.bg">
     <title>Добруджа - Етър, 12 кръг, Футбол: Втора професионална лига 2024/2025, /n/</title>
@@ -10431,7 +10632,7 @@
   <programme start="20250205213000 +0200" stop="20250205233000 +0200" channel="sportklub3.rs">
     <title>Košarka - Euroleague: Barcelona - Maccabi</title>
   </programme>
-  <programme start="20250205233000 +0200" channel="sportklub3.rs">
+  <programme start="20250205233000 +0200" stop="20250206002000 +0200" channel="sportklub3.rs">
     <title>Trans World Sport</title>
   </programme>
   <programme start="20250204004500 +0200" stop="20250204011500 +0200" channel="sportklub1.hr">
@@ -10746,7 +10947,7 @@
   <programme start="20250205213000 +0200" stop="20250205233000 +0200" channel="sportklub3.hr">
     <title>Košarka - Euroleague: Barcelona - Maccabi</title>
   </programme>
-  <programme start="20250205233000 +0200" channel="sportklub3.hr">
+  <programme start="20250205233000 +0200" stop="20250206002000 +0200" channel="sportklub3.hr">
     <title>Trans World Sport</title>
   </programme>
   <programme start="20250204014000 +0200" stop="20250204033000 +0200" channel="sportklub4.hr">
@@ -13857,24 +14058,6 @@
   <programme start="20250204233000 +0200" stop="20250205003000 +0200" channel="mcmtop.fr">
     <title lang="ru">Top us</title>
   </programme>
-  <programme start="20250205003000 +0200" stop="20250205070000 +0200" channel="mcmtop.fr">
-    <title lang="ru">Top night</title>
-  </programme>
-  <programme start="20250205070000 +0200" stop="20250205163000 +0200" channel="mcmtop.fr">
-    <title lang="ru">Top mix</title>
-  </programme>
-  <programme start="20250205163000 +0200" stop="20250205173000 +0200" channel="mcmtop.fr">
-    <title lang="ru">Top star</title>
-  </programme>
-  <programme start="20250205173000 +0200" stop="20250205190000 +0200" channel="mcmtop.fr">
-    <title lang="ru">Top 50</title>
-  </programme>
-  <programme start="20250205190000 +0200" stop="20250205233000 +0200" channel="mcmtop.fr">
-    <title lang="ru">Top mix</title>
-  </programme>
-  <programme start="20250205233000 +0200" channel="mcmtop.fr">
-    <title lang="ru">Top star</title>
-  </programme>
   <programme start="20250204020000 +0200" channel="hayatfolk.rs">
     <title>Nema informacija o programu</title>
   </programme>
@@ -16818,7 +17001,7 @@
   <programme start="20250205213500 +0200" stop="20250205220000 +0200" channel="kika.de">
     <title>logo! no.front</title>
   </programme>
-  <programme start="20250205220000 +0200" channel="kika.de">
+  <programme start="20250205220000 +0200" stop="20250206070000 +0200" channel="kika.de">
     <title>Sendepause</title>
   </programme>
   <programme start="20250204000000 +0200" stop="20250204003000 +0200" channel="3sat.de">
@@ -26385,6 +26568,147 @@
   <programme start="20250205233000 +0200" stop="20250206000000 +0200" channel="cgtn.cn">
     <title>The Point with Liu Xin</title>
   </programme>
+  <programme start="20250204070000 +0200" stop="20250204073000 +0200" channel="freedom.ua">
+    <title>Наше время</title>
+  </programme>
+  <programme start="20250204073000 +0200" stop="20250204080000 +0200" channel="freedom.ua">
+    <title>Информационные сюжеты</title>
+  </programme>
+  <programme start="20250204080000 +0200" stop="20250204100000 +0200" channel="freedom.ua">
+    <title>Uživo FREEDOM</title>
+  </programme>
+  <programme start="20250204100000 +0200" stop="20250204103000 +0200" channel="freedom.ua">
+    <title>Люди доброй воли</title>
+  </programme>
+  <programme start="20250204103000 +0200" stop="20250204110000 +0200" channel="freedom.ua">
+    <title>Информационные сюжеты</title>
+  </programme>
+  <programme start="20250204110000 +0200" stop="20250204111500 +0200" channel="freedom.ua">
+    <title>Тайная жизнь матрешки</title>
+  </programme>
+  <programme start="20250204111500 +0200" stop="20250204113000 +0200" channel="freedom.ua">
+    <title>Информационные сюжеты</title>
+  </programme>
+  <programme start="20250204113000 +0200" stop="20250204120000 +0200" channel="freedom.ua">
+    <title>Виновники войны</title>
+  </programme>
+  <programme start="20250204120000 +0200" stop="20250204130000 +0200" channel="freedom.ua">
+    <title>Uživo FREEDOM</title>
+  </programme>
+  <programme start="20250204130000 +0200" stop="20250204133000 +0200" channel="freedom.ua">
+    <title>Документальный фильм</title>
+  </programme>
+  <programme start="20250204133000 +0200" stop="20250204150000 +0200" channel="freedom.ua">
+    <title>Uživo FREEDOM</title>
+  </programme>
+  <programme start="20250204150000 +0200" stop="20250204153000 +0200" channel="freedom.ua">
+    <title>Смотрите сами</title>
+  </programme>
+  <programme start="20250204153000 +0200" stop="20250204160000 +0200" channel="freedom.ua">
+    <title>Информационные сюжеты</title>
+  </programme>
+  <programme start="20250204160000 +0200" stop="20250204163000 +0200" channel="freedom.ua">
+    <title>Наше время</title>
+  </programme>
+  <programme start="20250204163000 +0200" stop="20250204180000 +0200" channel="freedom.ua">
+    <title>Uživo FREEDOM</title>
+  </programme>
+  <programme start="20250204180000 +0200" stop="20250204183000 +0200" channel="freedom.ua">
+    <title>Ваши деньги</title>
+  </programme>
+  <programme start="20250204183000 +0200" stop="20250204210000 +0200" channel="freedom.ua">
+    <title>Uživo FREEDOM</title>
+  </programme>
+  <programme start="20250204210000 +0200" stop="20250204213000 +0200" channel="freedom.ua">
+    <title>Наше время</title>
+  </programme>
+  <programme start="20250204213000 +0200" stop="20250204223000 +0200" channel="freedom.ua">
+    <title>Uživo FREEDOM</title>
+  </programme>
+  <programme start="20250204223000 +0200" stop="20250204231500 +0200" channel="freedom.ua">
+    <title>Документальный фильм</title>
+  </programme>
+  <programme start="20250204231500 +0200" stop="20250205000000 +0200" channel="freedom.ua">
+    <title>Информационные сюжеты</title>
+  </programme>
+  <programme start="20250205000000 +0200" stop="20250205000100 +0200" channel="freedom.ua">
+    <title>Гимн Украины</title>
+  </programme>
+  <programme start="20250205000100 +0200" stop="20250205013000 +0200" channel="freedom.ua">
+    <title>Информационные сюжеты</title>
+  </programme>
+  <programme start="20250205013000 +0200" stop="20250205050000 +0200" channel="freedom.ua">
+    <title>FREEDOM</title>
+  </programme>
+  <programme start="20250205050000 +0200" stop="20250205060000 +0200" channel="freedom.ua">
+    <title>Информационные сюжеты</title>
+  </programme>
+  <programme start="20250205060000 +0200" stop="20250205063000 +0200" channel="freedom.ua">
+    <title>Ваши деньги</title>
+  </programme>
+  <programme start="20250205063000 +0200" stop="20250205070000 +0200" channel="freedom.ua">
+    <title>Информационные сюжеты</title>
+  </programme>
+  <programme start="20250205070000 +0200" stop="20250205073000 +0200" channel="freedom.ua">
+    <title>Наше время</title>
+  </programme>
+  <programme start="20250205073000 +0200" stop="20250205080000 +0200" channel="freedom.ua">
+    <title>Информационные сюжеты</title>
+  </programme>
+  <programme start="20250205080000 +0200" stop="20250205100000 +0200" channel="freedom.ua">
+    <title>Uživo FREEDOM</title>
+  </programme>
+  <programme start="20250205100000 +0200" stop="20250205101500 +0200" channel="freedom.ua">
+    <title>Антизомби</title>
+  </programme>
+  <programme start="20250205101500 +0200" stop="20250205103000 +0200" channel="freedom.ua">
+    <title>Гражданская оборона</title>
+  </programme>
+  <programme start="20250205103000 +0200" stop="20250205113000 +0200" channel="freedom.ua">
+    <title>Информационные сюжеты</title>
+  </programme>
+  <programme start="20250205113000 +0200" stop="20250205120000 +0200" channel="freedom.ua">
+    <title>Ваши деньги</title>
+  </programme>
+  <programme start="20250205120000 +0200" stop="20250205130000 +0200" channel="freedom.ua">
+    <title>Uživo FREEDOM</title>
+  </programme>
+  <programme start="20250205130000 +0200" stop="20250205133000 +0200" channel="freedom.ua">
+    <title>Документальный фильм</title>
+  </programme>
+  <programme start="20250205133000 +0200" stop="20250205150000 +0200" channel="freedom.ua">
+    <title>Uživo FREEDOM</title>
+  </programme>
+  <programme start="20250205150000 +0200" stop="20250205153000 +0200" channel="freedom.ua">
+    <title>Люди доброй воли</title>
+  </programme>
+  <programme start="20250205153000 +0200" stop="20250205160000 +0200" channel="freedom.ua">
+    <title>Информационные сюжеты</title>
+  </programme>
+  <programme start="20250205160000 +0200" stop="20250205163000 +0200" channel="freedom.ua">
+    <title>Наше время</title>
+  </programme>
+  <programme start="20250205163000 +0200" stop="20250205180000 +0200" channel="freedom.ua">
+    <title>Uživo FREEDOM</title>
+  </programme>
+  <programme start="20250205180000 +0200" stop="20250205183000 +0200" channel="freedom.ua">
+    <title>Последний день диктатора</title>
+  </programme>
+  <programme start="20250205183000 +0200" stop="20250205210000 +0200" channel="freedom.ua">
+    <title>Uživo FREEDOM</title>
+  </programme>
+  <programme start="20250205210000 +0200" stop="20250205213000 +0200" channel="freedom.ua">
+    <title>Наше время</title>
+  </programme>
+  <programme start="20250205213000 +0200" stop="20250205223000 +0200" channel="freedom.ua">
+    <title>Uživo FREEDOM</title>
+  </programme>
+  <programme start="20250205223000 +0200" stop="20250205231500 +0200" channel="freedom.ua">
+    <title>Документальный фильм</title>
+  </programme>
+  <programme start="20250205231500 +0200" stop="20250206000000 +0200" channel="freedom.ua">
+    <title>Информационные сюжеты</title>
+  </programme>
   <programme start="20250204030000 +0200" stop="20250204070000 +0200" channel="cgtndocumentary.en">
     <title>CGTN Documentary - ${subTitle}</title>
   </programme>
@@ -27762,7 +28086,7 @@
   <programme start="20250205225300 +0200" stop="20250205232300 +0200" channel="soulandpepper.tv">
     <title>Стрийт Фууд: ХроНики и Гери</title>
   </programme>
-  <programme start="20250205232300 +0200" channel="soulandpepper.tv">
+  <programme start="20250205232300 +0200" stop="20250206065400 +0200" channel="soulandpepper.tv">
     <title>Позабравеният вкус с Александър</title>
   </programme>
   <programme start="20250204020000 +0200" stop="20250205020000 +0200" channel="kitchen.tv">
@@ -30498,7 +30822,7 @@
   <programme start="20250205230000 +0200" stop="20250205233000 +0200" channel="traveltv.bg">
     <title>Война на похабяването</title>
   </programme>
-  <programme start="20250205233000 +0200" channel="traveltv.bg">
+  <programme start="20250205233000 +0200" stop="20250206000000 +0200" channel="traveltv.bg">
     <title>Бъди там в музика и картини!</title>
   </programme>
   <programme start="20250204044800 +0200" stop="20250204050100 +0200" channel="glasamiturista.ru">
@@ -44175,7 +44499,7 @@
   <programme start="20250205235600 +0200" stop="20250205235900 +0200" channel="duck.tv">
     <title>Groups</title>
   </programme>
-  <programme start="20250205235900 +0200" channel="duck.tv">
+  <programme start="20250205235900 +0200" stop="20250206000200 +0200" channel="duck.tv">
     <title>Raul</title>
   </programme>
   <programme start="20250204000000 +0200" stop="20250204003000 +0200" channel="baby.tv">
@@ -44463,7 +44787,7 @@
   <programme start="20250205230000 +0200" stop="20250205233000 +0200" channel="baby.tv">
     <title>Sweet Dreams</title>
   </programme>
-  <programme start="20250205233000 +0200" channel="baby.tv">
+  <programme start="20250205233000 +0200" stop="20250206000000 +0200" channel="baby.tv">
     <title>Sweet Dreams</title>
   </programme>
   <programme start="20250204002000 +0200" stop="20250204005000 +0200" channel="fixandfoxi.de">
@@ -46992,7 +47316,7 @@
   <programme start="20250205220000 +0200" stop="20250205234000 +0200" channel="trtarabi.tr">
     <title>News</title>
   </programme>
-  <programme start="20250205234000 +0200" channel="trtarabi.tr">
+  <programme start="20250205234000 +0200" stop="20250206000000 +0200" channel="trtarabi.tr">
     <title>Tafaul</title>
   </programme>
   <programme start="20250204000000 +0200" stop="20250204010000 +0200" channel="trtavaz.tr">
@@ -47226,7 +47550,7 @@
   <programme start="20250205230000 +0200" stop="20250205233000 +0200" channel="trtavaz.tr">
     <title>Avrupa'daki Osmanlı İzleri</title>
   </programme>
-  <programme start="20250205233000 +0200" channel="trtavaz.tr">
+  <programme start="20250205233000 +0200" stop="20250206000000 +0200" channel="trtavaz.tr">
     <title>Kervan: Kadim Medeniyetin Yol Hikayesi</title>
   </programme>
   <programme start="20250204001500 +0200" stop="20250204024500 +0200" channel="nowtv.tr">
@@ -49437,191 +49761,32 @@
   <programme start="20250205233500 +0200" stop="20250206044000 +0200" channel="tve.es">
     <title>Salón de té: La modernaEpisodio 325</title>
   </programme>
-  <programme start="20250204000000 +0200" stop="20250204010000 +0200" channel="24horas.es">
-    <title>Noticias 24Noticiero</title>
+  <programme start="20250204000000 +0200" stop="20250204040000 +0200" channel="24horas.es">
+    <title>- TVE 24H -</title>
   </programme>
-  <programme start="20250204010000 +0200" stop="20250204020000 +0200" channel="24horas.es">
-    <title>24 Horas deportes24 Horas deportes</title>
+  <programme start="20250204040000 +0200" stop="20250204080000 +0200" channel="24horas.es">
+    <title>- TVE 24H -</title>
   </programme>
-  <programme start="20250204020000 +0200" stop="20250204034500 +0200" channel="24horas.es">
-    <title>24 horas centralNoticiero</title>
+  <programme start="20250204080000 +0200" stop="20250204120000 +0200" channel="24horas.es">
+    <title>- TVE 24H -</title>
   </programme>
-  <programme start="20250204034500 +0200" stop="20250204040000 +0200" channel="24horas.es">
-    <title>Entrevistas 24 horasEntrevista</title>
+  <programme start="20250204120000 +0200" stop="20250204160000 +0200" channel="24horas.es">
+    <title>- TVE 24H -</title>
   </programme>
-  <programme start="20250204040000 +0200" stop="20250204041500 +0200" channel="24horas.es">
-    <title>Hablemos en serieEntretenimientos</title>
+  <programme start="20250204160000 +0200" stop="20250204200000 +0200" channel="24horas.es">
+    <title>- TVE 24H -</title>
   </programme>
-  <programme start="20250204041500 +0200" stop="20250204043000 +0200" channel="24horas.es">
-    <title>Noticias DW - EconomíaPeriodístico</title>
+  <programme start="20250204200000 +0200" stop="20250205000000 +0200" channel="24horas.es">
+    <title>- TVE 24H -</title>
   </programme>
-  <programme start="20250204043000 +0200" stop="20250204044500 +0200" channel="24horas.es">
-    <title>Entrevistas 24 horasEntrevista</title>
+  <programme start="20250205000000 +0200" stop="20250205040000 +0200" channel="24horas.es">
+    <title>- TVE 24H -</title>
   </programme>
-  <programme start="20250204044500 +0200" stop="20250204050000 +0200" channel="24horas.es">
-    <title>Busco mi destinoTurismo</title>
+  <programme start="20250205160000 +0200" stop="20250205200000 +0200" channel="24horas.es">
+    <title>- TVE 24H -</title>
   </programme>
-  <programme start="20250204050000 +0200" stop="20250204054500 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250204054500 +0200" stop="20250204063000 +0200" channel="24horas.es">
-    <title>MedianocheNoticiero</title>
-  </programme>
-  <programme start="20250204063000 +0200" stop="20250204070000 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250204070000 +0200" stop="20250204073000 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250204073000 +0200" stop="20250204081500 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250204081500 +0200" stop="20250204084500 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250204084500 +0200" stop="20250204093000 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250204093000 +0200" stop="20250204100000 +0200" channel="24horas.es">
-    <title>24 Horas deportes24 Horas deportes</title>
-  </programme>
-  <programme start="20250204100000 +0200" stop="20250204103000 +0200" channel="24horas.es">
-    <title>Hora 24Noticiero</title>
-  </programme>
-  <programme start="20250204103000 +0200" stop="20250204110000 +0200" channel="24horas.es">
-    <title>La previaNoticiero</title>
-  </programme>
-  <programme start="20250204110000 +0200" stop="20250204130000 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250204130000 +0200" stop="20250204133000 +0200" channel="24horas.es">
-    <title>Reporte mineroInterés general</title>
-  </programme>
-  <programme start="20250204133000 +0200" stop="20250204154500 +0200" channel="24horas.es">
-    <title>La mañana informativaNoticiero</title>
-  </programme>
-  <programme start="20250204154500 +0200" stop="20250204160000 +0200" channel="24horas.es">
-    <title>Noticias DW - EconomíaPeriodístico</title>
-  </programme>
-  <programme start="20250204160000 +0200" stop="20250204173000 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250204173000 +0200" stop="20250204174500 +0200" channel="24horas.es">
-    <title>Entrevistas 24 horasEntrevista</title>
-  </programme>
-  <programme start="20250204174500 +0200" stop="20250204180000 +0200" channel="24horas.es">
-    <title>Hablemos en serieEntretenimientos</title>
-  </programme>
-  <programme start="20250204180000 +0200" stop="20250204200000 +0200" channel="24horas.es">
-    <title>24 horas al díaNoticiero</title>
-  </programme>
-  <programme start="20250204200000 +0200" stop="20250204201500 +0200" channel="24horas.es">
-    <title>24 cuadrosPelícula</title>
-  </programme>
-  <programme start="20250204201500 +0200" stop="20250204204500 +0200" channel="24horas.es">
-    <title>Frontera globalPeriodístico</title>
-  </programme>
-  <programme start="20250204204500 +0200" stop="20250204214500 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250204214500 +0200" stop="20250204221500 +0200" channel="24horas.es">
-    <title>¿Cuál es tu huella?Ecología</title>
-  </programme>
-  <programme start="20250204221500 +0200" stop="20250205000000 +0200" channel="24horas.es">
-    <title>Noticias 24Noticiero</title>
-  </programme>
-  <programme start="20250205000000 +0200" stop="20250205010000 +0200" channel="24horas.es">
-    <title>Noticias 24Noticiero</title>
-  </programme>
-  <programme start="20250205010000 +0200" stop="20250205020000 +0200" channel="24horas.es">
-    <title>24 Horas deportes24 Horas deportes</title>
-  </programme>
-  <programme start="20250205020000 +0200" stop="20250205034500 +0200" channel="24horas.es">
-    <title>24 horas centralNoticiero</title>
-  </programme>
-  <programme start="20250205034500 +0200" stop="20250205040000 +0200" channel="24horas.es">
-    <title>Busco mi destinoTurismo</title>
-  </programme>
-  <programme start="20250205040000 +0200" stop="20250205043000 +0200" channel="24horas.es">
-    <title>Mirada económicaEntrevista</title>
-  </programme>
-  <programme start="20250205043000 +0200" stop="20250205044500 +0200" channel="24horas.es">
-    <title>Hablemos en serieEntretenimientos</title>
-  </programme>
-  <programme start="20250205044500 +0200" stop="20250205050000 +0200" channel="24horas.es">
-    <title>Entrevistas 24 horasEntrevista</title>
-  </programme>
-  <programme start="20250205050000 +0200" stop="20250205054500 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250205054500 +0200" stop="20250205063000 +0200" channel="24horas.es">
-    <title>MedianocheNoticiero</title>
-  </programme>
-  <programme start="20250205063000 +0200" stop="20250205070000 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250205070000 +0200" stop="20250205073000 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250205073000 +0200" stop="20250205081500 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250205081500 +0200" stop="20250205084500 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250205084500 +0200" stop="20250205093000 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250205093000 +0200" stop="20250205100000 +0200" channel="24horas.es">
-    <title>24 Horas deportes24 Horas deportes</title>
-  </programme>
-  <programme start="20250205100000 +0200" stop="20250205103000 +0200" channel="24horas.es">
-    <title>Hora 24Noticiero</title>
-  </programme>
-  <programme start="20250205103000 +0200" stop="20250205110000 +0200" channel="24horas.es">
-    <title>La previaNoticiero</title>
-  </programme>
-  <programme start="20250205110000 +0200" stop="20250205130000 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250205130000 +0200" stop="20250205133000 +0200" channel="24horas.es">
-    <title>¿Cuál es tu huella?Ecología</title>
-  </programme>
-  <programme start="20250205133000 +0200" stop="20250205154500 +0200" channel="24horas.es">
-    <title>La mañana informativaNoticiero</title>
-  </programme>
-  <programme start="20250205154500 +0200" stop="20250205160000 +0200" channel="24horas.es">
-    <title>24 cuadrosPelícula</title>
-  </programme>
-  <programme start="20250205160000 +0200" stop="20250205173000 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250205173000 +0200" stop="20250205174500 +0200" channel="24horas.es">
-    <title>Conciencia 24/7Episodio 1 - Amaro</title>
-  </programme>
-  <programme start="20250205174500 +0200" stop="20250205180000 +0200" channel="24horas.es">
-    <title>Entrevistas 24 horasEntrevista</title>
-  </programme>
-  <programme start="20250205180000 +0200" stop="20250205200000 +0200" channel="24horas.es">
-    <title>24 horas al díaNoticiero</title>
-  </programme>
-  <programme start="20250205200000 +0200" stop="20250205201500 +0200" channel="24horas.es">
-    <title>Entrevistas 24 horasEntrevista</title>
-  </programme>
-  <programme start="20250205201500 +0200" stop="20250205204500 +0200" channel="24horas.es">
-    <title>Sesiones 24h- Parra</title>
-  </programme>
-  <programme start="20250205204500 +0200" stop="20250205214500 +0200" channel="24horas.es">
-    <title>24 horas a la horaInterés general</title>
-  </programme>
-  <programme start="20250205214500 +0200" stop="20250205220000 +0200" channel="24horas.es">
-    <title>DW analizaNoticiero</title>
-  </programme>
-  <programme start="20250205220000 +0200" stop="20250205221500 +0200" channel="24horas.es">
-    <title>Busco mi destinoTurismo</title>
-  </programme>
-  <programme start="20250205221500 +0200" stop="20250206000000 +0200" channel="24horas.es">
-    <title>Noticias 24Noticiero</title>
+  <programme start="20250205200000 +0200" stop="20250206000000 +0200" channel="24horas.es">
+    <title>- TVE 24H -</title>
   </programme>
   <programme start="20250204060000 +0200" stop="20250204060500 +0200" channel="telesur.es">
     <title>Titulares - ${subTitle}</title>
@@ -50150,78 +50315,6 @@
   </programme>
   <programme start="20250205234500 +0200" stop="20250206055000 +0200" channel="eroxxx.spiintl.com">
     <title>Lesbian Footlovers (Hard)</title>
-  </programme>
-  <programme start="20250204054300 +0200" stop="20250204055600 +0200" channel="dorceltv.com">
-    <title>D'couverte intime</title>
-  </programme>
-  <programme start="20250204055600 +0200" stop="20250204055700 +0200" channel="dorceltv.com">
-    <title>Fantasme lily - fre</title>
-  </programme>
-  <programme start="20250204055700 +0200" stop="20250205054300 +0200" channel="dorceltv.com">
-    <title>Star latin fever part. 1</title>
-  </programme>
-  <programme start="20250205054300 +0200" stop="20250205055600 +0200" channel="dorceltv.com">
-    <title>D'couverte intime</title>
-  </programme>
-  <programme start="20250205055600 +0200" stop="20250205055700 +0200" channel="dorceltv.com">
-    <title>Fantasme lily - fre</title>
-  </programme>
-  <programme start="20250205055700 +0200" stop="20250205074700 +0200" channel="dorceltv.com">
-    <title>Star latin fever part. 1</title>
-  </programme>
-  <programme start="20250205074700 +0200" stop="20250205074800 +0200" channel="dorceltv.com">
-    <title>Fantasme lily - fre</title>
-  </programme>
-  <programme start="20250205074800 +0200" stop="20250205102100 +0200" channel="dorceltv.com">
-    <title>Star latin fever part. 1</title>
-  </programme>
-  <programme start="20250205102100 +0200" stop="20250205105500 +0200" channel="dorceltv.com">
-    <title>Tout ce que tu veux</title>
-  </programme>
-  <programme start="20250205105500 +0200" stop="20250205105600 +0200" channel="dorceltv.com">
-    <title>Fantasme lily - fre</title>
-  </programme>
-  <programme start="20250205105600 +0200" stop="20250205133300 +0200" channel="dorceltv.com">
-    <title>mariska desires of submission</title>
-  </programme>
-  <programme start="20250205133300 +0200" stop="20250205142100 +0200" channel="dorceltv.com">
-    <title>Avn riley red - eng</title>
-  </programme>
-  <programme start="20250205142100 +0200" stop="20250205150400 +0200" channel="dorceltv.com">
-    <title>Beauty and curve - part.3</title>
-  </programme>
-  <programme start="20250205150400 +0200" stop="20250205153300 +0200" channel="dorceltv.com">
-    <title>Lea 4 you</title>
-  </programme>
-  <programme start="20250205153300 +0200" stop="20250205155200 +0200" channel="dorceltv.com">
-    <title>D'âcouverte sensuelle</title>
-  </programme>
-  <programme start="20250205155200 +0200" stop="20250205180500 +0200" channel="dorceltv.com">
-    <title>Chambre 2, odc. 12</title>
-  </programme>
-  <programme start="20250205180500 +0200" stop="20250205180600 +0200" channel="dorceltv.com">
-    <title>Avn scarlet scandal - fre</title>
-  </programme>
-  <programme start="20250205180600 +0200" stop="20250205194100 +0200" channel="dorceltv.com">
-    <title>Hard</title>
-  </programme>
-  <programme start="20250205194100 +0200" stop="20250205201100 +0200" channel="dorceltv.com">
-    <title>Fantasme n,2 : sans attache</title>
-  </programme>
-  <programme start="20250205201100 +0200" stop="20250205201200 +0200" channel="dorceltv.com">
-    <title>Avn riley red - eng</title>
-  </programme>
-  <programme start="20250205201200 +0200" stop="20250205205000 +0200" channel="dorceltv.com">
-    <title>Stars vol.4 - part.1</title>
-  </programme>
-  <programme start="20250205205000 +0200" stop="20250205233100 +0200" channel="dorceltv.com">
-    <title>Play vol.6</title>
-  </programme>
-  <programme start="20250205233100 +0200" stop="20250205233200 +0200" channel="dorceltv.com">
-    <title>Avn riley red - eng</title>
-  </programme>
-  <programme start="20250205233200 +0200" stop="20250206000000 +0200" channel="dorceltv.com">
-    <title>L'invitation sp'âciale de mariska</title>
   </programme>
   <programme start="20250204041200 +0200" stop="20250204045500 +0200" channel="dorcelxxx.com">
     <title>Ella</title>
@@ -54598,144 +54691,390 @@
     <title lang="it">Namibia, il deserto racconta</title>
   </programme>
   <programme start="20250204050000 +0200" stop="20250204052500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 4-я серия</title>
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20250204052500 +0200" stop="20250204053000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 4-я серия</title>
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20250204053000 +0200" stop="20250204060000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 4-я серия - "India"</title>
-  </programme>
-  <programme start="20250204060000 +0200" stop="20250204070000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250204070000 +0200" stop="20250204080000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Scandinavia"</title>
-  </programme>
-  <programme start="20250204080000 +0200" stop="20250204090000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250204090000 +0200" stop="20250204100000 +0200" channel="luxe.tv">
     <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
   </programme>
-  <programme start="20250204100000 +0200" stop="20250204110000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 3-я серия</title>
+  <programme start="20250204060000 +0200" stop="20250204062500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
   </programme>
-  <programme start="20250204110000 +0200" stop="20250204120000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Scandinavia"</title>
-  </programme>
-  <programme start="20250204120000 +0200" stop="20250204130000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 4-я серия</title>
-  </programme>
-  <programme start="20250204130000 +0200" stop="20250204140000 +0200" channel="luxe.tv">
+  <programme start="20250204062500 +0200" stop="20250204063000 +0200" channel="luxe.tv">
     <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
-  <programme start="20250204140000 +0200" stop="20250204150000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250204150000 +0200" stop="20250204160000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Scandinavia"</title>
-  </programme>
-  <programme start="20250204160000 +0200" stop="20250204170000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250204170000 +0200" stop="20250204180000 +0200" channel="luxe.tv">
+  <programme start="20250204063000 +0200" stop="20250204070000 +0200" channel="luxe.tv">
     <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
   </programme>
-  <programme start="20250204180000 +0200" stop="20250204190000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 3-я серия</title>
+  <programme start="20250204070000 +0200" stop="20250204072500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
   </programme>
-  <programme start="20250204190000 +0200" stop="20250204200000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Scandinavia"</title>
-  </programme>
-  <programme start="20250204200000 +0200" stop="20250204210000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 4-я серия</title>
-  </programme>
-  <programme start="20250204210000 +0200" stop="20250204220000 +0200" channel="luxe.tv">
+  <programme start="20250204072500 +0200" stop="20250204073000 +0200" channel="luxe.tv">
     <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
-  <programme start="20250204220000 +0200" stop="20250204230000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250204230000 +0200" stop="20250205000000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Scandinavia"</title>
-  </programme>
-  <programme start="20250205000000 +0200" stop="20250205010000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250205010000 +0200" stop="20250205020000 +0200" channel="luxe.tv">
+  <programme start="20250204073000 +0200" stop="20250204080000 +0200" channel="luxe.tv">
     <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
   </programme>
-  <programme start="20250205020000 +0200" stop="20250205030000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 3-я серия</title>
+  <programme start="20250204080000 +0200" stop="20250204082500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
   </programme>
-  <programme start="20250205030000 +0200" stop="20250205040000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Scandinavia"</title>
+  <programme start="20250204082500 +0200" stop="20250204083000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
-  <programme start="20250205040000 +0200" stop="20250205050000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 4-я серия</title>
+  <programme start="20250204083000 +0200" stop="20250204090000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250204090000 +0200" stop="20250204092500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250204092500 +0200" stop="20250204093000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250204093000 +0200" stop="20250204100000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250204100000 +0200" stop="20250204102500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250204102500 +0200" stop="20250204103000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250204103000 +0200" stop="20250204110000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250204110000 +0200" stop="20250204112500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250204112500 +0200" stop="20250204113000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250204113000 +0200" stop="20250204120000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250204120000 +0200" stop="20250204122500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250204122500 +0200" stop="20250204123000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250204123000 +0200" stop="20250204130000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250204130000 +0200" stop="20250204132500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250204132500 +0200" stop="20250204133000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250204133000 +0200" stop="20250204140000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250204140000 +0200" stop="20250204142500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204142500 +0200" stop="20250204143000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204143000 +0200" stop="20250204150000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250204150000 +0200" stop="20250204152500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204152500 +0200" stop="20250204153000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204153000 +0200" stop="20250204160000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250204160000 +0200" stop="20250204162500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204162500 +0200" stop="20250204163000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204163000 +0200" stop="20250204170000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250204170000 +0200" stop="20250204172500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204172500 +0200" stop="20250204173000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204173000 +0200" stop="20250204180000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250204180000 +0200" stop="20250204182500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204182500 +0200" stop="20250204183000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204183000 +0200" stop="20250204190000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250204190000 +0200" stop="20250204192500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204192500 +0200" stop="20250204193000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204193000 +0200" stop="20250204200000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250204200000 +0200" stop="20250204202500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204202500 +0200" stop="20250204203000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204203000 +0200" stop="20250204210000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250204210000 +0200" stop="20250204212500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204212500 +0200" stop="20250204213000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204213000 +0200" stop="20250204220000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250204220000 +0200" stop="20250204222500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204222500 +0200" stop="20250204223000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204223000 +0200" stop="20250204230000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250204230000 +0200" stop="20250204232500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204232500 +0200" stop="20250204233000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250204233000 +0200" stop="20250205000000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250205000000 +0200" stop="20250205002500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205002500 +0200" stop="20250205003000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205003000 +0200" stop="20250205010000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250205010000 +0200" stop="20250205012500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205012500 +0200" stop="20250205013000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205013000 +0200" stop="20250205020000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250205020000 +0200" stop="20250205022500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205022500 +0200" stop="20250205023000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205023000 +0200" stop="20250205030000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250205030000 +0200" stop="20250205032500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205032500 +0200" stop="20250205033000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205033000 +0200" stop="20250205040000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250205040000 +0200" stop="20250205042500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205042500 +0200" stop="20250205043000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205043000 +0200" stop="20250205050000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
   </programme>
   <programme start="20250205050000 +0200" stop="20250205052500 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Today. Сезон 5. 4-я серия</title>
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20250205052500 +0200" stop="20250205053000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. Spotlight. Сезон 5. 4-я серия</title>
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
   <programme start="20250205053000 +0200" stop="20250205060000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 4-я серия - "India"</title>
-  </programme>
-  <programme start="20250205060000 +0200" stop="20250205070000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250205070000 +0200" stop="20250205080000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Scandinavia"</title>
-  </programme>
-  <programme start="20250205080000 +0200" stop="20250205090000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250205090000 +0200" stop="20250205100000 +0200" channel="luxe.tv">
     <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
   </programme>
-  <programme start="20250205100000 +0200" stop="20250205110000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 3-я серия</title>
+  <programme start="20250205060000 +0200" stop="20250205062500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
   </programme>
-  <programme start="20250205110000 +0200" stop="20250205120000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Scandinavia"</title>
-  </programme>
-  <programme start="20250205120000 +0200" stop="20250205130000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 4-я серия</title>
-  </programme>
-  <programme start="20250205130000 +0200" stop="20250205140000 +0200" channel="luxe.tv">
+  <programme start="20250205062500 +0200" stop="20250205063000 +0200" channel="luxe.tv">
     <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
-  <programme start="20250205140000 +0200" stop="20250205150000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 1-я серия</title>
-  </programme>
-  <programme start="20250205150000 +0200" stop="20250205160000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Scandinavia"</title>
-  </programme>
-  <programme start="20250205160000 +0200" stop="20250205170000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 2-я серия</title>
-  </programme>
-  <programme start="20250205170000 +0200" stop="20250205180000 +0200" channel="luxe.tv">
+  <programme start="20250205063000 +0200" stop="20250205070000 +0200" channel="luxe.tv">
     <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
   </programme>
-  <programme start="20250205180000 +0200" stop="20250205190000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 3-я серия</title>
+  <programme start="20250205070000 +0200" stop="20250205072500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
   </programme>
-  <programme start="20250205190000 +0200" stop="20250205200000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "Scandinavia"</title>
-  </programme>
-  <programme start="20250205200000 +0200" stop="20250205210000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 4-я серия</title>
-  </programme>
-  <programme start="20250205210000 +0200" stop="20250205220000 +0200" channel="luxe.tv">
+  <programme start="20250205072500 +0200" stop="20250205073000 +0200" channel="luxe.tv">
     <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
   </programme>
-  <programme start="20250205220000 +0200" stop="20250205230000 +0200" channel="luxe.tv">
-    <title lang="ru">Luxe. This week. Сезон 5. 1-я серия</title>
+  <programme start="20250205073000 +0200" stop="20250205080000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
   </programme>
-  <programme start="20250205230000 +0200" stop="20250206000000 +0200" channel="luxe.tv">
-    <title lang="ru">Destination Special. Сезон 5. 1-я серия - "Scandinavia"</title>
+  <programme start="20250205080000 +0200" stop="20250205082500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205082500 +0200" stop="20250205083000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205083000 +0200" stop="20250205090000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205090000 +0200" stop="20250205092500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205092500 +0200" stop="20250205093000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205093000 +0200" stop="20250205100000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205100000 +0200" stop="20250205102500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205102500 +0200" stop="20250205103000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205103000 +0200" stop="20250205110000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205110000 +0200" stop="20250205112500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205112500 +0200" stop="20250205113000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205113000 +0200" stop="20250205120000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205120000 +0200" stop="20250205122500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205122500 +0200" stop="20250205123000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205123000 +0200" stop="20250205130000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205130000 +0200" stop="20250205132500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205132500 +0200" stop="20250205133000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205133000 +0200" stop="20250205140000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. This Month. Сезон 5. 1-я серия</title>
+  </programme>
+  <programme start="20250205140000 +0200" stop="20250205142500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205142500 +0200" stop="20250205143000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205143000 +0200" stop="20250205150000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250205150000 +0200" stop="20250205152500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205152500 +0200" stop="20250205153000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205153000 +0200" stop="20250205160000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250205160000 +0200" stop="20250205162500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205162500 +0200" stop="20250205163000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205163000 +0200" stop="20250205170000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250205170000 +0200" stop="20250205172500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205172500 +0200" stop="20250205173000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205173000 +0200" stop="20250205180000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250205180000 +0200" stop="20250205182500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205182500 +0200" stop="20250205183000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205183000 +0200" stop="20250205190000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250205190000 +0200" stop="20250205192500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205192500 +0200" stop="20250205193000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205193000 +0200" stop="20250205200000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250205200000 +0200" stop="20250205202500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205202500 +0200" stop="20250205203000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205203000 +0200" stop="20250205210000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250205210000 +0200" stop="20250205212500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205212500 +0200" stop="20250205213000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205213000 +0200" stop="20250205220000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250205220000 +0200" stop="20250205222500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205222500 +0200" stop="20250205223000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205223000 +0200" stop="20250205230000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
+  </programme>
+  <programme start="20250205230000 +0200" stop="20250205232500 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Today. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205232500 +0200" stop="20250205233000 +0200" channel="luxe.tv">
+    <title lang="ru">Luxe. Spotlight. Сезон 5. 2-я серия</title>
+  </programme>
+  <programme start="20250205233000 +0200" stop="20250206000000 +0200" channel="luxe.tv">
+    <title lang="ru">Destination Special. Сезон 5. 2-я серия - "India"</title>
   </programme>
 </tv>

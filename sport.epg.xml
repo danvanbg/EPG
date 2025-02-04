@@ -368,9 +368,6 @@
     <title>BYB 36</title>
     <desc>Бойно събитие в Кардиф, Великобритания, /n/</desc>
   </programme>
-  <programme start="20250204013000 +0200" stop="20250204070000 +0200" channel="diemasport.bg">
-    <title>Програмна пауза${_desc}</title>
-  </programme>
   <programme start="20250204070000 +0200" stop="20250204090000 +0200" channel="diemasport.bg">
     <title>Добруджа - Етър, 12 кръг, Футбол: Втора професионална лига 2024/2025, /n/</title>
   </programme>
@@ -5925,8 +5922,59 @@
   <programme start="20250206040000 +0200" stop="20250206050000 +0200" channel="sport1.de">
     <title>Teleshopping</title>
   </programme>
-  <programme start="20250206050000 +0200" channel="sport1.de">
+  <programme start="20250206050000 +0200" stop="20250206060000 +0200" channel="sport1.de">
     <title>Teleshopping</title>
+  </programme>
+  <programme start="20250206060000 +0200" stop="20250206070000 +0200" channel="sport1.de">
+    <title>Teleshopping</title>
+  </programme>
+  <programme start="20250206070000 +0200" stop="20250206080000 +0200" channel="sport1.de">
+    <title>Teleshopping</title>
+  </programme>
+  <programme start="20250206080000 +0200" stop="20250206103000 +0200" channel="sport1.de">
+    <title>EXATLON Germany – Die Mega Challenge</title>
+  </programme>
+  <programme start="20250206103000 +0200" stop="20250206105500 +0200" channel="sport1.de">
+    <title>Highway Patrol</title>
+  </programme>
+  <programme start="20250206105500 +0200" stop="20250206112000 +0200" channel="sport1.de">
+    <title>Highway Patrol</title>
+  </programme>
+  <programme start="20250206112000 +0200" stop="20250206115000 +0200" channel="sport1.de">
+    <title>Highway Patrol</title>
+  </programme>
+  <programme start="20250206115000 +0200" stop="20250206122000 +0200" channel="sport1.de">
+    <title>Highway Patrol</title>
+  </programme>
+  <programme start="20250206122000 +0200" stop="20250206125000 +0200" channel="sport1.de">
+    <title>Highway Patrol</title>
+  </programme>
+  <programme start="20250206125000 +0200" stop="20250206152000 +0200" channel="sport1.de">
+    <title>My Style Rocks</title>
+  </programme>
+  <programme start="20250206152000 +0200" stop="20250206154500 +0200" channel="sport1.de">
+    <title>Dangerous Borders – Grenzschutz Südamerika</title>
+  </programme>
+  <programme start="20250206154500 +0200" stop="20250206161500 +0200" channel="sport1.de">
+    <title>STOP! Border Control Rom</title>
+  </programme>
+  <programme start="20250206161500 +0200" stop="20250206164500 +0200" channel="sport1.de">
+    <title>STOP! Border Control Rom</title>
+  </programme>
+  <programme start="20250206164500 +0200" stop="20250206171500 +0200" channel="sport1.de">
+    <title>Hausmeister Krause – Ordnung muss sein</title>
+  </programme>
+  <programme start="20250206171500 +0200" stop="20250206174500 +0200" channel="sport1.de">
+    <title>Hausmeister Krause – Ordnung muss sein</title>
+  </programme>
+  <programme start="20250206174500 +0200" stop="20250206203000 +0200" channel="sport1.de">
+    <title>My Style Rocks</title>
+  </programme>
+  <programme start="20250206203000 +0200" stop="20250206210000 +0200" channel="sport1.de">
+    <title>Fußball – DFB-Pokal Pur</title>
+  </programme>
+  <programme start="20250206210000 +0200" channel="sport1.de">
+    <title>Darts: Premier League</title>
   </programme>
   <programme start="20250204000000 +0200" stop="20250204010000 +0200" channel="eurosport1.de">
     <title>Snooker: German Masters</title>
@@ -6024,8 +6072,38 @@
   <programme start="20250206010000 +0200" stop="20250206020000 +0200" channel="eurosport1.de">
     <title>Radsport: Tour Down Under der Frauen</title>
   </programme>
-  <programme start="20250206020000 +0200" channel="eurosport1.de">
+  <programme start="20250206020000 +0200" stop="20250206093000 +0200" channel="eurosport1.de">
     <title>Radsport: Tour Down Under</title>
+  </programme>
+  <programme start="20250206093000 +0200" stop="20250206103000 +0200" channel="eurosport1.de">
+    <title>Rad: Valencia Rundfahrt</title>
+  </programme>
+  <programme start="20250206103000 +0200" stop="20250206123000 +0200" channel="eurosport1.de">
+    <title>Ski alpin: WM</title>
+  </programme>
+  <programme start="20250206123000 +0200" stop="20250206144500 +0200" channel="eurosport1.de">
+    <title>Ski alpin: WM</title>
+  </programme>
+  <programme start="20250206144500 +0200" stop="20250206160000 +0200" channel="eurosport1.de">
+    <title>Ski alpin: WM</title>
+  </programme>
+  <programme start="20250206160000 +0200" stop="20250206170000 +0200" channel="eurosport1.de">
+    <title>Ski alpin: Weltcup</title>
+  </programme>
+  <programme start="20250206170000 +0200" stop="20250206185000 +0200" channel="eurosport1.de">
+    <title>Ski alpin: WM</title>
+  </programme>
+  <programme start="20250206185000 +0200" stop="20250206203000 +0200" channel="eurosport1.de">
+    <title>Ski Freestyle: Weltcup</title>
+  </programme>
+  <programme start="20250206203000 +0200" stop="20250206215000 +0200" channel="eurosport1.de">
+    <title>Ski alpin: WM</title>
+  </programme>
+  <programme start="20250206215000 +0200" stop="20250206233000 +0200" channel="eurosport1.de">
+    <title>Snowboard: Weltcup</title>
+  </programme>
+  <programme start="20250206233000 +0200" channel="eurosport1.de">
+    <title>Ski alpin: WM</title>
   </programme>
   <programme start="20250204001500 +0200" stop="20250204003000 +0200" channel="skysportbundesliga.de">
     <title>Fußball: Bundesliga</title>
@@ -6219,8 +6297,68 @@
   <programme start="20250206033000 +0200" stop="20250206053000 +0200" channel="skysportbundesliga.de">
     <title>Fußball: 2. Bundesliga</title>
   </programme>
-  <programme start="20250206053000 +0200" channel="skysportbundesliga.de">
+  <programme start="20250206053000 +0200" stop="20250206063000 +0200" channel="skysportbundesliga.de">
     <title>Fußball: 2. Bundesliga Kompakt</title>
+  </programme>
+  <programme start="20250206063000 +0200" stop="20250206073000 +0200" channel="skysportbundesliga.de">
+    <title>Fußball: 2. Bundesliga Kompakt</title>
+  </programme>
+  <programme start="20250206073000 +0200" stop="20250206080000 +0200" channel="skysportbundesliga.de">
+    <title>Fußball: Bundesliga</title>
+  </programme>
+  <programme start="20250206080000 +0200" stop="20250206100000 +0200" channel="skysportbundesliga.de">
+    <title>Fußball: Bundesliga</title>
+  </programme>
+  <programme start="20250206100000 +0200" stop="20250206103000 +0200" channel="skysportbundesliga.de">
+    <title>Meine Geschichte</title>
+  </programme>
+  <programme start="20250206103000 +0200" stop="20250206123000 +0200" channel="skysportbundesliga.de">
+    <title>Fußball: 2. Bundesliga</title>
+  </programme>
+  <programme start="20250206123000 +0200" stop="20250206130000 +0200" channel="skysportbundesliga.de">
+    <title>Fußball: 2. Bundesliga</title>
+  </programme>
+  <programme start="20250206130000 +0200" stop="20250206150000 +0200" channel="skysportbundesliga.de">
+    <title>Fußball: 2. Bundesliga</title>
+  </programme>
+  <programme start="20250206150000 +0200" stop="20250206153000 +0200" channel="skysportbundesliga.de">
+    <title>Fußball: Bundesliga</title>
+  </programme>
+  <programme start="20250206153000 +0200" stop="20250206163000 +0200" channel="skysportbundesliga.de">
+    <title>Fußball: 2. Bundesliga Kompakt</title>
+  </programme>
+  <programme start="20250206163000 +0200" stop="20250206170000 +0200" channel="skysportbundesliga.de">
+    <title>Fußball: 2. Bundesliga</title>
+  </programme>
+  <programme start="20250206170000 +0200" stop="20250206173000 +0200" channel="skysportbundesliga.de">
+    <title>Fußball: 2. Bundesliga</title>
+  </programme>
+  <programme start="20250206173000 +0200" stop="20250206180000 +0200" channel="skysportbundesliga.de">
+    <title>Fußball: Bundesliga</title>
+  </programme>
+  <programme start="20250206180000 +0200" stop="20250206183000 +0200" channel="skysportbundesliga.de">
+    <title>Fußball: Bundesliga</title>
+  </programme>
+  <programme start="20250206183000 +0200" stop="20250206203000 +0200" channel="skysportbundesliga.de">
+    <title>Fußball: Bundesliga</title>
+  </programme>
+  <programme start="20250206203000 +0200" stop="20250206210000 +0200" channel="skysportbundesliga.de">
+    <title>Bundesliga Collection</title>
+  </programme>
+  <programme start="20250206210000 +0200" stop="20250206220000 +0200" channel="skysportbundesliga.de">
+    <title>Fußball: Bundesliga</title>
+  </programme>
+  <programme start="20250206220000 +0200" stop="20250206222500 +0200" channel="skysportbundesliga.de">
+    <title>Fußball: 2. Bundesliga</title>
+  </programme>
+  <programme start="20250206222500 +0200" stop="20250206230000 +0200" channel="skysportbundesliga.de">
+    <title>Bundesliga Collection</title>
+  </programme>
+  <programme start="20250206230000 +0200" stop="20250206233000 +0200" channel="skysportbundesliga.de">
+    <title>Fußball</title>
+  </programme>
+  <programme start="20250206233000 +0200" channel="skysportbundesliga.de">
+    <title>Fußball: Bundesliga</title>
   </programme>
   <programme start="20250204004500 +0200" stop="20250204011500 +0200" channel="sportklub1.rs">
     <title>Soccer Bet SK VESTI</title>
@@ -6382,7 +6520,87 @@
     <title>Evroliga Studio</title>
     <desc>Ove sezone, Evroliga će biti neizvesnija i uzbudljivija nego ikad, a igraju i Zvezda i Partizan. Analiziramo svaki detalj svakog meča sa našim stručnjacima u studiju.</desc>
   </programme>
-  <programme start="20250206000000 +0200" channel="sportklub1.rs">
+  <programme start="20250206000000 +0200" stop="20250206003000 +0200" channel="sportklub1.rs">
+    <title>Soccer Bet SK VESTI</title>
+    <desc>Sve najvažnije sportske vesti, zanimljivi prilozi i najave predstojećih događaja. Svakodnevni, polučasovni pregled događaja iz sveta sporta samo uz SK Vesti.</desc>
+  </programme>
+  <programme start="20250206003000 +0200" stop="20250206020000 +0200" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Wolves - Budućnost</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20250206020000 +0200" stop="20250206033000 +0200" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Monaco - Baskonia</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20250206033000 +0200" stop="20250206051500 +0200" channel="sportklub1.rs">
+    <title>Fudbal - Holandski kup: 1/4 Finale: PSV - Feyenoord</title>
+    <desc>Za razliku od drugih zemalja, Holandija nema toliko profesionalnih klubova i obično su kandidati za titulu i kup isti. Tako bar kaže teorija, a da li će tako biti i u praksi?</desc>
+  </programme>
+  <programme start="20250206051500 +0200" stop="20250206070500 +0200" channel="sportklub1.rs">
+    <title>Fudbal - Turski kup: Fenerbahce - Erzurum</title>
+    <desc>Turski kup je fudbalsko takmičenje 156 najboljih profesionalnih i amaterskih turskih ekipa koje svake sezone kreću u lov na laskavu titulu osvajača kupa.</desc>
+  </programme>
+  <programme start="20250206070500 +0200" stop="20250206072500 +0200" channel="sportklub1.rs">
+    <title>Na današnji dan &amp; Zlatni momenti YU sporta</title>
+    <desc>Na današnji dan &amp; Zlatni momenti YU sporta</desc>
+  </programme>
+  <programme start="20250206072500 +0200" stop="20250206090000 +0200" channel="sportklub1.rs">
+    <title>Košarka - Eurocup: Hamburg - Cedevita Olimpija</title>
+    <desc>Drugo po težini takmičenje u evropskoj klubskoj košarci sigurno zavređuje pažnju ljubitelja košarke. Iako je pomalo u senci Evrolige, Evrokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20250206090000 +0200" stop="20250206093000 +0200" channel="sportklub1.rs">
+    <title>Soccer Bet SK VESTI</title>
+    <desc>Sve najvažnije sportske vesti, zanimljivi prilozi i najave predstojećih događaja. Svakodnevni, polučasovni pregled događaja iz sveta sporta samo uz SK Vesti.</desc>
+  </programme>
+  <programme start="20250206093000 +0200" stop="20250206094500 +0200" channel="sportklub1.rs">
+    <title>Pregled španske košarke</title>
+    <desc>Donosimo pregled mečeva i klipove najboljih trenutaka iz Endese, najjače košarkaške lige Španije.</desc>
+  </programme>
+  <programme start="20250206094500 +0200" stop="20250206100000 +0200" channel="sportklub1.rs">
+    <title>Na današnji dan</title>
+    <desc>Podsećanje na godišnjice uspeha sportista, klubova i reprezentacije koji su se dogodili na današnji dan.</desc>
+  </programme>
+  <programme start="20250206100000 +0200" stop="20250206120000 +0200" channel="sportklub1.rs">
+    <title>JutroSK</title>
+    <desc>Još jedna novost na našim kanalima! Pored večernjih vesti, sada smo i ujutru sa vama. Rezime onoga što se događalo i najava svega što nas očekuje u sportskom danu.</desc>
+  </programme>
+  <programme start="20250206120000 +0200" stop="20250206130000 +0200" channel="sportklub1.rs">
+    <title>Magazin saudijske lige</title>
+    <desc>Donosimo pregled mečeva saudijske fudbalske lige, najbolji golovi, potezi i analize.</desc>
+  </programme>
+  <programme start="20250206130000 +0200" stop="20250206150000 +0200" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Virtus - Partizan</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20250206150000 +0200" stop="20250206170500 +0200" channel="sportklub1.rs">
+    <title>Fudbal - Turski kup: Bolu - Galatasaray</title>
+    <desc>Turski kup je fudbalsko takmičenje 156 najboljih profesionalnih i amaterskih turskih ekipa koje svake sezone kreću u lov na laskavu titulu osvajača kupa.</desc>
+  </programme>
+  <programme start="20250206170500 +0200" stop="20250206174500 +0200" channel="sportklub1.rs">
+    <title>SK DOSIJE: Utakmice koje se pamte - FINALE 1968 Italija - Jugoslavija</title>
+    <desc>Najčudniji i najvažniji mečevi u istoriji i sve što se dešavalo van terena pre i posle njih. Kada se politika mešala u sport i kada se odlučivalo o sudbinama mnogih...</desc>
+  </programme>
+  <programme start="20250206174500 +0200" stop="20250206181500 +0200" channel="sportklub1.rs">
+    <title>SK Specijal: Breznica 2024</title>
+    <desc>Uživajte u zabavnim, sportskim minutima emisije "SK Special" i saznajte koje su sve novosti iz sveta sporta!</desc>
+  </programme>
+  <programme start="20250206181500 +0200" stop="20250206200000 +0200" channel="sportklub1.rs">
+    <title>Evroliga Studio</title>
+    <desc>Ove sezone, Evroliga će biti neizvesnija i uzbudljivija nego ikad, a igraju i Zvezda i Partizan. Analiziramo svaki detalj svakog meča sa našim stručnjacima u studiju.</desc>
+  </programme>
+  <programme start="20250206200000 +0200" stop="20250206220000 +0200" channel="sportklub1.rs">
+    <title>Košarka - Euroleague: Alba - Crvena zvezda</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20250206220000 +0200" stop="20250206223000 +0200" channel="sportklub1.rs">
+    <title>Evroliga Studio</title>
+    <desc>Ove sezone, Evroliga će biti neizvesnija i uzbudljivija nego ikad, a igraju i Zvezda i Partizan. Analiziramo svaki detalj svakog meča sa našim stručnjacima u studiju.</desc>
+  </programme>
+  <programme start="20250206223000 +0200" stop="20250207000000 +0200" channel="sportklub1.rs">
+    <title>Kida Show: Kari &amp; Dule</title>
+    <desc>Tri prekaljena asa sporta, analitike i televizijskog novinarstva u neviđenom show-u do sada, show-u koji kida! Evroliga, društvena dešavanja u svetu i kod nas, analize, svedočenja, komentari... U...</desc>
+  </programme>
+  <programme start="20250207000000 +0200" channel="sportklub1.rs">
     <title>Soccer Bet SK VESTI</title>
     <desc>Sve najvažnije sportske vesti, zanimljivi prilozi i najave predstojećih događaja. Svakodnevni, polučasovni pregled događaja iz sveta sporta samo uz SK Vesti.</desc>
   </programme>
@@ -6552,9 +6770,6 @@
   <programme start="20250206230000 +0200" stop="20250207000000 +0200" channel="sportklub2.rs">
     <title>No information</title>
   </programme>
-  <programme start="20250207000000 +0200" channel="sportklub2.rs">
-    <title>No information</title>
-  </programme>
   <programme start="20250204001500 +0200" stop="20250204004500 +0200" channel="sportklub3.rs">
     <title>Sport &amp; Tech Lifestyle</title>
     <desc>Emisija Sport &amp; Tech Lifestyle vodi vas kroz svet najnovijih lifestyle i tehnologija u sportu.</desc>
@@ -6711,9 +6926,81 @@
     <title>Košarka - Euroleague: Barcelona - Maccabi</title>
     <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
   </programme>
-  <programme start="20250205233000 +0200" channel="sportklub3.rs">
+  <programme start="20250205233000 +0200" stop="20250206002000 +0200" channel="sportklub3.rs">
     <title>Trans World Sport</title>
     <desc>Interesantne priče i neobični sportovi iz svih delova sveta. Uvek ćete biti u toku uz ovu emisiju.</desc>
+  </programme>
+  <programme start="20250206002000 +0200" stop="20250206015500 +0200" channel="sportklub3.rs">
+    <title>Košarka - Euroleague: Paris - Olympiacos</title>
+    <desc>Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+  </programme>
+  <programme start="20250206015500 +0200" stop="20250206034500 +0200" channel="sportklub3.rs">
+    <title>Fudbal - Turski kup: Iskenderun - Trabzon</title>
+    <desc>Turski kup je fudbalsko takmičenje 156 najboljih profesionalnih i amaterskih turskih ekipa koje svake sezone kreću u lov na laskavu titulu osvajača kupa.</desc>
+  </programme>
+  <programme start="20250206034500 +0200" stop="20250206051500 +0200" channel="sportklub3.rs">
+    <title>Košarka - Eurocup: Ulm - Hapoel Tel Aviv</title>
+    <desc>Drugo po težini takmičenje u evropskoj klubskoj košarci sigurno zavređuje pažnju ljubitelja košarke. Iako je pomalo u senci Evrolige, Evrokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20250206051500 +0200" stop="20250206060000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206060000 +0200" stop="20250206070000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206070000 +0200" stop="20250206080000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206080000 +0200" stop="20250206090000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206090000 +0200" stop="20250206100000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206100000 +0200" stop="20250206110000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206110000 +0200" stop="20250206120000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206120000 +0200" stop="20250206130000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206130000 +0200" stop="20250206140000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206140000 +0200" stop="20250206150000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206150000 +0200" stop="20250206160000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206160000 +0200" stop="20250206170000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206170000 +0200" stop="20250206180000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206180000 +0200" stop="20250206190000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206190000 +0200" stop="20250206200000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206200000 +0200" stop="20250206210000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206210000 +0200" stop="20250206220000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206220000 +0200" stop="20250206230000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206230000 +0200" stop="20250207000000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
+  </programme>
+  <programme start="20250207000000 +0200" channel="sportklub3.rs">
+    <title>No information</title>
   </programme>
   <programme start="20250204004500 +0200" stop="20250204011500 +0200" channel="sportklub1.hr">
     <title>50 godina sporta</title>
@@ -6874,9 +7161,81 @@
     <title>Clubland</title>
     <desc>Clubland je emisija posvećena sportskim klubovima i donosi vam priče o najboljim igračima, rivalstvima i klupskim tradicijama.</desc>
   </programme>
-  <programme start="20250206000000 +0200" channel="sportklub1.hr">
+  <programme start="20250206000000 +0200" stop="20250206003000 +0200" channel="sportklub1.hr">
     <title>TV Automagazin</title>
     <desc>"TV Automagazin" emisija je koja donosi sve novosti iz svijeta automobilizma. Bilo da je riječ o automobilima ili autoindustriji, ova je emisija pravi izbor za vas ukoliko želite znati baš sve.</desc>
+  </programme>
+  <programme start="20250206003000 +0200" stop="20250206020000 +0200" channel="sportklub1.hr">
+    <title>Košarka - Euroleague: Wolves - Buducnost</title>
+    <desc>Najjače klupsko natjecanje u košarci na području Europe svake sezone privlači pažnju velikog broja zaljubljenika u košarku. Kao natjecanje visoke kvalitete vjerujemo da će privući vašu pozornost.</desc>
+  </programme>
+  <programme start="20250206020000 +0200" stop="20250206033500 +0200" channel="sportklub1.hr">
+    <title>Košarka - Euroleague: Monaco - Baskonia</title>
+    <desc>Najjače klupsko natjecanje u košarci na području Europe svake sezone privlači pažnju velikog broja zaljubljenika u košarku. Kao natjecanje visoke kvalitete vjerujemo da će privući vašu pozornost.</desc>
+  </programme>
+  <programme start="20250206033500 +0200" stop="20250206052000 +0200" channel="sportklub1.hr">
+    <title>Nogomet - Nizozemski kup: 1/4 Finale: PSV - Feyenoord</title>
+    <desc>Za razliku od drugih zemalja, Nizozemska nema toliko profesionalnih klubova i obično su kandidati za titulu i kup isti. Tako je barem u teoriji, no hoće li tako biti i u praksi?</desc>
+  </programme>
+  <programme start="20250206052000 +0200" stop="20250206060000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206060000 +0200" stop="20250206070000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206070000 +0200" stop="20250206080000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206080000 +0200" stop="20250206090000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206090000 +0200" stop="20250206100000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206100000 +0200" stop="20250206110000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206110000 +0200" stop="20250206120000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206120000 +0200" stop="20250206130000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206130000 +0200" stop="20250206140000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206140000 +0200" stop="20250206150000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206150000 +0200" stop="20250206160000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206160000 +0200" stop="20250206170000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206170000 +0200" stop="20250206180000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206180000 +0200" stop="20250206190000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206190000 +0200" stop="20250206200000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206200000 +0200" stop="20250206210000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206210000 +0200" stop="20250206220000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206220000 +0200" stop="20250206230000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206230000 +0200" stop="20250207000000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250207000000 +0200" channel="sportklub1.hr">
+    <title>No information</title>
   </programme>
   <programme start="20250204001500 +0200" stop="20250204014500 +0200" channel="sportklub2.hr">
     <title>Košarka - Španjolska liga: Barcelona - Manresa</title>
@@ -7044,9 +7403,6 @@
   <programme start="20250206230000 +0200" stop="20250207000000 +0200" channel="sportklub2.hr">
     <title>No information</title>
   </programme>
-  <programme start="20250207000000 +0200" channel="sportklub2.hr">
-    <title>No information</title>
-  </programme>
   <programme start="20250204001500 +0200" stop="20250204004500 +0200" channel="sportklub3.hr">
     <title>Sport &amp; Tech Lifestyle</title>
     <desc>Emisija Sport &amp; Tech Lifestyle vodi vas kroz svijet najnovijih lifestyle i tehnologija u sportu.</desc>
@@ -7202,9 +7558,81 @@
     <title>Košarka - Euroleague: Barcelona - Maccabi</title>
     <desc>Najjače klupsko natjecanje u košarci na području Europe svake sezone privlači pažnju velikog broja zaljubljenika u košarku. Kao natjecanje visoke kvalitete vjerujemo da će privući vašu pozornost.</desc>
   </programme>
-  <programme start="20250205233000 +0200" channel="sportklub3.hr">
+  <programme start="20250205233000 +0200" stop="20250206002000 +0200" channel="sportklub3.hr">
     <title>Trans World Sport</title>
     <desc>Zanimljive priče i neobični sportovi iz cijelog svijeta. Uvijek ćete biti u toku s ovom emisijom.</desc>
+  </programme>
+  <programme start="20250206002000 +0200" stop="20250206015500 +0200" channel="sportklub3.hr">
+    <title>Košarka - Euroleague: Paris - Olympiacos</title>
+    <desc>Najjače klupsko natjecanje u košarci na području Europe svake sezone privlači pažnju velikog broja zaljubljenika u košarku. Kao natjecanje visoke kvalitete vjerujemo da će privući vašu pozornost.</desc>
+  </programme>
+  <programme start="20250206015500 +0200" stop="20250206034500 +0200" channel="sportklub3.hr">
+    <title>Nogomet - Turski kup: Iskenderun - Trabzon</title>
+    <desc>Mali imaju jedinstvenu priliku pobijediti velike, a pitanje za trenere velikih je hoće li odmarati igrače ili napasti trofej s najjačima.</desc>
+  </programme>
+  <programme start="20250206034500 +0200" stop="20250206051500 +0200" channel="sportklub3.hr">
+    <title>Košarka - Eurocup: Ulm - Hapoel Tel Aviv</title>
+    <desc>Drugo po težini natjecanje u europskoj klupskoj košarci sigurno zavrjeđuje pozornost ljubitelja košarke. Iako je pomalo u sjeni Eurolige, Eurokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20250206051500 +0200" stop="20250206060000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206060000 +0200" stop="20250206070000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206070000 +0200" stop="20250206080000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206080000 +0200" stop="20250206090000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206090000 +0200" stop="20250206100000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206100000 +0200" stop="20250206110000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206110000 +0200" stop="20250206120000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206120000 +0200" stop="20250206130000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206130000 +0200" stop="20250206140000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206140000 +0200" stop="20250206150000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206150000 +0200" stop="20250206160000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206160000 +0200" stop="20250206170000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206170000 +0200" stop="20250206180000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206180000 +0200" stop="20250206190000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206190000 +0200" stop="20250206200000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206200000 +0200" stop="20250206210000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206210000 +0200" stop="20250206220000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206220000 +0200" stop="20250206230000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206230000 +0200" stop="20250207000000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250207000000 +0200" channel="sportklub3.hr">
+    <title>No information</title>
   </programme>
   <programme start="20250204014000 +0200" stop="20250204033000 +0200" channel="sportklub4.hr">
     <title>Nogomet - Portugalska liga: Rio Ave - Porto</title>
@@ -7342,9 +7770,82 @@
     <title>Nogomet - Nizozemski kup: 1/4 Finale: Go Ahead Eagles - Noordwijk</title>
     <desc>Za razliku od drugih zemalja, Nizozemska nema toliko profesionalnih klubova i obično su kandidati za titulu i kup isti. Tako je barem u teoriji, no hoće li tako biti i u praksi?</desc>
   </programme>
-  <programme start="20250206000000 +0200" channel="sportklub4.hr">
+  <programme start="20250206000000 +0200" stop="20250206002500 +0200" channel="sportklub4.hr">
     <title>Posveta zvijezdama</title>
     <desc>Boksači, nogometaši, košarkaši... Najbolji sportaši svih vremena, iz svih sportova. Na istom mjestu, u isto vrijeme, kako ih usporediti i kako napraviti vječne liste. Netko će probati ono o čemu se...</desc>
+  </programme>
+  <programme start="20250206002500 +0200" stop="20250206021500 +0200" channel="sportklub4.hr">
+    <title>Nogomet - Turski kup: Fenerbahce - Erzurum</title>
+    <desc>Mali imaju jedinstvenu priliku pobijediti velike, a pitanje za trenere velikih je hoće li odmarati igrače ili napasti trofej s najjačima.</desc>
+  </programme>
+  <programme start="20250206021500 +0200" stop="20250206035000 +0200" channel="sportklub4.hr">
+    <title>Košarka - Eurocup: Wolves - Budućnost</title>
+    <desc>Drugo po težini natjecanje u europskoj klupskoj košarci sigurno zavrjeđuje pozornost ljubitelja košarke. Iako je pomalo u sjeni Eurolige, Eurokup nudi obilje iznenađenja i kvalitetne košarke.</desc>
+  </programme>
+  <programme start="20250206035000 +0200" stop="20250206041500 +0200" channel="sportklub4.hr">
+    <title>Uži izbor</title>
+    <desc>Najbolji sportaši svih vremena, iz svih sportova. Na istom mjestu, u isto vrijeme, kako ih usporediti i kako napraviti vječne liste. Netko će probati ono o čemu se desetljećima priča...</desc>
+  </programme>
+  <programme start="20250206041500 +0200" stop="20250206060000 +0200" channel="sportklub4.hr">
+    <title>Nogomet - 3. Bundesliga: Viktoria Koln - Munchen 1860</title>
+    <desc>3. Liga predstavlja treću razinu njemačkog, nogometnog natjecanja. Ova liga zamjenila je dotadašnju Regionalligu i to od sezone 2008/09</desc>
+  </programme>
+  <programme start="20250206060000 +0200" stop="20250206070000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206070000 +0200" stop="20250206080000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206080000 +0200" stop="20250206090000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206090000 +0200" stop="20250206100000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206100000 +0200" stop="20250206110000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206110000 +0200" stop="20250206120000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206120000 +0200" stop="20250206130000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206130000 +0200" stop="20250206140000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206140000 +0200" stop="20250206150000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206150000 +0200" stop="20250206160000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206160000 +0200" stop="20250206170000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206170000 +0200" stop="20250206180000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206180000 +0200" stop="20250206190000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206190000 +0200" stop="20250206200000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206200000 +0200" stop="20250206210000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206210000 +0200" stop="20250206220000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206220000 +0200" stop="20250206230000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250206230000 +0200" stop="20250207000000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
+  </programme>
+  <programme start="20250207000000 +0200" channel="sportklub4.hr">
+    <title>No information</title>
   </programme>
   <programme start="20250204000000 +0200" stop="20250204010000 +0200" channel="sportklub5.hr">
     <title>Sport Klub 5 Promo 4</title>
@@ -7498,9 +7999,81 @@
     <title>Sport Klub 5 Promo 3</title>
     <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
   </programme>
-  <programme start="20250206000000 +0200" channel="sportklub5.hr">
+  <programme start="20250206000000 +0200" stop="20250206010000 +0200" channel="sportklub5.hr">
     <title>Sport Klub 5 Promo 4</title>
     <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
+  </programme>
+  <programme start="20250206010000 +0200" stop="20250206020000 +0200" channel="sportklub5.hr">
+    <title>Sport Klub 5 Promo 1</title>
+    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
+  </programme>
+  <programme start="20250206020000 +0200" stop="20250206030000 +0200" channel="sportklub5.hr">
+    <title>Sport Klub 5 Promo 2</title>
+    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
+  </programme>
+  <programme start="20250206030000 +0200" stop="20250206040000 +0200" channel="sportklub5.hr">
+    <title>Sport Klub 5 Promo 3</title>
+    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
+  </programme>
+  <programme start="20250206040000 +0200" stop="20250206050000 +0200" channel="sportklub5.hr">
+    <title>Sport Klub 5 Promo 4</title>
+    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
+  </programme>
+  <programme start="20250206050000 +0200" stop="20250206060000 +0200" channel="sportklub5.hr">
+    <title>Sport Klub 5 Promo 1</title>
+    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
+  </programme>
+  <programme start="20250206060000 +0200" stop="20250206070000 +0200" channel="sportklub5.hr">
+    <title>Sport Klub 5 Promo 2</title>
+    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
+  </programme>
+  <programme start="20250206070000 +0200" stop="20250206080000 +0200" channel="sportklub5.hr">
+    <title>Sport Klub 5 Promo 3</title>
+    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
+  </programme>
+  <programme start="20250206080000 +0200" stop="20250206090000 +0200" channel="sportklub5.hr">
+    <title>Sport Klub 5 Promo 4</title>
+    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
+  </programme>
+  <programme start="20250206090000 +0200" stop="20250206100000 +0200" channel="sportklub5.hr">
+    <title>Sport Klub 5 Promo 1</title>
+    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
+  </programme>
+  <programme start="20250206100000 +0200" stop="20250206110000 +0200" channel="sportklub5.hr">
+    <title>Sport Klub 5 Promo 2</title>
+    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
+  </programme>
+  <programme start="20250206110000 +0200" stop="20250206120000 +0200" channel="sportklub5.hr">
+    <title>Sport Klub 5 Promo 3</title>
+    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
+  </programme>
+  <programme start="20250206120000 +0200" stop="20250206153000 +0200" channel="sportklub5.hr">
+    <title>ATP 500 Rotterdam: (parovi)</title>
+    <desc>Prvi ATP 500 turnir u sezoni. Ove sezone ima puno zvučnih imena, i jasno je kako nas očekuje fantastičan tenis u najvećoj luci Nizozemske...</desc>
+  </programme>
+  <programme start="20250206153000 +0200" stop="20250206160000 +0200" channel="sportklub5.hr">
+    <title>Sport Klub 5 Promo 3</title>
+    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
+  </programme>
+  <programme start="20250206160000 +0200" stop="20250206170000 +0200" channel="sportklub5.hr">
+    <title>Sport Klub 5 Promo 4</title>
+    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
+  </programme>
+  <programme start="20250206170000 +0200" stop="20250206180000 +0200" channel="sportklub5.hr">
+    <title>Sport Klub 5 Promo 1</title>
+    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
+  </programme>
+  <programme start="20250206180000 +0200" stop="20250206200000 +0200" channel="sportklub5.hr">
+    <title>WTA 250 Cluj</title>
+    <desc>Drugi put ove godine Cluj organizira WTA turnir. Rumunjska uvijek ima kvalitetne igračice, u kolovozu titulu je osvojila Andrea Petković, a tko će se radovati sada?</desc>
+  </programme>
+  <programme start="20250206200000 +0200" stop="20250206203000 +0200" channel="sportklub5.hr">
+    <title>Sport Klub 5 Promo 4</title>
+    <desc>Najava direktnih prijenosa sportskih događaja koji će se prenositi na programu.</desc>
+  </programme>
+  <programme start="20250206203000 +0200" channel="sportklub5.hr">
+    <title>ATP 500 Rotterdam: 1/4 Finale</title>
+    <desc>Prvi ATP 500 turnir u sezoni. Ove sezone ima puno zvučnih imena, i jasno je kako nas očekuje fantastičan tenis u najvećoj luci Nizozemske...</desc>
   </programme>
   <programme start="20250204000000 +0200" stop="20250204010000 +0200" channel="sportklub6.hr">
     <title>Sport Klub 6 Promo 4</title>
@@ -7658,7 +8231,87 @@
     <title>Sport Klub 6 Promo 3</title>
     <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
   </programme>
-  <programme start="20250206000000 +0200" channel="sportklub6.hr">
+  <programme start="20250206000000 +0200" stop="20250206010000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 4</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250206010000 +0200" stop="20250206020000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 1</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250206020000 +0200" stop="20250206030000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 2</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250206030000 +0200" stop="20250206040000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 3</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250206040000 +0200" stop="20250206050000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 4</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250206050000 +0200" stop="20250206060000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 1</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250206060000 +0200" stop="20250206070000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 2</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250206070000 +0200" stop="20250206080000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 3</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250206080000 +0200" stop="20250206090000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 4</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250206090000 +0200" stop="20250206100000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 1</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250206100000 +0200" stop="20250206110000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 2</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250206110000 +0200" stop="20250206160000 +0200" channel="sportklub6.hr">
+    <title>WTA 250 Cluj: (parovi)</title>
+    <desc>Drugi put ove godine Cluj organizira WTA turnir. Rumunjska uvijek ima kvalitetne igračice, u kolovozu titulu je osvojila Andrea Petković, a tko će se radovati sada?</desc>
+  </programme>
+  <programme start="20250206160000 +0200" stop="20250206170000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 4</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250206170000 +0200" stop="20250206180000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 1</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250206180000 +0200" stop="20250206190000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 2</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250206190000 +0200" stop="20250206200000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 3</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250206200000 +0200" stop="20250206203000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 4</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250206203000 +0200" stop="20250206223000 +0200" channel="sportklub6.hr">
+    <title>Košarka - Kvalifikacije za EP (Ž): Holland - Croatia</title>
+    <desc>Kvalifikacije za europsko košarkaško prvenstvo za žene nudi mnogo izjednačenih susreta u borbi za plasman na finalni turnir. Nikako nemojte propustiti ove uzbudljive košarkaške dvoboje!</desc>
+  </programme>
+  <programme start="20250206223000 +0200" stop="20250206230000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 2</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250206230000 +0200" stop="20250207000000 +0200" channel="sportklub6.hr">
+    <title>Sport Klub 6 Promo 3</title>
+    <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
+  </programme>
+  <programme start="20250207000000 +0200" channel="sportklub6.hr">
     <title>Sport Klub 6 Promo 4</title>
     <desc>Najava nadolazećih sportskih događanja koji će se prikazivati na programu.</desc>
   </programme>
@@ -8658,8 +9311,137 @@
   <programme start="20250206051500 +0200" stop="20250206054500 +0200" channel="ams.de">
     <title>Garagengold</title>
   </programme>
-  <programme start="20250206054500 +0200" channel="ams.de">
+  <programme start="20250206054500 +0200" stop="20250206061500 +0200" channel="ams.de">
     <title>Meilensteine</title>
+  </programme>
+  <programme start="20250206061500 +0200" stop="20250206065500 +0200" channel="ams.de">
+    <title>Bloch erklärt</title>
+  </programme>
+  <programme start="20250206065500 +0200" stop="20250206071500 +0200" channel="ams.de">
+    <title>Bloch erklärt</title>
+  </programme>
+  <programme start="20250206071500 +0200" stop="20250206074500 +0200" channel="ams.de">
+    <title>Beziehungskisten</title>
+  </programme>
+  <programme start="20250206074500 +0200" stop="20250206083500 +0200" channel="ams.de">
+    <title>Eastside Motors</title>
+  </programme>
+  <programme start="20250206083500 +0200" stop="20250206090500 +0200" channel="ams.de">
+    <title>Im Land Rover durch Afrika</title>
+  </programme>
+  <programme start="20250206090500 +0200" stop="20250206091500 +0200" channel="ams.de">
+    <title>Vorfahrt Skoda Octavia iV</title>
+  </programme>
+  <programme start="20250206091500 +0200" stop="20250206094500 +0200" channel="ams.de">
+    <title>Fast Lap</title>
+  </programme>
+  <programme start="20250206094500 +0200" stop="20250206101500 +0200" channel="ams.de">
+    <title>Fast Lap</title>
+  </programme>
+  <programme start="20250206101500 +0200" stop="20250206104500 +0200" channel="ams.de">
+    <title>Fast Lap</title>
+  </programme>
+  <programme start="20250206104500 +0200" stop="20250206112500 +0200" channel="ams.de">
+    <title>Der E-Auto Supertest</title>
+  </programme>
+  <programme start="20250206112500 +0200" stop="20250206113000 +0200" channel="ams.de">
+    <title>NEWS</title>
+  </programme>
+  <programme start="20250206113000 +0200" stop="20250206121500 +0200" channel="ams.de">
+    <title>Bloch erklärt</title>
+  </programme>
+  <programme start="20250206121500 +0200" stop="20250206122000 +0200" channel="ams.de">
+    <title>Der Einzeltest</title>
+  </programme>
+  <programme start="20250206122000 +0200" stop="20250206124000 +0200" channel="ams.de">
+    <title>Die Tester</title>
+  </programme>
+  <programme start="20250206124000 +0200" stop="20250206124500 +0200" channel="ams.de">
+    <title>Der Einzeltest</title>
+  </programme>
+  <programme start="20250206124500 +0200" stop="20250206130000 +0200" channel="ams.de">
+    <title>Vorfahrt</title>
+  </programme>
+  <programme start="20250206130000 +0200" stop="20250206130500 +0200" channel="ams.de">
+    <title>NEWS</title>
+  </programme>
+  <programme start="20250206130500 +0200" stop="20250206131500 +0200" channel="ams.de">
+    <title>Die 7</title>
+  </programme>
+  <programme start="20250206131500 +0200" stop="20250206132000 +0200" channel="ams.de">
+    <title>Der Einzeltest</title>
+  </programme>
+  <programme start="20250206132000 +0200" stop="20250206134500 +0200" channel="ams.de">
+    <title>Garage 21</title>
+  </programme>
+  <programme start="20250206134500 +0200" stop="20250206141500 +0200" channel="ams.de">
+    <title>Garagengold</title>
+  </programme>
+  <programme start="20250206141500 +0200" stop="20250206144500 +0200" channel="ams.de">
+    <title>Garagengold</title>
+  </programme>
+  <programme start="20250206144500 +0200" stop="20250206151500 +0200" channel="ams.de">
+    <title>Meilensteine</title>
+  </programme>
+  <programme start="20250206151500 +0200" stop="20250206154500 +0200" channel="ams.de">
+    <title>Fast Lap</title>
+  </programme>
+  <programme start="20250206154500 +0200" stop="20250206161500 +0200" channel="ams.de">
+    <title>Racing Files</title>
+  </programme>
+  <programme start="20250206161500 +0200" stop="20250206164500 +0200" channel="ams.de">
+    <title>NASCAR – Vollgas im Oval</title>
+  </programme>
+  <programme start="20250206164500 +0200" stop="20250206172500 +0200" channel="ams.de">
+    <title>Bloch erklärt</title>
+  </programme>
+  <programme start="20250206172500 +0200" stop="20250206174500 +0200" channel="ams.de">
+    <title>Bloch erklärt</title>
+  </programme>
+  <programme start="20250206174500 +0200" stop="20250206181500 +0200" channel="ams.de">
+    <title>Beziehungskisten</title>
+  </programme>
+  <programme start="20250206181500 +0200" stop="20250206190500 +0200" channel="ams.de">
+    <title>Eastside Motors</title>
+  </programme>
+  <programme start="20250206190500 +0200" stop="20250206193500 +0200" channel="ams.de">
+    <title>Im Land Rover durch Afrika</title>
+  </programme>
+  <programme start="20250206193500 +0200" stop="20250206194500 +0200" channel="ams.de">
+    <title>Vorfahrt Skoda Octavia iV</title>
+  </programme>
+  <programme start="20250206194500 +0200" stop="20250206201500 +0200" channel="ams.de">
+    <title>Fast Lap</title>
+  </programme>
+  <programme start="20250206201500 +0200" stop="20250206204500 +0200" channel="ams.de">
+    <title>Fast Lap</title>
+  </programme>
+  <programme start="20250206204500 +0200" stop="20250206211500 +0200" channel="ams.de">
+    <title>Fast Lap</title>
+  </programme>
+  <programme start="20250206211500 +0200" stop="20250206220000 +0200" channel="ams.de">
+    <title>Der E-Auto Supertest</title>
+  </programme>
+  <programme start="20250206220000 +0200" stop="20250206224500 +0200" channel="ams.de">
+    <title>Bloch erklärt</title>
+  </programme>
+  <programme start="20250206224500 +0200" stop="20250206225000 +0200" channel="ams.de">
+    <title>Der Einzeltest</title>
+  </programme>
+  <programme start="20250206225000 +0200" stop="20250206231000 +0200" channel="ams.de">
+    <title>Die Tester</title>
+  </programme>
+  <programme start="20250206231000 +0200" stop="20250206232500 +0200" channel="ams.de">
+    <title>Vorfahrt</title>
+  </programme>
+  <programme start="20250206232500 +0200" stop="20250206233000 +0200" channel="ams.de">
+    <title>NEWS</title>
+  </programme>
+  <programme start="20250206233000 +0200" stop="20250206234500 +0200" channel="ams.de">
+    <title>Die 7</title>
+  </programme>
+  <programme start="20250206234500 +0200" channel="ams.de">
+    <title>Garage 21</title>
   </programme>
   <programme start="20250204023000 +0200" stop="20250204043000 +0200" channel="supertennis.it">
     <title>Tennis: WTA 250 Cluj-Napoca</title>

@@ -120,6 +120,8 @@ channel-parameters:
     channelId: btv-story
   btvaction.bg:
     channelId: btv-action
+  tv1.bg:
+    channelId: tv1
 
 #channel-extract-rules:
 #  url: https://www.xn----8sbafg9clhjcp.bg/

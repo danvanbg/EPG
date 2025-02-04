@@ -206,7 +206,7 @@ channel-parameters:
   'Viasat Nature/History HD':
     channelId: 168
   tv1.bg:
-    channelId: 169
+    channelId: tv1
   Mezzo:
     channelId: 170
   diemasport.bg:
@@ -302,7 +302,7 @@ channel-parameters:
   iconcert.stingray.com:
     channelId: iconcerts
   kanal4.bg:
-    channelId: 269
+    channelId: kanal%204
   kitchen.tv:
     channelId: 270
 
