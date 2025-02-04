@@ -2323,7 +2323,7 @@
   - tvtoday.de
   
 - id: discovery.de
-  enabled: true
+  enabled: false
   names:
   - name: Discovery DE
   - name: Discovery DE HD
@@ -2332,7 +2332,7 @@
   - tvtoday.de
   
 - id: natgeowild.de
-  enabled: true
+  enabled: false
   names:
   - name: NatGeo Wild EU HD
   - name: Nat Geo Wild
@@ -2341,9 +2341,8 @@
   - tvtoday.de
   
 - id: natgeo.de
-  enabled: true
+  enabled: false
   names:
-  - name: National Geographic
   - name: Nat Geo HD DE
     lang: de
   sources:
